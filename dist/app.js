@@ -5,9 +5,12 @@
   const blank = '<span class="unfilled">未填写</span>';
   const money = (value, currency='CNY') => value == null ? blank : `${({CNY:'¥',USD:'US$',GBP:'£'})[currency] || currency+' '}${Number(value).toFixed(2)}`;
   let exchangeRates = {rates:{CNY:1}};
-  const converted = book => book.listPrice == null || exchangeRates.rates[book.currency || 'CNY'] == null ? null : book.listPrice*exchangeRates.rates[book.currency || 'CNY'];
-  const sumCny = items => items.reduce((sum,b)=>sum+(converted(b) ?? 0),0);
-  const priceText = book => book.listPrice == null ? '未填写' : money(book.listPrice,book.currency)+(book.currency && book.currency!=='CNY' ? (converted(book)==null?' · 暂无折算汇率':` · 约 ${money(converted(book))}`) : '');
+  let priceGroups=[];
+  const priceGroup = book => priceGroups.find(g=>g.id===book.priceGroupId);
+  const priceAmount = book => book.listPrice ?? priceGroup(book)?.amount ?? null;
+  const converted = book => priceAmount(book)==null || exchangeRates.rates[book.currency || 'CNY']==null ? null : priceAmount(book)*exchangeRates.rates[book.currency || 'CNY'];
+  const sumCny = items => {const seen=new Set();return items.reduce((sum,b)=>{const key=b.priceGroupId || b.id;if(seen.has(key))return sum;seen.add(key);return sum+(converted(b) ?? 0);},0);};
+  const priceText = book => priceAmount(book)==null ? '未填写' : money(priceAmount(book),book.currency)+(book.priceGroupId?'（全两册合价，仅计一次）':'')+(book.currency && book.currency!=='CNY' ? (converted(book)==null?' · 暂无折算汇率':` · 约 ${money(converted(book))}`) : '');
   const titleAttrs = book => book.language==='en' ? ' class="foreign-title" lang="en"' : '';
   const secondaryTitle = book => book.referenceTitle ? book.referenceTitle : book.subtitle || '　';
   const rateNote = () => `参考汇率：${esc(exchangeRates.date || '')} · 1 USD = ${esc(exchangeRates.rates.USD)} CNY，1 GBP = ${esc(exchangeRates.rates.GBP)} CNY；<a href="${esc(exchangeRates.sourceUrl)}" target="_blank" rel="noopener">${esc(exchangeRates.source)}</a>。固定折算，手动更新；非实际购书支出。`;
@@ -19,7 +22,7 @@
     const photo = book.photos.find(p => p.side === side);
     return photo ? photo.original : '';
   };
-  let seriesGroups = [], seriesFilter = 'all', grouping = 'series', languageFilter = 'all';
+  let seriesGroups = [], seriesFilter = 'all', grouping = 'series', languageFilter = 'all', usageFilter = 'all';
   let books = [], category = '全部', view = 'grid', activeBook = null, side = 'front', zoom = 1;
   let lastCatalogFocus = null;
   const dialog = $('#photo-dialog');
@@ -41,13 +44,33 @@
     $('#footer-count').textContent = `已编目 ${books.length} 册`;
   }
   const languageName = code => code==='zh-Hans'?'中文':code==='en'?'英语':books.find(b=>b.language===code)?.languageLabel || code;
+  function renderUsage(){
+    const tags=[...new Set(books.flatMap(b=>b.usageTags || []))];
+    $('#usage-filter').innerHTML='<option value="all">全部用途</option>'+tags.map(tag=>`<option value="${esc(tag)}">${esc(tag)} · ${books.filter(b=>(b.usageTags || []).includes(tag)).length} 册</option>`).join('');
+    $('#usage-filter').value=usageFilter;
+  }
+  function resetFilterValues(){
+    category='全部';seriesFilter='all';languageFilter='all';usageFilter='all';$('#language-filter').value='all';$('#usage-filter').value='all';$('#search').value='';
+  }
+  function syncFilterToggle(){
+    const count=Number(category!=='全部')+Number(seriesFilter!=='all')+Number(languageFilter!=='all')+Number(usageFilter!=='all');
+    const open=$('#filter-toggle').getAttribute('aria-expanded')==='true';
+    $('#filter-toggle').textContent=(open?'收起筛选':'展开筛选')+(count?` · 已选 ${count} 项`:'');
+  }
+  function setFilterPanel(open){
+    $('#filter-toggle').setAttribute('aria-expanded',String(open));$('#filter-panel').classList.toggle('is-open',open);syncFilterToggle();
+  }
+  function chooseUsage(tag){
+    resetFilterValues();usageFilter=tag;$('#usage-filter').value=tag;categories();renderSeriesControls();renderCollection();location.hash='catalog';
+  }
+  function usageChips(book){return `<div class="usage-chips" aria-label="用途标签">${(book.usageTags || []).map(tag=>`<span>${esc(tag)}</span>`).join('')}</div>`;}
   function renderLanguages(){
     const codes=[...new Set(books.map(b=>b.language || 'zh-Hans'))];
     $('#language-filter').innerHTML='<option value="all">全部语种</option>'+codes.map(code=>`<option value="${esc(code)}">${esc(languageName(code))} · ${books.filter(b=>(b.language || 'zh-Hans')===code).length} 册</option>`).join('');
     $('#language-filter').value=languageFilter;
   }
   function chooseShelf(id){
-    seriesFilter=id;category='全部';languageFilter='all';$('#language-filter').value='all';$('#search').value='';
+    usageFilter='all';$('#usage-filter').value='all';seriesFilter=id;category='全部';languageFilter='all';$('#language-filter').value='all';$('#search').value='';
     grouping='series';$('#grouping').value='series';categories();renderSeriesControls();renderCollection();
     $('#collection').scrollIntoView({behavior:'auto',block:'start'});
     const target=$('#collection h3');if(target){target.setAttribute('tabindex','-1');target.focus({preventScroll:true});}
@@ -60,7 +83,7 @@
     const recent=[...books].sort((a,b)=>b.accessionedAt.localeCompare(a.accessionedAt)).slice(0,6);
     $('#recent-books').innerHTML=`<div class="recent-heading"><div><h2>最近入库</h2><p>最近整理的 ${recent.length} 册</p></div><button type="button" class="text-button" id="newest-first">按最新入库浏览 ↗</button></div><div class="recent-grid">${recent.map(b=>`<a class="recent-book" href="#book/${encodeURIComponent(b.id)}" aria-label="查看最近入库的${esc(fullTitle(b))}"><img src="${esc(imagePath(b))}" alt="${esc(b.title)}原始实拍" loading="lazy"><span><strong${titleAttrs(b)}>${esc(b.title)}</strong>${b.referenceTitle?`<small>${esc(b.referenceTitle)}</small>`:''}<time datetime="${esc(b.accessionedAt)}">${date(b.accessionedAt)} · ${b.accessionedAt.slice(11,16)}</time></span></a>`).join('')}</div>`;
     $('#newest-first').addEventListener('click',()=>{
-      seriesFilter='all';category='全部';languageFilter='all';$('#language-filter').value='all';$('#search').value='';grouping='all';$('#grouping').value='all';$('#sort').value='accession-desc';categories();renderSeriesControls();renderCollection();$('#collection').scrollIntoView({behavior:'auto',block:'start'});
+      usageFilter='all';$('#usage-filter').value='all';seriesFilter='all';category='全部';languageFilter='all';$('#language-filter').value='all';$('#search').value='';grouping='all';$('#grouping').value='all';$('#sort').value='accession-desc';categories();renderSeriesControls();renderCollection();$('#collection').scrollIntoView({behavior:'auto',block:'start'});
     });
   }
   function categories() {
@@ -74,8 +97,8 @@
     const q = $('#search').value.trim().toLocaleLowerCase();
     const compact = value => value.replace(/[\s-]/g,'');
     const result = books.filter(b => {
-      const haystack = [fullTitle(b), b.originalTitle || '', b.referenceTitle || '', b.languageLabel || '', b.rulesVersion || '', b.publicationVersion || '', ...(b.titleAliases || []), b.id, b.isbn, b.publisher, b.category, b.series || '', b.seriesLabel || '', ...b.tags, ...b.translators, ...b.authors.flatMap(a=>[a.name,a.originalName || ''])].join(' ').toLocaleLowerCase();
-      return (languageFilter==='all' || (b.language || 'zh-Hans')===languageFilter) && (category === '全部' || b.category === category) && (seriesFilter === 'all' || (seriesFilter === 'standalone' ? !b.seriesGroupId : b.seriesGroupId === seriesFilter)) && (!q || haystack.includes(q) || compact(haystack).includes(compact(q)));
+      const haystack = [fullTitle(b), b.originalTitle || '', b.referenceTitle || '', b.languageLabel || '', b.rulesVersion || '', b.publicationVersion || '', ...(b.titleAliases || []), ...(b.usageTags || []), b.id, b.isbn, b.publisher, b.category, b.series || '', b.seriesLabel || '', ...b.tags, ...b.translators, ...b.authors.flatMap(a=>[a.name,a.originalName || ''])].join(' ').toLocaleLowerCase();
+      return (usageFilter==='all' || (b.usageTags || []).includes(usageFilter)) && (languageFilter==='all' || (b.language || 'zh-Hans')===languageFilter) && (category === '全部' || b.category === category) && (seriesFilter === 'all' || (seriesFilter === 'standalone' ? !b.seriesGroupId : b.seriesGroupId === seriesFilter)) && (!q || haystack.includes(q) || compact(haystack).includes(compact(q)));
     });
     const sort = $('#sort').value;
     result.sort((a,b) => {
@@ -91,25 +114,25 @@
   }
   function bookCard(b) {
     const landscape=b.orientation==='landscape';
-    return `<a class="book-card${landscape?' book-landscape':''}" href="#book/${encodeURIComponent(b.id)}" data-book="${esc(b.id)}" aria-label="查看${esc(fullTitle(b))}的藏书档案"><div class="cover-stage"><span class="spine-id">${esc(b.id)}</span><img class="cover-image" src="${esc(imagePath(b))}" alt="${esc(b.title)}实体书正面" width="${landscape?560:400}" height="${landscape?400:580}" loading="lazy"><span class="stage-label">${landscape?'横版藏书':'实体藏书'} · 实拍</span></div><div class="book-card-info"><div class="book-meta-top"><span>${esc(b.category)}${b.language==='en'?' · 英语':''}${b.rulesVersion?' · '+esc(b.rulesVersion):''}</span><span class="book-id">${esc(b.id)}</span></div><h3${titleAttrs(b)}>${esc(b.title)}</h3><p class="book-subtitle">${esc(secondaryTitle(b))}</p><p class="book-author">${esc(authorLine(b))}</p><p class="condition-line"><span>${esc(b.condition?.label || '未评估')}</span><small>照片预估</small></p><div class="book-card-bottom"><span>入库 <time datetime="${esc(b.accessionedAt)}">${date(b.accessionedAt)}</time></span><span class="card-arrow" aria-hidden="true">↗</span></div></div></a>`;
+    return `<a class="book-card${landscape?' book-landscape':''}" href="#book/${encodeURIComponent(b.id)}" data-book="${esc(b.id)}" aria-label="查看${esc(fullTitle(b))}的藏书档案"><div class="cover-stage"><span class="spine-id">${esc(b.id)}</span><img class="cover-image" src="${esc(imagePath(b))}" alt="${esc(b.title)}实体书正面" width="${landscape?560:400}" height="${landscape?400:580}" loading="lazy"><span class="stage-label">${landscape?'横版藏书':'实体藏书'} · 实拍</span></div><div class="book-card-info"><div class="book-meta-top"><span>${esc(b.category)}${b.language==='en'?' · 英语':''}${b.rulesVersion?' · '+esc(b.rulesVersion):''}</span><span class="book-id">${esc(b.id)}</span></div><h3${titleAttrs(b)}>${esc(b.title)}</h3><p class="book-subtitle">${esc(secondaryTitle(b))}</p><p class="book-author">${esc(authorLine(b))}</p>${usageChips(b)}<p class="condition-line"><span>${esc(b.condition?.label || '未评估')}</span><small>照片预估</small></p><div class="book-card-bottom"><span>入库 <time datetime="${esc(b.accessionedAt)}">${date(b.accessionedAt)}</time></span><span class="card-arrow" aria-hidden="true">↗</span></div></div></a>`;
   }
   function bookTable(items) {
-    return `<div class="table-wrap"><table><caption class="sr-only">藏书目录，共${items.length}册</caption><thead><tr><th scope="col">书名 / 作者</th><th scope="col">藏书编号</th><th scope="col">系列 / 册序</th><th scope="col">类别</th><th scope="col">成色（外观预估）</th><th scope="col">定价</th><th scope="col">入库日期</th></tr></thead><tbody>${items.map(b=>`<tr><td><a class="table-book" href="#book/${encodeURIComponent(b.id)}" data-book="${esc(b.id)}"><img src="${esc(imagePath(b))}" alt="" width="34" height="49" loading="lazy"><span><strong${titleAttrs(b)}>${esc(b.title)}</strong>${b.referenceTitle?`<small>${esc(secondaryTitle(b))}</small>`:''}<small>${esc(authorLine(b))}</small></span></a></td><td class="mono">${esc(b.id)}</td><td>${esc(seriesGroups.find(g=>g.id===b.seriesGroupId)?.shortTitle || '—')}${b.seriesLabel?' / '+esc(b.seriesLabel):''}</td><td>${esc(b.category)}</td><td>${esc(b.condition?.label || '未评估')}</td><td class="mono">${esc(priceText(b))}</td><td class="mono">${date(b.accessionedAt)}</td></tr>`).join('')}</tbody></table></div>`;
+    return `<div class="table-wrap"><table><caption class="sr-only">藏书目录，共${items.length}册</caption><thead><tr><th scope="col">书名 / 作者</th><th scope="col">藏书编号</th><th scope="col">系列 / 册序</th><th scope="col">类别 / 用途</th><th scope="col">成色（外观预估）</th><th scope="col">定价</th><th scope="col">入库日期</th></tr></thead><tbody>${items.map(b=>`<tr><td><a class="table-book" href="#book/${encodeURIComponent(b.id)}" data-book="${esc(b.id)}"><img src="${esc(imagePath(b))}" alt="" width="34" height="49" loading="lazy"><span><strong${titleAttrs(b)}>${esc(b.title)}</strong>${b.referenceTitle?`<small>${esc(secondaryTitle(b))}</small>`:''}<small>${esc(authorLine(b))}</small></span></a></td><td class="mono">${esc(b.id)}</td><td>${esc(seriesGroups.find(g=>g.id===b.seriesGroupId)?.shortTitle || '—')}${b.seriesLabel?' / '+esc(b.seriesLabel):''}</td><td>${esc(b.category)}${usageChips(b)}</td><td>${esc(b.condition?.label || '未评估')}</td><td class="mono">${esc(priceText(b))}</td><td class="mono">${date(b.accessionedAt)}</td></tr>`).join('')}</tbody></table></div>`;
   }
   function renderSeriesControls() {
     $('#series-filter').innerHTML=`<option value="all">全部系列与藏书</option>${seriesGroups.map(g=>`<option value="${esc(g.id)}">${esc(g.shortTitle)} · 已藏 ${books.filter(b=>b.seriesGroupId===g.id).length} 册</option>`).join('')}<option value="standalone">单册藏书</option>`;
     $('#series-filter').value=seriesFilter;renderShortcuts();
   }
   function renderCollection() {
-    renderShortcuts();const result=visibleBooks();
+    syncFilterToggle();renderShortcuts();const result=visibleBooks();
     const filterLabel=seriesGroups.find(g=>g.id===seriesFilter)?.shortTitle || (seriesFilter==='standalone'?'单册藏书':'');
-    $('#results-status').textContent=`显示 ${result.length} / ${books.length} 册${category==='全部'?'':' · '+category}${filterLabel?' · '+filterLabel:''}${languageFilter==='all'?'':' · '+languageName(languageFilter)}${$('#search').value.trim()?' · “'+$('#search').value.trim()+'”':''}`;
+    $('#results-status').textContent=`显示 ${result.length} / ${books.length} 册${category==='全部'?'':' · '+category}${filterLabel?' · '+filterLabel:''}${languageFilter==='all'?'':' · '+languageName(languageFilter)}${usageFilter==='all'?'':' · 用途：'+usageFilter}${$('#search').value.trim()?' · “'+$('#search').value.trim()+'”':''}`;
     $('#grid-view').setAttribute('aria-pressed',String(view==='grid'));
     $('#table-view').setAttribute('aria-pressed',String(view==='table'));
     const container=$('#collection');container.setAttribute('aria-busy','false');
     if(!result.length){
       container.innerHTML='<div class="empty-state"><h3>还没有找到这本书</h3><p>试试其他关键词，或查看全部藏书。</p><button type="button" class="primary-button" id="clear-filters">清除筛选</button></div>';
-      $('#clear-filters').addEventListener('click',()=>{category='全部';seriesFilter='all';languageFilter='all';$('#language-filter').value='all';$('#search').value='';categories();renderSeriesControls();renderCollection();$('#search').focus();});return;
+      $('#clear-filters').addEventListener('click',()=>{resetFilterValues();categories();renderSeriesControls();renderCollection();$('#search').focus();});return;
     }
     const content=items=>view==='grid'?`<div class="book-grid">${items.map(bookCard).join('')}</div>`:bookTable(items);
     if(grouping==='series'){
@@ -136,14 +159,15 @@
   }
   function renderDetail(book) {
     activeBook=book;side='front';
-    $('#detail-page').innerHTML = `<a href="#catalog" class="back-link">← 返回藏书目录</a><div class="detail-layout"><div class="photo-panel"><button type="button" class="photo-stage" id="open-photo" aria-label="放大查看书籍照片"><img id="detail-photo" src="${esc(imagePath(book))}" alt="${esc(book.title)}正面照片"><span class="zoom-label">放大查看 ↗</span></button><div class="photo-toolbar"><div class="photo-sides" role="group" aria-label="照片方向"><button type="button" data-side="front" aria-pressed="true">正面</button><button type="button" data-side="back" aria-pressed="false">背面</button></div></div><div class="photo-caption" id="photo-caption"></div></div><article><p class="detail-category">${esc(book.category)}</p><h1 class="detail-title${book.language==='en'?' foreign-title':''}" lang="${esc(book.language || 'zh-Hans')}">${esc(book.title)}</h1>${book.referenceTitle?`<p class="detail-subtitle">${esc(secondaryTitle(book))}</p>`:''}${book.subtitle?`<p class="detail-subtitle">${esc(book.subtitle)}</p>`:''}<p class="detail-author">${esc(authorLine(book))}${book.translators.length?` 著 / ${esc(book.translators.join('、'))} 译`:''}</p><p class="detail-id">藏书编号 ${esc(book.id)}</p><div class="tag-list">${book.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><section class="detail-intro"><h2>内容简介</h2><p class="detail-description">${esc(book.description)}</p></section><section class="detail-block"><h2>书目信息</h2><dl class="metadata-grid">${field('语种',book.languageLabel || '中文')}${field('出版社',book.publisher)}${field('ISBN',book.isbn)}${field(book.seriesGroupId==='tencent-game-development'?'系列归组':'丛书',book.series,true)}${field('系列册序',book.seriesLabel)}${field('购买套装',book.purchaseGroupId ? '已关联购买记录' : null)}${field('封面版本标识',book.coverEditionLabel)}${book.rulesVersion?`${field('规则版本',book.rulesVersionLabel)}${field('出版版本',book.publicationVersion)}${field('印次',book.printing || '待版权页核对')}`:field('出版日期 / 版次',book.publicationDate || book.edition)}${field('封底定价',book.listPrice == null ? null : priceText(book))}${field('实付价格',book.paidPrice == null ? null : money(book.paidPrice,book.currency))}</dl>${book.currency!=='CNY'?`<p class="metadata-footnote">${rateNote()}</p>`:''}${book.coverEditionLabel?'<p class="metadata-footnote">版本为封面标识，具体出版版次待版权页核对。</p>':''}</section><section class="detail-block"><h2>收藏档案</h2><dl class="metadata-grid">${field('外观成色（照片预估）',book.condition?.label)}${field('成色评估日期',book.condition?.assessedOn)}${field('可见外观情况',book.condition?.note,true)}${field('评估范围',book.condition ? '仅参考封面、封底和边角；内页及装订等情况未检查。' : null,true)}${field('入库时间（北京时间）',datetime(book.accessionedAt),true)}${field('购买时间',book.purchaseDate)}${field('购买渠道',book.purchaseChannel)}${field('阅读状态',book.readingStatus)}${field('存放位置',book.location)}${field('个人备注',book.notes,true)}</dl><p class="metadata-footnote">入库时间取自首张正面照片的拍摄时间。购买时间、渠道与实付价格可后续补充。</p></section><p class="metadata-footnote">资料来源：${esc(book.metadataSource)}。</p>${book.referenceSources?.length?`<section class="detail-block"><h2>中文辅助信息与资料来源</h2><p class="metadata-footnote">${esc(book.translationNote)}</p>${book.titleAliases?.length?`<p class="metadata-footnote">检索别名：${esc(book.titleAliases.join(' / '))}</p>`:''}<ul>${book.referenceSources.map(source=>`<li><a href="${esc(source.url)}" target="_blank" rel="noopener">${esc(source.label)} ↗</a></li>`).join('')}</ul></section>`:''}${seriesRelated(book)}</article></div>`;
+    $('#detail-page').innerHTML = `<a href="#catalog" class="back-link">← 返回藏书目录</a><div class="detail-layout"><div class="photo-panel"><button type="button" class="photo-stage" id="open-photo" aria-label="放大查看书籍照片"><img id="detail-photo" src="${esc(imagePath(book))}" alt="${esc(book.title)}正面照片"><span class="zoom-label">放大查看 ↗</span></button><div class="photo-toolbar"><div class="photo-sides" role="group" aria-label="照片方向"><button type="button" data-side="front" aria-pressed="true">正面</button><button type="button" data-side="back" aria-pressed="false">背面</button></div></div><div class="photo-caption" id="photo-caption"></div></div><article><p class="detail-category">${esc(book.category)}</p><h1 class="detail-title${book.language==='en'?' foreign-title':''}" lang="${esc(book.language || 'zh-Hans')}">${esc(book.title)}</h1>${book.referenceTitle?`<p class="detail-subtitle">${esc(secondaryTitle(book))}</p>`:''}${book.subtitle?`<p class="detail-subtitle">${esc(book.subtitle)}</p>`:''}<p class="detail-author">${esc(authorLine(book))}${book.translators.length?` 著 / ${esc(book.translators.join('、'))} 译`:''}</p><p class="detail-id">藏书编号 ${esc(book.id)}</p><div class="tag-list">${book.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><section class="detail-usage"><h2>参考用途</h2><div class="usage-buttons">${(book.usageTags || []).map(tag=>`<button type="button" data-usage="${esc(tag)}">${esc(tag)}</button>`).join('')}</div><p class="metadata-footnote">按书目主题整理的个人用途标签，可随阅读调整。点击可查找同用途藏书。</p></section><section class="detail-intro"><h2>内容简介</h2><p class="detail-description">${esc(book.description)}</p></section><section class="detail-block"><h2>书目信息</h2><dl class="metadata-grid">${field('语种',book.languageLabel || '中文')}${field('出版社',book.publisher)}${field('ISBN',book.isbn)}${book.isbnScope?field('ISBN 范围',book.isbnScope):''}${field(book.seriesGroupId==='tencent-game-development'?'系列归组':'丛书',book.series,true)}${field('系列册序',book.seriesLabel)}${field('购买套装',book.purchaseGroupId ? '已关联购买记录' : null)}${field('封面版本标识',book.coverEditionLabel)}${book.rulesVersion?`${field('规则版本',book.rulesVersionLabel)}${field('出版版本',book.publicationVersion)}${field('印次',book.printing || '待版权页核对')}`:field('出版日期 / 版次',book.publicationDate || book.edition)}${field('封底定价',priceAmount(book)==null ? null : priceText(book))}${field('实付价格',book.paidPrice == null ? null : money(book.paidPrice,book.currency))}</dl>${book.currency!=='CNY'?`<p class="metadata-footnote">${rateNote()}</p>`:''}${book.coverEditionLabel?'<p class="metadata-footnote">版本为封面标识，具体出版版次待版权页核对。</p>':''}</section><section class="detail-block"><h2>收藏档案</h2><dl class="metadata-grid">${field('外观成色（照片预估）',book.condition?.label)}${field('成色评估日期',book.condition?.assessedOn)}${field('可见外观情况',book.condition?.note,true)}${field('评估范围',book.condition ? '仅参考封面、封底和边角；内页及装订等情况未检查。' : null,true)}${field('入库时间（北京时间）',datetime(book.accessionedAt),true)}${field('购买时间',book.purchaseDate)}${field('购买渠道',book.purchaseChannel)}${field('阅读状态',book.readingStatus)}${field('存放位置',book.location)}${field('个人备注',book.notes,true)}</dl><p class="metadata-footnote">入库时间取自首张正面照片的拍摄时间。购买时间、渠道与实付价格可后续补充。</p></section><p class="metadata-footnote">资料来源：${esc(book.metadataSource)}。</p>${book.referenceSources?.length?`<section class="detail-block"><h2>中文辅助信息与资料来源</h2><p class="metadata-footnote">${esc(book.translationNote)}</p>${book.titleAliases?.length?`<p class="metadata-footnote">检索别名：${esc(book.titleAliases.join(' / '))}</p>`:''}<ul>${book.referenceSources.map(source=>`<li><a href="${esc(source.url)}" target="_blank" rel="noopener">${esc(source.label)} ↗</a></li>`).join('')}</ul></section>`:''}${seriesRelated(book)}</article></div>`;
+    $('#detail-page').querySelectorAll('[data-usage]').forEach(btn=>btn.addEventListener('click',()=>chooseUsage(btn.dataset.usage)));
     const pending=[...$('#detail-page').querySelectorAll('.metadata-grid>div')].filter(row=>row.querySelector('.unfilled'));
     if(pending.length){
       const panel=document.createElement('details');panel.className='pending-info';
       panel.innerHTML=`<summary>待补信息 · ${pending.length} 项</summary><dl class="metadata-grid">${pending.map(row=>row.outerHTML).join('')}</dl>`;
       pending.forEach(row=>row.remove());$('#detail-page article').append(panel);
     }
-    $('#view-series')?.addEventListener('click',()=>{seriesFilter=book.seriesGroupId;category='全部';languageFilter='all';$('#language-filter').value='all';grouping='series';$('#grouping').value='series';$('#search').value='';categories();renderSeriesControls();renderCollection();location.hash='catalog';});
+    $('#view-series')?.addEventListener('click',()=>{usageFilter='all';$('#usage-filter').value='all';seriesFilter=book.seriesGroupId;category='全部';languageFilter='all';$('#language-filter').value='all';grouping='series';$('#grouping').value='series';$('#search').value='';categories();renderSeriesControls();renderCollection();location.hash='catalog';});
     $('#open-photo').addEventListener('click',openPhoto);
     document.querySelectorAll('[data-side]').forEach(btn=>btn.addEventListener('click',()=>{side=btn.dataset.side;updatePhoto();}));
     updatePhoto();
@@ -197,11 +221,15 @@
     if(hash==='catalog' && lastCatalogFocus){const link=[...document.querySelectorAll('[data-book]')].find(a=>a.dataset.book===lastCatalogFocus);link?.focus({preventScroll:true});}
   }
   function exportCsv() {
-    const rows=[['藏书编号','书名','副标题','中文参考名','语种','规则版本','出版版本','印次','作者','译者','主分类','标签','系列','系列册序','购买套装关联','成色（外观预估）','成色说明','出版社','ISBN','封底定价','币种','参考折合人民币','汇率日期','入库时间','购买时间','购买渠道','实付价格','阅读状态','存放位置','个人备注'],...visibleBooks().map(b=>[b.id,b.title,b.subtitle,b.referenceTitle,b.languageLabel,b.rulesVersionLabel,b.publicationVersion,b.rulesVersion?(b.printing || '待版权页核对'):null,authorLine(b),b.translators.join('、'),b.category,b.tags.join(' / '),b.series,b.seriesLabel,b.purchaseGroupId,b.condition?.label,b.condition?.note,b.publisher,b.isbn,b.listPrice,b.currency,converted(b)==null?null:converted(b).toFixed(2),exchangeRates.date,b.accessionedAt,b.purchaseDate,b.purchaseChannel,b.paidPrice,b.readingStatus,b.location,b.notes])];
+    const rows=[['藏书编号','书名','副标题','中文参考名','语种','规则版本','出版版本','印次','作者','译者','主分类','标签','用途标签','系列','系列册序','购买套装关联','成色（外观预估）','成色说明','出版社','ISBN','封底定价','定价范围','整套计价组','币种','参考折合人民币','汇率日期','入库时间','购买时间','购买渠道','实付价格','阅读状态','存放位置','个人备注'],...visibleBooks().map(b=>[b.id,b.title,b.subtitle,b.referenceTitle,b.languageLabel,b.rulesVersionLabel,b.publicationVersion,b.rulesVersion?(b.printing || '待版权页核对'):null,authorLine(b),b.translators.join('、'),b.category,b.tags.join(' / '),(b.usageTags || []).join(' / '),b.series,b.seriesLabel,b.purchaseGroupId,b.condition?.label,b.condition?.note,b.publisher,b.isbn,priceAmount(b),b.priceGroupId?'全两册合价，仅计一次':'单册',b.priceGroupId,b.currency,converted(b)==null?null:converted(b).toFixed(2),exchangeRates.date,b.accessionedAt,b.purchaseDate,b.purchaseChannel,b.paidPrice,b.readingStatus,b.location,b.notes])];
     const cell=value=>{let s=String(value??'');if(/^[=+\-@]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"';};
     const blob=new Blob(['\uFEFF'+rows.map(row=>row.map(cell).join(',')).join('\r\n')],{type:'text/csv;charset=utf-8;'});
     const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='冷愁藏书馆-书目.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);showToast(`已导出当前筛选的 ${rows.length-1} 册书目`);
   }
+  $('#filter-toggle').addEventListener('click',()=>setFilterPanel($('#filter-toggle').getAttribute('aria-expanded')!=='true'));
+  $('#apply-filters').addEventListener('click',()=>{setFilterPanel(false);$('#results-status').scrollIntoView({behavior:'auto',block:'start'});$('#filter-toggle').focus({preventScroll:true});});
+  $('#reset-filters').addEventListener('click',()=>{resetFilterValues();categories();renderSeriesControls();renderCollection();});
+  $('#usage-filter').addEventListener('change',e=>{usageFilter=e.target.value;renderCollection();});
   $('#language-filter').addEventListener('change',e=>{languageFilter=e.target.value;renderCollection();});
   $('#series-filter').addEventListener('change',e=>{seriesFilter=e.target.value;renderCollection();});
   $('#grouping').addEventListener('change',e=>{grouping=e.target.value;renderCollection();});
@@ -219,8 +247,8 @@
   $('#zoom-reset').addEventListener('click',()=>setZoom(1));
   window.addEventListener('resize',()=>{if(dialog.open)setZoom(zoom);});
   document.addEventListener('keydown',event=>{if(event.key==='/'&&!dialog.open&&!$('#catalog-page').hidden&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){event.preventDefault();$('#search').focus();}});
-  fetch('data/books.json?v=20261018-polish').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
-    exchangeRates=data.exchangeRates || {rates:{CNY:1}};books=data.books;seriesGroups=data.seriesGroups || [];summary();renderLanguages();renderRecent();categories();renderSeriesControls();renderCollection();route();window.addEventListener('hashchange',route);
+  fetch('data/books.json?v=20261019-mobile').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
+    priceGroups=data.priceGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};books=data.books;seriesGroups=data.seriesGroups || [];summary();renderUsage();renderLanguages();renderRecent();categories();renderSeriesControls();renderCollection();route();window.addEventListener('hashchange',route);
   }).catch(()=>{
     $('#collection').setAttribute('aria-busy','false');$('#collection').innerHTML='<div class="error-state"><h2>书目暂时未能展开</h2><p>请检查网络后重试。如果在本地查看，请通过网页服务器打开。</p><button type="button" class="primary-button" id="retry-load">重新载入</button></div>';$('#retry-load').addEventListener('click',()=>location.reload());
   });

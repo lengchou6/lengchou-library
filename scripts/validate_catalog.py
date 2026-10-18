@@ -29,5 +29,14 @@ print(f"Catalogue validated: {len(seen)} unique books, ISBN checksums and all ph
 from decimal import Decimal
 rates=data.get('exchangeRates',{}).get('rates',{'CNY':1})
 assert all(Decimal(str(rate))>0 for rate in rates.values())
-raw_total=sum(Decimal(str(b['listPrice']))*Decimal(str(rates[b['currency']])) for b in data['books'] if b['listPrice'] is not None)
+raw_total=sum(Decimal(str(b['listPrice']))*Decimal(str(rates[b['currency']])) for b in data['books'] if b['listPrice'] is not None and not b.get('priceGroupId'))
+price_groups={g['id']:g for g in data.get('priceGroups',[])}
+for g in price_groups.values():
+    assert set(g['bookIds']) <= seen
+    assert g['amount']>=0 and g['currency'] in rates
+    raw_total+=Decimal(str(g['amount']))*Decimal(str(rates[g['currency']]))
+for book in data['books']:
+    assert not book.get('priceGroupId') or book['id'] in price_groups[book['priceGroupId']]['bookIds']
+    assert isinstance(book.get('usageTags'),list) and book['usageTags'] and len(book['usageTags'])==len(set(book['usageTags']))
+
 print(f"Original currencies preserved; reference CNY total: {raw_total:.2f}")

@@ -69,7 +69,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "民俗神话",
+        "世界观参考"
+      ]
     },
     {
       "id": "LC-000002",
@@ -139,7 +143,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "角色塑造",
+        "叙事结构"
+      ]
     },
     {
       "id": "LC-000003",
@@ -209,7 +217,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "历史制度",
+        "世界观参考"
+      ]
     },
     {
       "id": "LC-000004",
@@ -285,7 +297,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "程序研发"
+      ]
     },
     {
       "id": "LC-000005",
@@ -361,7 +376,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "程序研发"
+      ]
     },
     {
       "id": "LC-000006",
@@ -437,7 +455,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "程序研发"
+      ]
     },
     {
       "id": "LC-000007",
@@ -512,7 +533,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "玩法设计",
+        "系统设计"
+      ]
     },
     {
       "id": "LC-000008",
@@ -587,7 +612,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "程序研发"
+      ]
     },
     {
       "id": "LC-000009",
@@ -662,7 +690,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "游戏美术",
+        "视觉参考"
+      ]
     },
     {
       "id": "LC-000010",
@@ -737,7 +769,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "质量保障"
+      ]
     },
     {
       "id": "LC-000011",
@@ -812,7 +847,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "用户体验"
+      ]
     },
     {
       "id": "LC-000012",
@@ -887,7 +925,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "项目协作"
+      ]
     },
     {
       "id": "LC-000013",
@@ -963,7 +1004,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "usageTags": [
+        "视觉参考",
+        "游戏美术"
+      ]
     },
     {
       "id": "LC-000014",
@@ -1042,7 +1087,11 @@
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
       },
-      "originalTitle": "Social Psychology"
+      "originalTitle": "Social Psychology",
+      "usageTags": [
+        "社会观察",
+        "角色塑造"
+      ]
     },
     {
       "id": "LC-000015",
@@ -1128,7 +1177,11 @@
           "url": "https://www.faber.co.uk/product/9780571200689-pulp-fiction/"
         }
       ],
-      "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。"
+      "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。",
+      "usageTags": [
+        "叙事结构",
+        "对白写作"
+      ]
     },
     {
       "id": "LC-000016",
@@ -1205,7 +1258,11 @@
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
       },
-      "originalTitle": "Level Up! The Guide to Great Video Game Design"
+      "originalTitle": "Level Up! The Guide to Great Video Game Design",
+      "usageTags": [
+        "玩法设计",
+        "系统设计"
+      ]
     },
     {
       "id": "LC-000017",
@@ -1299,7 +1356,11 @@
           "url": "https://wpn.wizards.com/en/products/2024-players-handbook"
         }
       ],
-      "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。"
+      "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。",
+      "usageTags": [
+        "角色塑造",
+        "规则设计"
+      ]
     },
     {
       "id": "LC-000018",
@@ -1394,7 +1455,11 @@
           "url": "https://wpn.wizards.com/en/products/2024-monster-manual"
         }
       ],
-      "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。"
+      "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。",
+      "usageTags": [
+        "怪物设计",
+        "世界观参考"
+      ]
     },
     {
       "id": "LC-000019",
@@ -1488,7 +1553,1057 @@
           "url": "https://www.dndbeyond.com/posts/1851-lets-prepare-an-adventure-using-the-2024-dungeon"
         }
       ],
-      "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。"
+      "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。",
+      "usageTags": [
+        "世界观参考",
+        "叙事结构",
+        "规则设计"
+      ]
+    },
+    {
+      "id": "LC-000020",
+      "title": "中国妖鬼",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "中华遗产",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "湖南文艺出版社",
+      "isbn": "978-7-5726-2786-6",
+      "category": "民俗与神话",
+      "tags": [
+        "民俗神话",
+        "世界观参考",
+        "怪物设计"
+      ],
+      "usageTags": [
+        "民俗神话",
+        "世界观参考",
+        "怪物设计"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "中华遗产 · 神话文化",
+      "seriesGroupId": "heritage-myth",
+      "seriesNumber": 1,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 98,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:42:19+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000020/front-original.jpg",
+          "original": "assets/LC-000020/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234219.jpg",
+          "capturedAt": "2026-10-18T23:42:19+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "3d41113e7e16865e3443f1ac7267fc926cf46d12d584fc67021cb004ae6ba112"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000020/back-original.jpg",
+          "original": "assets/LC-000020/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234230.jpg",
+          "capturedAt": "2026-10-18T23:42:30+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "983af05ca6b1ac77467aab9b2466276a4f82cc26699c999f99a7956be0fb5ac6"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封底右下角有折痕，边缘有轻微磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000021",
+      "title": "中国神仙",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "中华遗产",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "湖南文艺出版社",
+      "isbn": "978-7-5726-3129-0",
+      "category": "民俗与神话",
+      "tags": [
+        "民俗神话",
+        "世界观参考",
+        "角色塑造"
+      ],
+      "usageTags": [
+        "民俗神话",
+        "世界观参考",
+        "角色塑造"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "中华遗产 · 神话文化",
+      "seriesGroupId": "heritage-myth",
+      "seriesNumber": 2,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 98,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:42:46+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000021/front-original.jpg",
+          "original": "assets/LC-000021/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234246.jpg",
+          "capturedAt": "2026-10-18T23:42:46+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "2b1505f669e6a678b609f82724a1e9588e37f59c7192ac4024b189c2093ec2eb"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000021/back-original.jpg",
+          "original": "assets/LC-000021/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234255.jpg",
+          "capturedAt": "2026-10-18T23:42:55+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "b48de4d5562ef77fb8fe1a1da28941eacb425d8a590018f8a593ced98f11b774"
+        }
+      ],
+      "condition": {
+        "label": "约八成新",
+        "note": "封面、封底书角可见折压及磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000022",
+      "title": "游戏改变世界",
+      "subtitle": "游戏化如何让现实变得更美好",
+      "authors": [
+        {
+          "name": "简·麦戈尼格尔",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "闾佳"
+      ],
+      "publisher": "北京联合出版公司",
+      "isbn": "978-7-5502-8687-0",
+      "category": "游戏设计与研发",
+      "tags": [
+        "玩法设计",
+        "用户体验",
+        "社会观察"
+      ],
+      "usageTags": [
+        "玩法设计",
+        "用户体验",
+        "社会观察"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "经典版",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 59.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:43:33+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000022/front-original.jpg",
+          "original": "assets/LC-000022/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234333.jpg",
+          "capturedAt": "2026-10-18T23:43:33+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "aef5ae3f2bdac630f6f360f5eea89ac7af532f372640916a58d197f2fa9d28fa"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000022/back-original.jpg",
+          "original": "assets/LC-000022/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234340.jpg",
+          "capturedAt": "2026-10-18T23:43:40+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "0eb78a9281cb2f7e416926cc7a07d125231583cd1695a6456e0f06bf9c9f1bac"
+        }
+      ],
+      "condition": {
+        "label": "约八成新",
+        "note": "封面有使用痕迹，封底右上角有较明显折痕。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000023",
+      "title": "阿西莫夫科幻短篇全集2",
+      "subtitle": "双百人",
+      "authors": [
+        {
+          "name": "艾萨克·阿西莫夫",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "胡纾"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "978-7-5594-8565-6",
+      "category": "文学与小说",
+      "tags": [
+        "叙事结构",
+        "角色塑造",
+        "世界观参考"
+      ],
+      "usageTags": [
+        "叙事结构",
+        "角色塑造",
+        "世界观参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "阿西莫夫科幻短篇全集",
+      "seriesGroupId": "asimov-short",
+      "seriesNumber": 2,
+      "seriesLabel": "第2卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 119,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:44:45+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000023/front-original.jpg",
+          "original": "assets/LC-000023/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234445.jpg",
+          "capturedAt": "2026-10-18T23:44:45+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "4732a59b048e7dff7a0513a52a001b5e9b9723cd5d78a1e12f5d170560e6fce1"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000023/back-original.jpg",
+          "original": "assets/LC-000023/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234456_2.jpg",
+          "capturedAt": "2026-10-18T23:44:56+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "82dd4d60fbbfd3112871a44a70cd10d7efefecf6c8a7d600bb8181d944485aff"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面、封底有细划痕，边角有轻微磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000024",
+      "title": "剧本",
+      "subtitle": "影视写作的艺术、技巧和商业运作",
+      "authors": [
+        {
+          "name": "理查德·沃尔特",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "杨劲桦"
+      ],
+      "publisher": "天津人民出版社",
+      "isbn": "978-7-201-11518-4",
+      "category": "写作与叙事",
+      "tags": [
+        "叙事结构",
+        "对白写作"
+      ],
+      "usageTags": [
+        "叙事结构",
+        "对白写作"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 58,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:45:16+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000024/front-original.jpg",
+          "original": "assets/LC-000024/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234516.jpg",
+          "capturedAt": "2026-10-18T23:45:16+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "cc8f4f334858115ca517181d9ec413031f0ab8c2e9574d735fe6e537562b2ada"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000024/back-original.jpg",
+          "original": "assets/LC-000024/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234528.jpg",
+          "capturedAt": "2026-10-18T23:45:28+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "c27d9dd7869fb858877d6439c1068666a0dc65a367c96d64beeb6e64a96bf082"
+        }
+      ],
+      "condition": {
+        "label": "约七五成新",
+        "note": "封面、封底有斑点和使用痕迹，封底右上角有折压。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000025",
+      "title": "对白",
+      "subtitle": "文字、舞台、银幕的言语行为艺术",
+      "authors": [
+        {
+          "name": "罗伯特·麦基",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "焦雄屏"
+      ],
+      "publisher": "天津人民出版社",
+      "isbn": "978-7-201-12682-1",
+      "category": "写作与叙事",
+      "tags": [
+        "对白写作",
+        "角色塑造"
+      ],
+      "usageTags": [
+        "对白写作",
+        "角色塑造"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 68,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:45:49+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000025/front-original.jpg",
+          "original": "assets/LC-000025/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234549.jpg",
+          "capturedAt": "2026-10-18T23:45:49+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "f7fe32106c3874f1ff38b1dfa02148f7511f4c4322dbcf62c2cabecc91bd24b6"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000025/back-original.jpg",
+          "original": "assets/LC-000025/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234602.jpg",
+          "capturedAt": "2026-10-18T23:46:02+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "0e84fe43b7a99561f4c47ed046e1639f0301cecd1a2f982e35d4080b44d03e4b"
+        }
+      ],
+      "condition": {
+        "label": "约八成新",
+        "note": "封面左上角与书脊上沿有折压，边缘有轻微磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000026",
+      "title": "故事",
+      "subtitle": "材质、结构、风格和银幕剧作的原理",
+      "authors": [
+        {
+          "name": "罗伯特·麦基",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "周铁东"
+      ],
+      "publisher": "天津人民出版社",
+      "isbn": "978-7-201-08833-4",
+      "category": "写作与叙事",
+      "tags": [
+        "叙事结构",
+        "角色塑造"
+      ],
+      "usageTags": [
+        "叙事结构",
+        "角色塑造"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 68,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:47:14+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000026/front-original.jpg",
+          "original": "assets/LC-000026/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234714.jpg",
+          "capturedAt": "2026-10-18T23:47:14+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "5c6951d38a241cb96b664752dce91f3be03501ebcb66d62e58c8efd58a2072da"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000026/back-original.jpg",
+          "original": "assets/LC-000026/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234725.jpg",
+          "capturedAt": "2026-10-18T23:47:25+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "18a5fd4c351cb93541b9e8c4f4858b8316ad2e7d9fcb8a838406b9935d4517b0"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "书脊及封底右上角有轻微折压，边缘有使用痕迹。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000027",
+      "title": "堂吉诃德",
+      "subtitle": "上册",
+      "authors": [
+        {
+          "name": "塞万提斯",
+          "country": "西班牙",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "杨绛"
+      ],
+      "publisher": "人民文学出版社",
+      "isbn": "978-7-02-010276-1",
+      "category": "文学与小说",
+      "tags": [
+        "角色塑造",
+        "叙事结构"
+      ],
+      "usageTags": [
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "堂吉诃德 · 上下册",
+      "seriesGroupId": "don-quixote",
+      "seriesNumber": 1,
+      "seriesLabel": "上册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:48:00+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "《堂吉诃德》杨绛译本上册。上下册合为一组，定价为全两册合计。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000027/front-original.jpg",
+          "original": "assets/LC-000027/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234800.jpg",
+          "capturedAt": "2026-10-18T23:48:00+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "a0867062257aa9fe8ce6ba869ff2a5160c9d9a75bb7ceb0c4b25c4b91c21e060"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000027/back-original.jpg",
+          "original": "assets/LC-000027/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234814.jpg",
+          "capturedAt": "2026-10-18T23:48:14+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "916b8a4a72b6237d8b8f980e7e66995024396e0ad24f43dd28d292a6245da0f0"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面、封底边角有轻微磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      },
+      "priceGroupId": "don-quixote-set",
+      "isbnScope": "全套 ISBN，取自下册封底",
+      "physicalSetId": "don-quixote-set"
+    },
+    {
+      "id": "LC-000028",
+      "title": "阿西莫夫科幻短篇全集1",
+      "subtitle": "最后的问题",
+      "authors": [
+        {
+          "name": "艾萨克·阿西莫夫",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "老光"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "978-7-5594-7868-9",
+      "category": "文学与小说",
+      "tags": [
+        "叙事结构",
+        "世界观参考"
+      ],
+      "usageTags": [
+        "叙事结构",
+        "世界观参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "阿西莫夫科幻短篇全集",
+      "seriesGroupId": "asimov-short",
+      "seriesNumber": 1,
+      "seriesLabel": "第1卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "夜光珍藏版（腰封标识）",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 119,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:48:58+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000028/front-original.jpg",
+          "original": "assets/LC-000028/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234858.jpg",
+          "capturedAt": "2026-10-18T23:48:58+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "2ae42331d33e2b293df65a22f83ce7f9923855eb3bbb23a3fbe7908e3b581de3"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000028/back-original.jpg",
+          "original": "assets/LC-000028/back-original.jpg",
+          "sourceFilename": "IMG_20261018_234940.jpg",
+          "capturedAt": "2026-10-18T23:49:40+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "787b509d191ccf638a754aa65dd50fdc1c9ff9b817cb949199b72fba35ea4cd7"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面、封底整体完整，有轻微边角磨损，保留腰封。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000029",
+      "title": "太阳照常升起",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "海明威",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "赵静男"
+      ],
+      "publisher": "上海译文出版社",
+      "isbn": "978-7-5327-8420-2",
+      "category": "文学与小说",
+      "tags": [
+        "角色塑造",
+        "叙事结构"
+      ],
+      "usageTags": [
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "译文经典",
+      "seriesGroupId": "yiwen-classics",
+      "seriesNumber": 1,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 48,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:49:56+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000029/front-original.jpg",
+          "original": "assets/LC-000029/front-original.jpg",
+          "sourceFilename": "IMG_20261018_234956.jpg",
+          "capturedAt": "2026-10-18T23:49:56+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "4f412af8b58c0cdd8e4abdd624dbe2e6ef98986589e641a2f13ff4b36e50a3dd"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000029/back-original.jpg",
+          "original": "assets/LC-000029/back-original.jpg",
+          "sourceFilename": "IMG_20261018_235004.jpg",
+          "capturedAt": "2026-10-18T23:50:04+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "765b310f42e22152eaa9b8165c8953e1ecd4f8fdf77fd4b79edd0bdc13041106"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面、封底整体完整，书角和边缘有轻微使用痕迹。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000030",
+      "title": "老人与海",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "海明威",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "吴劳"
+      ],
+      "publisher": "上海译文出版社",
+      "isbn": "978-7-5327-4798-6",
+      "category": "文学与小说",
+      "tags": [
+        "角色塑造",
+        "叙事结构"
+      ],
+      "usageTags": [
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "译文经典",
+      "seriesGroupId": "yiwen-classics",
+      "seriesNumber": 2,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 36,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:50:17+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000030/front-original.jpg",
+          "original": "assets/LC-000030/front-original.jpg",
+          "sourceFilename": "IMG_20261018_235017.jpg",
+          "capturedAt": "2026-10-18T23:50:17+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "6bd5ed97c2e027183df1fafd1c99ab7cd7af5957b0f35c11fd9efb82bd88444f"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000030/back-original.jpg",
+          "original": "assets/LC-000030/back-original.jpg",
+          "sourceFilename": "IMG_20261018_235025.jpg",
+          "capturedAt": "2026-10-18T23:50:25+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "cc8913b321a64582c4dc87590973e1696a766d093a38a4ec94bab903df4facce"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面、封底整体完整，边角可见轻微磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000031",
+      "title": "生吞",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "郑执",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "浙江文艺出版社",
+      "isbn": "978-7-5339-5005-7",
+      "category": "文学与小说",
+      "tags": [
+        "叙事结构",
+        "角色塑造"
+      ],
+      "usageTags": [
+        "叙事结构",
+        "角色塑造"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:50:39+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "依据自有实体书正反面照片录入；参考用途按书目主题作个人编目。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000031/front-original.jpg",
+          "original": "assets/LC-000031/front-original.jpg",
+          "sourceFilename": "IMG_20261018_235039_1.jpg",
+          "capturedAt": "2026-10-18T23:50:39+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "1af33697f395663878e853be1a9d87df23e2209e4e6183fc2480a1b31339393b"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000031/back-original.jpg",
+          "original": "assets/LC-000031/back-original.jpg",
+          "sourceFilename": "IMG_20261018_235105.jpg",
+          "capturedAt": "2026-10-18T23:51:05+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "05194851efee77856d056dabcb30589d145fe34aa51cb29289b082bab0220ec1"
+        }
+      ],
+      "condition": {
+        "label": "约八成新",
+        "note": "封面、封底和书角有使用痕迹，封面边缘有少量磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000032",
+      "title": "堂吉诃德",
+      "subtitle": "下册",
+      "authors": [
+        {
+          "name": "塞万提斯",
+          "country": "西班牙",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "杨绛"
+      ],
+      "publisher": "人民文学出版社",
+      "isbn": "978-7-02-010276-1",
+      "category": "文学与小说",
+      "tags": [
+        "角色塑造",
+        "叙事结构"
+      ],
+      "usageTags": [
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "堂吉诃德 · 上下册",
+      "seriesGroupId": "don-quixote",
+      "seriesNumber": 2,
+      "seriesLabel": "下册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T23:52:36+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "《堂吉诃德》杨绛译本下册。上下册合为一组，定价为全两册合计。",
+      "metadataSource": "自有实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000032/front-original.jpg",
+          "original": "assets/LC-000032/front-original.jpg",
+          "sourceFilename": "IMG_20261018_235236.jpg",
+          "capturedAt": "2026-10-18T23:52:36+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "6fda4f5517ae5334e80cedc73e691723509f7e909656fa8bcc610247ef154fb0"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000032/back-original.jpg",
+          "original": "assets/LC-000032/back-original.jpg",
+          "sourceFilename": "IMG_20261018_235245.jpg",
+          "capturedAt": "2026-10-18T23:52:45+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "6a96a5ef67850f755b52f25ffcf5fa1ac8a77debcccc7790654ebf248716dd3a"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面、封底及书脊边角有轻微折压和磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-19",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      },
+      "priceGroupId": "don-quixote-set",
+      "isbnScope": "全套 ISBN，取自下册封底",
+      "physicalSetId": "don-quixote-set"
     }
   ],
   "seriesGroups": [
@@ -1512,6 +2627,34 @@
       "shortTitle": "D&D 5.5e 核心规则书",
       "kind": "核心规则书归组",
       "description": "第五版修订规则，三册于 2024—2025 年出版；每册独立编目，不代表同一购买套装。"
+    },
+    {
+      "id": "heritage-myth",
+      "title": "中华遗产 · 神话文化",
+      "shortTitle": "中华遗产神话文化",
+      "kind": "书系或分册归组",
+      "description": "按编著方与主题归组，已藏册数不代表出版总数，也不表示购买套装。"
+    },
+    {
+      "id": "asimov-short",
+      "title": "阿西莫夫科幻短篇全集",
+      "shortTitle": "阿西莫夫科幻短篇全集",
+      "kind": "书系或分册归组",
+      "description": "按封面卷序排列，卷 1 与卷 2 分别建档；照片未标明的分册信息待核对。"
+    },
+    {
+      "id": "yiwen-classics",
+      "title": "译文经典",
+      "shortTitle": "译文经典",
+      "kind": "书系或分册归组",
+      "description": "上海译文出版社“译文经典”丛书归组，已藏册数不代表出版总数。"
+    },
+    {
+      "id": "don-quixote",
+      "title": "堂吉诃德 · 上下册",
+      "shortTitle": "堂吉诃德上下册",
+      "kind": "书系或分册归组",
+      "description": "上下册合为一组，各保留独立档案；全两册定价 68 元，仅累计一次。"
     }
   ],
   "exchangeRates": {
@@ -1525,5 +2668,19 @@
       "GBP": 8.9037
     },
     "policy": "按最近公布中间价固定折算，手动更新；非实际购书支出。"
-  }
+  },
+  "usageTagNote": "用途标签根据书目主题作个人编目，表示可能的参考方向，可随阅读调整。",
+  "priceGroups": [
+    {
+      "id": "don-quixote-set",
+      "label": "堂吉诃德（全两册）",
+      "amount": 68,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000027",
+        "LC-000032"
+      ],
+      "source": "下册封底明确标示 68.00 元（全两册）"
+    }
+  ]
 }
