@@ -4,10 +4,10 @@
 
 ## 已有功能
 
-- 十三册实体书、二十六张原始照片，以及裁切校正后的展示图。
+- 十三册实体书、二十六张原始照片；各页面直接呈现实拍原貌。
 - 书名、作者、译者、ISBN、编号、出版社与标签搜索。
 - 单一主分类筛选，封面和表格视图，入库时间、书名和定价排序。
-- 独立单书链接，如 `#book/LC-000001`；正反照片、原图切换、放大查看。
+- 独立单书链接，如 `#book/LC-000001`；原始正反照片、放大查看。
 - 入库时间线、关于页面、当前筛选结果的 CSV 导出。
 - 手机端布局、键盘操作和减少动态效果偏好。
 - 系列分组、系列筛选、同系列单册跳转；横版画册保留比例。
@@ -42,8 +42,8 @@ python3 -m http.server 8080 --directory dist
 
 | 文件 | 用途 |
 | --- | --- |
-| thumbnail.webp | 封面卡片缩略图 |
-| front.webp / back.webp | 正反展示图 |
+| thumbnail.webp | 旧版衍生缩略图，当前不用于页面 |
+| front.webp / back.webp | 旧版校正衍生图，当前不用于页面 |
 | front-original.jpg / back-original.jpg | 保留相机水印的原始照片 |
 
 修改 JSON 后执行 `python3 scripts/validate_catalog.py`；JavaScript 修改后可运行 `node --check dist/app.js`。
@@ -88,4 +88,4 @@ GitHub Pages 发布的是 dist 中的全部文件。购买信息、备注、位�
 
 可运行 `python3 scripts/audit_catalog.py` 检查同图、同 ISBN、同名不同版本。重复项仅报告，由人判断是补拍还是另一本实体册，不自动删书。
 
-第二批导入脚本为 `scripts/import_batch_20261018.py --source /path/to/photos`，依赖 Pillow。原始照片逐字节保留，展示图为裁切与几何校正后的衍生资源；不改变文字、封面图案或磨损。
+第二批导入脚本为 `scripts/import_batch_20261018.py --source /path/to/photos`，依赖 Pillow。原始照片逐字节保留。脚本生成的校正衍生资源仅作历史保留；当前封面目录、表格、入库记录、详情和放大查看均使用 original 原图，保留自然倾斜、完整背景及磨损。
