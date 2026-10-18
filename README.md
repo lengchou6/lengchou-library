@@ -29,6 +29,10 @@ python3 -m http.server 8080 --directory dist
 
 浏览器访问 `http://localhost:8080`。不要直接双击 index.html，浏览器可能拦截 JSON 数据读取。
 
+## 成色记录
+
+每册的 `condition` 包含外观成色、可见磨损说明、评估范围、来源和日期。首批依正反面照片预估：前两册约八五成新，第三册约七五成新。列表、详情与 CSV 均显示成色；内页、装订、缺页、笔记和霉斑等未检查。
+
 ## 更新藏书
 
 书目位于 `dist/data/books.json`。每本书保留固定编号，主分类可以调整。
