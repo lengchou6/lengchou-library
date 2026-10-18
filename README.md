@@ -11,13 +11,13 @@
 - 入库时间线、关于页面、当前筛选结果的 CSV 导出。
 - 手机端布局、键盘操作和减少动态效果偏好。
 
-## 当前保存方式
+## 当前访问与保存方式
 
-- 源码、书目与照片保存在 `lengchou6/lengchou-library` 私有仓库。
-- 不启用 GitHub Pages，不配置自动部署工作流。
-- 网页继续通过已有的仅本人可访问地址使用：https://lengchou-library.lengchou6.chatgpt.site
-- GitHub 仓库更新不会自动同步已有预览网站；两者需要分别更新。
-- 发布模板仅保存在 `docs/github-pages.yml.example`，不会被 GitHub 自动执行。启用公开网页前应单独确认公开范围。
+- 正式网页：https://lengchou6.github.io/lengchou-library/
+- 源码、书目与照片保存在公开仓库 `lengchou6/lengchou-library`。
+- GitHub Pages 使用 `.github/workflows/pages.yml` 自动部署；每次推送到 `main` 会验证书目并发布 `dist/`。
+- 网页和仓库内容均公开。购买信息、备注、位置等填写后也会随发布内容公开。
+- 原有仅本人可访问的备用网页：https://lengchou-library.lengchou6.chatgpt.site 。备用网页需要单独更新，不随 GitHub 推送同步。
 
 ## 本地查看
 
