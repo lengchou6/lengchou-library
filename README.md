@@ -1,1 +1,72 @@
-# lengchou-library
+# 冷愁藏书馆
+
+个人实体藏书档案。暖白色图书馆与藏品档案风格，无需前端构建或数据库。
+
+## 已有功能
+
+- 三册实体书、六张原始照片，以及裁切校正后的展示图。
+- 书名、作者、译者、ISBN、编号、出版社与标签搜索。
+- 单一主分类筛选，封面和表格视图，入库时间、书名和定价排序。
+- 独立单书链接，如 `#book/LC-000001`；正反照片、原图切换、放大查看。
+- 入库时间线、关于页面、当前筛选结果的 CSV 导出。
+- 手机端布局、键盘操作和减少动态效果偏好。
+
+## 当前保存方式
+
+- 源码、书目与照片保存在 `lengchou6/lengchou-library` 私有仓库。
+- 不启用 GitHub Pages，不配置自动部署工作流。
+- 网页继续通过已有的仅本人可访问地址使用：https://lengchou-library.lengchou6.chatgpt.site
+- GitHub 仓库更新不会自动同步已有预览网站；两者需要分别更新。
+- 发布模板仅保存在 `docs/github-pages.yml.example`，不会被 GitHub 自动执行。启用公开网页前应单独确认公开范围。
+
+## 本地查看
+
+在本目录执行：
+
+```bash
+python3 -m http.server 8080 --directory dist
+```
+
+浏览器访问 `http://localhost:8080`。不要直接双击 index.html，浏览器可能拦截 JSON 数据读取。
+
+## 更新藏书
+
+书目位于 `dist/data/books.json`。每本书保留固定编号，主分类可以调整。
+
+照片放在 `dist/assets/LC-000001/` 这类目录内：
+
+| 文件 | 用途 |
+| --- | --- |
+| thumbnail.webp | 封面卡片缩略图 |
+| front.webp / back.webp | 正反展示图 |
+| front-original.jpg / back-original.jpg | 保留相机水印的原始照片 |
+
+修改 JSON 后执行 `python3 scripts/validate_catalog.py`；JavaScript 修改后可运行 `node --check dist/app.js`。
+
+`scripts/prepare_assets.py` 是首批照片的处理记录，依赖 Pillow。照片已经处理完成，无需再次运行；如需重新处理，执行 `python3 scripts/prepare_assets.py --source /path/to/photos`。此脚本不会覆盖原始输入文件。
+
+### 数据约定
+
+- `id`：固定藏书编号，一册一个；ISBN 不是实体册唯一标识。
+- `listPrice`：封底定价；`paidPrice`：实际支付价格，未知为 `null`。
+- `purchaseDate`：可用 `2023`、`2023-06`、`2023-06-15`，分别配 `purchaseDatePrecision` 的 `year`、`month`、`day`。
+- `purchaseChannel`：日后补充的购买渠道，未知为 `null`。
+- `readingStatus`：未知为 `null`；可填写“未读”“在读”“已读”等真实状态。
+- `location` / `notes`：存放位置和个人备注，未知为 `null`。
+- `accessionedAt`：首张正面照片的拍摄时间，带 `+08:00` 时区。
+- `photos[].capturedAt`：每张照片各自的时间；`timeSource` 保存时间来源。
+- 首批时间来自照片文件名，水印核对至分钟，无可读取 EXIF。秒数精度来自文件名。
+- 第二册“第三版”仅录入 `coverEditionLabel`，具体出版版次尚待版权页确认。
+- 每本书的简介为简短编目概述，非全文内容或个人读后评价。
+
+## 公开内容
+
+GitHub Pages 发布的是 dist 中的全部文件。购买信息、备注、位置与原始照片一旦填入或上传，即会随网站公开；不希望公开的资料必须从发布数据与资源中删除，不能只隐藏界面。
+
+购书时间、渠道、实付价格目前均为空。已录入定价合计 ¥109.00，不代表实际支出或估值。
+
+## 首版验证
+
+数据校验包括重复编号、ISBN 校验位、照片路径、入库时间规则及其时区。JavaScript 已做语法检查。
+
+当前环境的网页预览服务因容器挂载权限而无法启动，尚未完成真实浏览器中的视觉与交互验收。部署后建议检查桌面与手机上的目录、检索、档案照片、图片缩放与 CSV 下载。
