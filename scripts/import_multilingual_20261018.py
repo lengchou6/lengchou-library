@@ -30,4 +30,7 @@ for n,x in enumerate(items,14):
  if n==16:b['originalTitle']='Level Up! The Guide to Great Video Game Design'
  if n==15:b['bibliographySourceUrl']='https://www.faber.co.uk/product/9780571200689-pulp-fiction/'
  d['books'].append(b)
+refs=json.loads((R/'scripts/english_book_references.json').read_text())
+for book in d['books']:
+ if book['id'] in refs:book.update(refs[book['id']])
 p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')

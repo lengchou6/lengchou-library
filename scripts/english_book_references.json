@@ -1,0 +1,73 @@
+{
+  "LC-000015": {
+    "referenceTitle": "低俗小说（电影剧本）",
+    "titleAliases": [
+      "低俗小说",
+      "黑色追緝令",
+      "黑色追缉令"
+    ],
+    "authors": [
+      {
+        "name": "昆汀·塔伦蒂诺",
+        "originalName": "Quentin Tarantino"
+      }
+    ],
+    "description": "昆汀·塔伦蒂诺电影《低俗小说》的英文剧本，包含彼此交织的犯罪故事。本册为 Faber & Faber 出版的电影剧本文本，中文辅助名注明文体，便于与小说作品区分。",
+    "referenceSources": [
+      {
+        "label": "Faber & Faber · Pulp Fiction（对应 ISBN）",
+        "url": "https://www.faber.co.uk/product/9780571200689-pulp-fiction/"
+      }
+    ],
+    "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。"
+  },
+  "LC-000017": {
+    "referenceTitle": "龙与地下城：玩家手册",
+    "titleAliases": [
+      "玩家手册",
+      "玩家手冊",
+      "PHB"
+    ],
+    "description": "面向玩家的核心规则书，介绍角色创建与成长，以及探索、战斗、装备和法术等规则，帮助玩家创建角色并参与冒险。本册为英语版，采用 5.5e（2024 修订规则）。",
+    "referenceSources": [
+      {
+        "label": "Wizards Play Network · 2024 Player’s Handbook（对应 ISBN）",
+        "url": "https://wpn.wizards.com/en/products/2024-players-handbook"
+      }
+    ],
+    "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。"
+  },
+  "LC-000018": {
+    "referenceTitle": "龙与地下城：怪物图鉴",
+    "titleAliases": [
+      "怪物图鉴",
+      "怪物圖鑑",
+      "怪物手册",
+      "MM"
+    ],
+    "description": "供地下城主设计与主持冒险时查阅的怪物资料书，收录怪物介绍、插图和游戏数据，帮助构建遭遇与填充冒险世界。本册为英语版，2025 年出版，采用 5.5e（2024 修订规则）。",
+    "referenceSources": [
+      {
+        "label": "Wizards Play Network · 修订版 Monster Manual（对应 ISBN，2025 年发行）",
+        "url": "https://wpn.wizards.com/en/products/2024-monster-manual"
+      }
+    ],
+    "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。"
+  },
+  "LC-000019": {
+    "referenceTitle": "龙与地下城：地下城主指南",
+    "titleAliases": [
+      "地下城主指南",
+      "城主指南",
+      "DMG"
+    ],
+    "description": "面向地下城主（DM，即游戏主持人）的指导书，提供组织游戏、准备冒险与构建战役的建议和工具，帮助主持人将规则与故事带到游戏桌上。本册为英语版，采用 5.5e（2024 修订规则）。",
+    "referenceSources": [
+      {
+        "label": "D&D Beyond · 使用 2024 Dungeon Master’s Guide 准备冒险",
+        "url": "https://www.dndbeyond.com/posts/1851-lets-prepare-an-adventure-using-the-2024-dungeon"
+      }
+    ],
+    "translationNote": "中文书名为本馆辅助译名，简介依据英文出版社或官方资料整理；不表示本册为中文版，也不作为官方中文定名。"
+  }
+}
