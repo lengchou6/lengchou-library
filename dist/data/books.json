@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "冷愁藏书馆",
   "timezone": "Asia/Shanghai",
   "books": [
@@ -210,6 +210,776 @@
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
       }
+    },
+    {
+      "id": "LC-000004",
+      "title": "腾讯游戏开发精粹",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "腾讯游戏",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-36602-4",
+      "category": "游戏设计与研发",
+      "tags": [
+        "游戏开发",
+        "程序技术",
+        "研发实践"
+      ],
+      "series": "腾讯游戏开发精粹系列",
+      "seriesGroupId": "tencent-game-development",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 79.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T17:57:46+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "腾讯游戏开发精粹系列第1册。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000004/front.webp",
+          "original": "assets/LC-000004/front-original.jpg",
+          "sourceFilename": "IMG_20261018_175746.jpg",
+          "capturedAt": "2026-10-18T17:57:46+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "3a2816c4de650ccd8a875c9cee7862c022d50f1cb05b8b203b449a0b42ac4c65",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000004/back.webp",
+          "original": "assets/LC-000004/back-original.jpg",
+          "sourceFilename": "IMG_20261018_175805.jpg",
+          "capturedAt": "2026-10-18T17:58:05+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "0dd6049482496e0831db5f9187361e93985a77687b3b325b88a7559896aed191",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约九成新",
+        "note": "整体较完整，封面边缘有轻微使用痕迹。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000005",
+      "title": "腾讯游戏开发精粹Ⅱ",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "腾讯游戏",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-42290-4",
+      "category": "游戏设计与研发",
+      "tags": [
+        "游戏开发",
+        "程序技术",
+        "研发实践"
+      ],
+      "series": "腾讯游戏开发精粹系列",
+      "seriesGroupId": "tencent-game-development",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 148.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T17:58:42+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "腾讯游戏开发精粹系列第2册。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000005/front.webp",
+          "original": "assets/LC-000005/front-original.jpg",
+          "sourceFilename": "IMG_20261018_175842.jpg",
+          "capturedAt": "2026-10-18T17:58:42+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "5361de6356ed9c362723e94ba283ca959967e91f3d49389e95d01798adba5729",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000005/back.webp",
+          "original": "assets/LC-000005/back-original.jpg",
+          "sourceFilename": "IMG_20261018_175857.jpg",
+          "capturedAt": "2026-10-18T17:58:57+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "918f8b8ac4d17e76de31cee7026a289423756644d6bf75d039de92603665e372",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面与封底可见细小擦痕，边角有轻微磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000006",
+      "title": "腾讯游戏开发精粹Ⅲ",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "腾讯游戏",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-48940-2",
+      "category": "游戏设计与研发",
+      "tags": [
+        "游戏开发",
+        "程序技术",
+        "研发实践"
+      ],
+      "series": "腾讯游戏开发精粹系列",
+      "seriesGroupId": "tencent-game-development",
+      "seriesNumber": 3,
+      "seriesLabel": "第3册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 168.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T17:59:41+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "腾讯游戏开发精粹系列第3册。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000006/front.webp",
+          "original": "assets/LC-000006/front-original.jpg",
+          "sourceFilename": "IMG_20261018_175941.jpg",
+          "capturedAt": "2026-10-18T17:59:41+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "ac08e8b83fba3f0385ccbae412c750dd19c3cafeba2a96f32a07824b66b3c370",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000006/back.webp",
+          "original": "assets/LC-000006/back-original.jpg",
+          "sourceFilename": "IMG_20261018_180012.jpg",
+          "capturedAt": "2026-10-18T18:00:12+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "7d1546365f6cc57f57f8ca8a29fb7c46e63fcc4f5566526e41f9130f6a67e69d",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "外观整体完整，封底及边缘有可见擦痕与使用痕迹。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000007",
+      "title": "游戏设计",
+      "subtitle": "筑梦之路·万物肇始",
+      "authors": [
+        {
+          "name": "网易互动娱乐事业群",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "清华大学出版社",
+      "isbn": "978-7-302-56817-9",
+      "category": "游戏设计与研发",
+      "tags": [
+        "游戏策划",
+        "游戏设计"
+      ],
+      "series": "网易游戏学院·游戏研发入门系列丛书",
+      "seriesGroupId": "netease-game-academy",
+      "seriesNumber": 1,
+      "seriesLabel": "NO.01",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 128.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:13:53+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "网易游戏学院游戏研发入门系列丛书 01，主题为游戏设计。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000007/front.webp",
+          "original": "assets/LC-000007/front-original.jpg",
+          "sourceFilename": "IMG_20261018_181353.jpg",
+          "capturedAt": "2026-10-18T18:13:53+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "00f5d49c99653ddcb348f3bd7904f4b61319f1c533d9aa31fbc2fe42ee366776",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000007/back.webp",
+          "original": "assets/LC-000007/back-original.jpg",
+          "sourceFilename": "IMG_20261018_181406.jpg",
+          "capturedAt": "2026-10-18T18:14:06+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "e5eedcc1f6fc8c659667fcd52e6fa2fcb5a5776199daefdba5376e738ab0bf33",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约七至八成新",
+        "note": "封面及封底有较明显擦痕、折角和边缘磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000008",
+      "title": "游戏开发",
+      "subtitle": "筑梦之路·造物工程",
+      "authors": [
+        {
+          "name": "网易互动娱乐事业群",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "清华大学出版社",
+      "isbn": "978-7-302-56558-1",
+      "category": "游戏设计与研发",
+      "tags": [
+        "程序技术",
+        "研发实践"
+      ],
+      "series": "网易游戏学院·游戏研发入门系列丛书",
+      "seriesGroupId": "netease-game-academy",
+      "seriesNumber": 2,
+      "seriesLabel": "NO.02",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 168.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:18:17+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "网易游戏学院游戏研发入门系列丛书 02，主题为游戏开发。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000008/front.webp",
+          "original": "assets/LC-000008/front-original.jpg",
+          "sourceFilename": "IMG_20261018_181817.jpg",
+          "capturedAt": "2026-10-18T18:18:17+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "c3f3c536b40b6f8b2175d0766273b6401cfd20fe44e245753c7766aed9abd796",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000008/back.webp",
+          "original": "assets/LC-000008/back-original.jpg",
+          "sourceFilename": "IMG_20261018_181836.jpg",
+          "capturedAt": "2026-10-18T18:18:36+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "5b2ca5ef8b46c1fa4fa8522f605c9f64343b0b5eaa8bb564e5deeacedafc94db",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约七成新",
+        "note": "封面白边擦痕明显，下部及边角有折压与磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000009",
+      "title": "美术设计",
+      "subtitle": "筑梦之路·妙手丹青",
+      "authors": [
+        {
+          "name": "网易互动娱乐事业群",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "清华大学出版社",
+      "isbn": "978-7-302-56816-2",
+      "category": "游戏设计与研发",
+      "tags": [
+        "游戏美术",
+        "视觉设计"
+      ],
+      "series": "网易游戏学院·游戏研发入门系列丛书",
+      "seriesGroupId": "netease-game-academy",
+      "seriesNumber": 3,
+      "seriesLabel": "NO.03",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 198.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:20:17+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "网易游戏学院游戏研发入门系列丛书 03，主题为美术设计。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000009/front.webp",
+          "original": "assets/LC-000009/front-original.jpg",
+          "sourceFilename": "IMG_20261018_182017.jpg",
+          "capturedAt": "2026-10-18T18:20:17+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "baa95a80b9b7f1511a867fe64b129bfd6f017c3018c3f34ffd443c63cffa641e",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000009/back.webp",
+          "original": "assets/LC-000009/back-original.jpg",
+          "sourceFilename": "IMG_20261018_182035.jpg",
+          "capturedAt": "2026-10-18T18:20:35+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "3b4ded6cd0d672575cf6ad67422369af87fdcb43518f562aaa93cfac515835b4",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约七至八成新",
+        "note": "封面白边、封底与书角有可见磨痕和折痕。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000010",
+      "title": "质量保障",
+      "subtitle": "筑梦之路·臻于至善",
+      "authors": [
+        {
+          "name": "网易互动娱乐事业群",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "清华大学出版社",
+      "isbn": "978-7-302-56920-6",
+      "category": "游戏设计与研发",
+      "tags": [
+        "游戏测试",
+        "QA"
+      ],
+      "series": "网易游戏学院·游戏研发入门系列丛书",
+      "seriesGroupId": "netease-game-academy",
+      "seriesNumber": 4,
+      "seriesLabel": "NO.04",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 118.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:21:12+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "网易游戏学院游戏研发入门系列丛书 04，主题为质量保障。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000010/front.webp",
+          "original": "assets/LC-000010/front-original.jpg",
+          "sourceFilename": "IMG_20261018_182112.jpg",
+          "capturedAt": "2026-10-18T18:21:12+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "c05ecc971106a1fabe4af032a5181dd66840b78c49a11bccc2bde86ef74721bd",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000010/back.webp",
+          "original": "assets/LC-000010/back-original.jpg",
+          "sourceFilename": "IMG_20261018_182206.jpg",
+          "capturedAt": "2026-10-18T18:22:06+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "c43bbd2efbe1b886c78aac177e8f27b5d56ba1c3b89e7d5309b01cc9eff9cd19",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约七至八成新",
+        "note": "封面白边有明显擦痕，封底及边角有使用磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000011",
+      "title": "用户体验",
+      "subtitle": "筑梦之路·上善若水",
+      "authors": [
+        {
+          "name": "网易互动娱乐事业群",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "清华大学出版社",
+      "isbn": "978-7-302-56921-3",
+      "category": "游戏设计与研发",
+      "tags": [
+        "交互设计",
+        "用户研究"
+      ],
+      "series": "网易游戏学院·游戏研发入门系列丛书",
+      "seriesGroupId": "netease-game-academy",
+      "seriesNumber": 5,
+      "seriesLabel": "NO.05",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 188.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:22:25+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "网易游戏学院游戏研发入门系列丛书 05，主题为用户体验。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000011/front.webp",
+          "original": "assets/LC-000011/front-original.jpg",
+          "sourceFilename": "IMG_20261018_182225.jpg",
+          "capturedAt": "2026-10-18T18:22:25+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "25e04a95ad2dbadd2fb7821f70d59c4a886bfb686d9b087fa027c3b4adabcd39",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000011/back.webp",
+          "original": "assets/LC-000011/back-original.jpg",
+          "sourceFilename": "IMG_20261018_182239.jpg",
+          "capturedAt": "2026-10-18T18:22:39+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "571d0069b7f8843dcd68653e9949ed4390bc4176dd20bea708b836b2b7c48c04",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约七至八成新",
+        "note": "封面边缘有灰色擦痕与折角，封底表面及边缘有磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000012",
+      "title": "项目管理",
+      "subtitle": "筑梦之路·推演妙算",
+      "authors": [
+        {
+          "name": "网易互动娱乐事业群",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "清华大学出版社",
+      "isbn": "978-7-302-56818-6",
+      "category": "游戏设计与研发",
+      "tags": [
+        "研发管理",
+        "项目管理"
+      ],
+      "series": "网易游戏学院·游戏研发入门系列丛书",
+      "seriesGroupId": "netease-game-academy",
+      "seriesNumber": 6,
+      "seriesLabel": "NO.06",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 118.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:24:47+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "网易游戏学院游戏研发入门系列丛书 06，主题为项目管理。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000012/front.webp",
+          "original": "assets/LC-000012/front-original.jpg",
+          "sourceFilename": "IMG_20261018_182447.jpg",
+          "capturedAt": "2026-10-18T18:24:47+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "f0bb9ee26ced16f85b8cd77e8be146043bf601d86596eff4c64eb2e27b269d80",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000012/back.webp",
+          "original": "assets/LC-000012/back-original.jpg",
+          "sourceFilename": "IMG_20261018_182458.jpg",
+          "capturedAt": "2026-10-18T18:24:58+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "97cf0d9d415474e053fe0589dea13a9741f4bb5f000be411c8cdc42c90d09246",
+          "displayWidth": 800,
+          "displayHeight": 1160
+        }
+      ],
+      "condition": {
+        "label": "约七成新",
+        "note": "封面白边擦痕较明显，封底及书角有多处使用痕迹。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000013",
+      "title": "美术画册",
+      "subtitle": "筑梦之路·游生绘梦",
+      "authors": [
+        {
+          "name": "网易互动娱乐事业群",
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "清华大学出版社",
+      "isbn": "978-7-302-56943-5",
+      "category": "游戏设计与研发",
+      "tags": [
+        "游戏美术",
+        "画册",
+        "概念设计"
+      ],
+      "series": "网易游戏学院·游戏研发入门系列丛书",
+      "seriesGroupId": "netease-game-academy",
+      "seriesNumber": 7,
+      "seriesLabel": "NO.07",
+      "purchaseGroupId": null,
+      "orientation": "landscape",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 398.0,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:25:54+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "网易游戏学院游戏研发入门系列丛书 07，主题为美术画册。",
+      "metadataSource": "自有实体书正反面照片；分类与标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000013/front.webp",
+          "original": "assets/LC-000013/front-original.jpg",
+          "sourceFilename": "IMG_20261018_182554.jpg",
+          "capturedAt": "2026-10-18T18:25:54+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "7cad531dea5e17b3310b0b167a74e55da59d3bf1aeec73271d5f1e3e7ba645af",
+          "displayWidth": 1120,
+          "displayHeight": 800
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000013/back.webp",
+          "original": "assets/LC-000013/back-original.jpg",
+          "sourceFilename": "IMG_20261018_182632.jpg",
+          "capturedAt": "2026-10-18T18:26:32+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "a4c38944021a9ec3a44bcd19f088a3bf6d9165872c91d9883d5b45f94714b6eb",
+          "displayWidth": 1120,
+          "displayHeight": 800
+        }
+      ],
+      "condition": {
+        "label": "约六五至七成新",
+        "note": "横版书，封面、封底及书脊有磨损，右侧书角折压和破损较明显。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    }
+  ],
+  "seriesGroups": [
+    {
+      "id": "tencent-game-development",
+      "title": "腾讯游戏开发精粹系列",
+      "shortTitle": "腾讯游戏开发精粹",
+      "kind": "同名书系归组",
+      "description": "按书名归组，依第Ⅰ、Ⅱ、Ⅲ册排列；已藏册数不代表该书系出版总数。"
+    },
+    {
+      "id": "netease-game-academy",
+      "title": "网易游戏学院·游戏研发入门系列丛书",
+      "shortTitle": "网易游戏学院",
+      "kind": "封面标示丛书",
+      "description": "封面编号 NO.01—NO.07；每册独立编目，已藏册数不代表已确认集齐全部出版物。"
     }
   ]
 }

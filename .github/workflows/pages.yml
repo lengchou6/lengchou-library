@@ -23,7 +23,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Validate book catalogue
-        run: python3 scripts/validate_catalog.py
+        run: |
+          python3 scripts/validate_catalog.py
+          python3 scripts/audit_catalog.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
