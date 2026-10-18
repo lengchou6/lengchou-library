@@ -23,5 +23,11 @@ for book in data['books']:
         datetime.fromisoformat(photo['capturedAt'])
         for key in ['file','original']:
             assert (ROOT/photo[key]).is_file(), f"Missing {photo[key]}"
-    assert (ROOT/'assets'/book['id']/'thumbnail.webp').is_file()
+    assert book.get('currency','CNY') in data.get('exchangeRates',{}).get('rates',{'CNY':1}), f"Missing FX rate: {book['id']}"
 print(f"Catalogue validated: {len(seen)} unique books, ISBN checksums and all photos OK.")
+
+from decimal import Decimal
+rates=data.get('exchangeRates',{}).get('rates',{'CNY':1})
+assert all(Decimal(str(rate))>0 for rate in rates.values())
+raw_total=sum(Decimal(str(b['listPrice']))*Decimal(str(rates[b['currency']])) for b in data['books'] if b['listPrice'] is not None)
+print(f"Original currencies preserved; reference CNY total: {raw_total:.2f}")

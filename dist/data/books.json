@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "冷愁藏书馆",
   "timezone": "Asia/Shanghai",
   "books": [
@@ -964,6 +964,457 @@
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
       }
+    },
+    {
+      "id": "LC-000014",
+      "title": "社会心理学",
+      "subtitle": null,
+      "referenceTitle": null,
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "authors": [
+        {
+          "name": "戴维·迈尔斯",
+          "originalName": "David G. Myers",
+          "country": "美国"
+        }
+      ],
+      "translators": [
+        "侯玉波",
+        "乐国安",
+        "张智勇"
+      ],
+      "publisher": "人民邮电出版社",
+      "isbn": "978-7-115-41004-7",
+      "category": "心理学与社会",
+      "tags": [
+        "社会心理学"
+      ],
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "第11版",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 128,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:30:34+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "书名、作者及定价依据自有实体书封面、封底录入。",
+      "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000014/front-original.jpg",
+          "original": "assets/LC-000014/front-original.jpg",
+          "sourceFilename": "IMG_20261018_183034(1).jpg",
+          "capturedAt": "2026-10-18T18:30:34+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "070a39cd82329540908f381e550c58bf6854f7c840dbcc227aa45381333af69c"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000014/back-original.jpg",
+          "original": "assets/LC-000014/back-original.jpg",
+          "sourceFilename": "IMG_20261018_183110(1).jpg",
+          "capturedAt": "2026-10-18T18:31:10+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "540f958ad6d31263f31210dc5833518397e8beb22d27046050ca7c1a698902d1"
+        }
+      ],
+      "condition": {
+        "label": "约八成新",
+        "note": "封面与封底边角有磨损，封底下沿及书角有折压。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      },
+      "originalTitle": "Social Psychology"
+    },
+    {
+      "id": "LC-000015",
+      "title": "Pulp Fiction",
+      "subtitle": null,
+      "referenceTitle": "低俗小说",
+      "language": "en",
+      "languageLabel": "英语",
+      "authors": [
+        {
+          "name": "Quentin Tarantino"
+        }
+      ],
+      "translators": [],
+      "publisher": "Faber & Faber",
+      "isbn": "978-0-571-20068-9",
+      "category": "写作与叙事",
+      "tags": [
+        "电影剧本"
+      ],
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 9.99,
+      "paidPrice": null,
+      "currency": "GBP",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T18:55:19+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "电影《低俗小说》的英文剧本。",
+      "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000015/front-original.jpg",
+          "original": "assets/LC-000015/front-original.jpg",
+          "sourceFilename": "IMG_20261018_185519(1).jpg",
+          "capturedAt": "2026-10-18T18:55:19+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "e47d47a09af15d2e48c88d29dded3d53af7c81f13d219ce16af39d553b2ab9a8"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000015/back-original.jpg",
+          "original": "assets/LC-000015/back-original.jpg",
+          "sourceFilename": "IMG_20261018_185539(1).jpg",
+          "capturedAt": "2026-10-18T18:55:39+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "a7c5d734cf6f3fea0469cf9a8d626b802fe8bfcec68558a80fee0129a186a662"
+        }
+      ],
+      "condition": {
+        "label": "约八成新",
+        "note": "封面有细划痕及折痕，封底边缘和书角有使用痕迹。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      },
+      "bibliographySourceUrl": "https://www.faber.co.uk/product/9780571200689-pulp-fiction/"
+    },
+    {
+      "id": "LC-000016",
+      "title": "通关！",
+      "subtitle": "游戏设计之道",
+      "referenceTitle": null,
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "authors": [
+        {
+          "name": "Scott Rogers",
+          "country": "美国"
+        }
+      ],
+      "translators": [
+        "孙懿",
+        "高济润"
+      ],
+      "publisher": "人民邮电出版社",
+      "isbn": "978-7-115-43177-6",
+      "category": "游戏设计与研发",
+      "tags": [
+        "游戏设计"
+      ],
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "第2版",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 99,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T19:03:26+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "书名、作者及定价依据自有实体书封面、封底录入。",
+      "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000016/front-original.jpg",
+          "original": "assets/LC-000016/front-original.jpg",
+          "sourceFilename": "IMG_20261018_190326.jpg",
+          "capturedAt": "2026-10-18T19:03:26+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "a437fd052f0ad94a0e1c692b4ae3f8407184ab6e45e10aa81bd0b50fe446b091"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000016/back-original.jpg",
+          "original": "assets/LC-000016/back-original.jpg",
+          "sourceFilename": "IMG_20261018_190340.jpg",
+          "capturedAt": "2026-10-18T19:03:40+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "7c76bca9f8fd06e497140d012e7d1cd71274a9d44d1cb78ac5e35c7d4b32f27d"
+        }
+      ],
+      "condition": {
+        "label": "约八成新",
+        "note": "封面左侧及书脊附近有折痕，封底边缘有磨损与折压。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      },
+      "originalTitle": "Level Up! The Guide to Great Video Game Design"
+    },
+    {
+      "id": "LC-000017",
+      "title": "Player’s Handbook",
+      "subtitle": null,
+      "referenceTitle": "玩家手册",
+      "language": "en",
+      "languageLabel": "英语",
+      "authors": [
+        {
+          "name": "编著者待版权页核对"
+        }
+      ],
+      "translators": [],
+      "publisher": "Wizards of the Coast",
+      "isbn": "978-0-7869-6951-7",
+      "category": "桌面角色扮演",
+      "tags": [
+        "D&D",
+        "龙与地下城",
+        "核心规则"
+      ],
+      "series": "Dungeons & Dragons · 核心规则书（2024—2025 修订）",
+      "seriesGroupId": "dnd-revised-core",
+      "seriesNumber": 1,
+      "seriesLabel": "玩家规则",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.99,
+      "paidPrice": null,
+      "currency": "USD",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T19:04:37+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "D&D 修订核心规则书，英语版；个人编著者及具体印次待版权页核对。",
+      "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000017/front-original.jpg",
+          "original": "assets/LC-000017/front-original.jpg",
+          "sourceFilename": "IMG_20261018_190437.jpg",
+          "capturedAt": "2026-10-18T19:04:37+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "6ea63fa4a9b1e343912d015f1dd9e213563b29269198feedea77a32233410357"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000017/back-original.jpg",
+          "original": "assets/LC-000017/back-original.jpg",
+          "sourceFilename": "IMG_20261018_190503.jpg",
+          "capturedAt": "2026-10-18T19:05:03+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "3b3c5618d5b2e1b58e53a5df54057824ef6723d421cccb83a347615e6cb05536"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面与封底整体完整，边缘、书脊附近有轻微磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000018",
+      "title": "Monster Manual",
+      "subtitle": null,
+      "referenceTitle": "怪物图鉴",
+      "language": "en",
+      "languageLabel": "英语",
+      "authors": [
+        {
+          "name": "编著者待版权页核对"
+        }
+      ],
+      "translators": [],
+      "publisher": "Wizards of the Coast",
+      "isbn": "978-0-7869-6954-8",
+      "category": "桌面角色扮演",
+      "tags": [
+        "D&D",
+        "龙与地下城",
+        "核心规则"
+      ],
+      "series": "Dungeons & Dragons · 核心规则书（2024—2025 修订）",
+      "seriesGroupId": "dnd-revised-core",
+      "seriesNumber": 3,
+      "seriesLabel": "怪物资料",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.99,
+      "paidPrice": null,
+      "currency": "USD",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T19:05:29+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "D&D 修订核心规则书，英语版；个人编著者及具体印次待版权页核对。",
+      "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000018/front-original.jpg",
+          "original": "assets/LC-000018/front-original.jpg",
+          "sourceFilename": "IMG_20261018_190529.jpg",
+          "capturedAt": "2026-10-18T19:05:29+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "4c74e8bfa2371c161ff5c66d6cc6ef3d4edc3a51d564672b755b6e4a00fc70f1"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000018/back-original.jpg",
+          "original": "assets/LC-000018/back-original.jpg",
+          "sourceFilename": "IMG_20261018_190541.jpg",
+          "capturedAt": "2026-10-18T19:05:41+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "b7ec30dbc075e3fd3ad7ab021a36222224e61db6f7c41ef9ebc664e3386f4e1f"
+        }
+      ],
+      "condition": {
+        "label": "约八成新",
+        "note": "封面右下角及封底下方书角可见较明显折压、磨损。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
+    },
+    {
+      "id": "LC-000019",
+      "title": "Dungeon Master’s Guide",
+      "subtitle": null,
+      "referenceTitle": "地下城主指南",
+      "language": "en",
+      "languageLabel": "英语",
+      "authors": [
+        {
+          "name": "编著者待版权页核对"
+        }
+      ],
+      "translators": [],
+      "publisher": "Wizards of the Coast",
+      "isbn": "978-0-7869-6952-4",
+      "category": "桌面角色扮演",
+      "tags": [
+        "D&D",
+        "龙与地下城",
+        "核心规则"
+      ],
+      "series": "Dungeons & Dragons · 核心规则书（2024—2025 修订）",
+      "seriesGroupId": "dnd-revised-core",
+      "seriesNumber": 2,
+      "seriesLabel": "主持人指南",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.99,
+      "paidPrice": null,
+      "currency": "USD",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-18T19:05:59+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": "D&D 修订核心规则书，英语版；个人编著者及具体印次待版权页核对。",
+      "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000019/front-original.jpg",
+          "original": "assets/LC-000019/front-original.jpg",
+          "sourceFilename": "IMG_20261018_190559.jpg",
+          "capturedAt": "2026-10-18T19:05:59+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "0e4eed9790e9c19a1a525b17fb323d9ef20844a67a3285e3b2e5c42a48383a78"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000019/back-original.jpg",
+          "original": "assets/LC-000019/back-original.jpg",
+          "sourceFilename": "IMG_20261018_190610.jpg",
+          "capturedAt": "2026-10-18T19:06:10+08:00",
+          "timeSource": "文件名；照片水印核对至分钟",
+          "sha256": "ad3228c1fea3e924825f520c0b20655785da7e82e40cb0f63729db727ba56d29"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面与封底整体完整，边角有轻微磨损与折压。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-18",
+        "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
+      }
     }
   ],
   "seriesGroups": [
@@ -980,6 +1431,25 @@
       "shortTitle": "网易游戏学院",
       "kind": "封面标示丛书",
       "description": "封面编号 NO.01—NO.07；每册独立编目，已藏册数不代表已确认集齐全部出版物。"
+    },
+    {
+      "id": "dnd-revised-core",
+      "title": "Dungeons & Dragons · 核心规则书（2024—2025 修订）",
+      "shortTitle": "D&D 核心规则书",
+      "kind": "核心规则书归组",
+      "description": "按玩家手册、地下城主指南、怪物图鉴排列，每册独立编目；不代表同一购买套装。"
     }
-  ]
+  ],
+  "exchangeRates": {
+    "base": "CNY",
+    "date": "2026-10-16",
+    "source": "国家外汇管理局·人民币汇率中间价",
+    "sourceUrl": "https://www.safe.gov.cn/AppStructured/hlw/RMBQuery.do",
+    "rates": {
+      "CNY": 1,
+      "USD": 6.722,
+      "GBP": 8.9037
+    },
+    "policy": "按最近公布中间价固定折算，手动更新；非实际购书支出。"
+  }
 }
