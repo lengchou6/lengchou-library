@@ -18,4 +18,5 @@
 @media(max-width:600px){.series-controls{gap:10px;padding:12px 0}.series-controls label{font-size:10px;gap:6px}.series-controls select{max-width:210px;font-size:10px;padding:7px 20px 7px 7px}.series-controls>span{width:100%;font-size:9px}.series-heading{display:block;margin-bottom:17px;padding:14px 0}.series-heading h3{font-size:21px;line-height:1.6}.series-heading h3 span{font-size:10px;margin-left:7px}.series-total{display:block;font-size:10px;margin-top:10px}.series-heading p:last-child{font-size:9px}.series-section{margin-bottom:30px}.book-landscape .cover-image{max-height:175px}.related-grid{gap:7px}.related-grid a,.related-current{font-size:11px;padding:9px}}
 
 /* Preserve each original photograph in full, including its natural framing. */
-.cover-stage .cover-image{width:auto;height:auto;max-width:86%;max-height:calc(100% - 52px);object-fit:contain}
+.cover-stage .cover-image{position:absolute;left:7%;top:26px;width:86%;height:calc(100% - 52px);max-width:none;max-height:none;object-fit:contain;box-shadow:none}
+.book-card:hover .cover-image{box-shadow:none}
