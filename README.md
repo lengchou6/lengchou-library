@@ -97,3 +97,5 @@ GitHub Pages 发布的是 dist 中的全部文件。购买信息、备注、位�
 外文原书名为主，referenceTitle 为中文参考名；language / languageLabel 标记语种。原文姓名保留；D&D 个人编著者待版权页核对，不把出版社当作作者。外文标题自然换行，完整显示。合计、系列小计和价格排序均使用同一汇率，表格、详情和 CSV 同时保留原币及折算信息。
 
 第三批导入：`python scripts/import_multilingual_20261018.py --source /path/to/photos`。只复制完整原图，photo.file 与 photo.original 指向同一文件，无裁切、校正或生成重绘。
+
+D&D 组标注为“D&D 5.5e · 核心规则书”。规则版本 rulesVersion / rulesVersionLabel 与出版版本 publicationVersion 分别记录；玩家手册、地下城主指南为 2024 修订版，怪物图鉴为 2025 修订版。printing 记录本册印次，当前待版权页核对。目录标签、详情、搜索和 CSV 同步显示版本。

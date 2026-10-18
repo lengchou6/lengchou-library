@@ -1213,9 +1213,12 @@
       "tags": [
         "D&D",
         "龙与地下城",
-        "核心规则"
+        "核心规则",
+        "英语",
+        "5.5e",
+        "2024 修订版"
       ],
-      "series": "Dungeons & Dragons · 核心规则书（2024—2025 修订）",
+      "series": "D&D 5.5e · 核心规则书",
       "seriesGroupId": "dnd-revised-core",
       "seriesNumber": 1,
       "seriesLabel": "玩家规则",
@@ -1235,7 +1238,7 @@
       "readingStatus": null,
       "location": null,
       "notes": null,
-      "description": "D&D 修订核心规则书，英语版；个人编著者及具体印次待版权页核对。",
+      "description": "D&D 5.5e 核心规则书，采用第五版 2024 修订规则。个人编著者和本册印次待版权页核对。",
       "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
       "photos": [
         {
@@ -1266,7 +1269,12 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "rulesVersion": "5.5e",
+      "rulesVersionLabel": "5.5e（2024 修订规则）",
+      "publicationVersion": "2024 修订版",
+      "printing": null,
+      "rulesVersionSourceUrl": "https://dndbeyond-support.wizards.com/hc/en-us/articles/46714571698068-How-will-I-know-whether-something-is-5e-or-5-5e"
     },
     {
       "id": "LC-000018",
@@ -1287,9 +1295,12 @@
       "tags": [
         "D&D",
         "龙与地下城",
-        "核心规则"
+        "核心规则",
+        "英语",
+        "5.5e",
+        "2025 修订版"
       ],
-      "series": "Dungeons & Dragons · 核心规则书（2024—2025 修订）",
+      "series": "D&D 5.5e · 核心规则书",
       "seriesGroupId": "dnd-revised-core",
       "seriesNumber": 3,
       "seriesLabel": "怪物资料",
@@ -1309,7 +1320,7 @@
       "readingStatus": null,
       "location": null,
       "notes": null,
-      "description": "D&D 修订核心规则书，英语版；个人编著者及具体印次待版权页核对。",
+      "description": "D&D 5.5e 核心规则书，采用第五版 2024 修订规则。个人编著者和本册印次待版权页核对。",
       "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
       "photos": [
         {
@@ -1340,7 +1351,12 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "rulesVersion": "5.5e",
+      "rulesVersionLabel": "5.5e（2024 修订规则）",
+      "publicationVersion": "2025 修订版",
+      "printing": null,
+      "rulesVersionSourceUrl": "https://dndbeyond-support.wizards.com/hc/en-us/articles/46714571698068-How-will-I-know-whether-something-is-5e-or-5-5e"
     },
     {
       "id": "LC-000019",
@@ -1361,9 +1377,12 @@
       "tags": [
         "D&D",
         "龙与地下城",
-        "核心规则"
+        "核心规则",
+        "英语",
+        "5.5e",
+        "2024 修订版"
       ],
-      "series": "Dungeons & Dragons · 核心规则书（2024—2025 修订）",
+      "series": "D&D 5.5e · 核心规则书",
       "seriesGroupId": "dnd-revised-core",
       "seriesNumber": 2,
       "seriesLabel": "主持人指南",
@@ -1383,7 +1402,7 @@
       "readingStatus": null,
       "location": null,
       "notes": null,
-      "description": "D&D 修订核心规则书，英语版；个人编著者及具体印次待版权页核对。",
+      "description": "D&D 5.5e 核心规则书，采用第五版 2024 修订规则。个人编著者和本册印次待版权页核对。",
       "metadataSource": "自有实体书正反面照片；语种与中文参考名为编目辅助信息",
       "photos": [
         {
@@ -1414,7 +1433,12 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-18",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "rulesVersion": "5.5e",
+      "rulesVersionLabel": "5.5e（2024 修订规则）",
+      "publicationVersion": "2024 修订版",
+      "printing": null,
+      "rulesVersionSourceUrl": "https://dndbeyond-support.wizards.com/hc/en-us/articles/46714571698068-How-will-I-know-whether-something-is-5e-or-5-5e"
     }
   ],
   "seriesGroups": [
@@ -1434,10 +1458,10 @@
     },
     {
       "id": "dnd-revised-core",
-      "title": "Dungeons & Dragons · 核心规则书（2024—2025 修订）",
-      "shortTitle": "D&D 核心规则书",
+      "title": "D&D 5.5e · 核心规则书",
+      "shortTitle": "D&D 5.5e 核心规则书",
       "kind": "核心规则书归组",
-      "description": "按玩家手册、地下城主指南、怪物图鉴排列，每册独立编目；不代表同一购买套装。"
+      "description": "第五版修订规则，三册于 2024—2025 年出版；每册独立编目，不代表同一购买套装。"
     }
   ],
   "exchangeRates": {
