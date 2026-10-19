@@ -21,7 +21,9 @@ for book in data['books']:
     assert book['accessionedAt']==front['capturedAt']
     for photo in book['photos']:
         datetime.fromisoformat(photo['capturedAt'])
-        for key in ['file','original']:
+        for key in ['file','original','thumbnail','preview']:
+            if key not in photo:
+                continue
             assert (ROOT/photo[key]).is_file(), f"Missing {photo[key]}"
     assert book.get('currency','CNY') in data.get('exchangeRates',{}).get('rates',{'CNY':1}), f"Missing FX rate: {book['id']}"
 print(f"Catalogue validated: {len(seen)} unique books, ISBN checksums and all photos OK.")

@@ -3,3 +3,7 @@ __pycache__/
 *.zip
 *.tar.gz
 node_modules/
+
+# Rebuilt from originals by the Pages workflow
+dist/assets/*/*-thumbnail-v1.webp
+dist/assets/*/*-preview-v1.webp
