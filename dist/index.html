@@ -7,8 +7,8 @@
   <meta name="description" content="冷愁的个人实体藏书馆。以书目、实物照片与入库记录，保存每一本书的来处。">
   <title>冷愁藏书馆 · 个人馆藏</title>
   <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20261019-photo-only">
-  <script src="app.js?v=20261019-photo-only" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20261019-fast">
+  <script src="app.js?v=20261019-fast" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">跳至藏书内容</a>
@@ -33,7 +33,7 @@
     <noscript><p>请开启 JavaScript 查看可检索的藏书目录。原始书目可在 data/books.json 中查看。</p></noscript>
   </main>
   <footer class="site-footer"><a href="#catalog">冷愁藏书馆</a><span>藏书有序，阅读随心。</span><span>个人实体藏书档案 · <span id="footer-count">首批编目</span></span></footer>
-  <dialog id="photo-dialog" aria-labelledby="photo-dialog-title"><div class="lightbox-header"><span id="photo-dialog-title"></span><div><button type="button" id="zoom-out" aria-label="缩小照片">−</button><button type="button" id="zoom-reset">100%</button><button type="button" id="zoom-in" aria-label="放大照片">＋</button><button type="button" id="close-photo" aria-label="关闭照片">✕</button></div></div><div class="lightbox-viewer"><button type="button" class="photo-arrow photo-prev" data-photo-step="-1" aria-label="上一张照片">‹</button><div class="lightbox-body" id="lightbox-body"><img id="lightbox-image" alt=""></div><button type="button" class="photo-arrow photo-next" data-photo-step="1" aria-label="下一张照片">›</button></div><div class="lightbox-footer"><span id="lightbox-position" role="status"></span><p class="lightbox-hint">左右滑动或按方向键切图；双指缩放，放大后拖动查看。按 Esc 关闭。</p></div></dialog>
+  <dialog id="photo-dialog" aria-labelledby="photo-dialog-title"><div class="lightbox-header"><span id="photo-dialog-title"></span><div><button type="button" id="zoom-out" aria-label="缩小照片">−</button><button type="button" id="zoom-reset">100%</button><button type="button" id="zoom-in" aria-label="放大照片">＋</button><button type="button" id="close-photo" aria-label="关闭照片">✕</button></div></div><div class="lightbox-viewer"><button type="button" class="photo-arrow photo-prev" data-photo-step="-1" aria-label="上一张照片">‹</button><div class="lightbox-body" id="lightbox-body"><img decoding="async" id="lightbox-image" alt=""></div><button type="button" class="photo-arrow photo-next" data-photo-step="1" aria-label="下一张照片">›</button></div><div class="lightbox-footer"><span id="lightbox-position" role="status"></span><p class="lightbox-hint">左右滑动或按方向键切图；双指缩放，放大后拖动查看。按 Esc 关闭。</p></div></dialog>
   <div id="toast" class="toast" role="status" hidden></div>
 </body>
 </html>

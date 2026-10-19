@@ -74,3 +74,7 @@
  .catalog-section .book-grid{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:18px;row-gap:26px;padding:12px 6px 0}
  .catalog-section .cover-stage{height:220px}.catalog-section .cover-stage:after{left:-10px;right:-10px;height:10px}.catalog-section .cover-stage .cover-image{bottom:10px;top:auto;height:calc(100% - 26px);width:94%;left:3%}.catalog-section .book-card-info{padding-top:8px}
 }
+
+/* 图片区域先占位；缩略图和异步解码减少初始下载及主线程压力。 */
+.cover-stage{contain:layout style}.cover-stage .cover-image{background:#e9e6df33}.recent-book img,.table-book img,.timeline-entry>img{background:#e9e6df55}
+@supports(content-visibility:auto){.book-card-info{content-visibility:auto;contain-intrinsic-size:auto 270px}}

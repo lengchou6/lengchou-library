@@ -50,7 +50,11 @@
           "original": "assets/LC-000001/front-original.jpg",
           "sourceFilename": "IMG_20261018_172952.jpg",
           "capturedAt": "2026-10-18T17:29:52+08:00",
-          "timeSource": "文件名；照片水印核对至分钟"
+          "timeSource": "文件名；照片水印核对至分钟",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000001/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000001/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -59,7 +63,10 @@
           "original": "assets/LC-000001/back-original.jpg",
           "sourceFilename": "IMG_20261018_173014.jpg",
           "capturedAt": "2026-10-18T17:30:14+08:00",
-          "timeSource": "文件名；照片水印核对至分钟"
+          "timeSource": "文件名；照片水印核对至分钟",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000001/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -124,7 +131,11 @@
           "original": "assets/LC-000002/front-original.jpg",
           "sourceFilename": "IMG_20261018_173055.jpg",
           "capturedAt": "2026-10-18T17:30:55+08:00",
-          "timeSource": "文件名；照片水印核对至分钟"
+          "timeSource": "文件名；照片水印核对至分钟",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000002/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000002/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -133,7 +144,10 @@
           "original": "assets/LC-000002/back-original.jpg",
           "sourceFilename": "IMG_20261018_173108.jpg",
           "capturedAt": "2026-10-18T17:31:08+08:00",
-          "timeSource": "文件名；照片水印核对至分钟"
+          "timeSource": "文件名；照片水印核对至分钟",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000002/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -198,7 +212,11 @@
           "original": "assets/LC-000003/front-original.jpg",
           "sourceFilename": "IMG_20261018_173851.jpg",
           "capturedAt": "2026-10-18T17:38:51+08:00",
-          "timeSource": "文件名；照片水印核对至分钟"
+          "timeSource": "文件名；照片水印核对至分钟",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000003/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000003/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -207,7 +225,10 @@
           "original": "assets/LC-000003/back-original.jpg",
           "sourceFilename": "IMG_20261018_173902.jpg",
           "capturedAt": "2026-10-18T17:39:02+08:00",
-          "timeSource": "文件名；照片水印核对至分钟"
+          "timeSource": "文件名；照片水印核对至分钟",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000003/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -275,7 +296,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "3a2816c4de650ccd8a875c9cee7862c022d50f1cb05b8b203b449a0b42ac4c65",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000004/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000004/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -287,7 +312,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "0dd6049482496e0831db5f9187361e93985a77687b3b325b88a7559896aed191",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000004/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -354,7 +382,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "5361de6356ed9c362723e94ba283ca959967e91f3d49389e95d01798adba5729",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000005/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000005/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -366,7 +398,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "918f8b8ac4d17e76de31cee7026a289423756644d6bf75d039de92603665e372",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000005/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -433,7 +468,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "ac08e8b83fba3f0385ccbae412c750dd19c3cafeba2a96f32a07824b66b3c370",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000006/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000006/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -445,7 +484,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "7d1546365f6cc57f57f8ca8a29fb7c46e63fcc4f5566526e41f9130f6a67e69d",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000006/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -511,7 +553,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "00f5d49c99653ddcb348f3bd7904f4b61319f1c533d9aa31fbc2fe42ee366776",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000007/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000007/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -523,7 +569,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "e5eedcc1f6fc8c659667fcd52e6fa2fcb5a5776199daefdba5376e738ab0bf33",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000007/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -590,7 +639,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "c3f3c536b40b6f8b2175d0766273b6401cfd20fe44e245753c7766aed9abd796",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000008/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000008/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -602,7 +655,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "5b2ca5ef8b46c1fa4fa8522f605c9f64343b0b5eaa8bb564e5deeacedafc94db",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000008/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -668,7 +724,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "baa95a80b9b7f1511a867fe64b129bfd6f017c3018c3f34ffd443c63cffa641e",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000009/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000009/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -680,7 +740,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "3b4ded6cd0d672575cf6ad67422369af87fdcb43518f562aaa93cfac515835b4",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000009/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -747,7 +810,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "c05ecc971106a1fabe4af032a5181dd66840b78c49a11bccc2bde86ef74721bd",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000010/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000010/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -759,7 +826,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "c43bbd2efbe1b886c78aac177e8f27b5d56ba1c3b89e7d5309b01cc9eff9cd19",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000010/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -825,7 +895,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "25e04a95ad2dbadd2fb7821f70d59c4a886bfb686d9b087fa027c3b4adabcd39",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000011/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000011/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -837,7 +911,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "571d0069b7f8843dcd68653e9949ed4390bc4176dd20bea708b836b2b7c48c04",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000011/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -903,7 +980,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "f0bb9ee26ced16f85b8cd77e8be146043bf601d86596eff4c64eb2e27b269d80",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000012/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000012/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -915,7 +996,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "97cf0d9d415474e053fe0589dea13a9741f4bb5f000be411c8cdc42c90d09246",
           "displayWidth": 800,
-          "displayHeight": 1160
+          "displayHeight": 1160,
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000012/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -982,7 +1066,11 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "7cad531dea5e17b3310b0b167a74e55da59d3bf1aeec73271d5f1e3e7ba645af",
           "displayWidth": 1120,
-          "displayHeight": 800
+          "displayHeight": 800,
+          "width": 2048,
+          "height": 1708,
+          "preview": "assets/LC-000013/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000013/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -994,7 +1082,10 @@
           "timeSource": "文件名；照片水印核对至分钟",
           "sha256": "a4c38944021a9ec3a44bcd19f088a3bf6d9165872c91d9883d5b45f94714b6eb",
           "displayWidth": 1120,
-          "displayHeight": 800
+          "displayHeight": 800,
+          "width": 2048,
+          "height": 1708,
+          "preview": "assets/LC-000013/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1066,7 +1157,11 @@
           "sourceFilename": "IMG_20261018_183034(1).jpg",
           "capturedAt": "2026-10-18T18:30:34+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "070a39cd82329540908f381e550c58bf6854f7c840dbcc227aa45381333af69c"
+          "sha256": "070a39cd82329540908f381e550c58bf6854f7c840dbcc227aa45381333af69c",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000014/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000014/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1076,7 +1171,10 @@
           "sourceFilename": "IMG_20261018_183110(1).jpg",
           "capturedAt": "2026-10-18T18:31:10+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "540f958ad6d31263f31210dc5833518397e8beb22d27046050ca7c1a698902d1"
+          "sha256": "540f958ad6d31263f31210dc5833518397e8beb22d27046050ca7c1a698902d1",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000014/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1144,7 +1242,11 @@
           "sourceFilename": "IMG_20261018_185519(1).jpg",
           "capturedAt": "2026-10-18T18:55:19+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "e47d47a09af15d2e48c88d29dded3d53af7c81f13d219ce16af39d553b2ab9a8"
+          "sha256": "e47d47a09af15d2e48c88d29dded3d53af7c81f13d219ce16af39d553b2ab9a8",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000015/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000015/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1154,7 +1256,10 @@
           "sourceFilename": "IMG_20261018_185539(1).jpg",
           "capturedAt": "2026-10-18T18:55:39+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "a7c5d734cf6f3fea0469cf9a8d626b802fe8bfcec68558a80fee0129a186a662"
+          "sha256": "a7c5d734cf6f3fea0469cf9a8d626b802fe8bfcec68558a80fee0129a186a662",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000015/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1237,7 +1342,11 @@
           "sourceFilename": "IMG_20261018_190326.jpg",
           "capturedAt": "2026-10-18T19:03:26+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "a437fd052f0ad94a0e1c692b4ae3f8407184ab6e45e10aa81bd0b50fe446b091"
+          "sha256": "a437fd052f0ad94a0e1c692b4ae3f8407184ab6e45e10aa81bd0b50fe446b091",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000016/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000016/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1247,7 +1356,10 @@
           "sourceFilename": "IMG_20261018_190340.jpg",
           "capturedAt": "2026-10-18T19:03:40+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "7c76bca9f8fd06e497140d012e7d1cd71274a9d44d1cb78ac5e35c7d4b32f27d"
+          "sha256": "7c76bca9f8fd06e497140d012e7d1cd71274a9d44d1cb78ac5e35c7d4b32f27d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000016/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1319,7 +1431,11 @@
           "sourceFilename": "IMG_20261018_190437.jpg",
           "capturedAt": "2026-10-18T19:04:37+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "6ea63fa4a9b1e343912d015f1dd9e213563b29269198feedea77a32233410357"
+          "sha256": "6ea63fa4a9b1e343912d015f1dd9e213563b29269198feedea77a32233410357",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000017/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000017/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1329,7 +1445,10 @@
           "sourceFilename": "IMG_20261018_190503.jpg",
           "capturedAt": "2026-10-18T19:05:03+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "3b3c5618d5b2e1b58e53a5df54057824ef6723d421cccb83a347615e6cb05536"
+          "sha256": "3b3c5618d5b2e1b58e53a5df54057824ef6723d421cccb83a347615e6cb05536",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000017/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1417,7 +1536,11 @@
           "sourceFilename": "IMG_20261018_190529.jpg",
           "capturedAt": "2026-10-18T19:05:29+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "4c74e8bfa2371c161ff5c66d6cc6ef3d4edc3a51d564672b755b6e4a00fc70f1"
+          "sha256": "4c74e8bfa2371c161ff5c66d6cc6ef3d4edc3a51d564672b755b6e4a00fc70f1",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000018/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000018/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1427,7 +1550,10 @@
           "sourceFilename": "IMG_20261018_190541.jpg",
           "capturedAt": "2026-10-18T19:05:41+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "b7ec30dbc075e3fd3ad7ab021a36222224e61db6f7c41ef9ebc664e3386f4e1f"
+          "sha256": "b7ec30dbc075e3fd3ad7ab021a36222224e61db6f7c41ef9ebc664e3386f4e1f",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000018/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1516,7 +1642,11 @@
           "sourceFilename": "IMG_20261018_190559.jpg",
           "capturedAt": "2026-10-18T19:05:59+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "0e4eed9790e9c19a1a525b17fb323d9ef20844a67a3285e3b2e5c42a48383a78"
+          "sha256": "0e4eed9790e9c19a1a525b17fb323d9ef20844a67a3285e3b2e5c42a48383a78",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000019/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000019/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1526,7 +1656,10 @@
           "sourceFilename": "IMG_20261018_190610.jpg",
           "capturedAt": "2026-10-18T19:06:10+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "ad3228c1fea3e924825f520c0b20655785da7e82e40cb0f63729db727ba56d29"
+          "sha256": "ad3228c1fea3e924825f520c0b20655785da7e82e40cb0f63729db727ba56d29",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000019/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1617,7 +1750,11 @@
           "sourceFilename": "IMG_20261018_234219.jpg",
           "capturedAt": "2026-10-18T23:42:19+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "3d41113e7e16865e3443f1ac7267fc926cf46d12d584fc67021cb004ae6ba112"
+          "sha256": "3d41113e7e16865e3443f1ac7267fc926cf46d12d584fc67021cb004ae6ba112",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000020/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000020/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1627,7 +1764,10 @@
           "sourceFilename": "IMG_20261018_234230.jpg",
           "capturedAt": "2026-10-18T23:42:30+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "983af05ca6b1ac77467aab9b2466276a4f82cc26699c999f99a7956be0fb5ac6"
+          "sha256": "983af05ca6b1ac77467aab9b2466276a4f82cc26699c999f99a7956be0fb5ac6",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000020/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1696,7 +1836,11 @@
           "sourceFilename": "IMG_20261018_234246.jpg",
           "capturedAt": "2026-10-18T23:42:46+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "2b1505f669e6a678b609f82724a1e9588e37f59c7192ac4024b189c2093ec2eb"
+          "sha256": "2b1505f669e6a678b609f82724a1e9588e37f59c7192ac4024b189c2093ec2eb",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000021/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000021/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1706,7 +1850,10 @@
           "sourceFilename": "IMG_20261018_234255.jpg",
           "capturedAt": "2026-10-18T23:42:55+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "b48de4d5562ef77fb8fe1a1da28941eacb425d8a590018f8a593ced98f11b774"
+          "sha256": "b48de4d5562ef77fb8fe1a1da28941eacb425d8a590018f8a593ced98f11b774",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000021/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1778,7 +1925,11 @@
           "sourceFilename": "IMG_20261018_234333.jpg",
           "capturedAt": "2026-10-18T23:43:33+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "aef5ae3f2bdac630f6f360f5eea89ac7af532f372640916a58d197f2fa9d28fa"
+          "sha256": "aef5ae3f2bdac630f6f360f5eea89ac7af532f372640916a58d197f2fa9d28fa",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000022/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000022/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1788,7 +1939,10 @@
           "sourceFilename": "IMG_20261018_234340.jpg",
           "capturedAt": "2026-10-18T23:43:40+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "0eb78a9281cb2f7e416926cc7a07d125231583cd1695a6456e0f06bf9c9f1bac"
+          "sha256": "0eb78a9281cb2f7e416926cc7a07d125231583cd1695a6456e0f06bf9c9f1bac",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000022/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1860,7 +2014,11 @@
           "sourceFilename": "IMG_20261018_234445.jpg",
           "capturedAt": "2026-10-18T23:44:45+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "4732a59b048e7dff7a0513a52a001b5e9b9723cd5d78a1e12f5d170560e6fce1"
+          "sha256": "4732a59b048e7dff7a0513a52a001b5e9b9723cd5d78a1e12f5d170560e6fce1",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000023/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000023/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1870,7 +2028,10 @@
           "sourceFilename": "IMG_20261018_234456_2.jpg",
           "capturedAt": "2026-10-18T23:44:56+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "82dd4d60fbbfd3112871a44a70cd10d7efefecf6c8a7d600bb8181d944485aff"
+          "sha256": "82dd4d60fbbfd3112871a44a70cd10d7efefecf6c8a7d600bb8181d944485aff",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000023/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -1940,7 +2101,11 @@
           "sourceFilename": "IMG_20261018_234516.jpg",
           "capturedAt": "2026-10-18T23:45:16+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "cc8f4f334858115ca517181d9ec413031f0ab8c2e9574d735fe6e537562b2ada"
+          "sha256": "cc8f4f334858115ca517181d9ec413031f0ab8c2e9574d735fe6e537562b2ada",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000024/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000024/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -1950,7 +2115,10 @@
           "sourceFilename": "IMG_20261018_234528.jpg",
           "capturedAt": "2026-10-18T23:45:28+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "c27d9dd7869fb858877d6439c1068666a0dc65a367c96d64beeb6e64a96bf082"
+          "sha256": "c27d9dd7869fb858877d6439c1068666a0dc65a367c96d64beeb6e64a96bf082",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000024/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -2020,7 +2188,11 @@
           "sourceFilename": "IMG_20261018_234549.jpg",
           "capturedAt": "2026-10-18T23:45:49+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "f7fe32106c3874f1ff38b1dfa02148f7511f4c4322dbcf62c2cabecc91bd24b6"
+          "sha256": "f7fe32106c3874f1ff38b1dfa02148f7511f4c4322dbcf62c2cabecc91bd24b6",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000025/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000025/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -2030,7 +2202,10 @@
           "sourceFilename": "IMG_20261018_234602.jpg",
           "capturedAt": "2026-10-18T23:46:02+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "0e84fe43b7a99561f4c47ed046e1639f0301cecd1a2f982e35d4080b44d03e4b"
+          "sha256": "0e84fe43b7a99561f4c47ed046e1639f0301cecd1a2f982e35d4080b44d03e4b",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000025/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -2100,7 +2275,11 @@
           "sourceFilename": "IMG_20261018_234714.jpg",
           "capturedAt": "2026-10-18T23:47:14+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "5c6951d38a241cb96b664752dce91f3be03501ebcb66d62e58c8efd58a2072da"
+          "sha256": "5c6951d38a241cb96b664752dce91f3be03501ebcb66d62e58c8efd58a2072da",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000026/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000026/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -2110,7 +2289,10 @@
           "sourceFilename": "IMG_20261018_234725.jpg",
           "capturedAt": "2026-10-18T23:47:25+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "18a5fd4c351cb93541b9e8c4f4858b8316ad2e7d9fcb8a838406b9935d4517b0"
+          "sha256": "18a5fd4c351cb93541b9e8c4f4858b8316ad2e7d9fcb8a838406b9935d4517b0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000026/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -2180,7 +2362,11 @@
           "sourceFilename": "IMG_20261018_234800.jpg",
           "capturedAt": "2026-10-18T23:48:00+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "a0867062257aa9fe8ce6ba869ff2a5160c9d9a75bb7ceb0c4b25c4b91c21e060"
+          "sha256": "a0867062257aa9fe8ce6ba869ff2a5160c9d9a75bb7ceb0c4b25c4b91c21e060",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000027/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000027/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -2190,7 +2376,10 @@
           "sourceFilename": "IMG_20261018_234814.jpg",
           "capturedAt": "2026-10-18T23:48:14+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "916b8a4a72b6237d8b8f980e7e66995024396e0ad24f43dd28d292a6245da0f0"
+          "sha256": "916b8a4a72b6237d8b8f980e7e66995024396e0ad24f43dd28d292a6245da0f0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000027/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -2263,7 +2452,11 @@
           "sourceFilename": "IMG_20261018_234858.jpg",
           "capturedAt": "2026-10-18T23:48:58+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "2ae42331d33e2b293df65a22f83ce7f9923855eb3bbb23a3fbe7908e3b581de3"
+          "sha256": "2ae42331d33e2b293df65a22f83ce7f9923855eb3bbb23a3fbe7908e3b581de3",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000028/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000028/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -2273,7 +2466,10 @@
           "sourceFilename": "IMG_20261018_234940.jpg",
           "capturedAt": "2026-10-18T23:49:40+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "787b509d191ccf638a754aa65dd50fdc1c9ff9b817cb949199b72fba35ea4cd7"
+          "sha256": "787b509d191ccf638a754aa65dd50fdc1c9ff9b817cb949199b72fba35ea4cd7",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000028/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -2343,7 +2539,11 @@
           "sourceFilename": "IMG_20261018_234956.jpg",
           "capturedAt": "2026-10-18T23:49:56+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "4f412af8b58c0cdd8e4abdd624dbe2e6ef98986589e641a2f13ff4b36e50a3dd"
+          "sha256": "4f412af8b58c0cdd8e4abdd624dbe2e6ef98986589e641a2f13ff4b36e50a3dd",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000029/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000029/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -2353,7 +2553,10 @@
           "sourceFilename": "IMG_20261018_235004.jpg",
           "capturedAt": "2026-10-18T23:50:04+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "765b310f42e22152eaa9b8165c8953e1ecd4f8fdf77fd4b79edd0bdc13041106"
+          "sha256": "765b310f42e22152eaa9b8165c8953e1ecd4f8fdf77fd4b79edd0bdc13041106",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000029/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -2423,7 +2626,11 @@
           "sourceFilename": "IMG_20261018_235017.jpg",
           "capturedAt": "2026-10-18T23:50:17+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "6bd5ed97c2e027183df1fafd1c99ab7cd7af5957b0f35c11fd9efb82bd88444f"
+          "sha256": "6bd5ed97c2e027183df1fafd1c99ab7cd7af5957b0f35c11fd9efb82bd88444f",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000030/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000030/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -2433,7 +2640,10 @@
           "sourceFilename": "IMG_20261018_235025.jpg",
           "capturedAt": "2026-10-18T23:50:25+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "cc8913b321a64582c4dc87590973e1696a766d093a38a4ec94bab903df4facce"
+          "sha256": "cc8913b321a64582c4dc87590973e1696a766d093a38a4ec94bab903df4facce",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000030/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -2500,7 +2710,11 @@
           "sourceFilename": "IMG_20261018_235039_1.jpg",
           "capturedAt": "2026-10-18T23:50:39+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "1af33697f395663878e853be1a9d87df23e2209e4e6183fc2480a1b31339393b"
+          "sha256": "1af33697f395663878e853be1a9d87df23e2209e4e6183fc2480a1b31339393b",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000031/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000031/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -2510,7 +2724,10 @@
           "sourceFilename": "IMG_20261018_235105.jpg",
           "capturedAt": "2026-10-18T23:51:05+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "05194851efee77856d056dabcb30589d145fe34aa51cb29289b082bab0220ec1"
+          "sha256": "05194851efee77856d056dabcb30589d145fe34aa51cb29289b082bab0220ec1",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000031/back-preview-v1.webp"
         }
       ],
       "condition": {
@@ -2580,7 +2797,11 @@
           "sourceFilename": "IMG_20261018_235236.jpg",
           "capturedAt": "2026-10-18T23:52:36+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "6fda4f5517ae5334e80cedc73e691723509f7e909656fa8bcc610247ef154fb0"
+          "sha256": "6fda4f5517ae5334e80cedc73e691723509f7e909656fa8bcc610247ef154fb0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000032/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000032/front-thumbnail-v1.webp"
         },
         {
           "side": "back",
@@ -2590,7 +2811,10 @@
           "sourceFilename": "IMG_20261018_235245.jpg",
           "capturedAt": "2026-10-18T23:52:45+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
-          "sha256": "6a96a5ef67850f755b52f25ffcf5fa1ac8a77debcccc7790654ebf248716dd3a"
+          "sha256": "6a96a5ef67850f755b52f25ffcf5fa1ac8a77debcccc7790654ebf248716dd3a",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000032/back-preview-v1.webp"
         }
       ],
       "condition": {
