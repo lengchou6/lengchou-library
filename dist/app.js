@@ -23,7 +23,7 @@
     const photo = book.photos.find(p => p.side === side);
     return photo ? (size==='original' ? photo.original : photo[size] || photo.preview || photo.original) : '';
   };
-  let seriesGroups = [], seriesFilter = 'all', grouping = 'series', languageFilter = 'all', usageFilter = 'all';
+  let categoryOrder = [], seriesGroups = [], seriesFilter = 'all', grouping = 'series', languageFilter = 'all', usageFilter = 'all';
   let books = [], category = '全部', view = 'grid', activeBook = null, side = 'front', zoom = 1;
   let lastCatalogFocus = null, catalogScroll = 0, currentPage = null, bookSequence = [];
   let suppressPhotoClick = false, recentExpanded=false, viewerSource=null, viewerSide=null, viewerReturnFocus=null;
@@ -94,7 +94,7 @@
     });
   }
   function categories() {
-    $('#categories').innerHTML = ['全部', ...new Set(books.map(b => b.category))].map(c => `<button type="button" class="category-button" data-category="${esc(c)}" aria-pressed="${category === c}">${esc(c)}<span>${c === '全部' ? books.length : books.filter(b=>b.category===c).length}</span></button>`).join('');
+    $('#categories').innerHTML = ['全部', ...new Set([...categoryOrder,...books.map(b=>b.category)].filter(c=>books.some(b=>b.category===c)))].map(c => `<button type="button" class="category-button" data-category="${esc(c)}" aria-pressed="${category === c}">${esc(c)}<span>${c === '全部' ? books.length : books.filter(b=>b.category===c).length}</span></button>`).join('');
     $('#categories').querySelectorAll('button').forEach(btn => btn.addEventListener('click', () => {
       category = btn.dataset.category; categories(); renderCollection();
       $('#categories').querySelectorAll('button').forEach(b=>{if(b.dataset.category===category)b.focus();});
@@ -383,8 +383,8 @@
   $('#zoom-reset').addEventListener('click',()=>setZoom(1));
   window.addEventListener('resize',()=>{if(dialog.open)setZoom(zoom);});
   document.addEventListener('keydown',event=>{if(event.key==='/'&&!dialog.open&&!$('#catalog-page').hidden&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){event.preventDefault();$('#search').focus();}});
-  fetch('data/books.json?v=20261024-browse').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
-    priceGroups=data.priceGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};books=data.books;seriesGroups=data.seriesGroups || [];summary();renderUsage();renderLanguages();renderRecent();categories();renderSeriesControls();renderCollection();route();window.addEventListener('hashchange',route);
+  fetch('data/books.json?v=20261024-core').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
+    priceGroups=data.priceGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};books=data.books;categoryOrder=data.categoryOrder || [];seriesGroups=data.seriesGroups || [];summary();renderUsage();renderLanguages();renderRecent();categories();renderSeriesControls();renderCollection();route();window.addEventListener('hashchange',route);
   }).catch(()=>{
     $('#collection').setAttribute('aria-busy','false');$('#collection').innerHTML='<div class="error-state"><h2>书目暂时未能展开</h2><p>请检查网络后重试。如果在本地查看，请通过网页服务器打开。</p><button type="button" class="primary-button" id="retry-load">重新载入</button></div>';$('#retry-load').addEventListener('click',()=>location.reload());
   });
