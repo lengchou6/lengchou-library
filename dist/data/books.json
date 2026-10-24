@@ -2828,6 +2828,677 @@
       "priceGroupId": "don-quixote-set",
       "isbnScope": "全套 ISBN，取自下册封底",
       "physicalSetId": "don-quixote-set"
+    },
+    {
+      "id": "LC-000033",
+      "title": "沙丘",
+      "subtitle": null,
+      "originalTitle": "Dune",
+      "authors": [
+        {
+          "name": "弗兰克·赫伯特",
+          "country": "美国",
+          "originalName": "Frank Herbert",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "顾备"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "imprint": "读客",
+      "isbn": "978-7-5594-7820-7",
+      "category": "文学与小说",
+      "tags": [
+        "沙丘",
+        "科幻小说",
+        "读客",
+        "2024增补修订版"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "沙丘 · 读客版",
+      "seriesGroupId": "dune-duke-2024",
+      "seriesNumber": 1,
+      "seriesLabel": "第1部",
+      "physicalSetId": "dune-six-volume-box",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "2024年全新增补修订版（封底标识）",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 79.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-24T15:39+08:00",
+      "accessionRule": "正面照片水印时间，精确至分钟",
+      "readingStatus": null,
+      "location": null,
+      "notes": "读客科幻文库；出版版次和印次待版权页核对。",
+      "description": "弗兰克·赫伯特《沙丘》六部曲第1部。按实体封面、封底记录书名、译者、ISBN 与定价。",
+      "metadataSource": "用户上传的实体书正反面照片与套盒照片；分类和用途为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000033/front-original.jpg",
+          "original": "assets/LC-000033/front-original.jpg",
+          "sourceFilename": "C258C5DC913679D8A5BB62C850D3059E.jpg",
+          "capturedAt": "2026-10-24T15:39+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "617bfab8d243ab6dcabb7e2048093bb60d10e9096725a69ecf52be9c6ddc985a",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000033/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000033/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000033/back-original.jpg",
+          "original": "assets/LC-000033/back-original.jpg",
+          "sourceFilename": "F1765230898F3645AE7B894C6F557680.jpg",
+          "capturedAt": "2026-10-24T15:39+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "d93e33b29c010ffb2574746b3c2d59a27c0ab090d89706eb700914dfa515f55d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000033/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面及封底可见轻微擦痕、边角磨损；反光部分不作损伤判断。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-24",
+        "limitations": "未检查内页、装订、缺页及笔记。"
+      }
+    },
+    {
+      "id": "LC-000034",
+      "title": "沙丘2",
+      "subtitle": "沙丘救世主",
+      "originalTitle": "Dune Messiah",
+      "authors": [
+        {
+          "name": "弗兰克·赫伯特",
+          "country": "美国",
+          "originalName": "Frank Herbert",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "苏益群"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "imprint": "读客",
+      "isbn": "978-7-5594-7819-1",
+      "category": "文学与小说",
+      "tags": [
+        "沙丘",
+        "科幻小说",
+        "读客",
+        "2024增补修订版"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "沙丘 · 读客版",
+      "seriesGroupId": "dune-duke-2024",
+      "seriesNumber": 2,
+      "seriesLabel": "第2部",
+      "physicalSetId": "dune-six-volume-box",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "2024年全新增补修订版（封底标识）",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-24T15:40+08:00",
+      "accessionRule": "正面照片水印时间，精确至分钟",
+      "readingStatus": null,
+      "location": null,
+      "notes": "读客科幻文库；出版版次和印次待版权页核对。",
+      "description": "弗兰克·赫伯特《沙丘》六部曲第2部。按实体封面、封底记录书名、译者、ISBN 与定价。",
+      "metadataSource": "用户上传的实体书正反面照片与套盒照片；分类和用途为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000034/front-original.jpg",
+          "original": "assets/LC-000034/front-original.jpg",
+          "sourceFilename": "E697D31C7E55D59EFF83754F9914E0C6.jpg",
+          "capturedAt": "2026-10-24T15:40+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "8d8d1d58809793d8aa31ad0098a7324198fce899a71e2d818005c5308fa1e5a1",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000034/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000034/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000034/back-original.jpg",
+          "original": "assets/LC-000034/back-original.jpg",
+          "sourceFilename": "D5383339D40C15704E3F38D631018FF8.jpg",
+          "capturedAt": "2026-10-24T15:40+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "fea1995feb8ccea647f681880670bf6898fba70b2745eda65ce533c6077f2a95",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000034/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面及封底可见轻微擦痕、边角磨损；反光部分不作损伤判断。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-24",
+        "limitations": "未检查内页、装订、缺页及笔记。"
+      }
+    },
+    {
+      "id": "LC-000035",
+      "title": "沙丘3",
+      "subtitle": "沙丘之子",
+      "originalTitle": "Children of Dune",
+      "authors": [
+        {
+          "name": "弗兰克·赫伯特",
+          "country": "美国",
+          "originalName": "Frank Herbert",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "张建光"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "imprint": "读客",
+      "isbn": "978-7-5594-7818-4",
+      "category": "文学与小说",
+      "tags": [
+        "沙丘",
+        "科幻小说",
+        "读客",
+        "2024增补修订版"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "沙丘 · 读客版",
+      "seriesGroupId": "dune-duke-2024",
+      "seriesNumber": 3,
+      "seriesLabel": "第3部",
+      "physicalSetId": "dune-six-volume-box",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "2024年全新增补修订版（封底标识）",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 69.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-24T15:40+08:00",
+      "accessionRule": "正面照片水印时间，精确至分钟",
+      "readingStatus": null,
+      "location": null,
+      "notes": "读客科幻文库；出版版次和印次待版权页核对。",
+      "description": "弗兰克·赫伯特《沙丘》六部曲第3部。按实体封面、封底记录书名、译者、ISBN 与定价。",
+      "metadataSource": "用户上传的实体书正反面照片与套盒照片；分类和用途为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000035/front-original.jpg",
+          "original": "assets/LC-000035/front-original.jpg",
+          "sourceFilename": "350E66D5B6CA92386363C5F68F7C73E4.jpg",
+          "capturedAt": "2026-10-24T15:40+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "78fe724cf739cd4f053d2ef7939603e599791b1efd44d44fc5c972ac6b90d935",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000035/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000035/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000035/back-original.jpg",
+          "original": "assets/LC-000035/back-original.jpg",
+          "sourceFilename": "26EB403861E78A6E3C140A41B93ACB32.jpg",
+          "capturedAt": "2026-10-24T15:40+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "815544a183ec98efc7baf98562f3e7566ac1e75f239889e24da7797c78a1b2d4",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000035/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面及封底可见轻微擦痕、边角磨损；反光部分不作损伤判断。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-24",
+        "limitations": "未检查内页、装订、缺页及笔记。"
+      }
+    },
+    {
+      "id": "LC-000036",
+      "title": "沙丘4",
+      "subtitle": "沙丘神帝",
+      "originalTitle": "God Emperor of Dune",
+      "authors": [
+        {
+          "name": "弗兰克·赫伯特",
+          "country": "美国",
+          "originalName": "Frank Herbert",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "刘未央"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "imprint": "读客",
+      "isbn": "978-7-5594-7817-7",
+      "category": "文学与小说",
+      "tags": [
+        "沙丘",
+        "科幻小说",
+        "读客",
+        "2024增补修订版"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "沙丘 · 读客版",
+      "seriesGroupId": "dune-duke-2024",
+      "seriesNumber": 4,
+      "seriesLabel": "第4部",
+      "physicalSetId": "dune-six-volume-box",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "2024年全新增补修订版（封底标识）",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 69.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-24T15:40+08:00",
+      "accessionRule": "正面照片水印时间，精确至分钟",
+      "readingStatus": null,
+      "location": null,
+      "notes": "读客科幻文库；出版版次和印次待版权页核对。",
+      "description": "弗兰克·赫伯特《沙丘》六部曲第4部。按实体封面、封底记录书名、译者、ISBN 与定价。",
+      "metadataSource": "用户上传的实体书正反面照片与套盒照片；分类和用途为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000036/front-original.jpg",
+          "original": "assets/LC-000036/front-original.jpg",
+          "sourceFilename": "7AF855BD15C99027435F895D197D7C8E.jpg",
+          "capturedAt": "2026-10-24T15:40+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "377e294cd9f83de338a7792d2ce5dc8d1d3d31771a65dad319feed12ab703e00",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000036/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000036/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000036/back-original.jpg",
+          "original": "assets/LC-000036/back-original.jpg",
+          "sourceFilename": "99955346B8A19A0546DCDF0FA2F8CF42.jpg",
+          "capturedAt": "2026-10-24T15:40+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "de29e71ebcbd0b69930a35beabdc275bdbbd8aaed6b4c96c513e380baefdb3a2",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000036/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面及封底可见轻微擦痕、边角磨损；反光部分不作损伤判断。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-24",
+        "limitations": "未检查内页、装订、缺页及笔记。"
+      }
+    },
+    {
+      "id": "LC-000037",
+      "title": "沙丘5",
+      "subtitle": "沙丘异端",
+      "originalTitle": "Heretics of Dune",
+      "authors": [
+        {
+          "name": "弗兰克·赫伯特",
+          "country": "美国",
+          "originalName": "Frank Herbert",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "魏晋"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "imprint": "读客",
+      "isbn": "978-7-5594-7821-4",
+      "category": "文学与小说",
+      "tags": [
+        "沙丘",
+        "科幻小说",
+        "读客",
+        "2024增补修订版"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "沙丘 · 读客版",
+      "seriesGroupId": "dune-duke-2024",
+      "seriesNumber": 5,
+      "seriesLabel": "第5部",
+      "physicalSetId": "dune-six-volume-box",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "2024年全新增补修订版（封底标识）",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 79.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-24T15:41+08:00",
+      "accessionRule": "正面照片水印时间，精确至分钟",
+      "readingStatus": null,
+      "location": null,
+      "notes": "读客科幻文库；出版版次和印次待版权页核对。",
+      "description": "弗兰克·赫伯特《沙丘》六部曲第5部。按实体封面、封底记录书名、译者、ISBN 与定价。",
+      "metadataSource": "用户上传的实体书正反面照片与套盒照片；分类和用途为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000037/front-original.jpg",
+          "original": "assets/LC-000037/front-original.jpg",
+          "sourceFilename": "A2711A75C2DD9529F819E11477789E07.jpg",
+          "capturedAt": "2026-10-24T15:41+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "92267d6d829cdd64df32083d2e4f36d661e6ce993c50c408634cb048e2da6917",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000037/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000037/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000037/back-original.jpg",
+          "original": "assets/LC-000037/back-original.jpg",
+          "sourceFilename": "EFA87EA34E70C1D52F1862170300F1A0.jpg",
+          "capturedAt": "2026-10-24T15:41+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "51ebcbd689323d0c14def9794bdf241f314cb00271a17c121f95c2cde0ee9c42",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000037/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面及封底可见轻微擦痕、边角磨损；反光部分不作损伤判断。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-24",
+        "limitations": "未检查内页、装订、缺页及笔记。"
+      }
+    },
+    {
+      "id": "LC-000038",
+      "title": "沙丘6",
+      "subtitle": "圣殿沙丘",
+      "originalTitle": "Chapterhouse: Dune",
+      "authors": [
+        {
+          "name": "弗兰克·赫伯特",
+          "country": "美国",
+          "originalName": "Frank Herbert",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "老光",
+        "甄春雨"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "imprint": "读客",
+      "isbn": "978-7-5594-7816-0",
+      "category": "文学与小说",
+      "tags": [
+        "沙丘",
+        "科幻小说",
+        "读客",
+        "2024增补修订版"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "沙丘 · 读客版",
+      "seriesGroupId": "dune-duke-2024",
+      "seriesNumber": 6,
+      "seriesLabel": "第6部",
+      "physicalSetId": "dune-six-volume-box",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": "2024年全新增补修订版（封底标识）",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 75,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-24T15:41+08:00",
+      "accessionRule": "正面照片水印时间，精确至分钟",
+      "readingStatus": null,
+      "location": null,
+      "notes": "读客科幻文库；出版版次和印次待版权页核对。",
+      "description": "弗兰克·赫伯特《沙丘》六部曲第6部。按实体封面、封底记录书名、译者、ISBN 与定价。",
+      "metadataSource": "用户上传的实体书正反面照片与套盒照片；分类和用途为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000038/front-original.jpg",
+          "original": "assets/LC-000038/front-original.jpg",
+          "sourceFilename": "0AD85C932CD3E4FB434564B1B2354802.jpg",
+          "capturedAt": "2026-10-24T15:41+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "40e895dc039c6a27baaa3b165390e97428885981d32e6d9cda789ecf26d96d42",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000038/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000038/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000038/back-original.jpg",
+          "original": "assets/LC-000038/back-original.jpg",
+          "sourceFilename": "1F13F08F7D77900610A144E200865B91.jpg",
+          "capturedAt": "2026-10-24T15:41+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "b49f48fe2c6a0198c1f18db859069aba417ea56677b99a77528e7b75b4c93d1a",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000038/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面及封底可见轻微擦痕、边角磨损；反光部分不作损伤判断。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-24",
+        "limitations": "未检查内页、装订、缺页及笔记。"
+      }
+    },
+    {
+      "id": "LC-000039",
+      "title": "沙丘档案",
+      "subtitle": null,
+      "originalTitle": null,
+      "authors": [
+        {
+          "name": "弗兰克·赫伯特",
+          "country": "美国",
+          "originalName": "Frank Herbert",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": null,
+      "imprint": "读客",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "沙丘",
+        "科幻小说",
+        "读客",
+        "附册"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "沙丘 · 读客版",
+      "seriesGroupId": "dune-duke-2024",
+      "seriesNumber": 7,
+      "seriesLabel": "附册",
+      "physicalSetId": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-24T15:39+08:00",
+      "accessionRule": "正面照片水印时间，精确至分钟",
+      "readingStatus": null,
+      "location": null,
+      "notes": "照片未见独立 ISBN、定价和译者；附册出版责任及是否随套赠送待版权页核对。",
+      "description": "随本批读客版《沙丘》六部曲一并编目的附册；书内内容与出版信息待核对。",
+      "metadataSource": "用户上传的实体书正反面照片与套盒照片；分类和用途为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000039/front-original.jpg",
+          "original": "assets/LC-000039/front-original.jpg",
+          "sourceFilename": "6DDAA4805A777F45F15C70109EC40656.jpg",
+          "capturedAt": "2026-10-24T15:39+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "0daaf369dc7a313d1effa177611bc2a2a49426fd8ac32cd59d36dfb47a30038a",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000039/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000039/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000039/back-original.jpg",
+          "original": "assets/LC-000039/back-original.jpg",
+          "sourceFilename": "016ED6F8151C82A6499ED05DF468E37E.jpg",
+          "capturedAt": "2026-10-24T15:39+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "f17f2c93c31ea312aa57a68afe659671ce2761307c251d4707f2b7935a0296bd",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000039/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "约八五成新",
+        "note": "封面及封底可见轻微擦痕、边角磨损；反光部分不作损伤判断。",
+        "scope": "外观",
+        "source": "正反面照片预估",
+        "assessedOn": "2026-10-24",
+        "limitations": "未检查内页、装订、缺页及笔记。"
+      }
     }
   ],
   "seriesGroups": [
@@ -2879,6 +3550,45 @@
       "shortTitle": "堂吉诃德上下册",
       "kind": "书系或分册归组",
       "description": "上下册合为一组，各保留独立档案；全两册定价 68 元，仅累计一次。"
+    },
+    {
+      "id": "dune-duke-2024",
+      "title": "沙丘 · 读客版",
+      "shortTitle": "沙丘（读客版）",
+      "kind": "六部曲与附册",
+      "description": "六部曲依第 1—6 部排列，《沙丘档案》作为附册独立编目。套盒外封及书脊合照为系列补充照片，不计册数或价格。",
+      "photos": [
+        {
+          "side": "box-front",
+          "label": "套盒外封",
+          "file": "assets/dune-duke-2024/box-front-original.jpg",
+          "original": "assets/dune-duke-2024/box-front-original.jpg",
+          "sourceFilename": "8DDCD29B7B29EBE5B18340864DCBE153.jpg",
+          "capturedAt": "2026-10-24T15:43+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "be9489526eab2d655f3704f93670adf5166fabee7f31546b58f2df16913038af",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/dune-duke-2024/box-front-preview-v1.webp",
+          "thumbnail": "assets/dune-duke-2024/box-front-thumbnail-v1.webp"
+        },
+        {
+          "side": "box-spines",
+          "label": "六册书脊合照",
+          "file": "assets/dune-duke-2024/box-spines-original.jpg",
+          "original": "assets/dune-duke-2024/box-spines-original.jpg",
+          "sourceFilename": "62A21B79CA61C049BDD2A36DA03F56AA.jpg",
+          "capturedAt": "2026-10-24T15:43+08:00",
+          "timePrecision": "minute",
+          "timeSource": "照片水印，仅精确至分钟；文件名不含拍摄时间，EXIF 无可读取时间",
+          "sha256": "abb1ddf393951f693b465f05f3077aaaa9dacea5d12ec3098bf1033c6e5afc83",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/dune-duke-2024/box-spines-preview-v1.webp",
+          "thumbnail": "assets/dune-duke-2024/box-spines-thumbnail-v1.webp"
+        }
+      ]
     }
   ],
   "exchangeRates": {

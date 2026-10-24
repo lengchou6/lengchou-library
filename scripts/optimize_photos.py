@@ -5,14 +5,14 @@ from PIL import Image, ImageOps
 ROOT=Path(__file__).resolve().parents[1]/'dist'
 data=json.loads((ROOT/'data/books.json').read_text())
 outputs=[]
-for book in data['books']:
-    for photo in book['photos']:
+for book in data['books'] + data.get('seriesGroups', []):
+    for photo in book.get('photos', []):
         source=ROOT/photo['original']
         with Image.open(source) as raw:
             image=ImageOps.exif_transpose(raw).convert('RGB')
             photo['width'],photo['height']=image.size
             for kind,max_width,quality in [('preview',960,82),('thumbnail',480,78)]:
-                if kind=='thumbnail' and photo['side']!='front':
+                if kind=='thumbnail' and photo['side']!='front' and not photo['side'].startswith('box-'):
                     continue
                 derived=image.copy()
                 # Resize the complete frame; do not crop, straighten or repaint it.
