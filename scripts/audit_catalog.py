@@ -7,7 +7,7 @@ ROOT=Path(__file__).resolve().parents[1]/'dist'
 data=json.loads((ROOT/'data/books.json').read_text())
 isbn=defaultdict(list);titles=defaultdict(list);photos=defaultdict(list)
 for book in data['books']:
-    isbn[book['isbn'].replace('-','')].append(book['id'])
+    if book.get('isbn'): isbn[book['isbn'].replace('-','')].append(book['id'])
     title=unicodedata.normalize('NFKC',book['title']).replace(' ','')
     titles[title].append({'id':book['id'],'isbn':book['isbn']})
     for photo in book['photos']:
@@ -15,6 +15,13 @@ for book in data['books']:
         digest=hashlib.sha256(raw).hexdigest()
         assert not photo.get('sha256') or photo['sha256']==digest, f"Changed original: {photo['original']}"
         photos[digest].append({'id':book['id'],'side':photo['side']})
+
+for group in data.get('seriesGroups', []):
+    for photo in group.get('photos', []):
+        digest=hashlib.sha256((ROOT/photo['original']).read_bytes()).hexdigest()
+        assert not photo.get('sha256') or digest==photo['sha256']
+        photos[digest].append({'id':'series:'+group['id'],'side':photo['side']})
+
 bookmap={b['id']:b for b in data['books']}
 sharedset=lambda ids: len({bookmap[i].get('physicalSetId') for i in ids})==1 and bool(bookmap[ids[0]].get('physicalSetId'))
 groups={g['id'] for g in data.get('seriesGroups',[])}
@@ -24,7 +31,8 @@ for b in data['books']:
         assert isinstance(b.get('seriesNumber'),int) and b['seriesNumber']>0
 report={
  'books':len(data['books']),
- 'originalPhotos':sum(len(b['photos']) for b in data['books']),
+ 'originalPhotos':sum(len(b['photos']) for b in data['books'])+sum(len(g.get('photos',[])) for g in data.get('seriesGroups',[])),
+ 'booksWithoutISBN':[b['id'] for b in data['books'] if not b.get('isbn')],
  'seriesGroups':len(groups),
  'originalCurrencyTotals':{c:round(sum(b['listPrice'] or 0 for b in data['books'] if b['currency']==c),2) for c in {b['currency'] for b in data['books']}},
  'referenceCnyTotal':round(sum((b['listPrice'] or 0)*data.get('exchangeRates',{}).get('rates',{'CNY':1}).get(b['currency'],0) for b in data['books'] if not b.get('priceGroupId'))+sum(g['amount']*data['exchangeRates']['rates'][g['currency']] for g in data.get('priceGroups',[])),2),

@@ -9,9 +9,10 @@ seen = set()
 for book in data['books']:
     assert book['id'] not in seen, f"Duplicate accession: {book['id']}"
     seen.add(book['id'])
-    digits = book['isbn'].replace('-','')
-    assert len(digits)==13 and digits.isdigit(), f"Invalid ISBN: {book['isbn']}"
-    assert sum(int(c)*(1 if i%2==0 else 3) for i,c in enumerate(digits))%10==0, f"ISBN checksum: {book['id']}"
+    if book.get('isbn'):
+        digits=book['isbn'].replace('-','')
+        assert len(digits)==13 and digits.isdigit(), f"Invalid ISBN: {book['id']}"
+        assert sum(int(c)*(1 if i%2==0 else 3) for i,c in enumerate(digits))%10==0, f"ISBN checksum: {book['id']}"
     assert book['category'] and book['title'] and book['authors']
     for key in ['listPrice','paidPrice']:
         assert book[key] is None or isinstance(book[key],(int,float)) and book[key]>=0
@@ -42,3 +43,8 @@ for book in data['books']:
     assert isinstance(book.get('usageTags'),list) and book['usageTags'] and len(book['usageTags'])==len(set(book['usageTags']))
 
 print(f"Original currencies preserved; reference CNY total: {raw_total:.2f}")
+
+for group in data.get('seriesGroups', []):
+    for photo in group.get('photos', []):
+        for key in ['original','file','preview','thumbnail']:
+            if key in photo: assert (ROOT/photo[key]).is_file(), f"Missing group image: {photo[key]}"
