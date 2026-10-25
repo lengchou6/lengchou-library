@@ -1,0 +1,43 @@
+{
+  "books": [
+    "LC-000079",
+    "LC-000080",
+    "LC-000081",
+    "LC-000082",
+    "LC-000083",
+    "LC-000084",
+    "LC-000085",
+    "LC-000086",
+    "LC-000087",
+    "LC-000088"
+  ],
+  "originalPaths": [
+    "dist/assets/LC-000079/front-original.jpg",
+    "dist/assets/LC-000079/back-original.jpg",
+    "dist/assets/LC-000080/front-original.jpg",
+    "dist/assets/LC-000080/back-original.jpg",
+    "dist/assets/LC-000081/front-original.jpg",
+    "dist/assets/LC-000081/back-original.jpg",
+    "dist/assets/LC-000082/front-original.jpg",
+    "dist/assets/LC-000082/back-original.jpg",
+    "dist/assets/LC-000083/front-original.jpg",
+    "dist/assets/LC-000083/back-original.jpg",
+    "dist/assets/LC-000084/front-original.jpg",
+    "dist/assets/LC-000084/back-original.jpg",
+    "dist/assets/LC-000085/front-original.jpg",
+    "dist/assets/LC-000085/back-original.jpg",
+    "dist/assets/LC-000086/front-original.jpg",
+    "dist/assets/LC-000086/back-original.jpg",
+    "dist/assets/LC-000087/front-original.jpg",
+    "dist/assets/LC-000087/back-original.jpg",
+    "dist/assets/LC-000088/front-original.jpg",
+    "dist/assets/LC-000088/back-original.jpg"
+  ],
+  "source": "2026-10-25 15:09—15:16 用户上传20张正反面照片",
+  "unconfirmed": {
+    "LC-000081": [
+      "ISBN",
+      "定价"
+    ]
+  }
+}
