@@ -1,25 +1,32 @@
-"""Build small, full-frame display images without modifying original photographs."""
-import json
+"""Generate full-frame responsive images; reuse content-addressed cached outputs."""
+import json,hashlib,shutil
 from pathlib import Path
-from PIL import Image, ImageOps
-ROOT=Path(__file__).resolve().parents[1]/'dist'
-data=json.loads((ROOT/'data/books.json').read_text())
-outputs=[]
-for book in data['books'] + data.get('seriesGroups', []):
-    for photo in book.get('photos', []):
-        source=ROOT/photo['original']
-        with Image.open(source) as raw:
-            image=ImageOps.exif_transpose(raw).convert('RGB')
-            photo['width'],photo['height']=image.size
-            for kind,max_width,quality in [('preview',960,82),('thumbnail',480,78)]:
-                if kind=='thumbnail' and photo['side']!='front' and not photo['side'].startswith('box-'):
-                    continue
-                derived=image.copy()
-                # Resize the complete frame; do not crop, straighten or repaint it.
-                derived.thumbnail((max_width,max_width*3),Image.Resampling.LANCZOS)
-                path=source.with_name(photo['side']+'-'+kind+'-v1.webp')
-                derived.save(path,'WEBP',quality=quality,method=6)
-                photo[kind]=path.relative_to(ROOT).as_posix()
-                outputs.append(path.relative_to(ROOT.parent).as_posix())
+from PIL import Image,ImageOps,__version__
+ROOT=Path(__file__).resolve().parents[1]/'dist';CACHE=ROOT.parent/'.cache/photos';CACHE.mkdir(parents=True,exist_ok=True)
+data=json.loads((ROOT/'data/books.json').read_text());generated=reused=0;outputs=[];originals=set()
+for owner in data['books']+data.get('seriesGroups',[]):
+ for photo in owner.get('photos',[]):
+  source=ROOT/photo['original'];originals.add(source.resolve());photo['file']=photo['original'];digest=hashlib.sha256(source.read_bytes()).hexdigest()
+  with Image.open(source) as raw:
+   photo['width'],photo['height']=ImageOps.exif_transpose(raw).size
+  cover=photo['side']=='front' or photo['side'].startswith('box-')
+  targets=[('preview',960,82)]+([('small',320,78),('thumbnail',480,78),('large',720,80)] if cover else [])
+  photo.pop('sources',None);sources=[];image=None
+  for kind,width,quality in targets:
+   key=hashlib.sha256(f'{digest}:{width}:{quality}:{__version__}:full-frame-v2'.encode()).hexdigest()
+   cache=CACHE/(key+'.webp');path=source.with_name(photo['side']+'-'+kind+'-'+key[:12]+'.webp')
+   if cache.exists():reused+=1
+   else:
+    if image is None:
+     with Image.open(source) as raw:image=ImageOps.exif_transpose(raw).convert('RGB')
+    derived=image.copy();derived.thumbnail((width,width*3),Image.Resampling.LANCZOS);derived.save(cache,'WEBP',quality=quality,method=6);generated+=1
+   shutil.copy2(cache,path);rel=path.relative_to(ROOT).as_posix();outputs.append(path)
+   if kind in ['preview','thumbnail']:photo[kind]=rel
+   if kind!='preview':sources.append({'width':min(width,photo['width']),'path':rel})
+  if sources:photo['sources']=sources
+# Remove previous derived versions from the deploy directory, never originals.
+keep={p.resolve() for p in outputs}|originals
+for path in (ROOT/'assets').rglob('*.webp'):
+ if path.resolve() not in keep:path.unlink()
 (ROOT/'data/books.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
-print(json.dumps({'files':len(outputs),'derivativeMiB':sum((ROOT.parent/p).stat().st_size for p in outputs)/1024**2,'thumbnailMiB':sum((ROOT/p['thumbnail']).stat().st_size for b in data['books'] for p in b['photos'] if 'thumbnail' in p)/1024**2,'maxBytes':max((ROOT.parent/p).stat().st_size for p in outputs)},ensure_ascii=False))
+print(json.dumps({'files':len(outputs),'generated':generated,'reused':reused,'MiB':round(sum(p.stat().st_size for p in outputs)/1048576,2)}))
