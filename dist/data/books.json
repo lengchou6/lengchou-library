@@ -3665,7 +3665,7 @@
     },
     {
       "id": "LC-000042",
-      "title": "ZERRO",
+      "title": "零 ZERRO：世界符号大全",
       "subtitle": null,
       "authors": [
         {
@@ -3760,11 +3760,13 @@
         "assessedOn": "2026-10-25"
       },
       "titleAliases": [
+        "ZERRO",
         "零",
         "ZEЯRO",
         "零ZERRO",
         "世界符号大全"
-      ]
+      ],
+      "originalTitle": "ZERRO"
     },
     {
       "id": "LC-000043",

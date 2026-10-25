@@ -296,7 +296,7 @@
   $('#zoom-reset').addEventListener('click',()=>setZoom(1));
   window.addEventListener('resize',()=>{if(dialog.open)setZoom(zoom);});
   document.addEventListener('keydown',event=>{if(event.key==='/'&&!dialog.open&&!$('#catalog-page').hidden&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){event.preventDefault();$('#search').focus();}});
-  fetch('data/books.json?v=20261025-batch').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
+  fetch('data/books.json?v=20261025-zerro').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
     priceGroups=data.priceGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};books=data.books;categoryOrder=data.categoryOrder || [];seriesGroups=data.seriesGroups || [];$('#summary').textContent=`共 ${books.length} 册`;categories();renderCollection();route();window.addEventListener('hashchange',route);
   }).catch(()=>{
     $('#collection').setAttribute('aria-busy','false');$('#collection').innerHTML='<div class="error-state"><h2>书目暂时未能展开</h2><p>请检查网络后重试。如果在本地查看，请通过网页服务器打开。</p><button type="button" class="primary-button" id="retry-load">重新载入</button></div>';$('#retry-load').addEventListener('click',()=>location.reload());
