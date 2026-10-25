@@ -5,5 +5,8 @@ __pycache__/
 node_modules/
 
 # Rebuilt from originals by the Pages workflow
-dist/assets/*/*-thumbnail-v1.webp
-dist/assets/*/*-preview-v1.webp
+.cache/
+dist/assets/*/*-thumbnail-*.webp
+dist/assets/*/*-preview-*.webp
+dist/assets/*/*-small-*.webp
+dist/assets/*/*-large-*.webp

@@ -25,6 +25,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Reuse photo derivatives
+        uses: actions/cache@v4
+        with:
+          path: .cache/photos
+          key: photos-v2-${{ runner.os }}-${{ hashFiles('scripts/optimize_photos.py') }}-${{ hashFiles('dist/assets/**/*-original.jpg') }}
+          restore-keys: |
+            photos-v2-${{ runner.os }}-${{ hashFiles('scripts/optimize_photos.py') }}-
       - name: Prepare full-frame display images
         run: |
           python -m pip install Pillow==11.3.0

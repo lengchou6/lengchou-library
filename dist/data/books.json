@@ -46,27 +46,41 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000001/front.webp",
+          "file": "assets/LC-000001/front-original.jpg",
           "original": "assets/LC-000001/front-original.jpg",
           "sourceFilename": "IMG_20261018_172952.jpg",
           "capturedAt": "2026-10-18T17:29:52+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000001/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000001/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000001/front-preview-269552b4fa2d.webp",
+          "thumbnail": "assets/LC-000001/front-thumbnail-c5199f5a178a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000001/front-small-d281927d26c0.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000001/front-thumbnail-c5199f5a178a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000001/front-large-03963b9aea56.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000001/back.webp",
+          "file": "assets/LC-000001/back-original.jpg",
           "original": "assets/LC-000001/back-original.jpg",
           "sourceFilename": "IMG_20261018_173014.jpg",
           "capturedAt": "2026-10-18T17:30:14+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000001/back-preview-v1.webp"
+          "preview": "assets/LC-000001/back-preview-2306e2ad3a96.webp"
         }
       ],
       "condition": {
@@ -127,27 +141,41 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000002/front.webp",
+          "file": "assets/LC-000002/front-original.jpg",
           "original": "assets/LC-000002/front-original.jpg",
           "sourceFilename": "IMG_20261018_173055.jpg",
           "capturedAt": "2026-10-18T17:30:55+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000002/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000002/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000002/front-preview-62caf9836999.webp",
+          "thumbnail": "assets/LC-000002/front-thumbnail-920898a52db5.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000002/front-small-cc091c7091e9.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000002/front-thumbnail-920898a52db5.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000002/front-large-ce781bd57c7f.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000002/back.webp",
+          "file": "assets/LC-000002/back-original.jpg",
           "original": "assets/LC-000002/back-original.jpg",
           "sourceFilename": "IMG_20261018_173108.jpg",
           "capturedAt": "2026-10-18T17:31:08+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000002/back-preview-v1.webp"
+          "preview": "assets/LC-000002/back-preview-a9c60d0d6138.webp"
         }
       ],
       "condition": {
@@ -208,27 +236,41 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000003/front.webp",
+          "file": "assets/LC-000003/front-original.jpg",
           "original": "assets/LC-000003/front-original.jpg",
           "sourceFilename": "IMG_20261018_173851.jpg",
           "capturedAt": "2026-10-18T17:38:51+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000003/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000003/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000003/front-preview-7f21953c971f.webp",
+          "thumbnail": "assets/LC-000003/front-thumbnail-e0979a71d115.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000003/front-small-9daedcb98c72.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000003/front-thumbnail-e0979a71d115.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000003/front-large-e555557b9692.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000003/back.webp",
+          "file": "assets/LC-000003/back-original.jpg",
           "original": "assets/LC-000003/back-original.jpg",
           "sourceFilename": "IMG_20261018_173902.jpg",
           "capturedAt": "2026-10-18T17:39:02+08:00",
           "timeSource": "文件名；照片水印核对至分钟",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000003/back-preview-v1.webp"
+          "preview": "assets/LC-000003/back-preview-87baf1aeb833.webp"
         }
       ],
       "condition": {
@@ -289,7 +331,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000004/front.webp",
+          "file": "assets/LC-000004/front-original.jpg",
           "original": "assets/LC-000004/front-original.jpg",
           "sourceFilename": "IMG_20261018_175746.jpg",
           "capturedAt": "2026-10-18T17:57:46+08:00",
@@ -299,13 +341,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000004/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000004/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000004/front-preview-c2790ed21385.webp",
+          "thumbnail": "assets/LC-000004/front-thumbnail-43ed19ae049c.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000004/front-small-fa5f5edadbfb.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000004/front-thumbnail-43ed19ae049c.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000004/front-large-784a21bba75a.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000004/back.webp",
+          "file": "assets/LC-000004/back-original.jpg",
           "original": "assets/LC-000004/back-original.jpg",
           "sourceFilename": "IMG_20261018_175805.jpg",
           "capturedAt": "2026-10-18T17:58:05+08:00",
@@ -315,7 +371,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000004/back-preview-v1.webp"
+          "preview": "assets/LC-000004/back-preview-15fa77ae9c30.webp"
         }
       ],
       "condition": {
@@ -375,7 +431,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000005/front.webp",
+          "file": "assets/LC-000005/front-original.jpg",
           "original": "assets/LC-000005/front-original.jpg",
           "sourceFilename": "IMG_20261018_175842.jpg",
           "capturedAt": "2026-10-18T17:58:42+08:00",
@@ -385,13 +441,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000005/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000005/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000005/front-preview-e110fb62e2d1.webp",
+          "thumbnail": "assets/LC-000005/front-thumbnail-dd6ce174a486.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000005/front-small-e86a38d117c1.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000005/front-thumbnail-dd6ce174a486.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000005/front-large-0f9ccd17ab0b.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000005/back.webp",
+          "file": "assets/LC-000005/back-original.jpg",
           "original": "assets/LC-000005/back-original.jpg",
           "sourceFilename": "IMG_20261018_175857.jpg",
           "capturedAt": "2026-10-18T17:58:57+08:00",
@@ -401,7 +471,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000005/back-preview-v1.webp"
+          "preview": "assets/LC-000005/back-preview-fc5f7ca5283a.webp"
         }
       ],
       "condition": {
@@ -461,7 +531,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000006/front.webp",
+          "file": "assets/LC-000006/front-original.jpg",
           "original": "assets/LC-000006/front-original.jpg",
           "sourceFilename": "IMG_20261018_175941.jpg",
           "capturedAt": "2026-10-18T17:59:41+08:00",
@@ -471,13 +541,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000006/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000006/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000006/front-preview-1c6d89f11f49.webp",
+          "thumbnail": "assets/LC-000006/front-thumbnail-f62635c49c72.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000006/front-small-e3ce08712dd4.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000006/front-thumbnail-f62635c49c72.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000006/front-large-5654c5852cb9.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000006/back.webp",
+          "file": "assets/LC-000006/back-original.jpg",
           "original": "assets/LC-000006/back-original.jpg",
           "sourceFilename": "IMG_20261018_180012.jpg",
           "capturedAt": "2026-10-18T18:00:12+08:00",
@@ -487,7 +571,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000006/back-preview-v1.webp"
+          "preview": "assets/LC-000006/back-preview-b23536413770.webp"
         }
       ],
       "condition": {
@@ -546,7 +630,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000007/front.webp",
+          "file": "assets/LC-000007/front-original.jpg",
           "original": "assets/LC-000007/front-original.jpg",
           "sourceFilename": "IMG_20261018_181353.jpg",
           "capturedAt": "2026-10-18T18:13:53+08:00",
@@ -556,13 +640,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000007/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000007/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000007/front-preview-c70712f101b0.webp",
+          "thumbnail": "assets/LC-000007/front-thumbnail-1fef4addd28e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000007/front-small-35c7f0136b26.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000007/front-thumbnail-1fef4addd28e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000007/front-large-80c76ec3208c.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000007/back.webp",
+          "file": "assets/LC-000007/back-original.jpg",
           "original": "assets/LC-000007/back-original.jpg",
           "sourceFilename": "IMG_20261018_181406.jpg",
           "capturedAt": "2026-10-18T18:14:06+08:00",
@@ -572,7 +670,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000007/back-preview-v1.webp"
+          "preview": "assets/LC-000007/back-preview-6c762fdb8394.webp"
         }
       ],
       "condition": {
@@ -632,7 +730,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000008/front.webp",
+          "file": "assets/LC-000008/front-original.jpg",
           "original": "assets/LC-000008/front-original.jpg",
           "sourceFilename": "IMG_20261018_181817.jpg",
           "capturedAt": "2026-10-18T18:18:17+08:00",
@@ -642,13 +740,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000008/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000008/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000008/front-preview-35724d16e9cc.webp",
+          "thumbnail": "assets/LC-000008/front-thumbnail-f893341a301d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000008/front-small-efa6a636bb65.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000008/front-thumbnail-f893341a301d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000008/front-large-4e73aac2f0dc.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000008/back.webp",
+          "file": "assets/LC-000008/back-original.jpg",
           "original": "assets/LC-000008/back-original.jpg",
           "sourceFilename": "IMG_20261018_181836.jpg",
           "capturedAt": "2026-10-18T18:18:36+08:00",
@@ -658,7 +770,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000008/back-preview-v1.webp"
+          "preview": "assets/LC-000008/back-preview-178f33c7b86d.webp"
         }
       ],
       "condition": {
@@ -717,7 +829,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000009/front.webp",
+          "file": "assets/LC-000009/front-original.jpg",
           "original": "assets/LC-000009/front-original.jpg",
           "sourceFilename": "IMG_20261018_182017.jpg",
           "capturedAt": "2026-10-18T18:20:17+08:00",
@@ -727,13 +839,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000009/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000009/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000009/front-preview-6261b9ebb597.webp",
+          "thumbnail": "assets/LC-000009/front-thumbnail-cb687874e661.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000009/front-small-cb13b6fcbe30.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000009/front-thumbnail-cb687874e661.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000009/front-large-6b1245cef4b5.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000009/back.webp",
+          "file": "assets/LC-000009/back-original.jpg",
           "original": "assets/LC-000009/back-original.jpg",
           "sourceFilename": "IMG_20261018_182035.jpg",
           "capturedAt": "2026-10-18T18:20:35+08:00",
@@ -743,7 +869,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000009/back-preview-v1.webp"
+          "preview": "assets/LC-000009/back-preview-5b42fb2ba2ff.webp"
         }
       ],
       "condition": {
@@ -803,7 +929,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000010/front.webp",
+          "file": "assets/LC-000010/front-original.jpg",
           "original": "assets/LC-000010/front-original.jpg",
           "sourceFilename": "IMG_20261018_182112.jpg",
           "capturedAt": "2026-10-18T18:21:12+08:00",
@@ -813,13 +939,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000010/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000010/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000010/front-preview-c8718166254b.webp",
+          "thumbnail": "assets/LC-000010/front-thumbnail-6cc96e9dc450.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000010/front-small-9cc0f88937b5.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000010/front-thumbnail-6cc96e9dc450.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000010/front-large-d1f0ac1bf625.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000010/back.webp",
+          "file": "assets/LC-000010/back-original.jpg",
           "original": "assets/LC-000010/back-original.jpg",
           "sourceFilename": "IMG_20261018_182206.jpg",
           "capturedAt": "2026-10-18T18:22:06+08:00",
@@ -829,7 +969,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000010/back-preview-v1.webp"
+          "preview": "assets/LC-000010/back-preview-137d43abd92c.webp"
         }
       ],
       "condition": {
@@ -888,7 +1028,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000011/front.webp",
+          "file": "assets/LC-000011/front-original.jpg",
           "original": "assets/LC-000011/front-original.jpg",
           "sourceFilename": "IMG_20261018_182225.jpg",
           "capturedAt": "2026-10-18T18:22:25+08:00",
@@ -898,13 +1038,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000011/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000011/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000011/front-preview-a328505d9bdf.webp",
+          "thumbnail": "assets/LC-000011/front-thumbnail-5d1470df3a74.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000011/front-small-4f54df36fbab.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000011/front-thumbnail-5d1470df3a74.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000011/front-large-71da634abc71.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000011/back.webp",
+          "file": "assets/LC-000011/back-original.jpg",
           "original": "assets/LC-000011/back-original.jpg",
           "sourceFilename": "IMG_20261018_182239.jpg",
           "capturedAt": "2026-10-18T18:22:39+08:00",
@@ -914,7 +1068,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000011/back-preview-v1.webp"
+          "preview": "assets/LC-000011/back-preview-0d489c4e4fd2.webp"
         }
       ],
       "condition": {
@@ -973,7 +1127,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000012/front.webp",
+          "file": "assets/LC-000012/front-original.jpg",
           "original": "assets/LC-000012/front-original.jpg",
           "sourceFilename": "IMG_20261018_182447.jpg",
           "capturedAt": "2026-10-18T18:24:47+08:00",
@@ -983,13 +1137,27 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000012/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000012/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000012/front-preview-1214267da637.webp",
+          "thumbnail": "assets/LC-000012/front-thumbnail-f7aca3298fd4.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000012/front-small-1abc4e71d6c2.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000012/front-thumbnail-f7aca3298fd4.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000012/front-large-9ce4e028eea8.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000012/back.webp",
+          "file": "assets/LC-000012/back-original.jpg",
           "original": "assets/LC-000012/back-original.jpg",
           "sourceFilename": "IMG_20261018_182458.jpg",
           "capturedAt": "2026-10-18T18:24:58+08:00",
@@ -999,7 +1167,7 @@
           "displayHeight": 1160,
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000012/back-preview-v1.webp"
+          "preview": "assets/LC-000012/back-preview-a0812e9bafe1.webp"
         }
       ],
       "condition": {
@@ -1059,7 +1227,7 @@
         {
           "side": "front",
           "label": "正面",
-          "file": "assets/LC-000013/front.webp",
+          "file": "assets/LC-000013/front-original.jpg",
           "original": "assets/LC-000013/front-original.jpg",
           "sourceFilename": "IMG_20261018_182554.jpg",
           "capturedAt": "2026-10-18T18:25:54+08:00",
@@ -1069,13 +1237,27 @@
           "displayHeight": 800,
           "width": 2048,
           "height": 1708,
-          "preview": "assets/LC-000013/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000013/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000013/front-preview-fc3c62c7090c.webp",
+          "thumbnail": "assets/LC-000013/front-thumbnail-e7d64de8c854.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000013/front-small-b9bcd2a6e1ac.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000013/front-thumbnail-e7d64de8c854.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000013/front-large-4c2779171447.webp"
+            }
+          ]
         },
         {
           "side": "back",
           "label": "背面",
-          "file": "assets/LC-000013/back.webp",
+          "file": "assets/LC-000013/back-original.jpg",
           "original": "assets/LC-000013/back-original.jpg",
           "sourceFilename": "IMG_20261018_182632.jpg",
           "capturedAt": "2026-10-18T18:26:32+08:00",
@@ -1085,7 +1267,7 @@
           "displayHeight": 800,
           "width": 2048,
           "height": 1708,
-          "preview": "assets/LC-000013/back-preview-v1.webp"
+          "preview": "assets/LC-000013/back-preview-496e5d3abc67.webp"
         }
       ],
       "condition": {
@@ -1160,8 +1342,22 @@
           "sha256": "070a39cd82329540908f381e550c58bf6854f7c840dbcc227aa45381333af69c",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000014/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000014/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000014/front-preview-3772a1e784a6.webp",
+          "thumbnail": "assets/LC-000014/front-thumbnail-004c52d55f09.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000014/front-small-b8b27d7ccd31.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000014/front-thumbnail-004c52d55f09.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000014/front-large-d9172727b26c.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1174,7 +1370,7 @@
           "sha256": "540f958ad6d31263f31210dc5833518397e8beb22d27046050ca7c1a698902d1",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000014/back-preview-v1.webp"
+          "preview": "assets/LC-000014/back-preview-722e77d84280.webp"
         }
       ],
       "condition": {
@@ -1245,8 +1441,22 @@
           "sha256": "e47d47a09af15d2e48c88d29dded3d53af7c81f13d219ce16af39d553b2ab9a8",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000015/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000015/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000015/front-preview-7296fd1cdab4.webp",
+          "thumbnail": "assets/LC-000015/front-thumbnail-c0039f0214cc.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000015/front-small-1affbb0c9470.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000015/front-thumbnail-c0039f0214cc.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000015/front-large-8cfe47f1e881.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1259,7 +1469,7 @@
           "sha256": "a7c5d734cf6f3fea0469cf9a8d626b802fe8bfcec68558a80fee0129a186a662",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000015/back-preview-v1.webp"
+          "preview": "assets/LC-000015/back-preview-34839252e4c9.webp"
         }
       ],
       "condition": {
@@ -1345,8 +1555,22 @@
           "sha256": "a437fd052f0ad94a0e1c692b4ae3f8407184ab6e45e10aa81bd0b50fe446b091",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000016/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000016/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000016/front-preview-3ba574d0e6ec.webp",
+          "thumbnail": "assets/LC-000016/front-thumbnail-9bfd479e2b2f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000016/front-small-d21b0704f5ee.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000016/front-thumbnail-9bfd479e2b2f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000016/front-large-6aee1f313f95.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1359,7 +1583,7 @@
           "sha256": "7c76bca9f8fd06e497140d012e7d1cd71274a9d44d1cb78ac5e35c7d4b32f27d",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000016/back-preview-v1.webp"
+          "preview": "assets/LC-000016/back-preview-e0a20a81e9c7.webp"
         }
       ],
       "condition": {
@@ -1434,8 +1658,22 @@
           "sha256": "6ea63fa4a9b1e343912d015f1dd9e213563b29269198feedea77a32233410357",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000017/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000017/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000017/front-preview-5515ae4d86c6.webp",
+          "thumbnail": "assets/LC-000017/front-thumbnail-5f908c9da313.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000017/front-small-a915cdf9b0c8.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000017/front-thumbnail-5f908c9da313.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000017/front-large-a1363277821b.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1448,7 +1686,7 @@
           "sha256": "3b3c5618d5b2e1b58e53a5df54057824ef6723d421cccb83a347615e6cb05536",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000017/back-preview-v1.webp"
+          "preview": "assets/LC-000017/back-preview-61d919e42119.webp"
         }
       ],
       "condition": {
@@ -1539,8 +1777,22 @@
           "sha256": "4c74e8bfa2371c161ff5c66d6cc6ef3d4edc3a51d564672b755b6e4a00fc70f1",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000018/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000018/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000018/front-preview-5bcf5497c7c5.webp",
+          "thumbnail": "assets/LC-000018/front-thumbnail-1f18c91027bd.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000018/front-small-99854ed5e989.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000018/front-thumbnail-1f18c91027bd.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000018/front-large-35102b0ec63b.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1553,7 +1805,7 @@
           "sha256": "b7ec30dbc075e3fd3ad7ab021a36222224e61db6f7c41ef9ebc664e3386f4e1f",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000018/back-preview-v1.webp"
+          "preview": "assets/LC-000018/back-preview-d0764390ba6f.webp"
         }
       ],
       "condition": {
@@ -1645,8 +1897,22 @@
           "sha256": "0e4eed9790e9c19a1a525b17fb323d9ef20844a67a3285e3b2e5c42a48383a78",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000019/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000019/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000019/front-preview-6556fc54b3ab.webp",
+          "thumbnail": "assets/LC-000019/front-thumbnail-fad1ae357af2.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000019/front-small-30854e61fc97.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000019/front-thumbnail-fad1ae357af2.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000019/front-large-bc172104d2eb.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1659,7 +1925,7 @@
           "sha256": "ad3228c1fea3e924825f520c0b20655785da7e82e40cb0f63729db727ba56d29",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000019/back-preview-v1.webp"
+          "preview": "assets/LC-000019/back-preview-94946f0af6b2.webp"
         }
       ],
       "condition": {
@@ -1753,8 +2019,22 @@
           "sha256": "3d41113e7e16865e3443f1ac7267fc926cf46d12d584fc67021cb004ae6ba112",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000020/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000020/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000020/front-preview-aa685e8becbe.webp",
+          "thumbnail": "assets/LC-000020/front-thumbnail-12e765e8b06f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000020/front-small-7cf223f613e6.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000020/front-thumbnail-12e765e8b06f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000020/front-large-e428aec95150.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1767,7 +2047,7 @@
           "sha256": "983af05ca6b1ac77467aab9b2466276a4f82cc26699c999f99a7956be0fb5ac6",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000020/back-preview-v1.webp"
+          "preview": "assets/LC-000020/back-preview-72f5b02ffc42.webp"
         }
       ],
       "condition": {
@@ -1839,8 +2119,22 @@
           "sha256": "2b1505f669e6a678b609f82724a1e9588e37f59c7192ac4024b189c2093ec2eb",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000021/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000021/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000021/front-preview-e0986c75378b.webp",
+          "thumbnail": "assets/LC-000021/front-thumbnail-98b9f2be2491.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000021/front-small-18b86dd6d720.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000021/front-thumbnail-98b9f2be2491.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000021/front-large-129c1b0e6631.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1853,7 +2147,7 @@
           "sha256": "b48de4d5562ef77fb8fe1a1da28941eacb425d8a590018f8a593ced98f11b774",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000021/back-preview-v1.webp"
+          "preview": "assets/LC-000021/back-preview-96143aad4255.webp"
         }
       ],
       "condition": {
@@ -1928,8 +2222,22 @@
           "sha256": "aef5ae3f2bdac630f6f360f5eea89ac7af532f372640916a58d197f2fa9d28fa",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000022/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000022/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000022/front-preview-d66640b31c9d.webp",
+          "thumbnail": "assets/LC-000022/front-thumbnail-d5d981c131a7.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000022/front-small-4e8d1ac5d02d.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000022/front-thumbnail-d5d981c131a7.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000022/front-large-6482df430653.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -1942,7 +2250,7 @@
           "sha256": "0eb78a9281cb2f7e416926cc7a07d125231583cd1695a6456e0f06bf9c9f1bac",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000022/back-preview-v1.webp"
+          "preview": "assets/LC-000022/back-preview-7830794e1b16.webp"
         }
       ],
       "condition": {
@@ -2017,8 +2325,22 @@
           "sha256": "4732a59b048e7dff7a0513a52a001b5e9b9723cd5d78a1e12f5d170560e6fce1",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000023/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000023/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000023/front-preview-c2f2271a711e.webp",
+          "thumbnail": "assets/LC-000023/front-thumbnail-d1766cdf636f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000023/front-small-643040a99796.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000023/front-thumbnail-d1766cdf636f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000023/front-large-1f0cdeb696c3.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2031,7 +2353,7 @@
           "sha256": "82dd4d60fbbfd3112871a44a70cd10d7efefecf6c8a7d600bb8181d944485aff",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000023/back-preview-v1.webp"
+          "preview": "assets/LC-000023/back-preview-dfcc0f49192f.webp"
         }
       ],
       "condition": {
@@ -2104,8 +2426,22 @@
           "sha256": "cc8f4f334858115ca517181d9ec413031f0ab8c2e9574d735fe6e537562b2ada",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000024/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000024/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000024/front-preview-5387400f302e.webp",
+          "thumbnail": "assets/LC-000024/front-thumbnail-633adecc6e24.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000024/front-small-de924cf8d5ac.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000024/front-thumbnail-633adecc6e24.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000024/front-large-4be9bc2fe067.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2118,7 +2454,7 @@
           "sha256": "c27d9dd7869fb858877d6439c1068666a0dc65a367c96d64beeb6e64a96bf082",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000024/back-preview-v1.webp"
+          "preview": "assets/LC-000024/back-preview-162170b1a340.webp"
         }
       ],
       "condition": {
@@ -2191,8 +2527,22 @@
           "sha256": "f7fe32106c3874f1ff38b1dfa02148f7511f4c4322dbcf62c2cabecc91bd24b6",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000025/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000025/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000025/front-preview-d1898444e813.webp",
+          "thumbnail": "assets/LC-000025/front-thumbnail-08ac2a58b6c2.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000025/front-small-52435dff3ca3.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000025/front-thumbnail-08ac2a58b6c2.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000025/front-large-6bad19146003.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2205,7 +2555,7 @@
           "sha256": "0e84fe43b7a99561f4c47ed046e1639f0301cecd1a2f982e35d4080b44d03e4b",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000025/back-preview-v1.webp"
+          "preview": "assets/LC-000025/back-preview-1df66e4a57c5.webp"
         }
       ],
       "condition": {
@@ -2278,8 +2628,22 @@
           "sha256": "5c6951d38a241cb96b664752dce91f3be03501ebcb66d62e58c8efd58a2072da",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000026/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000026/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000026/front-preview-fbad248458c8.webp",
+          "thumbnail": "assets/LC-000026/front-thumbnail-33535904fc47.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000026/front-small-be56ec48c687.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000026/front-thumbnail-33535904fc47.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000026/front-large-868181edcc26.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2292,7 +2656,7 @@
           "sha256": "18a5fd4c351cb93541b9e8c4f4858b8316ad2e7d9fcb8a838406b9935d4517b0",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000026/back-preview-v1.webp"
+          "preview": "assets/LC-000026/back-preview-ed8d60c16af3.webp"
         }
       ],
       "condition": {
@@ -2365,8 +2729,22 @@
           "sha256": "a0867062257aa9fe8ce6ba869ff2a5160c9d9a75bb7ceb0c4b25c4b91c21e060",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000027/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000027/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000027/front-preview-2d2467d5d94f.webp",
+          "thumbnail": "assets/LC-000027/front-thumbnail-12e1b18a26a6.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000027/front-small-23b2b7a5a89f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000027/front-thumbnail-12e1b18a26a6.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000027/front-large-a9784383783e.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2379,7 +2757,7 @@
           "sha256": "916b8a4a72b6237d8b8f980e7e66995024396e0ad24f43dd28d292a6245da0f0",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000027/back-preview-v1.webp"
+          "preview": "assets/LC-000027/back-preview-54e92d41100d.webp"
         }
       ],
       "condition": {
@@ -2455,8 +2833,22 @@
           "sha256": "2ae42331d33e2b293df65a22f83ce7f9923855eb3bbb23a3fbe7908e3b581de3",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000028/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000028/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000028/front-preview-68cd75b43aca.webp",
+          "thumbnail": "assets/LC-000028/front-thumbnail-ede71097fc0b.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000028/front-small-1096b587641b.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000028/front-thumbnail-ede71097fc0b.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000028/front-large-f78a22f4b6ec.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2469,7 +2861,7 @@
           "sha256": "787b509d191ccf638a754aa65dd50fdc1c9ff9b817cb949199b72fba35ea4cd7",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000028/back-preview-v1.webp"
+          "preview": "assets/LC-000028/back-preview-8ace3e8e7198.webp"
         }
       ],
       "condition": {
@@ -2542,8 +2934,22 @@
           "sha256": "4f412af8b58c0cdd8e4abdd624dbe2e6ef98986589e641a2f13ff4b36e50a3dd",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000029/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000029/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000029/front-preview-8f0159c030f5.webp",
+          "thumbnail": "assets/LC-000029/front-thumbnail-b5de8cb1daae.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000029/front-small-6401eeece281.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000029/front-thumbnail-b5de8cb1daae.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000029/front-large-5b441bf941c5.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2556,7 +2962,7 @@
           "sha256": "765b310f42e22152eaa9b8165c8953e1ecd4f8fdf77fd4b79edd0bdc13041106",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000029/back-preview-v1.webp"
+          "preview": "assets/LC-000029/back-preview-18ea4a1883f9.webp"
         }
       ],
       "condition": {
@@ -2629,8 +3035,22 @@
           "sha256": "6bd5ed97c2e027183df1fafd1c99ab7cd7af5957b0f35c11fd9efb82bd88444f",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000030/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000030/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000030/front-preview-c977b50ac4b6.webp",
+          "thumbnail": "assets/LC-000030/front-thumbnail-5abab8b053ea.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000030/front-small-4b15e950c165.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000030/front-thumbnail-5abab8b053ea.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000030/front-large-4d94cdb9b3a5.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2643,7 +3063,7 @@
           "sha256": "cc8913b321a64582c4dc87590973e1696a766d093a38a4ec94bab903df4facce",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000030/back-preview-v1.webp"
+          "preview": "assets/LC-000030/back-preview-93a1c35d851d.webp"
         }
       ],
       "condition": {
@@ -2713,8 +3133,22 @@
           "sha256": "1af33697f395663878e853be1a9d87df23e2209e4e6183fc2480a1b31339393b",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000031/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000031/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000031/front-preview-0e0d203c011e.webp",
+          "thumbnail": "assets/LC-000031/front-thumbnail-0b1652cc01a2.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000031/front-small-2eb986cf0a28.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000031/front-thumbnail-0b1652cc01a2.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000031/front-large-b1b69598cc99.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2727,7 +3161,7 @@
           "sha256": "05194851efee77856d056dabcb30589d145fe34aa51cb29289b082bab0220ec1",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000031/back-preview-v1.webp"
+          "preview": "assets/LC-000031/back-preview-3acbbf4a77af.webp"
         }
       ],
       "condition": {
@@ -2800,8 +3234,22 @@
           "sha256": "6fda4f5517ae5334e80cedc73e691723509f7e909656fa8bcc610247ef154fb0",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000032/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000032/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000032/front-preview-01a1263cfdc1.webp",
+          "thumbnail": "assets/LC-000032/front-thumbnail-30365e309887.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000032/front-small-dfbf4337b5b6.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000032/front-thumbnail-30365e309887.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000032/front-large-e4e245b800b4.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2814,7 +3262,7 @@
           "sha256": "6a96a5ef67850f755b52f25ffcf5fa1ac8a77debcccc7790654ebf248716dd3a",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000032/back-preview-v1.webp"
+          "preview": "assets/LC-000032/back-preview-9901d512b24d.webp"
         }
       ],
       "condition": {
@@ -2898,8 +3346,22 @@
           "sha256": "617bfab8d243ab6dcabb7e2048093bb60d10e9096725a69ecf52be9c6ddc985a",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000033/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000033/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000033/front-preview-8482b2675bcf.webp",
+          "thumbnail": "assets/LC-000033/front-thumbnail-3fe83ee2c6b9.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000033/front-small-889de6214165.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000033/front-thumbnail-3fe83ee2c6b9.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000033/front-large-052992d04469.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -2913,7 +3375,7 @@
           "sha256": "d93e33b29c010ffb2574746b3c2d59a27c0ab090d89706eb700914dfa515f55d",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000033/back-preview-v1.webp"
+          "preview": "assets/LC-000033/back-preview-4f14d7d95ba7.webp"
         }
       ],
       "condition": {
@@ -2994,8 +3456,22 @@
           "sha256": "8d8d1d58809793d8aa31ad0098a7324198fce899a71e2d818005c5308fa1e5a1",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000034/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000034/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000034/front-preview-176da2180e0d.webp",
+          "thumbnail": "assets/LC-000034/front-thumbnail-bc29ac9484dd.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000034/front-small-0c8f8e3b4695.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000034/front-thumbnail-bc29ac9484dd.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000034/front-large-ac8ea72d1cc7.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3009,7 +3485,7 @@
           "sha256": "fea1995feb8ccea647f681880670bf6898fba70b2745eda65ce533c6077f2a95",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000034/back-preview-v1.webp"
+          "preview": "assets/LC-000034/back-preview-a68e4f22c1df.webp"
         }
       ],
       "condition": {
@@ -3090,8 +3566,22 @@
           "sha256": "78fe724cf739cd4f053d2ef7939603e599791b1efd44d44fc5c972ac6b90d935",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000035/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000035/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000035/front-preview-66674af265c1.webp",
+          "thumbnail": "assets/LC-000035/front-thumbnail-a0fa0947015e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000035/front-small-3677d1e92fc6.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000035/front-thumbnail-a0fa0947015e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000035/front-large-41ac607d8d48.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3105,7 +3595,7 @@
           "sha256": "815544a183ec98efc7baf98562f3e7566ac1e75f239889e24da7797c78a1b2d4",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000035/back-preview-v1.webp"
+          "preview": "assets/LC-000035/back-preview-9c3d9ce82f19.webp"
         }
       ],
       "condition": {
@@ -3186,8 +3676,22 @@
           "sha256": "377e294cd9f83de338a7792d2ce5dc8d1d3d31771a65dad319feed12ab703e00",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000036/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000036/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000036/front-preview-20df0d5a2896.webp",
+          "thumbnail": "assets/LC-000036/front-thumbnail-bc89b11d9908.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000036/front-small-7c68cefd3c0d.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000036/front-thumbnail-bc89b11d9908.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000036/front-large-6308dcf372b8.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3201,7 +3705,7 @@
           "sha256": "de29e71ebcbd0b69930a35beabdc275bdbbd8aaed6b4c96c513e380baefdb3a2",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000036/back-preview-v1.webp"
+          "preview": "assets/LC-000036/back-preview-125b765a9bd7.webp"
         }
       ],
       "condition": {
@@ -3282,8 +3786,22 @@
           "sha256": "92267d6d829cdd64df32083d2e4f36d661e6ce993c50c408634cb048e2da6917",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000037/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000037/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000037/front-preview-80be9fe71bd7.webp",
+          "thumbnail": "assets/LC-000037/front-thumbnail-63e03099f9ff.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000037/front-small-f19d31032d5e.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000037/front-thumbnail-63e03099f9ff.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000037/front-large-9c1bd779b3e2.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3297,7 +3815,7 @@
           "sha256": "51ebcbd689323d0c14def9794bdf241f314cb00271a17c121f95c2cde0ee9c42",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000037/back-preview-v1.webp"
+          "preview": "assets/LC-000037/back-preview-afd808f6a8bc.webp"
         }
       ],
       "condition": {
@@ -3379,8 +3897,22 @@
           "sha256": "40e895dc039c6a27baaa3b165390e97428885981d32e6d9cda789ecf26d96d42",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000038/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000038/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000038/front-preview-8403f02650e8.webp",
+          "thumbnail": "assets/LC-000038/front-thumbnail-a17e9b6be8d4.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000038/front-small-6d3b96946ea4.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000038/front-thumbnail-a17e9b6be8d4.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000038/front-large-c5769766d42a.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3394,7 +3926,7 @@
           "sha256": "b49f48fe2c6a0198c1f18db859069aba417ea56677b99a77528e7b75b4c93d1a",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000038/back-preview-v1.webp"
+          "preview": "assets/LC-000038/back-preview-bbc29e9928f6.webp"
         }
       ],
       "condition": {
@@ -3473,8 +4005,22 @@
           "sha256": "0daaf369dc7a313d1effa177611bc2a2a49426fd8ac32cd59d36dfb47a30038a",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000039/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000039/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000039/front-preview-38f43873a307.webp",
+          "thumbnail": "assets/LC-000039/front-thumbnail-3f369426e5a3.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000039/front-small-6a00937dd5ab.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000039/front-thumbnail-3f369426e5a3.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000039/front-large-96eaf98819eb.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3488,7 +4034,7 @@
           "sha256": "f17f2c93c31ea312aa57a68afe659671ce2761307c251d4707f2b7935a0296bd",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000039/back-preview-v1.webp"
+          "preview": "assets/LC-000039/back-preview-669411816ebc.webp"
         }
       ],
       "condition": {
@@ -3556,8 +4102,22 @@
           "sha256": "389afe6f06d3f72a45cf8a48bf71da832664afe4289d6c9d3a17698383ee1957",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000040/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000040/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000040/front-preview-5647edd87197.webp",
+          "thumbnail": "assets/LC-000040/front-thumbnail-c57296c38c14.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000040/front-small-11a687368650.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000040/front-thumbnail-c57296c38c14.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000040/front-large-f4a1dde931e8.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3571,7 +4131,7 @@
           "sha256": "baa3b2959517b729463faf2e6999e1110881d933396ade9d1b6a0713e8f5623b",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000040/back-preview-v1.webp"
+          "preview": "assets/LC-000040/back-preview-09134fb206e1.webp"
         }
       ],
       "condition": {
@@ -3637,8 +4197,22 @@
           "sha256": "c57a724dfdf11412bc434e365faa00b7222ec18b2052c0c06b935d8c3946efee",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000041/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000041/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000041/front-preview-52549de08ed8.webp",
+          "thumbnail": "assets/LC-000041/front-thumbnail-ad132e4913e1.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000041/front-small-c6b8040350c3.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000041/front-thumbnail-ad132e4913e1.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000041/front-large-b10e64517068.webp"
+            }
+          ]
         },
         {
           "side": "copyright",
@@ -3652,7 +4226,7 @@
           "sha256": "7023a809acaa2b539cb03adba13de8b8bb6f525608970182ca6ae995c97b7a0e",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000041/copyright-preview-v1.webp"
+          "preview": "assets/LC-000041/copyright-preview-f19db7d05d18.webp"
         }
       ],
       "condition": {
@@ -3720,8 +4294,22 @@
           "sha256": "b329c0846bef6364371580d44d392562b7473dd349770ee88f5993a9809b2848",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000042/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000042/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000042/front-preview-3fd4efa8deee.webp",
+          "thumbnail": "assets/LC-000042/front-thumbnail-2e7530bd2f8f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000042/front-small-d259341ada67.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000042/front-thumbnail-2e7530bd2f8f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000042/front-large-47d95c76ac37.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3735,7 +4323,7 @@
           "sha256": "6c00bcda7c0fad00fed1335a5096f12f70ffb87368c6d4074204d8aa97d515e8",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000042/back-preview-v1.webp"
+          "preview": "assets/LC-000042/back-preview-35a25e3e140d.webp"
         },
         {
           "side": "title-page",
@@ -3749,7 +4337,7 @@
           "sha256": "7f01f221db5cab2b44c23ae17b4717fbfd516ee7dcabb8415a155503ac876330",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000042/title-page-preview-v1.webp"
+          "preview": "assets/LC-000042/title-page-preview-2dc595547ef5.webp"
         }
       ],
       "condition": {
@@ -3825,8 +4413,22 @@
           "sha256": "705671aaf9f2934b387f753fed8e9ec38b43bc5d7bfcc53f08973d1c5c208e6a",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000043/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000043/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000043/front-preview-d8fdb7979658.webp",
+          "thumbnail": "assets/LC-000043/front-thumbnail-d1049232c5b2.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000043/front-small-a829d1027652.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000043/front-thumbnail-d1049232c5b2.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000043/front-large-93b8c8a9aed1.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3840,7 +4442,7 @@
           "sha256": "48a4da48bd497ab60aa6e82a127e038340c9cfbd5ae93f896eda194175e1a796",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000043/back-preview-v1.webp"
+          "preview": "assets/LC-000043/back-preview-b939f4632af4.webp"
         }
       ],
       "condition": {
@@ -3912,8 +4514,22 @@
           "sha256": "98a1d0051207bd7b8e38548765c4e6858346fd50f9722bf34aad30f69f357e52",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000044/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000044/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000044/front-preview-6365b74e9ad8.webp",
+          "thumbnail": "assets/LC-000044/front-thumbnail-ca77fdefd499.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000044/front-small-c148cbc35502.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000044/front-thumbnail-ca77fdefd499.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000044/front-large-45aef15806ce.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -3927,7 +4543,7 @@
           "sha256": "595713c947c74b7e2fcf9c07046186b6cd7812ad224e8a7125f6f9dabef7238d",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000044/back-preview-v1.webp"
+          "preview": "assets/LC-000044/back-preview-04d4cdd14f09.webp"
         }
       ],
       "condition": {
@@ -3999,8 +4615,22 @@
           "sha256": "0efd8181dff4984035fa14f5c80f4abff7831b225fdc64ff15c72d7e15e8c7ec",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000045/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000045/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000045/front-preview-bd8a46f7e2fa.webp",
+          "thumbnail": "assets/LC-000045/front-thumbnail-67ca2f0d922a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000045/front-small-4f127e8f5312.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000045/front-thumbnail-67ca2f0d922a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000045/front-large-1ca9a7d8e6e7.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4014,7 +4644,7 @@
           "sha256": "b8a5c5b23d3c7479e89f67b33fd0c71d3540099234bb42c197c11bea3d485bf3",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000045/back-preview-v1.webp"
+          "preview": "assets/LC-000045/back-preview-44b5f278800a.webp"
         }
       ],
       "condition": {
@@ -4086,8 +4716,22 @@
           "sha256": "c91d19bf2cfe228f94003ab11b9f1364d9977b8a3367172a82a50eb037a1fd6f",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000046/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000046/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000046/front-preview-7be6aca6a1ad.webp",
+          "thumbnail": "assets/LC-000046/front-thumbnail-e8d5c66bd5b3.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000046/front-small-fbe49eee1696.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000046/front-thumbnail-e8d5c66bd5b3.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000046/front-large-a199f8cc7dd4.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4101,7 +4745,7 @@
           "sha256": "8cfdd87aa66c36f6685776e9be0bb901741940daa6e0af83fac68853804554d0",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000046/back-preview-v1.webp"
+          "preview": "assets/LC-000046/back-preview-5c76b85a82ff.webp"
         }
       ],
       "condition": {
@@ -4181,8 +4825,22 @@
           "sha256": "d33a0df608e27058cfac0ac8bd05f1935d097eca9bc2a2f67ad9879ec4ba12f3",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000047/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000047/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000047/front-preview-9e29a64c3b0f.webp",
+          "thumbnail": "assets/LC-000047/front-thumbnail-dfaa80c9b8ef.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000047/front-small-2c81ffe17072.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000047/front-thumbnail-dfaa80c9b8ef.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000047/front-large-57a7a92873db.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4196,7 +4854,7 @@
           "sha256": "de35a8d3097045c2d8e35817d8495b638a276239bb5ce56dfbddefb9bc6153bb",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000047/back-preview-v1.webp"
+          "preview": "assets/LC-000047/back-preview-5265c14bc685.webp"
         }
       ],
       "condition": {
@@ -4275,8 +4933,22 @@
           "sha256": "134a8cbcdf1b4201d0cd09f202ec052e2ceff8c1c519375dfb93d28bcf1a03d0",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000048/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000048/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000048/front-preview-f6de69fae9cb.webp",
+          "thumbnail": "assets/LC-000048/front-thumbnail-7cc7e320cfd0.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000048/front-small-23cf992fe413.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000048/front-thumbnail-7cc7e320cfd0.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000048/front-large-bbb09f156c03.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4290,7 +4962,7 @@
           "sha256": "53e37265d6352e0ee9ee06de8809bdb3285c8d76ce5572fcb0fb7eef3823e92d",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000048/back-preview-v1.webp"
+          "preview": "assets/LC-000048/back-preview-81b09544fbd5.webp"
         }
       ],
       "condition": {
@@ -4370,8 +5042,22 @@
           "sha256": "409a98d02dd5c217cced44a67396d509b84040f9c97f1af1636001d3079dc867",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000049/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000049/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000049/front-preview-0f51fba6ecb7.webp",
+          "thumbnail": "assets/LC-000049/front-thumbnail-64c79c73fef1.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000049/front-small-8cf81feb91d3.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000049/front-thumbnail-64c79c73fef1.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000049/front-large-c6d1500b3ddf.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4385,7 +5071,7 @@
           "sha256": "043a8297fe2bda0ecbcc439e7dda7056bbc557848df5c0bdea194c0ac25ad0a9",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000049/back-preview-v1.webp"
+          "preview": "assets/LC-000049/back-preview-be36f00ec62b.webp"
         }
       ],
       "condition": {
@@ -4464,8 +5150,22 @@
           "sha256": "41044778ef533ff3a86866a99663163e8ebc4969697fd1dd66c72d5dacdd84f3",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000050/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000050/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000050/front-preview-12b238d0305a.webp",
+          "thumbnail": "assets/LC-000050/front-thumbnail-be817b0fd9f4.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000050/front-small-9d5cacc0bcbd.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000050/front-thumbnail-be817b0fd9f4.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000050/front-large-7e0d8254e2c1.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4479,7 +5179,7 @@
           "sha256": "c4442240378a59f3fcbf3e3fc603a9ee8689f497c73468bf4f98fac78e93920b",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000050/back-preview-v1.webp"
+          "preview": "assets/LC-000050/back-preview-7f33a7fc7e0f.webp"
         }
       ],
       "condition": {
@@ -4558,8 +5258,22 @@
           "sha256": "cb59ea233c4e3a0d41d58cb24b89a2f8d07223a7dbe53f31282f269f736e8483",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000051/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000051/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000051/front-preview-08421d32f9ac.webp",
+          "thumbnail": "assets/LC-000051/front-thumbnail-22e557c4d793.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000051/front-small-7f1906bb4de8.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000051/front-thumbnail-22e557c4d793.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000051/front-large-2188217f6765.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4573,7 +5287,7 @@
           "sha256": "a3dc6901d9460168a27b210927c88de8c69f2482e349c282b67bbc48da025700",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000051/back-preview-v1.webp"
+          "preview": "assets/LC-000051/back-preview-dcfeb803c0bb.webp"
         }
       ],
       "condition": {
@@ -4652,8 +5366,22 @@
           "sha256": "b0b63434afd6eceb7a2a59a416535acbfda6f8a75a90464d6481a9f513386b0f",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000052/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000052/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000052/front-preview-2903d5f519d0.webp",
+          "thumbnail": "assets/LC-000052/front-thumbnail-0a7d71062f2d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000052/front-small-91804c1fab6b.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000052/front-thumbnail-0a7d71062f2d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000052/front-large-2cca4c184b89.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4667,7 +5395,7 @@
           "sha256": "9f3bafd40bbeb98dba0e84f58aea6971378e10fcfabf15d7de95b0acd4768939",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000052/back-preview-v1.webp"
+          "preview": "assets/LC-000052/back-preview-daaf168389de.webp"
         }
       ],
       "condition": {
@@ -4747,8 +5475,22 @@
           "sha256": "252376bd806f82455edc812bddb7ebdd7495966604b8e619d23bb46be67401f5",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000053/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000053/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000053/front-preview-1ae829c16465.webp",
+          "thumbnail": "assets/LC-000053/front-thumbnail-2cade267eb3b.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000053/front-small-28216609e231.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000053/front-thumbnail-2cade267eb3b.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000053/front-large-c0130a6c7b1a.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4762,7 +5504,7 @@
           "sha256": "f10c78b2de3e3f74843054f1ac7cefaaea2434f07b87895c7df3d109095c79b6",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000053/back-preview-v1.webp"
+          "preview": "assets/LC-000053/back-preview-bf511c1d800f.webp"
         }
       ],
       "condition": {
@@ -4844,8 +5586,22 @@
           "sha256": "4e8ad65ae0c70bfa61d34a9e59b4bdd7c7a1954d062fa884312ab600d655416b",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000054/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000054/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000054/front-preview-afc01dc1bfb9.webp",
+          "thumbnail": "assets/LC-000054/front-thumbnail-d332a6bae3cd.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000054/front-small-2ab95ddafe55.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000054/front-thumbnail-d332a6bae3cd.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000054/front-large-5a692831f42a.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4859,7 +5615,7 @@
           "sha256": "0ea47c1ebb17deba253b120d14d0d2856a17fdcbfcce770ffed5d32757a82fae",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000054/back-preview-v1.webp"
+          "preview": "assets/LC-000054/back-preview-19137e86be4a.webp"
         }
       ],
       "condition": {
@@ -4939,8 +5695,22 @@
           "sha256": "005eb7eab169eded91720c10460cc88c49ce7c62f215fe6a9746560900bb13e5",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000055/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000055/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000055/front-preview-1d7ea37e5ff4.webp",
+          "thumbnail": "assets/LC-000055/front-thumbnail-3fd00dedcdc1.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000055/front-small-7bf6d3be6c99.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000055/front-thumbnail-3fd00dedcdc1.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000055/front-large-6f83191ea70e.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -4954,7 +5724,7 @@
           "sha256": "859a3e4f6d0bb61362809b8fd844560bb98c27a3365d96a21a29f4519b7cc915",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000055/back-preview-v1.webp"
+          "preview": "assets/LC-000055/back-preview-28c2a1d53a2c.webp"
         }
       ],
       "condition": {
@@ -5023,8 +5793,22 @@
           "sha256": "baaeea781672a26650febe02b361b0d3040be6375207b1adb3a042fd6189146d",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000056/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000056/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000056/front-preview-a61a9df94ca9.webp",
+          "thumbnail": "assets/LC-000056/front-thumbnail-c4453387f51a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000056/front-small-d68e04ce9c88.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000056/front-thumbnail-c4453387f51a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000056/front-large-2be73aa0fbb7.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5038,7 +5822,7 @@
           "sha256": "09a87b0dc4f5fb9854c35a56e3d2129939904ce9a3dcc3451fca2eadf528c91d",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000056/back-preview-v1.webp"
+          "preview": "assets/LC-000056/back-preview-17b5a47149d7.webp"
         }
       ],
       "condition": {
@@ -5106,8 +5890,22 @@
           "sha256": "48d7f60284abe1d571bbdd34242f691f6959daa8028148967d88fc38a441e2ad",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000057/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000057/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000057/front-preview-4383f5abad3f.webp",
+          "thumbnail": "assets/LC-000057/front-thumbnail-8db77c0bbb7f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000057/front-small-334d206f59be.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000057/front-thumbnail-8db77c0bbb7f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000057/front-large-2a3b100ef24e.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5121,7 +5919,7 @@
           "sha256": "83874a1ea9a305705c533d441c40abc5e6d1acef73751deec863ea38117cf8bc",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000057/back-preview-v1.webp"
+          "preview": "assets/LC-000057/back-preview-2e798de1d5e0.webp"
         }
       ],
       "condition": {
@@ -5187,8 +5985,22 @@
           "sha256": "c23e5a7f6f9163932289c46b06a23a5b5e2b447aa88f95b728cf813a1f924abd",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000058/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000058/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000058/front-preview-6428f9af1485.webp",
+          "thumbnail": "assets/LC-000058/front-thumbnail-165002f38dd3.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000058/front-small-eeb87e1b02a4.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000058/front-thumbnail-165002f38dd3.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000058/front-large-21f0411df344.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5202,7 +6014,7 @@
           "sha256": "4094d1198b821f921b1158556466b6e814a03835514ee71bdadecb8ce3dd7b06",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000058/back-preview-v1.webp"
+          "preview": "assets/LC-000058/back-preview-dd1ee85b1644.webp"
         }
       ],
       "condition": {
@@ -5268,8 +6080,22 @@
           "sha256": "dea1e42cb116dc29fcc73f53e6d4100b62139f71f9b3cbf0f8a17dd5e97659f9",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000059/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000059/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000059/front-preview-b71820a7a9b7.webp",
+          "thumbnail": "assets/LC-000059/front-thumbnail-1aabf7e6c5c2.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000059/front-small-bc336f848684.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000059/front-thumbnail-1aabf7e6c5c2.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000059/front-large-813ef2816056.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5283,7 +6109,7 @@
           "sha256": "962d6936ed5c0717f0afdd456a7b12cb7fe2740861e86ac1dafd56319f47c59b",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000059/back-preview-v1.webp"
+          "preview": "assets/LC-000059/back-preview-43a8af5d87cf.webp"
         }
       ],
       "condition": {
@@ -5349,8 +6175,22 @@
           "sha256": "2a883157a0585f13ef58b6718589989bae1b0f226217c0d564f44c7370af7306",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000060/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000060/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000060/front-preview-9b57f68bbf67.webp",
+          "thumbnail": "assets/LC-000060/front-thumbnail-8b01599ee842.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000060/front-small-c2223ddc2c7a.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000060/front-thumbnail-8b01599ee842.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000060/front-large-fdd904bf691b.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5364,7 +6204,7 @@
           "sha256": "3dcb4ff813c968bc5b4badee1045c43f2a60a550b497bd84a135b89a3b6deb4a",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000060/back-preview-v1.webp"
+          "preview": "assets/LC-000060/back-preview-d9db43082d3d.webp"
         }
       ],
       "condition": {
@@ -5424,8 +6264,22 @@
           "sha256": "63f1d8c4f84c45e0d84174ba5c29a3070136b148d7575e6c7b320db2957672ec",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000061/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000061/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000061/front-preview-07bc3b1da909.webp",
+          "thumbnail": "assets/LC-000061/front-thumbnail-5c0562b3aa78.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000061/front-small-f62d75f060f4.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000061/front-thumbnail-5c0562b3aa78.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000061/front-large-7c86b62e4596.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5439,7 +6293,7 @@
           "sha256": "ceb2f8ce84f10ff8aae01373da4954b4cb1250bf554a65b11cdf654ce74eca01",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000061/back-preview-v1.webp"
+          "preview": "assets/LC-000061/back-preview-eede09de7203.webp"
         }
       ],
       "condition": {
@@ -5506,8 +6360,22 @@
           "sha256": "8556350026e2ab8d95e25369cb2e4b5c5b1f71c69dde7449aec7f8435a0e51ae",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000062/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000062/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000062/front-preview-cce74e59b0b8.webp",
+          "thumbnail": "assets/LC-000062/front-thumbnail-459252c270e0.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000062/front-small-db3a9d14bd38.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000062/front-thumbnail-459252c270e0.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000062/front-large-d1a2024ffd8a.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5521,7 +6389,7 @@
           "sha256": "56ed244b2396d4bd550dffb28e0a96ea90164007c7f9787740505ae650000299",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000062/back-preview-v1.webp"
+          "preview": "assets/LC-000062/back-preview-79145a2d1d17.webp"
         }
       ],
       "condition": {
@@ -5587,8 +6455,22 @@
           "sha256": "fab39903d82f17748f93e27440769df6f47ebdc8656b9af1450340424476fd44",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000063/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000063/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000063/front-preview-b01bfe05148a.webp",
+          "thumbnail": "assets/LC-000063/front-thumbnail-6478bb81ac66.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000063/front-small-82b2b8712c45.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000063/front-thumbnail-6478bb81ac66.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000063/front-large-ec2ba4fe7ee7.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5602,7 +6484,7 @@
           "sha256": "bbc0b6c7c1f0caae6004919b73834080611edf2ad74238ce61887fa8d43d915d",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000063/back-preview-v1.webp"
+          "preview": "assets/LC-000063/back-preview-de5842a413ff.webp"
         }
       ],
       "condition": {
@@ -5670,8 +6552,22 @@
           "sha256": "cad4ee6b66c1072c52457a7d70b27b90a8d514224f71402efe4255304a4b2521",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000064/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000064/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000064/front-preview-8c44f3dc895e.webp",
+          "thumbnail": "assets/LC-000064/front-thumbnail-5e1ab8c4e58d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000064/front-small-09dc8a861208.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000064/front-thumbnail-5e1ab8c4e58d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000064/front-large-8fd8b37c5eee.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5685,7 +6581,7 @@
           "sha256": "8d3bb3d61e1684ad34f2aac6b5d9b5d96a085ecd381a218eadb04f80ca0b1e36",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000064/back-preview-v1.webp"
+          "preview": "assets/LC-000064/back-preview-a9b2e466699d.webp"
         }
       ],
       "condition": {
@@ -5753,8 +6649,22 @@
           "sha256": "d5b0bea6ca23a8dd67f0b7bbc90d757f38b6f587cf85df0897a707a6548a41b0",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000065/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000065/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000065/front-preview-f133821819ae.webp",
+          "thumbnail": "assets/LC-000065/front-thumbnail-1aefd3685bce.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000065/front-small-0476fc1e775f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000065/front-thumbnail-1aefd3685bce.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000065/front-large-3b0e4676f7a2.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5768,7 +6678,7 @@
           "sha256": "e247fae94bcd648a2dc5150efb031dd4d888525556f90959ea63827dd8fc6a72",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000065/back-preview-v1.webp"
+          "preview": "assets/LC-000065/back-preview-91967ab66556.webp"
         }
       ],
       "condition": {
@@ -5838,8 +6748,22 @@
           "sha256": "3f41d0afda7ada90c12d09f8c00972c18961a529cbcb416d89fb0205d801131c",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000066/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000066/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000066/front-preview-b93a00c629c4.webp",
+          "thumbnail": "assets/LC-000066/front-thumbnail-f04dda9fed28.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000066/front-small-da96a145dada.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000066/front-thumbnail-f04dda9fed28.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000066/front-large-9c61d420be02.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5853,7 +6777,7 @@
           "sha256": "1e8615f1ea04cbb60baada6f3c9179665b5d221ce789e552248b5f95b829d4cf",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000066/back-preview-v1.webp"
+          "preview": "assets/LC-000066/back-preview-5973d2d2303b.webp"
         }
       ],
       "condition": {
@@ -5921,8 +6845,22 @@
           "sha256": "3dfa029a49f30461a860ee49a2ccf3ae356b2c2a7ac53fda9524d4b5ae123aa9",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000067/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000067/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000067/front-preview-9b7116a628ac.webp",
+          "thumbnail": "assets/LC-000067/front-thumbnail-d49b770277f1.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000067/front-small-616ba1280b22.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000067/front-thumbnail-d49b770277f1.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000067/front-large-b70273f52776.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -5936,7 +6874,7 @@
           "sha256": "db4736d1a5ab5e972f47ceefcdc88200290142e570d9e86aabefb7675b577ed7",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000067/back-preview-v1.webp"
+          "preview": "assets/LC-000067/back-preview-8f76a178ddb6.webp"
         }
       ],
       "condition": {
@@ -6005,8 +6943,22 @@
           "sha256": "a23034874ec89b9be8ec35ead7870a7e45ed5e0a5eedd20000caa02013c36247",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000068/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000068/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000068/front-preview-40fe44b08c64.webp",
+          "thumbnail": "assets/LC-000068/front-thumbnail-a68b09c9fcf3.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000068/front-small-7bbd0e6dcc32.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000068/front-thumbnail-a68b09c9fcf3.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000068/front-large-41eea6bec3c5.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -6020,7 +6972,7 @@
           "sha256": "7649c87b726507aa8b81b9492a71be918fce7ab1461cd1c648d46b6ecd4da259",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000068/back-preview-v1.webp"
+          "preview": "assets/LC-000068/back-preview-ab62fe681ca5.webp"
         }
       ],
       "condition": {
@@ -6089,8 +7041,22 @@
           "sha256": "3b56d40397e7135bc0f2c64a73223df90bb1c83eb0b2d1ac835d17a879ebc512",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000069/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000069/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000069/front-preview-2f880920ba86.webp",
+          "thumbnail": "assets/LC-000069/front-thumbnail-c587542af64e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000069/front-small-c2a11f5dbe9f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000069/front-thumbnail-c587542af64e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000069/front-large-10edc6766dbf.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -6104,7 +7070,7 @@
           "sha256": "7dea40dea1de33942109c6add36a0fdce477439cde7be8c010e56c62a800f5c0",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000069/back-preview-v1.webp"
+          "preview": "assets/LC-000069/back-preview-64c9aa3efa09.webp"
         }
       ],
       "condition": {
@@ -6173,8 +7139,22 @@
           "sha256": "cd61fe9045e6b671ccf9ee69f0c42bea375bcd501d9ef9f01ed589522df4b36f",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000070/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000070/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000070/front-preview-d96e68fa3232.webp",
+          "thumbnail": "assets/LC-000070/front-thumbnail-102733d66f92.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000070/front-small-85f475a22395.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000070/front-thumbnail-102733d66f92.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000070/front-large-afb74c85c1a7.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -6188,7 +7168,7 @@
           "sha256": "3566960c0a2a6c01313641473c50732bff3e8a305b82500a596ea5423b193168",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000070/back-preview-v1.webp"
+          "preview": "assets/LC-000070/back-preview-6fe5c7b1aa4d.webp"
         }
       ],
       "condition": {
@@ -6257,8 +7237,22 @@
           "sha256": "b1242d9ad2d6c4ea24810ec55c2586792269b39e75d60991a8b68ae1a6685fbf",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000071/front-preview-v1.webp",
-          "thumbnail": "assets/LC-000071/front-thumbnail-v1.webp"
+          "preview": "assets/LC-000071/front-preview-f44e35e2b4c0.webp",
+          "thumbnail": "assets/LC-000071/front-thumbnail-4456597cfc27.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000071/front-small-4eb9e3fe37e6.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000071/front-thumbnail-4456597cfc27.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000071/front-large-d883482924f8.webp"
+            }
+          ]
         },
         {
           "side": "back",
@@ -6272,7 +7266,7 @@
           "sha256": "98ed39ad8fb940cd0f934990046f17c663aff32a6283e3843008ceedb9892fd0",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/LC-000071/back-preview-v1.webp"
+          "preview": "assets/LC-000071/back-preview-1c7e0ae2904f.webp"
         }
       ],
       "condition": {
@@ -6353,8 +7347,22 @@
           "sha256": "be9489526eab2d655f3704f93670adf5166fabee7f31546b58f2df16913038af",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/dune-duke-2024/box-front-preview-v1.webp",
-          "thumbnail": "assets/dune-duke-2024/box-front-thumbnail-v1.webp"
+          "preview": "assets/dune-duke-2024/box-front-preview-12b2eac294a4.webp",
+          "thumbnail": "assets/dune-duke-2024/box-front-thumbnail-e0cc91dbdf75.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/dune-duke-2024/box-front-small-45e1aa08751f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/dune-duke-2024/box-front-thumbnail-e0cc91dbdf75.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/dune-duke-2024/box-front-large-21be35275c49.webp"
+            }
+          ]
         },
         {
           "side": "box-spines",
@@ -6368,8 +7376,22 @@
           "sha256": "abb1ddf393951f693b465f05f3077aaaa9dacea5d12ec3098bf1033c6e5afc83",
           "width": 1416,
           "height": 2048,
-          "preview": "assets/dune-duke-2024/box-spines-preview-v1.webp",
-          "thumbnail": "assets/dune-duke-2024/box-spines-thumbnail-v1.webp"
+          "preview": "assets/dune-duke-2024/box-spines-preview-7d6fcf0e2c92.webp",
+          "thumbnail": "assets/dune-duke-2024/box-spines-thumbnail-5f99b68170e2.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/dune-duke-2024/box-spines-small-93f272ba1e9c.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/dune-duke-2024/box-spines-thumbnail-5f99b68170e2.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/dune-duke-2024/box-spines-large-c3c45508c190.webp"
+            }
+          ]
         }
       ]
     },

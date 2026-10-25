@@ -54,3 +54,13 @@ for group in data.get('seriesGroups', []):
     for photo in group.get('photos', []):
         for key in ['original','file','preview','thumbnail']:
             if key in photo: assert (ROOT/photo[key]).is_file(), f"Missing group image: {photo[key]}"
+
+# Responsive cover variants must exist and have unique positive widths.
+for source in [*data['books'], *data.get('seriesGroups',[])]:
+    for photo in source.get('photos',[]):
+        variants=photo.get('sources',[])
+        widths=[item['width'] for item in variants]
+        assert all(isinstance(width,int) and width>0 for width in widths)
+        assert widths==sorted(set(widths)), f"Invalid responsive sizes: {photo.get('original')}"
+        for item in variants:
+            assert (ROOT/item['path']).is_file(), f"Missing responsive image: {item['path']}"
