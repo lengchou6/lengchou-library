@@ -8210,7 +8210,7 @@
       ],
       "translators": [],
       "publisher": "中国人民大学出版社",
-      "isbn": null,
+      "isbn": "978-7-300-27584-0",
       "category": "人文与社科",
       "tags": [
         "人文与社科"
@@ -8221,8 +8221,8 @@
       "language": "zh-Hans",
       "languageLabel": "中文",
       "series": "中国货币史",
-      "seriesGroupId": null,
-      "seriesNumber": null,
+      "seriesGroupId": "chinese-currency-history",
+      "seriesNumber": 1,
       "seriesLabel": "上册",
       "purchaseGroupId": null,
       "orientation": "portrait",
@@ -8236,7 +8236,7 @@
       "accessionedAt": "2026-10-25T15:11:19+08:00",
       "readingStatus": null,
       "location": null,
-      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。 本次照片未展示ISBN或定价，均留空；仅录入上册，不推定持有下册，不推定整套价格。",
+      "notes": "上下册分别建档。下册封底标示ISBN 978-7-300-27584-0、全二册198元，作为套书信息记录，整套定价仅累计一次；未推定购买时间或实付价格。",
       "description": "彭信威研究中国货币制度、钱币与货币流通历史的著作；本次录入为上册。",
       "metadataSource": "用户上传的实体书封面和封底照片",
       "photos": [
@@ -8290,7 +8290,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "isbnScope": "全两册套书ISBN，据下册封底；非单册独立ISBN",
+      "physicalSetId": "chinese-currency-history-set",
+      "priceGroupId": "chinese-currency-history-price"
     },
     {
       "id": "LC-000082",
@@ -8997,6 +9000,1201 @@
         "assessedOn": "2026-10-25"
       },
       "originalTitle": "The Minority Report"
+    },
+    {
+      "id": "LC-000089",
+      "title": "中国货币史（下册）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "彭信威",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "中国人民大学出版社",
+      "isbn": "978-7-300-27584-0",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "中国货币史",
+      "seriesGroupId": "chinese-currency-history",
+      "seriesNumber": 2,
+      "seriesLabel": "下册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:38:17+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "上下册分别建档。下册封底标示ISBN 978-7-300-27584-0、全二册198元，作为套书信息记录，整套定价仅累计一次；未推定购买时间或实付价格。",
+      "description": "彭信威研究中国货币制度、钱币与货币流通历史的著作；本册为下册，与已录入上册关联。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000089/front-original.jpg",
+          "original": "assets/LC-000089/front-original.jpg",
+          "sourceFilename": "IMG_20261025_153817.jpg",
+          "capturedAt": "2026-10-25T15:38:17+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "f977d5a3d9c71ec3b03e83dd2453776e5ffc3bb89f94767bd681d1bcbe8274b7",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000089/front-preview-bcf881688a02.webp",
+          "thumbnail": "assets/LC-000089/front-thumbnail-7b5ab6600c60.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000089/front-small-33395b97a2c4.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000089/front-thumbnail-7b5ab6600c60.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000089/front-large-fcd5491bac76.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000089/back-original.jpg",
+          "original": "assets/LC-000089/back-original.jpg",
+          "sourceFilename": "IMG_20261025_153831.jpg",
+          "capturedAt": "2026-10-25T15:38:31+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "37c62197a77dca62fcc322d33bf1873251709c600764a05f33c14d6b31085eed",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000089/back-preview-1168d1c9d670.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "isbnScope": "全两册套书ISBN，据下册封底；非单册独立ISBN",
+      "physicalSetId": "chinese-currency-history-set",
+      "priceGroupId": "chinese-currency-history-price"
+    },
+    {
+      "id": "LC-000090",
+      "title": "游戏设计梦工厂",
+      "subtitle": "以游玩体验为核心，创造开创性的游戏",
+      "authors": [
+        {
+          "name": "Tracy Fullerton",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "陈潮"
+      ],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-43348-1",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 168,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:39:32+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "围绕游玩体验介绍游戏构思、原型、测试与迭代的设计方法。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000090/front-original.jpg",
+          "original": "assets/LC-000090/front-original.jpg",
+          "sourceFilename": "IMG_20261025_153932.jpg",
+          "capturedAt": "2026-10-25T15:39:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "eafa15830bbd822494b00841ac88149fa32f263504dfbd64dbb5fff9df881e00",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000090/front-preview-c5b539f3f0f4.webp",
+          "thumbnail": "assets/LC-000090/front-thumbnail-f38e4f277305.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000090/front-small-20777e8f4def.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000090/front-thumbnail-f38e4f277305.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000090/front-large-4db0b44ed6b9.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000090/back-original.jpg",
+          "original": "assets/LC-000090/back-original.jpg",
+          "sourceFilename": "IMG_20261025_153944.jpg",
+          "capturedAt": "2026-10-25T15:39:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7d2d4af973111dc494697c6caefc97e309ecfa722765732d7d6dd7cbdddb1e05",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000090/back-preview-0639b6cfc382.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "coverEditionLabel": "第4版",
+      "originalTitle": "Game Design Workshop: A Playcentric Approach to Creating Innovative Games"
+    },
+    {
+      "id": "LC-000091",
+      "title": "游戏开发核心技术",
+      "subtitle": "剧本和角色创造",
+      "authors": [
+        {
+          "name": "Marianne Krawczyk",
+          "country": "美国",
+          "role": "著"
+        },
+        {
+          "name": "Jeannie Novak",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "姚晓光",
+        "孙泱"
+      ],
+      "publisher": "机械工业出版社",
+      "isbn": "978-7-111-21197-6",
+      "category": "写作与叙事",
+      "tags": [
+        "写作与叙事"
+      ],
+      "usageTags": [
+        "写作参考",
+        "游戏叙事"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "游戏开发技术系列丛书",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:40:36+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。 封面标示附赠光盘，未核实当前附件实况。",
+      "description": "介绍游戏剧本与角色开发，讨论故事结构及角色塑造在互动作品中的应用。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000091/front-original.jpg",
+          "original": "assets/LC-000091/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154036.jpg",
+          "capturedAt": "2026-10-25T15:40:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ac1348dc14af5fc014d006547f706e5e01a10db3d24a712e7acb30ffd3ba314a",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000091/front-preview-c73da9f123d2.webp",
+          "thumbnail": "assets/LC-000091/front-thumbnail-5c442f021210.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000091/front-small-21360bd91b3e.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000091/front-thumbnail-5c442f021210.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000091/front-large-d5bc4b30a565.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000091/back-original.jpg",
+          "original": "assets/LC-000091/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154052.jpg",
+          "capturedAt": "2026-10-25T15:40:52+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5c64732256bd1aca5f4f58d24fb53fad320d3a4261410d7c9f71b41fa6d5f81d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000091/back-preview-10326adcc5a6.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Game Development Essentials: Game Story and Character Development"
+    },
+    {
+      "id": "LC-000092",
+      "title": "体验引擎",
+      "subtitle": "游戏设计全景探秘",
+      "authors": [
+        {
+          "name": "Tynan Sylvester",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "秦彬"
+      ],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-25379-9",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 79,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:41:15+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "从玩家体验出发，讨论机制、故事、情绪、互动及设计迭代。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000092/front-original.jpg",
+          "original": "assets/LC-000092/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154115.jpg",
+          "capturedAt": "2026-10-25T15:41:15+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "29614f5200d57cf2d6d59e78269046d0f58bdc2ebe1e39413cba0effca70d5aa",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000092/front-preview-51f2da933502.webp",
+          "thumbnail": "assets/LC-000092/front-thumbnail-76ecf62e3274.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000092/front-small-07b6d0f245f0.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000092/front-thumbnail-76ecf62e3274.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000092/front-large-487efd29d531.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000092/back-original.jpg",
+          "original": "assets/LC-000092/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154124.jpg",
+          "capturedAt": "2026-10-25T15:41:24+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "530dd66a803975571ac1ca003bee1c3f3b7da86b03a535b26c68c044a6099b66",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000092/back-preview-ca38d038e7a9.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Designing Games: A Guide to Engineering Experiences"
+    },
+    {
+      "id": "LC-000093",
+      "title": "平衡掌控者",
+      "subtitle": "游戏数值经济设计",
+      "authors": [
+        {
+          "name": "似水无痕",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-39363-1",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "平衡掌控者",
+      "seriesGroupId": "balance-master",
+      "seriesNumber": 2,
+      "seriesLabel": "经济设计",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 79,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:41:55+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "介绍游戏经济体系与相关数值设计方法。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000093/front-original.jpg",
+          "original": "assets/LC-000093/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154155.jpg",
+          "capturedAt": "2026-10-25T15:41:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1ba7aa5907927a71cd16a620c200d2725ebd52b1c4f18157b3fa67bb78058947",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000093/front-preview-c95574496e06.webp",
+          "thumbnail": "assets/LC-000093/front-thumbnail-dcf31f6972c7.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000093/front-small-301185631f2f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000093/front-thumbnail-dcf31f6972c7.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000093/front-large-a414fa2d6153.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000093/back-original.jpg",
+          "original": "assets/LC-000093/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154209.jpg",
+          "capturedAt": "2026-10-25T15:42:09+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "df7abaa263a31b628ec44c871006e192a663fc349733f7089b7c7fc1472672e2",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000093/back-preview-3c42dcf0d388.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000094",
+      "title": "平衡掌控者",
+      "subtitle": "游戏数值战斗设计",
+      "authors": [
+        {
+          "name": "似水无痕",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-31239-7",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "平衡掌控者",
+      "seriesGroupId": "balance-master",
+      "seriesNumber": 1,
+      "seriesLabel": "战斗设计",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 65,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:42:37+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "介绍游戏战斗系统中的数值设计及平衡思路。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000094/front-original.jpg",
+          "original": "assets/LC-000094/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154237.jpg",
+          "capturedAt": "2026-10-25T15:42:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5dbc298c9d00518f2e7516c57b95389d0437d5ee2243acf0e34cf9442ac730a0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000094/front-preview-e622e53cb3e4.webp",
+          "thumbnail": "assets/LC-000094/front-thumbnail-4e05c9260bab.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000094/front-small-b89080188f23.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000094/front-thumbnail-4e05c9260bab.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000094/front-large-86a3c6c24ae7.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000094/back-original.jpg",
+          "original": "assets/LC-000094/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154246.jpg",
+          "capturedAt": "2026-10-25T15:42:46+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "37631630ba3f4262b2d83b25ecf60a5bb8f38ab13f10922dd6bab59e87f67377",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000094/back-preview-f879618664f6.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000095",
+      "title": "千面英雄",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "约瑟夫·坎贝尔",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "黄珏苹"
+      ],
+      "publisher": "浙江人民出版社",
+      "isbn": "978-7-213-06947-5",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 118.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:43:11+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "通过比较神话研究英雄故事中的共同结构与成长历程。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000095/front-original.jpg",
+          "original": "assets/LC-000095/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154311.jpg",
+          "capturedAt": "2026-10-25T15:43:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "82cda2692868be16e33edced584aedac01223263436e3bb6bd07a3c9a2e6a569",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000095/front-preview-4377565ed15e.webp",
+          "thumbnail": "assets/LC-000095/front-thumbnail-c799ecf2e982.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000095/front-small-1bd102df4355.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000095/front-thumbnail-c799ecf2e982.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000095/front-large-a0da5026b126.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000095/back-original.jpg",
+          "original": "assets/LC-000095/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154322.jpg",
+          "capturedAt": "2026-10-25T15:43:22+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "177616068d274279fbd602fd4cfdc69b80793760eda9b2ccd4087234b52eace4",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000095/back-preview-693672b7120e.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "The Hero with a Thousand Faces"
+    },
+    {
+      "id": "LC-000096",
+      "title": "游戏数据分析的艺术",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "于洋",
+          "country": null,
+          "role": "著"
+        },
+        {
+          "name": "余敏雄",
+          "country": null,
+          "role": "著"
+        },
+        {
+          "name": "吴娜",
+          "country": null,
+          "role": "著"
+        },
+        {
+          "name": "师胜柱",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "机械工业出版社",
+      "isbn": "978-7-111-50780-2",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "数据分析与决策技术丛书",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 79,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:43:49+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "介绍游戏数据指标与分析方法，涉及用户、运营、收入、内容及渠道等层面。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000096/front-original.jpg",
+          "original": "assets/LC-000096/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154349.jpg",
+          "capturedAt": "2026-10-25T15:43:49+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "157fa100e98732dfad0a24f408efb44a683e478f7b3f5136f01591afe36824f4",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000096/front-preview-866ef2b87147.webp",
+          "thumbnail": "assets/LC-000096/front-thumbnail-9548a369675e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000096/front-small-52092fd28005.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000096/front-thumbnail-9548a369675e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000096/front-large-6028811ff18a.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000096/back-original.jpg",
+          "original": "assets/LC-000096/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154401.jpg",
+          "capturedAt": "2026-10-25T15:44:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "48ec139fc29b5e581748bf218cbbd8718d9087838517d9720a2733fba575f0f9",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000096/back-preview-cc239f5e9b81.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "The Art of Game Analytics"
+    },
+    {
+      "id": "LC-000097",
+      "title": "江湖丛谈",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "连阔如",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "978-7-5594-8572-4",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 68,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:44:43+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "记述旧时江湖行业、人物及相关民俗文化。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000097/front-original.jpg",
+          "original": "assets/LC-000097/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154443.jpg",
+          "capturedAt": "2026-10-25T15:44:43+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ddaa4482480cd69d16f298e07b59284424fe1111c8f4ee41e838598c6d33a87d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000097/front-preview-d37a9d13f1e1.webp",
+          "thumbnail": "assets/LC-000097/front-thumbnail-d223ba68ba60.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000097/front-small-3f2cdb3edb2f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000097/front-thumbnail-d223ba68ba60.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000097/front-large-63c21c81c6c1.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000097/back-original.jpg",
+          "original": "assets/LC-000097/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154455.jpg",
+          "capturedAt": "2026-10-25T15:44:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3714f7c31d8041c4b351baa9f150b8b6bb0a2966bafcce7125a54b1db0430822",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000097/back-preview-331f82b1cdd7.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000098",
+      "title": "屠龙记",
+      "subtitle": "创造游戏世界的艺术",
+      "authors": [
+        {
+          "name": "Robert Denton Bryant",
+          "country": "美国",
+          "role": "著"
+        },
+        {
+          "name": "Keith Giglio",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "许格格"
+      ],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-31776-7",
+      "category": "写作与叙事",
+      "tags": [
+        "写作与叙事"
+      ],
+      "usageTags": [
+        "写作参考",
+        "游戏叙事"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 75,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:45:33+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "面向游戏创作者介绍互动叙事、剧本写作与游戏世界的构建方法。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000098/front-original.jpg",
+          "original": "assets/LC-000098/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154533.jpg",
+          "capturedAt": "2026-10-25T15:45:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "b0b8bd4c58baa3eb9dfe46b1a65083caae2bab710157add6a97c374c70e41c9b",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000098/front-preview-1ea914b19165.webp",
+          "thumbnail": "assets/LC-000098/front-thumbnail-0dee9625cc5a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000098/front-small-ffee96da7da3.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000098/front-thumbnail-0dee9625cc5a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000098/front-large-613473b0df42.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000098/back-original.jpg",
+          "original": "assets/LC-000098/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154545.jpg",
+          "capturedAt": "2026-10-25T15:45:45+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "616074bd71c726aa17af07c6a084697dd94bc9ac1f812042d83085390d7e0984",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000098/back-preview-a41fd61eac53.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Slay the Dragon: Writing Great Video Games"
+    },
+    {
+      "id": "LC-000099",
+      "title": "古事记",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "安万侣",
+          "country": "日本",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "周作人"
+      ],
+      "publisher": "上海人民出版社",
+      "isbn": "978-7-208-13052-4",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 39,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:46:03+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "日本古典文献，记录神话、传说与早期世系；本册为周作人译本。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000099/front-original.jpg",
+          "original": "assets/LC-000099/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154603.jpg",
+          "capturedAt": "2026-10-25T15:46:03+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fe744175842aff45ed39cbe031ac20cc3da8f0f73d76ee2b1ee672e8445b7680",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000099/front-preview-292c99f556a5.webp",
+          "thumbnail": "assets/LC-000099/front-thumbnail-a21966afb5f6.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000099/front-small-7e41cc709aac.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000099/front-thumbnail-a21966afb5f6.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000099/front-large-5521d0cec1a8.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000099/back-original.jpg",
+          "original": "assets/LC-000099/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154614.jpg",
+          "capturedAt": "2026-10-25T15:46:14+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "272f39062125c141fadba3c12aaec4ff6ba502f2bf912a416e657d012d34c2a5",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000099/back-preview-9c04b1aff3b5.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "古事記",
+      "titleAliases": [
+        "太安万侣",
+        "Kojiki"
+      ]
+    },
+    {
+      "id": "LC-000100",
+      "title": "中国神话传说",
+      "subtitle": "从盘古到秦始皇",
+      "authors": [
+        {
+          "name": "袁珂",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "世界图书出版公司",
+      "isbn": "978-7-5100-4048-1",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:46:33+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，未核实版权页版次和印次。",
+      "description": "袁珂整理、讲述中国古代神话传说，范围从盘古开天至秦始皇时期。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000100/front-original.jpg",
+          "original": "assets/LC-000100/front-original.jpg",
+          "sourceFilename": "IMG_20261025_154633.jpg",
+          "capturedAt": "2026-10-25T15:46:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "36cf2562f44ce3f320ca133584886f6bda6346fbf9be7593769383af5418f40e",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000100/front-preview-43ab90a14ba5.webp",
+          "thumbnail": "assets/LC-000100/front-thumbnail-0632f8833898.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000100/front-small-77cfd60db254.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000100/front-thumbnail-0632f8833898.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000100/front-large-35ea265b4b18.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000100/back-original.jpg",
+          "original": "assets/LC-000100/back-original.jpg",
+          "sourceFilename": "IMG_20261025_154642.jpg",
+          "capturedAt": "2026-10-25T15:46:42+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2d8a8506b8fbf122de7a638683c941b0d1ea282fca67f2d6e404efdf4b608ec8",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000100/back-preview-a7991a707924.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
     }
   ],
   "seriesGroups": [
@@ -9157,6 +10355,20 @@
       "shortTitle": "欢愉的艺术",
       "kind": "不同语种版本",
       "description": "同一作品的英文译本与意大利文原文版，各册独立编号、ISBN与定价，不推定为购买套装。"
+    },
+    {
+      "id": "chinese-currency-history",
+      "title": "中国货币史（上下册）",
+      "shortTitle": "中国货币史",
+      "kind": "上下册",
+      "description": "上下册独立实体记录，共用套书ISBN与整套定价。"
+    },
+    {
+      "id": "balance-master",
+      "title": "平衡掌控者系列",
+      "shortTitle": "平衡掌控者",
+      "kind": "同名书系",
+      "description": "战斗设计与经济设计分别建档，各自独立ISBN和定价。"
     }
   ],
   "exchangeRates": {
@@ -9208,6 +10420,17 @@
         "LC-000052"
       ],
       "source": "三册封底均明确标示全三册定价，合计仅计一次"
+    },
+    {
+      "id": "chinese-currency-history-price",
+      "label": "中国货币史（全两册）",
+      "amount": 198,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000081",
+        "LC-000089"
+      ],
+      "source": "下册封底明确标示198.00元（全二册）"
     }
   ],
   "categoryOrder": [
