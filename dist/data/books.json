@@ -3499,6 +3499,1433 @@
         "assessedOn": "2026-10-24",
         "limitations": "未检查内页、装订、缺页及笔记。"
       }
+    },
+    {
+      "id": "LC-000040",
+      "title": "偶像的黄昏",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "尼采",
+          "country": "德国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "商务印书馆",
+      "isbn": "978-7-100-10384-8",
+      "category": "人文与社科",
+      "tags": [
+        "哲学",
+        "尼采"
+      ],
+      "usageTags": [
+        "思想参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "汉译世界学术名著丛书",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 22,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:50:53+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": null,
+      "description": null,
+      "metadataSource": "用户上传的实体书封面、封底及补充内页照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000040/front-original.jpg",
+          "original": "assets/LC-000040/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125053.jpg",
+          "capturedAt": "2026-10-25T12:50:53+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "389afe6f06d3f72a45cf8a48bf71da832664afe4289d6c9d3a17698383ee1957",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000040/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000040/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000040/back-original.jpg",
+          "original": "assets/LC-000040/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125104.jpg",
+          "capturedAt": "2026-10-25T12:51:04+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "baa3b2959517b729463faf2e6999e1110881d933396ade9d1b6a0713e8f5623b",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000040/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "约九成新",
+        "note": "封面与封底较完整，边角可见轻微使用痕迹。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000041",
+      "title": "中华人民共和国民法典",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "中国法制出版社",
+          "role": "编"
+        }
+      ],
+      "translators": [],
+      "publisher": "中国法制出版社",
+      "isbn": "978-7-5216-1017-8",
+      "category": "人文与社科",
+      "tags": [
+        "法律",
+        "民法典"
+      ],
+      "usageTags": [
+        "法律参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 18,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:51:40+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "补充照片为内页透印的版权信息与条码；未提供独立封底照片。具体印次未录入。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面、封底及补充内页照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000041/front-original.jpg",
+          "original": "assets/LC-000041/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125140.jpg",
+          "capturedAt": "2026-10-25T12:51:40+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "c57a724dfdf11412bc434e365faa00b7222ec18b2052c0c06b935d8c3946efee",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000041/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000041/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "copyright",
+          "label": "版权信息补充内页",
+          "file": "assets/LC-000041/copyright-original.jpg",
+          "original": "assets/LC-000041/copyright-original.jpg",
+          "sourceFilename": "IMG_20261025_125203.jpg",
+          "capturedAt": "2026-10-25T12:52:03+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "7023a809acaa2b539cb03adba13de8b8bb6f525608970182ca6ae995c97b7a0e",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000041/copyright-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显破损",
+        "note": "封面右上角可见缺损与撕裂，其他外观以照片为准。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000042",
+      "title": "ZERRO",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "松田行正",
+          "country": "日本",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "中央编译出版社",
+      "isbn": null,
+      "category": "游戏与设计",
+      "tags": [
+        "符号",
+        "视觉设计"
+      ],
+      "usageTags": [
+        "美术参考",
+        "设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:52:39+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名与作者根据封面及扉页；ISBN、定价、译者和具体版次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面、封底及补充内页照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000042/front-original.jpg",
+          "original": "assets/LC-000042/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125239.jpg",
+          "capturedAt": "2026-10-25T12:52:39+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "b329c0846bef6364371580d44d392562b7473dd349770ee88f5993a9809b2848",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000042/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000042/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000042/back-original.jpg",
+          "original": "assets/LC-000042/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125247.jpg",
+          "capturedAt": "2026-10-25T12:52:47+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "6c00bcda7c0fad00fed1335a5096f12f70ffb87368c6d4074204d8aa97d515e8",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000042/back-preview-v1.webp"
+        },
+        {
+          "side": "title-page",
+          "label": "扉页",
+          "file": "assets/LC-000042/title-page-original.jpg",
+          "original": "assets/LC-000042/title-page-original.jpg",
+          "sourceFilename": "IMG_20261025_125320.jpg",
+          "capturedAt": "2026-10-25T12:53:20+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "7f01f221db5cab2b44c23ae17b4717fbfd516ee7dcabb8415a155503ac876330",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000042/title-page-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显磨损",
+        "note": "黑色封面与封底可见多处擦痕及边角磨损。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "titleAliases": [
+        "零",
+        "ZEЯRO",
+        "零ZERRO",
+        "世界符号大全"
+      ]
+    },
+    {
+      "id": "LC-000043",
+      "title": "绿野仙踪1",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "弗兰克·鲍姆",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": null,
+      "isbn": "7-5327-1335-0",
+      "category": "文学与小说",
+      "tags": [
+        "童话",
+        "奥芝国"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "绿野仙踪",
+      "seriesGroupId": "oz-four-volume",
+      "seriesNumber": 1,
+      "seriesLabel": "第1集",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 8.1,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:53:35+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "按封底保留原印 ISBN-10；译者、出版社与出版版次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面、封底及补充内页照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000043/front-original.jpg",
+          "original": "assets/LC-000043/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125335.jpg",
+          "capturedAt": "2026-10-25T12:53:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "705671aaf9f2934b387f753fed8e9ec38b43bc5d7bfcc53f08973d1c5c208e6a",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000043/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000043/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000043/back-original.jpg",
+          "original": "assets/LC-000043/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125347.jpg",
+          "capturedAt": "2026-10-25T12:53:47+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "48a4da48bd497ab60aa6e82a127e038340c9cfbd5ae93f896eda194175e1a796",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000043/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显岁月痕迹",
+        "note": "封面与封底可见泛黄、污迹、擦痕及书脊边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "physicalSetId": "oz-four-volume"
+    },
+    {
+      "id": "LC-000044",
+      "title": "绿野仙踪2",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "弗兰克·鲍姆",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": null,
+      "isbn": "7-5327-1336-9",
+      "category": "文学与小说",
+      "tags": [
+        "童话",
+        "奥芝国"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "绿野仙踪",
+      "seriesGroupId": "oz-four-volume",
+      "seriesNumber": 2,
+      "seriesLabel": "第2集",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 7.5,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:54:05+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "按封底保留原印 ISBN-10；译者、出版社与出版版次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面、封底及补充内页照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000044/front-original.jpg",
+          "original": "assets/LC-000044/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125405.jpg",
+          "capturedAt": "2026-10-25T12:54:05+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "98a1d0051207bd7b8e38548765c4e6858346fd50f9722bf34aad30f69f357e52",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000044/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000044/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000044/back-original.jpg",
+          "original": "assets/LC-000044/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125412.jpg",
+          "capturedAt": "2026-10-25T12:54:12+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "595713c947c74b7e2fcf9c07046186b6cd7812ad224e8a7125f6f9dabef7238d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000044/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显岁月痕迹",
+        "note": "封面与封底可见泛黄、污迹、擦痕及书脊边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "physicalSetId": "oz-four-volume"
+    },
+    {
+      "id": "LC-000045",
+      "title": "绿野仙踪3",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "弗兰克·鲍姆",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": null,
+      "isbn": "7-5327-1337-7",
+      "category": "文学与小说",
+      "tags": [
+        "童话",
+        "奥芝国"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "绿野仙踪",
+      "seriesGroupId": "oz-four-volume",
+      "seriesNumber": 3,
+      "seriesLabel": "第3集",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 7.4,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:54:24+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "按封底保留原印 ISBN-10；译者、出版社与出版版次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面、封底及补充内页照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000045/front-original.jpg",
+          "original": "assets/LC-000045/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125424.jpg",
+          "capturedAt": "2026-10-25T12:54:24+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "0efd8181dff4984035fa14f5c80f4abff7831b225fdc64ff15c72d7e15e8c7ec",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000045/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000045/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000045/back-original.jpg",
+          "original": "assets/LC-000045/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125433.jpg",
+          "capturedAt": "2026-10-25T12:54:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "b8a5c5b23d3c7479e89f67b33fd0c71d3540099234bb42c197c11bea3d485bf3",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000045/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显岁月痕迹",
+        "note": "封面与封底可见泛黄、污迹、擦痕及书脊边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "physicalSetId": "oz-four-volume"
+    },
+    {
+      "id": "LC-000046",
+      "title": "绿野仙踪4",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "弗兰克·鲍姆",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": null,
+      "isbn": "7-5327-1338-5",
+      "category": "文学与小说",
+      "tags": [
+        "童话",
+        "奥芝国"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "绿野仙踪",
+      "seriesGroupId": "oz-four-volume",
+      "seriesNumber": 4,
+      "seriesLabel": "第4集",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 8.35,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:54:46+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "按封底保留原印 ISBN-10；译者、出版社与出版版次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面、封底及补充内页照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000046/front-original.jpg",
+          "original": "assets/LC-000046/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125446.jpg",
+          "capturedAt": "2026-10-25T12:54:46+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "c91d19bf2cfe228f94003ab11b9f1364d9977b8a3367172a82a50eb037a1fd6f",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000046/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000046/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000046/back-original.jpg",
+          "original": "assets/LC-000046/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125455.jpg",
+          "capturedAt": "2026-10-25T12:54:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "拍摄文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "8cfdd87aa66c36f6685776e9be0bb901741940daa6e0af83fac68853804554d0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000046/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显岁月痕迹",
+        "note": "封面与封底可见泛黄、污迹、擦痕及书脊边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "physicalSetId": "oz-four-volume"
+    },
+    {
+      "id": "LC-000047",
+      "title": "故土",
+      "originalTitle": "Homeland",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "R.A.萨尔瓦多",
+          "originalName": "R. A. Salvatore",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "朱学恒"
+      ],
+      "publisher": "龙门书局",
+      "isbn": "7-80111-992-4",
+      "isbnScope": "全三册共用 ISBN",
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "被遗忘的国度"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "黑暗精灵三部曲",
+      "seriesGroupId": "dark-elf-trilogy",
+      "seriesNumber": 1,
+      "seriesLabel": "第1部",
+      "physicalSetId": "dark-elf-trilogy",
+      "purchaseGroupId": null,
+      "priceGroupId": "dark-elf-trilogy-price",
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:55:32+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000047/front-original.jpg",
+          "original": "assets/LC-000047/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125532.jpg",
+          "capturedAt": "2026-10-25T12:55:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "d33a0df608e27058cfac0ac8bd05f1935d097eca9bc2a2f67ad9879ec4ba12f3",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000047/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000047/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000047/back-original.jpg",
+          "original": "assets/LC-000047/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125541.jpg",
+          "capturedAt": "2026-10-25T12:55:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "de35a8d3097045c2d8e35817d8495b638a276239bb5ce56dfbddefb9bc6153bb",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000047/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000048",
+      "title": "流亡",
+      "originalTitle": "Exile",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "R.A.萨尔瓦多",
+          "originalName": "R. A. Salvatore",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "徐庆雯"
+      ],
+      "publisher": "龙门书局",
+      "isbn": "7-80111-992-4",
+      "isbnScope": "全三册共用 ISBN",
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "被遗忘的国度"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "黑暗精灵三部曲",
+      "seriesGroupId": "dark-elf-trilogy",
+      "seriesNumber": 2,
+      "seriesLabel": "第2部",
+      "physicalSetId": "dark-elf-trilogy",
+      "purchaseGroupId": null,
+      "priceGroupId": "dark-elf-trilogy-price",
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:56:11+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000048/front-original.jpg",
+          "original": "assets/LC-000048/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125611.jpg",
+          "capturedAt": "2026-10-25T12:56:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "134a8cbcdf1b4201d0cd09f202ec052e2ceff8c1c519375dfb93d28bcf1a03d0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000048/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000048/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000048/back-original.jpg",
+          "original": "assets/LC-000048/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125620.jpg",
+          "capturedAt": "2026-10-25T12:56:20+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "53e37265d6352e0ee9ee06de8809bdb3285c8d76ce5572fcb0fb7eef3823e92d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000048/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000049",
+      "title": "旅居",
+      "originalTitle": "Sojourn",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "R.A.萨尔瓦多",
+          "originalName": "R. A. Salvatore",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "吴宜洁",
+        "欧威扬"
+      ],
+      "publisher": "龙门书局",
+      "isbn": "7-80111-992-4",
+      "isbnScope": "全三册共用 ISBN",
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "被遗忘的国度"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "黑暗精灵三部曲",
+      "seriesGroupId": "dark-elf-trilogy",
+      "seriesNumber": 3,
+      "seriesLabel": "第3部",
+      "physicalSetId": "dark-elf-trilogy",
+      "purchaseGroupId": null,
+      "priceGroupId": "dark-elf-trilogy-price",
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:56:36+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000049/front-original.jpg",
+          "original": "assets/LC-000049/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125636.jpg",
+          "capturedAt": "2026-10-25T12:56:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "409a98d02dd5c217cced44a67396d509b84040f9c97f1af1636001d3079dc867",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000049/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000049/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000049/back-original.jpg",
+          "original": "assets/LC-000049/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125645.jpg",
+          "capturedAt": "2026-10-25T12:56:45+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "043a8297fe2bda0ecbcc439e7dda7056bbc557848df5c0bdea194c0ac25ad0a9",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000049/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000050",
+      "title": "碎魔晶",
+      "originalTitle": "The Crystal Shard",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "R.A.萨尔瓦多",
+          "originalName": "R. A. Salvatore",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "洪岳农"
+      ],
+      "publisher": "光明日报出版社",
+      "isbn": "7-80145-526-6",
+      "isbnScope": "全三册共用 ISBN",
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "被遗忘的国度"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "冰风谷",
+      "seriesGroupId": "icewind-dale-trilogy",
+      "seriesNumber": 1,
+      "seriesLabel": "第1部",
+      "physicalSetId": "icewind-dale-trilogy",
+      "purchaseGroupId": null,
+      "priceGroupId": "icewind-dale-trilogy-price",
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:57:13+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000050/front-original.jpg",
+          "original": "assets/LC-000050/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125713.jpg",
+          "capturedAt": "2026-10-25T12:57:13+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "41044778ef533ff3a86866a99663163e8ebc4969697fd1dd66c72d5dacdd84f3",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000050/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000050/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000050/back-original.jpg",
+          "original": "assets/LC-000050/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125721.jpg",
+          "capturedAt": "2026-10-25T12:57:21+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "c4442240378a59f3fcbf3e3fc603a9ee8689f497c73468bf4f98fac78e93920b",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000050/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000051",
+      "title": "白银溪流",
+      "originalTitle": "Streams of Silver",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "R.A.萨尔瓦多",
+          "originalName": "R. A. Salvatore",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "王中宁"
+      ],
+      "publisher": "光明日报出版社",
+      "isbn": "7-80145-526-6",
+      "isbnScope": "全三册共用 ISBN",
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "被遗忘的国度"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "冰风谷",
+      "seriesGroupId": "icewind-dale-trilogy",
+      "seriesNumber": 2,
+      "seriesLabel": "第2部",
+      "physicalSetId": "icewind-dale-trilogy",
+      "purchaseGroupId": null,
+      "priceGroupId": "icewind-dale-trilogy-price",
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:57:32+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000051/front-original.jpg",
+          "original": "assets/LC-000051/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125732.jpg",
+          "capturedAt": "2026-10-25T12:57:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "cb59ea233c4e3a0d41d58cb24b89a2f8d07223a7dbe53f31282f269f736e8483",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000051/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000051/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000051/back-original.jpg",
+          "original": "assets/LC-000051/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125739.jpg",
+          "capturedAt": "2026-10-25T12:57:39+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "a3dc6901d9460168a27b210927c88de8c69f2482e349c282b67bbc48da025700",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000051/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000052",
+      "title": "半身人的魔坠",
+      "originalTitle": "The Halfling’s Gem",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "R.A.萨尔瓦多",
+          "originalName": "R. A. Salvatore",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "王中宁"
+      ],
+      "publisher": "光明日报出版社",
+      "isbn": "7-80145-526-6",
+      "isbnScope": "全三册共用 ISBN",
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "被遗忘的国度"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "冰风谷",
+      "seriesGroupId": "icewind-dale-trilogy",
+      "seriesNumber": 3,
+      "seriesLabel": "第3部",
+      "physicalSetId": "icewind-dale-trilogy",
+      "purchaseGroupId": null,
+      "priceGroupId": "icewind-dale-trilogy-price",
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:58:10+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000052/front-original.jpg",
+          "original": "assets/LC-000052/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125810.jpg",
+          "capturedAt": "2026-10-25T12:58:10+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "b0b63434afd6eceb7a2a59a416535acbfda6f8a75a90464d6481a9f513386b0f",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000052/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000052/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000052/back-original.jpg",
+          "original": "assets/LC-000052/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125829.jpg",
+          "capturedAt": "2026-10-25T12:58:29+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "9f3bafd40bbeb98dba0e84f58aea6971378e10fcfabf15d7de95b0acd4768939",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000052/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000053",
+      "title": "永恒之井",
+      "originalTitle": "The Well of Eternity",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "理查德·A.纳克",
+          "originalName": "Richard A. Knaak",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "张尧臣",
+        "龚镇"
+      ],
+      "publisher": "文汇出版社",
+      "isbn": "7-80676-903-X",
+      "isbnScope": null,
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "魔兽"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "魔兽 · 上古之战三部曲",
+      "seriesGroupId": "warcraft-ancients",
+      "seriesNumber": 1,
+      "seriesLabel": "第1部",
+      "physicalSetId": null,
+      "purchaseGroupId": null,
+      "priceGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 20,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T12:59:15+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000053/front-original.jpg",
+          "original": "assets/LC-000053/front-original.jpg",
+          "sourceFilename": "IMG_20261025_125915.jpg",
+          "capturedAt": "2026-10-25T12:59:15+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "252376bd806f82455edc812bddb7ebdd7495966604b8e619d23bb46be67401f5",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000053/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000053/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000053/back-original.jpg",
+          "original": "assets/LC-000053/back-original.jpg",
+          "sourceFilename": "IMG_20261025_125927.jpg",
+          "capturedAt": "2026-10-25T12:59:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "f10c78b2de3e3f74843054f1ac7cefaaea2434f07b87895c7df3d109095c79b6",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000053/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000054",
+      "title": "恶魔之魂",
+      "originalTitle": "The Demon Soul",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "理查德·A.纳克",
+          "originalName": "Richard A. Knaak",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "黄志旻",
+        "陈琳",
+        "朱粒平",
+        "王草青"
+      ],
+      "publisher": "文汇出版社",
+      "isbn": "7-80676-967-6",
+      "isbnScope": null,
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "魔兽"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "魔兽 · 上古之战三部曲",
+      "seriesGroupId": "warcraft-ancients",
+      "seriesNumber": 2,
+      "seriesLabel": "第2部",
+      "physicalSetId": null,
+      "purchaseGroupId": null,
+      "priceGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 22,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:03:52+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000054/front-original.jpg",
+          "original": "assets/LC-000054/front-original.jpg",
+          "sourceFilename": "IMG_20261025_130352.jpg",
+          "capturedAt": "2026-10-25T13:03:52+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "4e8ad65ae0c70bfa61d34a9e59b4bdd7c7a1954d062fa884312ab600d655416b",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000054/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000054/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000054/back-original.jpg",
+          "original": "assets/LC-000054/back-original.jpg",
+          "sourceFilename": "IMG_20261025_130408.jpg",
+          "capturedAt": "2026-10-25T13:04:08+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "0ea47c1ebb17deba253b120d14d0d2856a17fdcbfcce770ffed5d32757a82fae",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000054/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000055",
+      "title": "天崩地裂",
+      "originalTitle": "The Sundering",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "理查德·A.纳克",
+          "originalName": "Richard A. Knaak",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "赵永健",
+        "余美"
+      ],
+      "publisher": "文汇出版社",
+      "isbn": "7-80741-020-5",
+      "isbnScope": null,
+      "category": "文学与小说",
+      "tags": [
+        "奇幻小说",
+        "魔兽"
+      ],
+      "usageTags": [
+        "世界观参考",
+        "角色塑造",
+        "叙事参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文译本",
+      "series": "魔兽 · 上古之战三部曲",
+      "seriesGroupId": "warcraft-ancients",
+      "seriesNumber": 3,
+      "seriesLabel": "第3部",
+      "physicalSetId": null,
+      "purchaseGroupId": null,
+      "priceGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 23,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:05:02+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封面与封底记载，具体版次、印次未核对。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000055/front-original.jpg",
+          "original": "assets/LC-000055/front-original.jpg",
+          "sourceFilename": "IMG_20261025_130502.jpg",
+          "capturedAt": "2026-10-25T13:05:02+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "005eb7eab169eded91720c10460cc88c49ce7c62f215fe6a9746560900bb13e5",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000055/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000055/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000055/back-original.jpg",
+          "original": "assets/LC-000055/back-original.jpg",
+          "sourceFilename": "IMG_20261025_130510.jpg",
+          "capturedAt": "2026-10-25T13:05:10+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "859a3e4f6d0bb61362809b8fd844560bb98c27a3365d96a21a29f4519b7cc915",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000055/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面与封底可见擦痕、折痕或边角磨损；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
     }
   ],
   "seriesGroups": [
@@ -3589,6 +5016,34 @@
           "thumbnail": "assets/dune-duke-2024/box-spines-thumbnail-v1.webp"
         }
       ]
+    },
+    {
+      "id": "oz-four-volume",
+      "title": "绿野仙踪 · 四集本",
+      "shortTitle": "绿野仙踪（四集本）",
+      "kind": "四册合集",
+      "description": "依据封面“共四集”按第一至第四集编目，每册独立记录封底 ISBN 和定价。"
+    },
+    {
+      "id": "dark-elf-trilogy",
+      "title": "黑暗精灵三部曲",
+      "shortTitle": "黑暗精灵三部曲",
+      "kind": "三部曲",
+      "description": "按实体书分册顺序排列，每册保留独立照片与档案。"
+    },
+    {
+      "id": "icewind-dale-trilogy",
+      "title": "冰风谷",
+      "shortTitle": "冰风谷",
+      "kind": "三部曲",
+      "description": "按实体书分册顺序排列，每册保留独立照片与档案。"
+    },
+    {
+      "id": "warcraft-ancients",
+      "title": "魔兽 · 上古之战三部曲",
+      "shortTitle": "魔兽 · 上古之战三部曲",
+      "kind": "三部曲",
+      "description": "按实体书分册顺序排列，每册保留独立照片与档案。"
     }
   ],
   "exchangeRates": {
@@ -3615,6 +5070,30 @@
         "LC-000032"
       ],
       "source": "下册封底明确标示 68.00 元（全两册）"
+    },
+    {
+      "id": "dark-elf-trilogy-price",
+      "label": "黑暗精灵三部曲（全三册）",
+      "amount": 54,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000047",
+        "LC-000048",
+        "LC-000049"
+      ],
+      "source": "三册封底均明确标示全三册定价，合计仅计一次"
+    },
+    {
+      "id": "icewind-dale-trilogy-price",
+      "label": "冰风谷（全三册）",
+      "amount": 72,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000050",
+        "LC-000051",
+        "LC-000052"
+      ],
+      "source": "三册封底均明确标示全三册定价，合计仅计一次"
     }
   ],
   "categoryOrder": [

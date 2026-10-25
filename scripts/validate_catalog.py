@@ -11,13 +11,19 @@ for book in data['books']:
     seen.add(book['id'])
     if book.get('isbn'):
         digits=book['isbn'].replace('-','')
-        assert len(digits)==13 and digits.isdigit(), f"Invalid ISBN: {book['id']}"
-        assert sum(int(c)*(1 if i%2==0 else 3) for i,c in enumerate(digits))%10==0, f"ISBN checksum: {book['id']}"
+        if len(digits)==10:
+            assert digits[:9].isdigit() and (digits[-1].isdigit() or digits[-1]=='X'), f"Invalid ISBN-10: {book['id']}"
+            assert sum((10-i)*(10 if c=='X' else int(c)) for i,c in enumerate(digits))%11==0, f"ISBN-10 checksum: {book['id']}"
+        else:
+            assert len(digits)==13 and digits.isdigit(), f"Invalid ISBN: {book['id']}"
+            assert sum(int(c)*(1 if i%2==0 else 3) for i,c in enumerate(digits))%10==0, f"ISBN checksum: {book['id']}"
     assert book['category'] and book['title'] and book['authors']
     for key in ['listPrice','paidPrice']:
         assert book[key] is None or isinstance(book[key],(int,float)) and book[key]>=0
     assert datetime.fromisoformat(book['accessionedAt']).utcoffset().total_seconds()==28800
-    assert {p['side'] for p in book['photos']}=={'front','back'}
+    sides=[p['side'] for p in book['photos']]
+    assert 'front' in sides and len(sides)==len(set(sides))
+    assert all(p.get('label') for p in book['photos'])
     front=next(p for p in book['photos'] if p['side']=='front')
     assert book['accessionedAt']==front['capturedAt']
     for photo in book['photos']:
