@@ -123,3 +123,6 @@
  .detail-layout{grid-template-columns:minmax(0,1fr);gap:26px}.detail-title{font-size:28px;margin-bottom:10px}.detail-author{margin-bottom:20px;font-size:13px}.photo-viewer .photo-stage{height:clamp(290px,108vw,480px);padding:10px 0}.basic-info{padding:16px 0}.back-link{margin:16px 0}.detail-intro{margin:22px 0}.series-photo-panel{margin-bottom:10px}
 }
 @media(max-width:370px){.catalog-toolbar .categories{gap:0 10px}.category-button{font-size:10px}.catalog-section .cover-stage{height:205px}.catalog-section .book-grid{column-gap:14px;padding-left:7px;padding-right:7px}.catalog-section .cover-stage:after{left:-7px;right:-7px}.book-card h3{font-size:16px}.book-card h3.foreign-title{font-size:15px}}
+
+/* 完整书名优先：自然换行，不省略副标题或分册名称。 */
+.book-card h3{display:block;-webkit-line-clamp:unset;overflow:visible;height:auto;max-height:none;overflow-wrap:anywhere}

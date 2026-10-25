@@ -14,7 +14,7 @@ def canonical_isbn(value):
 isbn=defaultdict(list);titles=defaultdict(list);photos=defaultdict(list)
 for book in data['books']:
     if book.get('isbn'): isbn[canonical_isbn(book['isbn'])].append(book['id'])
-    title=unicodedata.normalize('NFKC',book['title']).replace(' ','')
+    title=unicodedata.normalize('NFKC',book['title']+('：'+book['subtitle'] if book.get('subtitle') else '')).replace(' ','')
     titles[title].append({'id':book['id'],'isbn':book['isbn']})
     for photo in book['photos']:
         raw=(ROOT/photo['original']).read_bytes()
