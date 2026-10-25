@@ -1,0 +1,46 @@
+{
+  "newBooks": [
+    "LC-000089",
+    "LC-000090",
+    "LC-000091",
+    "LC-000092",
+    "LC-000093",
+    "LC-000094",
+    "LC-000095",
+    "LC-000096",
+    "LC-000097",
+    "LC-000098",
+    "LC-000099",
+    "LC-000100"
+  ],
+  "updatedBooks": [
+    "LC-000081"
+  ],
+  "originalPaths": [
+    "dist/assets/LC-000089/front-original.jpg",
+    "dist/assets/LC-000089/back-original.jpg",
+    "dist/assets/LC-000090/front-original.jpg",
+    "dist/assets/LC-000090/back-original.jpg",
+    "dist/assets/LC-000091/front-original.jpg",
+    "dist/assets/LC-000091/back-original.jpg",
+    "dist/assets/LC-000092/front-original.jpg",
+    "dist/assets/LC-000092/back-original.jpg",
+    "dist/assets/LC-000093/front-original.jpg",
+    "dist/assets/LC-000093/back-original.jpg",
+    "dist/assets/LC-000094/front-original.jpg",
+    "dist/assets/LC-000094/back-original.jpg",
+    "dist/assets/LC-000095/front-original.jpg",
+    "dist/assets/LC-000095/back-original.jpg",
+    "dist/assets/LC-000096/front-original.jpg",
+    "dist/assets/LC-000096/back-original.jpg",
+    "dist/assets/LC-000097/front-original.jpg",
+    "dist/assets/LC-000097/back-original.jpg",
+    "dist/assets/LC-000098/front-original.jpg",
+    "dist/assets/LC-000098/back-original.jpg",
+    "dist/assets/LC-000099/front-original.jpg",
+    "dist/assets/LC-000099/back-original.jpg",
+    "dist/assets/LC-000100/front-original.jpg",
+    "dist/assets/LC-000100/back-original.jpg"
+  ],
+  "source": "2026-10-25 15:38—15:46 共24张唯一实拍照片，重复附件只处理一次"
+}
