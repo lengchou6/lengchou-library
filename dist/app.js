@@ -330,7 +330,7 @@
   $('#zoom-out').addEventListener('click',()=>setZoom(zoom-.25));
   $('#zoom-reset').addEventListener('click',()=>setZoom(1));
   let resizeTimer;window.addEventListener('resize',()=>{if(dialog.open)setZoom(zoom);clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>{if(books.length&&columnCount()!==renderedColumns)renderCollection();},100);});
-  window.addEventListener('popstate',()=>{if(books.length){readQuery();categories();renderCollection();route();}});
+  window.addEventListener('popstate',()=>{if(books.length){readQuery();categories();renderCollection();}});
   document.addEventListener('keydown',event=>{if(event.key==='/'&&!dialog.open&&!$('#catalog-page').hidden&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){event.preventDefault();$('#search').focus();}});
   fetch('data/books.json?v=20261025-shelf-v2').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
     priceGroups=data.priceGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};books=data.books;categoryOrder=data.categoryOrder || [];seriesGroups=data.seriesGroups || [];$('#summary').textContent=`共 ${books.length} 册`;
