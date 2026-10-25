@@ -68,7 +68,7 @@
   function bookCard(b) {
     const index=cardIndex++;
     const landscape=b.orientation==='landscape';
-    return `<a class="book-card${landscape?' book-landscape':''}" href="#book/${encodeURIComponent(b.id)}" data-book="${esc(b.id)}" aria-label="查看${esc(fullTitle(b))}"><div class="cover-stage"><img decoding="async" class="cover-image" src="${esc(imagePath(b))}" alt="${esc(b.title)}实体书正面" width="${landscape?560:400}" height="${landscape?400:580}" loading="${index<2?'eager':'lazy'}" fetchpriority="${index===0?'high':'auto'}"></div><div class="book-card-info"><h3${titleAttrs(b)}>${esc(b.title)}</h3><p class="book-author">${esc(authorLine(b))}</p></div></a>`;
+    return `<a class="book-card${landscape?' book-landscape':''}" href="#book/${encodeURIComponent(b.id)}" data-book="${esc(b.id)}" aria-label="查看${esc(fullTitle(b))}"><div class="cover-stage"><img decoding="async" class="cover-image" src="${esc(imagePath(b))}" alt="${esc(b.title)}实体书正面" width="${landscape?560:400}" height="${landscape?400:580}" loading="${index<2?'eager':'lazy'}" fetchpriority="${index===0?'high':'auto'}"></div><div class="book-card-info"><h3${titleAttrs(b)} title="${esc(fullTitle(b))}">${esc(b.title)}</h3><p class="book-author" title="${esc(authorLine(b))}">${esc(authorLine(b))}</p></div></a>`;
   }
   function resetFilterValues(){category='全部';seriesFilter='all';$('#search').value='';}
   function renderActiveFilters(){
