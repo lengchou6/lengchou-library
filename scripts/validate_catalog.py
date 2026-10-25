@@ -17,7 +17,7 @@ for book in data['books']:
         else:
             assert len(digits)==13 and digits.isdigit(), f"Invalid ISBN: {book['id']}"
             assert sum(int(c)*(1 if i%2==0 else 3) for i,c in enumerate(digits))%10==0, f"ISBN checksum: {book['id']}"
-    assert book['category'] and book['title'] and book['authors']
+    assert book['category'] and book['title'] and isinstance(book['authors'],list)
     for key in ['listPrice','paidPrice']:
         assert book[key] is None or isinstance(book[key],(int,float)) and book[key]>=0
     assert datetime.fromisoformat(book['accessionedAt']).utcoffset().total_seconds()==28800

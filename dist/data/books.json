@@ -4967,6 +4967,1321 @@
       "titleAliases": [
         "天崩地裂"
       ]
+    },
+    {
+      "id": "LC-000056",
+      "title": "北欧神话ABC",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "茅盾",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "978-7-5594-4537-7",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 48,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:21:49+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000056/front-original.jpg",
+          "original": "assets/LC-000056/front-original.jpg",
+          "sourceFilename": "IMG_20261025_132149.jpg",
+          "capturedAt": "2026-10-25T13:21:49+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "baaeea781672a26650febe02b361b0d3040be6375207b1adb3a042fd6189146d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000056/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000056/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000056/back-original.jpg",
+          "original": "assets/LC-000056/back-original.jpg",
+          "sourceFilename": "IMG_20261025_132201.jpg",
+          "capturedAt": "2026-10-25T13:22:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "09a87b0dc4f5fb9854c35a56e3d2129939904ce9a3dcc3451fca2eadf528c91d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000056/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000057",
+      "title": "心流",
+      "subtitle": "最优体验心理学",
+      "authors": [
+        {
+          "name": "米哈里·契克森米哈赖",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "张定绮"
+      ],
+      "publisher": "中信出版集团",
+      "isbn": "978-7-5086-7553-4",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:22:24+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000057/front-original.jpg",
+          "original": "assets/LC-000057/front-original.jpg",
+          "sourceFilename": "IMG_20261025_132224.jpg",
+          "capturedAt": "2026-10-25T13:22:24+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "48d7f60284abe1d571bbdd34242f691f6959daa8028148967d88fc38a441e2ad",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000057/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000057/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000057/back-original.jpg",
+          "original": "assets/LC-000057/back-original.jpg",
+          "sourceFilename": "IMG_20261025_132236.jpg",
+          "capturedAt": "2026-10-25T13:22:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "83874a1ea9a305705c533d441c40abc5e6d1acef73751deec863ea38117cf8bc",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000057/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显磨损",
+        "note": "封面、封底边角可见明显掉色、磨损和磕碰。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000058",
+      "title": "我的阿勒泰",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "李娟",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "花城出版社",
+      "isbn": "978-7-5360-9435-2",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 45,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:23:22+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000058/front-original.jpg",
+          "original": "assets/LC-000058/front-original.jpg",
+          "sourceFilename": "IMG_20261025_132322.jpg",
+          "capturedAt": "2026-10-25T13:23:22+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "c23e5a7f6f9163932289c46b06a23a5b5e2b447aa88f95b728cf813a1f924abd",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000058/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000058/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000058/back-original.jpg",
+          "original": "assets/LC-000058/back-original.jpg",
+          "sourceFilename": "IMG_20261025_132337.jpg",
+          "capturedAt": "2026-10-25T13:23:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "4094d1198b821f921b1158556466b6e814a03835514ee71bdadecb8ce3dd7b06",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000058/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000059",
+      "title": "以日为鉴",
+      "subtitle": "衰退时代生存指南",
+      "authors": [
+        {
+          "name": "分析师Boden",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "开明出版社",
+      "isbn": "978-7-5131-9609-3",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 58,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:32:31+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000059/front-original.jpg",
+          "original": "assets/LC-000059/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133231.jpg",
+          "capturedAt": "2026-10-25T13:32:31+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "dea1e42cb116dc29fcc73f53e6d4100b62139f71f9b3cbf0f8a17dd5e97659f9",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000059/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000059/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000059/back-original.jpg",
+          "original": "assets/LC-000059/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133245.jpg",
+          "capturedAt": "2026-10-25T13:32:45+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "962d6936ed5c0717f0afdd456a7b12cb7fe2740861e86ac1dafd56319f47c59b",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000059/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面右上角可见折痕，边缘有轻微磨损。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000060",
+      "title": "十八岁出门远行",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "余华",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "978-7-5594-8455-0",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 45,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:33:23+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000060/front-original.jpg",
+          "original": "assets/LC-000060/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133323.jpg",
+          "capturedAt": "2026-10-25T13:33:23+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "2a883157a0585f13ef58b6718589989bae1b0f226217c0d564f44c7370af7306",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000060/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000060/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000060/back-original.jpg",
+          "original": "assets/LC-000060/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133332.jpg",
+          "capturedAt": "2026-10-25T13:33:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "3dcb4ff813c968bc5b4badee1045c43f2a60a550b497bd84a135b89a3b6deb4a",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000060/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000061",
+      "title": "中华人民共和国刑法",
+      "subtitle": null,
+      "authors": [],
+      "translators": [],
+      "publisher": "中国法制出版社",
+      "isbn": "978-7-5216-1553-1",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 30,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:34:26+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000061/front-original.jpg",
+          "original": "assets/LC-000061/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133426.jpg",
+          "capturedAt": "2026-10-25T13:34:26+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "63f1d8c4f84c45e0d84174ba5c29a3070136b148d7575e6c7b320db2957672ec",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000061/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000061/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000061/back-original.jpg",
+          "original": "assets/LC-000061/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133435.jpg",
+          "capturedAt": "2026-10-25T13:34:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "ceb2f8ce84f10ff8aae01373da4954b4cb1250bf554a65b11cdf654ce74eca01",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000061/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "coverEditionLabel": "全新修订版·实用版；根据刑法修正案十一修订（封面标识）"
+    },
+    {
+      "id": "LC-000062",
+      "title": "我们生活在巨大的差距里",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "余华",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北京十月文艺出版社",
+      "isbn": "978-7-5302-1465-7",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 35,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:35:15+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000062/front-original.jpg",
+          "original": "assets/LC-000062/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133515.jpg",
+          "capturedAt": "2026-10-25T13:35:15+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "8556350026e2ab8d95e25369cb2e4b5c5b1f71c69dde7449aec7f8435a0e51ae",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000062/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000062/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000062/back-original.jpg",
+          "original": "assets/LC-000062/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133526.jpg",
+          "capturedAt": "2026-10-25T13:35:26+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "56ed244b2396d4bd550dffb28e0a96ea90164007c7f9787740505ae650000299",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000062/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000063",
+      "title": "日本游戏制作理念初探",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "陶学",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "黄山书社",
+      "isbn": "978-7-5461-2752-1",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 26,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:35:43+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000063/front-original.jpg",
+          "original": "assets/LC-000063/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133543.jpg",
+          "capturedAt": "2026-10-25T13:35:43+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "fab39903d82f17748f93e27440769df6f47ebdc8656b9af1450340424476fd44",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000063/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000063/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000063/back-original.jpg",
+          "original": "assets/LC-000063/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133555.jpg",
+          "capturedAt": "2026-10-25T13:35:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "bbc0b6c7c1f0caae6004919b73834080611edf2ad74238ce61887fa8d43d915d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000063/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000064",
+      "title": "游戏设计信条",
+      "subtitle": "从创意到制作的设计原则",
+      "authors": [
+        {
+          "name": "Marc Albinet",
+          "country": "法国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "路遥"
+      ],
+      "publisher": "人民邮电出版社",
+      "isbn": "978-7-115-48021-7",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:36:27+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000064/front-original.jpg",
+          "original": "assets/LC-000064/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133627.jpg",
+          "capturedAt": "2026-10-25T13:36:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "cad4ee6b66c1072c52457a7d70b27b90a8d514224f71402efe4255304a4b2521",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000064/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000064/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000064/back-original.jpg",
+          "original": "assets/LC-000064/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133641.jpg",
+          "capturedAt": "2026-10-25T13:36:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "8d3bb3d61e1684ad34f2aac6b5d9b5d96a085ecd381a218eadb04f80ca0b1e36",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000064/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000065",
+      "title": "游戏情感设计",
+      "subtitle": "如何触动玩家的心灵",
+      "authors": [
+        {
+          "name": "Katherine Isbister",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "金潮"
+      ],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-30847-5",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 65,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:37:21+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000065/front-original.jpg",
+          "original": "assets/LC-000065/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133721.jpg",
+          "capturedAt": "2026-10-25T13:37:21+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "d5b0bea6ca23a8dd67f0b7bbc90d757f38b6f587cf85df0897a707a6548a41b0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000065/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000065/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000065/back-original.jpg",
+          "original": "assets/LC-000065/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133741.jpg",
+          "capturedAt": "2026-10-25T13:37:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "e247fae94bcd648a2dc5150efb031dd4d888525556f90959ea63827dd8fc6a72",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000065/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000066",
+      "title": "情节！情节！",
+      "subtitle": "通过人物、悬念与冲突赋予故事生命力",
+      "authors": [
+        {
+          "name": "诺亚·卢克曼",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "唐奇",
+        "李永强"
+      ],
+      "publisher": "中国人民大学出版社",
+      "isbn": "978-7-300-15962-1",
+      "category": "写作与叙事",
+      "tags": [
+        "写作与叙事"
+      ],
+      "usageTags": [
+        "写作参考",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "创意写作书系",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 36,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:38:03+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000066/front-original.jpg",
+          "original": "assets/LC-000066/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133803.jpg",
+          "capturedAt": "2026-10-25T13:38:03+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "3f41d0afda7ada90c12d09f8c00972c18961a529cbcb416d89fb0205d801131c",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000066/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000066/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000066/back-original.jpg",
+          "original": "assets/LC-000066/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133811.jpg",
+          "capturedAt": "2026-10-25T13:38:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "1e8615f1ea04cbb60baada6f3c9179665b5d221ce789e552248b5f95b829d4cf",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000066/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000067",
+      "title": "游戏设计的236个技巧",
+      "subtitle": "游戏机制、关卡设计和镜头窍门",
+      "authors": [
+        {
+          "name": "大野功二",
+          "country": "日本",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "支鹏浩"
+      ],
+      "publisher": "人民邮电出版社",
+      "isbn": "978-7-115-40608-8",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 129.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:39:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000067/front-original.jpg",
+          "original": "assets/LC-000067/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133916.jpg",
+          "capturedAt": "2026-10-25T13:39:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "3dfa029a49f30461a860ee49a2ccf3ae356b2c2a7ac53fda9524d4b5ae123aa9",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000067/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000067/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000067/back-original.jpg",
+          "original": "assets/LC-000067/back-original.jpg",
+          "sourceFilename": "IMG_20261025_133933.jpg",
+          "capturedAt": "2026-10-25T13:39:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "db4736d1a5ab5e972f47ceefcdc88200290142e570d9e86aabefb7675b577ed7",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000067/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000068",
+      "title": "救猫咪",
+      "subtitle": "电影编剧指南",
+      "authors": [
+        {
+          "name": "布莱克·斯奈德",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "孟彪"
+      ],
+      "publisher": "浙江文艺出版社",
+      "isbn": "978-7-5339-6336-1",
+      "category": "写作与叙事",
+      "tags": [
+        "写作与叙事"
+      ],
+      "usageTags": [
+        "写作参考",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "救猫咪",
+      "seriesGroupId": "save-the-cat",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:39:54+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000068/front-original.jpg",
+          "original": "assets/LC-000068/front-original.jpg",
+          "sourceFilename": "IMG_20261025_133954.jpg",
+          "capturedAt": "2026-10-25T13:39:54+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "a23034874ec89b9be8ec35ead7870a7e45ed5e0a5eedd20000caa02013c36247",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000068/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000068/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000068/back-original.jpg",
+          "original": "assets/LC-000068/back-original.jpg",
+          "sourceFilename": "IMG_20261025_134015.jpg",
+          "capturedAt": "2026-10-25T13:40:15+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "7649c87b726507aa8b81b9492a71be918fce7ab1461cd1c648d46b6ecd4da259",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000068/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000069",
+      "title": "救猫咪2",
+      "subtitle": "经典电影剧本解析",
+      "authors": [
+        {
+          "name": "布莱克·斯奈德",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "谢楚聿"
+      ],
+      "publisher": "浙江文艺出版社",
+      "isbn": "978-7-5339-6410-8",
+      "category": "写作与叙事",
+      "tags": [
+        "写作与叙事"
+      ],
+      "usageTags": [
+        "写作参考",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "救猫咪",
+      "seriesGroupId": "save-the-cat",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 59.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:40:35+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000069/front-original.jpg",
+          "original": "assets/LC-000069/front-original.jpg",
+          "sourceFilename": "IMG_20261025_134035.jpg",
+          "capturedAt": "2026-10-25T13:40:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "3b56d40397e7135bc0f2c64a73223df90bb1c83eb0b2d1ac835d17a879ebc512",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000069/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000069/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000069/back-original.jpg",
+          "original": "assets/LC-000069/back-original.jpg",
+          "sourceFilename": "IMG_20261025_134045.jpg",
+          "capturedAt": "2026-10-25T13:40:45+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "7dea40dea1de33942109c6add36a0fdce477439cde7be8c010e56c62a800f5c0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000069/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000070",
+      "title": "救猫咪3",
+      "subtitle": "反击战",
+      "authors": [
+        {
+          "name": "布莱克·斯奈德",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "孟彪"
+      ],
+      "publisher": "浙江文艺出版社",
+      "isbn": "978-7-5339-7595-1",
+      "category": "写作与叙事",
+      "tags": [
+        "写作与叙事"
+      ],
+      "usageTags": [
+        "写作参考",
+        "叙事结构"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "救猫咪",
+      "seriesGroupId": "save-the-cat",
+      "seriesNumber": 3,
+      "seriesLabel": "第3册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:40:58+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000070/front-original.jpg",
+          "original": "assets/LC-000070/front-original.jpg",
+          "sourceFilename": "IMG_20261025_134058.jpg",
+          "capturedAt": "2026-10-25T13:40:58+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "cd61fe9045e6b671ccf9ee69f0c42bea375bcd501d9ef9f01ed589522df4b36f",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000070/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000070/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000070/back-original.jpg",
+          "original": "assets/LC-000070/back-original.jpg",
+          "sourceFilename": "IMG_20261025_134106.jpg",
+          "capturedAt": "2026-10-25T13:41:06+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "3566960c0a2a6c01313641473c50732bff3e8a305b82500a596ea5423b193168",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000070/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000071",
+      "title": "阿兹特克文明",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·C.瓦伦特",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "朱伦",
+        "徐世澄"
+      ],
+      "publisher": "译林出版社",
+      "isbn": "978-7-5447-3715-9",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "汉译经典",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": "067",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 28.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T13:41:30+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体正反面照片；出版版次和印次未从本批照片确认。",
+      "description": null,
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000071/front-original.jpg",
+          "original": "assets/LC-000071/front-original.jpg",
+          "sourceFilename": "IMG_20261025_134130.jpg",
+          "capturedAt": "2026-10-25T13:41:30+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "b1242d9ad2d6c4ea24810ec55c2586792269b39e75d60991a8b68ae1a6685fbf",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000071/front-preview-v1.webp",
+          "thumbnail": "assets/LC-000071/front-thumbnail-v1.webp"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000071/back-original.jpg",
+          "original": "assets/LC-000071/back-original.jpg",
+          "sourceFilename": "IMG_20261025_134137.jpg",
+          "capturedAt": "2026-10-25T13:41:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；无可读取 EXIF 时间",
+          "sha256": "98ed39ad8fb940cd0f934990046f17c663aff32a6283e3843008ceedb9892fd0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000071/back-preview-v1.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
     }
   ],
   "seriesGroups": [
@@ -5085,6 +6400,13 @@
       "shortTitle": "魔兽 · 上古之战三部曲",
       "kind": "三部曲",
       "description": "按实体书分册顺序排列，每册保留独立照片与档案。"
+    },
+    {
+      "id": "save-the-cat",
+      "title": "救猫咪系列",
+      "shortTitle": "救猫咪",
+      "kind": "三册书系",
+      "description": "按封面序号1—3排列，三册独立ISBN和定价；不推定属于同一购买套装。"
     }
   ],
   "exchangeRates": {
