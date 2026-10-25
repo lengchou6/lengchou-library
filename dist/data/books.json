@@ -7276,6 +7276,727 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       }
+    },
+    {
+      "id": "LC-000072",
+      "title": "The Art of Joy",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "Goliarda Sapienza",
+          "country": "意大利",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "Anne Milano Appel"
+      ],
+      "publisher": "Penguin Classics",
+      "isbn": "978-0-141-19847-7",
+      "category": "文学与小说",
+      "tags": [
+        "小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "en",
+      "languageLabel": "英文",
+      "series": "Penguin Modern Classics",
+      "seriesGroupId": "art-of-joy-editions",
+      "seriesNumber": 1,
+      "seriesLabel": "英文版",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2014-03-06",
+      "edition": null,
+      "listPrice": 14.99,
+      "paidPrice": null,
+      "currency": "GBP",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T14:31:11+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，版次、印次未知；保留完整原始照片。 中文参考名“欢愉的艺术”为辅助检索用译名，不表示拥有中文译本。两册为同一作品的不同语种版本，不视作重复实体册。 封底同时标示英国£14.99与加拿大$31.99；主定价采用英国GBP，未将两地价格重复累计。",
+      "description": "以莫德斯塔在二十世纪西西里的成长与生活为线索，描写她对自由、欲望与个人命运的追求。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000072/front-original.jpg",
+          "original": "assets/LC-000072/front-original.jpg",
+          "sourceFilename": "IMG_20261025_143111.jpg",
+          "capturedAt": "2026-10-25T14:31:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "57a06fac85686a8772daa8f7c6e23486aee1dbfbb6e76f2c6e41df32912c0d69",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000072/front-preview-f1f73ef7dfa6.webp",
+          "thumbnail": "assets/LC-000072/front-thumbnail-8463e58f6719.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000072/front-small-db81ab431094.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000072/front-thumbnail-8463e58f6719.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000072/front-large-805a5f2b5119.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000072/back-original.jpg",
+          "original": "assets/LC-000072/back-original.jpg",
+          "sourceFilename": "IMG_20261025_143125.jpg",
+          "capturedAt": "2026-10-25T14:31:25+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "8d246a9f3f654a0e4069d840f79ecd8eed2a196b9f64c3c1b384b71604249e4c",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000072/back-preview-128f999229bd.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "referenceTitle": "欢愉的艺术",
+      "originalTitle": "L’arte della gioia",
+      "titleAliases": [
+        "欢愉的艺术",
+        "快乐的艺术",
+        "The Art of Joy",
+        "L'arte della gioia"
+      ],
+      "referenceSources": [
+        {
+          "label": "Penguin：本版书名、译者与出版资料",
+          "url": "https://www.penguin.co.uk/books/183043/the-art-of-joy-by-sapienza-goliarda/9780141198477"
+        }
+      ],
+      "coverPrices": [
+        {
+          "currency": "GBP",
+          "amount": 14.99,
+          "region": "英国"
+        },
+        {
+          "currency": "CAD",
+          "amount": 31.99,
+          "region": "加拿大"
+        }
+      ]
+    },
+    {
+      "id": "LC-000073",
+      "title": "L’arte della gioia",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "Goliarda Sapienza",
+          "country": "意大利",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "Einaudi",
+      "isbn": "978-88-06-21967-3",
+      "category": "文学与小说",
+      "tags": [
+        "小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "it",
+      "languageLabel": "意大利文",
+      "series": "Super ET",
+      "seriesGroupId": "art-of-joy-editions",
+      "seriesNumber": 2,
+      "seriesLabel": "意大利文版",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 16,
+      "paidPrice": null,
+      "currency": "EUR",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T14:31:41+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，版次、印次未知；保留完整原始照片。 中文参考名“欢愉的艺术”为辅助检索用译名，不表示拥有中文译本。两册为同一作品的不同语种版本，不视作重复实体册。",
+      "description": "以莫德斯塔在二十世纪西西里的成长与生活为线索，描写她对自由、欲望与个人命运的追求。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000073/front-original.jpg",
+          "original": "assets/LC-000073/front-original.jpg",
+          "sourceFilename": "IMG_20261025_143141.jpg",
+          "capturedAt": "2026-10-25T14:31:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "2e83da11b90876bc8bdb0247ede2bfcc6eb1fdcd99e905919f05b5dcca06abee",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000073/front-preview-0de600e06c09.webp",
+          "thumbnail": "assets/LC-000073/front-thumbnail-fed66939ca5e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000073/front-small-dd1c0426f652.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000073/front-thumbnail-fed66939ca5e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000073/front-large-c002131c012b.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000073/back-original.jpg",
+          "original": "assets/LC-000073/back-original.jpg",
+          "sourceFilename": "IMG_20261025_143155.jpg",
+          "capturedAt": "2026-10-25T14:31:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "6c9485067cbb289c19826cb3268f17caeb1837279abf4c949e514e9d1c634f3e",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000073/back-preview-2e5c37533f9e.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显磨损",
+        "note": "封底左上部有明显长折痕，边缘有磨损。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "referenceTitle": "欢愉的艺术",
+      "originalTitle": "L’arte della gioia",
+      "titleAliases": [
+        "欢愉的艺术",
+        "快乐的艺术",
+        "The Art of Joy",
+        "L'arte della gioia"
+      ],
+      "referenceSources": [
+        {
+          "label": "意大利天主教圣心大学书店：本版ISBN与出版社",
+          "url": "https://librerie.unicatt.it/scheda-libro/goliarda-sapienza/larte-della-gioia-9788806219673-210778.html"
+        }
+      ]
+    },
+    {
+      "id": "LC-000074",
+      "title": "霍比特人",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "J. R. R. 托尔金",
+          "country": "英国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "邓嘉宛",
+        "石中歌",
+        "杜蕴慈"
+      ],
+      "publisher": "四川文艺出版社",
+      "isbn": "978-7-5411-6938-0",
+      "category": "文学与小说",
+      "tags": [
+        "小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 79.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T14:32:15+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，版次、印次未知；保留完整原始照片。",
+      "description": "比尔博·巴金斯离开家园，与矮人同行前往孤山，经历冒险并面对恶龙史矛革。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000074/front-original.jpg",
+          "original": "assets/LC-000074/front-original.jpg",
+          "sourceFilename": "IMG_20261025_143215.jpg",
+          "capturedAt": "2026-10-25T14:32:15+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "db2f40b4dbe4c536b7d22f7d5b0668eb2dca8f359ee15ebd7c3368709b404291",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000074/front-preview-e8d0c9dcff5a.webp",
+          "thumbnail": "assets/LC-000074/front-thumbnail-a1d173f2f223.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000074/front-small-1e65d5f45a56.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000074/front-thumbnail-a1d173f2f223.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000074/front-large-5f33341a7df4.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000074/back-original.jpg",
+          "original": "assets/LC-000074/back-original.jpg",
+          "sourceFilename": "IMG_20261025_143228.jpg",
+          "capturedAt": "2026-10-25T14:32:28+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "951982730bb21ac5dd1418a01d4eac6216fcc418c0b19ff774eabec902f33406",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000074/back-preview-ea1085dab112.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "The Hobbit"
+    },
+    {
+      "id": "LC-000075",
+      "title": "金叶",
+      "subtitle": "来自金枝的故事",
+      "authors": [
+        {
+          "name": "J. G. 弗雷泽",
+          "country": "英国",
+          "role": "著"
+        },
+        {
+          "name": "丽莉·弗雷泽",
+          "country": "英国",
+          "role": "编"
+        }
+      ],
+      "translators": [
+        "汪培基"
+      ],
+      "publisher": "四川人民出版社",
+      "isbn": "978-7-220-11151-8",
+      "category": "人文与社科",
+      "tags": [
+        "神话",
+        "民俗"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 68,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T14:32:41+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，版次、印次未知；保留完整原始照片。",
+      "description": "由丽莉·弗雷泽从《金枝》中编选改写的神话与民俗故事集；此册为汪培基译本。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000075/front-original.jpg",
+          "original": "assets/LC-000075/front-original.jpg",
+          "sourceFilename": "IMG_20261025_143241.jpg",
+          "capturedAt": "2026-10-25T14:32:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "cffdbfb7ce002924c6a6e6af1a0e393342cd6717576348ffe8621527df4b47f8",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000075/front-preview-9aa76260a39e.webp",
+          "thumbnail": "assets/LC-000075/front-thumbnail-bd15d94c608a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000075/front-small-b2d54ed586b4.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000075/front-thumbnail-bd15d94c608a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000075/front-large-2441a80ee54e.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000075/back-original.jpg",
+          "original": "assets/LC-000075/back-original.jpg",
+          "sourceFilename": "IMG_20261025_143254.jpg",
+          "capturedAt": "2026-10-25T14:32:54+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "42e959076c8aa3dd817d5e1d1e72e04506d6f8898cf28c5743ab03a97f66505c",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000075/back-preview-e5d1e67f9839.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显磨损",
+        "note": "护封上缘、下角和背面可见折痕、擦痕及磨损。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Leaves From the Golden Bough"
+    },
+    {
+      "id": "LC-000076",
+      "title": "遥远的救世主",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "豆豆",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "作家出版社",
+      "isbn": "978-7-5212-3633-0",
+      "category": "文学与小说",
+      "tags": [
+        "小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 60,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T14:33:13+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，版次、印次未知；保留完整原始照片。",
+      "description": "丁元英隐居古城后与芮小丹相遇，一场围绕扶贫、商业与文化观念的社会实验展开。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000076/front-original.jpg",
+          "original": "assets/LC-000076/front-original.jpg",
+          "sourceFilename": "IMG_20261025_143313.jpg",
+          "capturedAt": "2026-10-25T14:33:13+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "8ba149589c60e34b139318d4bc0b0581a4cfef5dcb5379999d7ee042efaa1c53",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000076/front-preview-776534e3c37c.webp",
+          "thumbnail": "assets/LC-000076/front-thumbnail-a8ff09ceb4cb.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000076/front-small-2fbdbfa8d360.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000076/front-thumbnail-a8ff09ceb4cb.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000076/front-large-10c8aba2b129.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000076/back-original.jpg",
+          "original": "assets/LC-000076/back-original.jpg",
+          "sourceFilename": "IMG_20261025_143325.jpg",
+          "capturedAt": "2026-10-25T14:33:25+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "47ccb741f4bcc134d9ff29b5bd5d5557452b75fdff2f62d28945071757d9c432",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000076/back-preview-cb4076fe9ea4.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000077",
+      "title": "背叛",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "豆豆",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "作家出版社",
+      "isbn": "978-7-5212-3631-6",
+      "category": "文学与小说",
+      "tags": [
+        "小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 58,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T14:34:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，版次、印次未知；保留完整原始照片。 封面另有“世纪之交的灵魂忏悔录”宣传语，不将其推定为正式副书名。",
+      "description": "记者夏英杰与宋一坤相识后卷入复杂的商业局面，人物在利益、爱情与道义之间作出选择。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000077/front-original.jpg",
+          "original": "assets/LC-000077/front-original.jpg",
+          "sourceFilename": "IMG_20261025_143416.jpg",
+          "capturedAt": "2026-10-25T14:34:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "eaf0433cfc0f61c25e31cc676c9fcc058644262693860479ce19753a81037ff0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000077/front-preview-350f4a923585.webp",
+          "thumbnail": "assets/LC-000077/front-thumbnail-0e05aa36c0dc.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000077/front-small-1a9c117a99b5.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000077/front-thumbnail-0e05aa36c0dc.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000077/front-large-4b48c4201091.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000077/back-original.jpg",
+          "original": "assets/LC-000077/back-original.jpg",
+          "sourceFilename": "IMG_20261025_143429.jpg",
+          "capturedAt": "2026-10-25T14:34:29+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "6ee4470e8d0ecdc486dc1ffacf27011ae5da447f7b26002ef8b739b2bbb16c95",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000077/back-preview-fe6e43429968.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000078",
+      "title": "天幕红尘",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "豆豆",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "作家出版社",
+      "isbn": "978-7-5212-3656-9",
+      "category": "文学与小说",
+      "tags": [
+        "小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 58,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T14:34:55+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片，版次、印次未知；保留完整原始照片。",
+      "description": "叶子农在苏联解体后的国际与商业风云中坚持自己的思考与选择，故事围绕观念、利益和人的命运展开。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000078/front-original.jpg",
+          "original": "assets/LC-000078/front-original.jpg",
+          "sourceFilename": "IMG_20261025_143455.jpg",
+          "capturedAt": "2026-10-25T14:34:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "0b9486c8abf8073581769c769fb59fd3117987a9c834cc2b1ce6492f23e367cb",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000078/front-preview-a595b7bcb0a0.webp",
+          "thumbnail": "assets/LC-000078/front-thumbnail-be7456f75dad.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000078/front-small-5c3145334c07.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000078/front-thumbnail-be7456f75dad.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000078/front-large-70be47682123.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000078/back-original.jpg",
+          "original": "assets/LC-000078/back-original.jpg",
+          "sourceFilename": "IMG_20261025_143506.jpg",
+          "capturedAt": "2026-10-25T14:35:06+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "cd588aa616854c9f8ab4bd536e127589498acc779528b989f75eace8d2de2ba2",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000078/back-preview-c874a560e1f0.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见轻微使用痕迹；未检查内页和装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
     }
   ],
   "seriesGroups": [
@@ -7429,6 +8150,13 @@
       "shortTitle": "救猫咪",
       "kind": "三册书系",
       "description": "按封面序号1—3排列，三册独立ISBN和定价；不推定属于同一购买套装。"
+    },
+    {
+      "id": "art-of-joy-editions",
+      "title": "欢愉的艺术 · 不同语种版本",
+      "shortTitle": "欢愉的艺术",
+      "kind": "不同语种版本",
+      "description": "同一作品的英文译本与意大利文原文版，各册独立编号、ISBN与定价，不推定为购买套装。"
     }
   ],
   "exchangeRates": {
@@ -7439,7 +8167,8 @@
     "rates": {
       "CNY": 1,
       "USD": 6.722,
-      "GBP": 8.9037
+      "GBP": 8.9037,
+      "EUR": 7.5228
     },
     "policy": "按最近公布中间价固定折算，手动更新；非实际购书支出。"
   },

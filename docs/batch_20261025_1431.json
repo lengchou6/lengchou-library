@@ -1,0 +1,30 @@
+{
+  "books": [
+    "LC-000072",
+    "LC-000073",
+    "LC-000074",
+    "LC-000075",
+    "LC-000076",
+    "LC-000077",
+    "LC-000078"
+  ],
+  "originalPaths": [
+    "dist/assets/LC-000072/front-original.jpg",
+    "dist/assets/LC-000072/back-original.jpg",
+    "dist/assets/LC-000073/front-original.jpg",
+    "dist/assets/LC-000073/back-original.jpg",
+    "dist/assets/LC-000074/front-original.jpg",
+    "dist/assets/LC-000074/back-original.jpg",
+    "dist/assets/LC-000075/front-original.jpg",
+    "dist/assets/LC-000075/back-original.jpg",
+    "dist/assets/LC-000076/front-original.jpg",
+    "dist/assets/LC-000076/back-original.jpg",
+    "dist/assets/LC-000077/front-original.jpg",
+    "dist/assets/LC-000077/back-original.jpg",
+    "dist/assets/LC-000078/front-original.jpg",
+    "dist/assets/LC-000078/back-original.jpg"
+  ],
+  "source": "2026-10-25 14:31—14:35 用户上传14张正反面照片",
+  "euroRateSource": "https://www.safe.gov.cn/AppStructured/hlw/RMBQuery.do",
+  "euroRateDate": "2026-10-16"
+}
