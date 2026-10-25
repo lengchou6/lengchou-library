@@ -5,9 +5,15 @@ from collections import defaultdict
 
 ROOT=Path(__file__).resolve().parents[1]/'dist'
 data=json.loads((ROOT/'data/books.json').read_text())
+def canonical_isbn(value):
+    digits=value.replace('-','')
+    if len(digits)==10:
+        stem='978'+digits[:9]
+        return stem+str((-sum(int(c)*(1 if i%2==0 else 3) for i,c in enumerate(stem)))%10)
+    return digits
 isbn=defaultdict(list);titles=defaultdict(list);photos=defaultdict(list)
 for book in data['books']:
-    if book.get('isbn'): isbn[book['isbn'].replace('-','')].append(book['id'])
+    if book.get('isbn'): isbn[canonical_isbn(book['isbn'])].append(book['id'])
     title=unicodedata.normalize('NFKC',book['title']).replace(' ','')
     titles[title].append({'id':book['id'],'isbn':book['isbn']})
     for photo in book['photos']:

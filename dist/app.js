@@ -10,7 +10,7 @@
   const priceAmount = book => book.listPrice ?? priceGroup(book)?.amount ?? null;
   const converted = book => priceAmount(book)==null || exchangeRates.rates[book.currency || 'CNY']==null ? null : priceAmount(book)*exchangeRates.rates[book.currency || 'CNY'];
   const sumCny = items => {const seen=new Set();return items.reduce((sum,b)=>{const key=b.priceGroupId || b.id;if(seen.has(key))return sum;seen.add(key);return sum+(converted(b) ?? 0);},0);};
-  const priceText = book => priceAmount(book)==null ? '未填写' : money(priceAmount(book),book.currency)+(book.priceGroupId?'（全两册合价，仅计一次）':'')+(book.currency && book.currency!=='CNY' ? (converted(book)==null?' · 暂无折算汇率':` · 约 ${money(converted(book))}`) : '');
+  const priceText = book => priceAmount(book)==null ? '未填写' : money(priceAmount(book),book.currency)+(book.priceGroupId?`（全 ${priceGroup(book).bookIds.length} 册合价，仅计一次）`:'')+(book.currency && book.currency!=='CNY' ? (converted(book)==null?' · 暂无折算汇率':` · 约 ${money(converted(book))}`) : '');
   const titleAttrs = book => book.language==='en' ? ' class="foreign-title" lang="en"' : '';
   const secondaryTitle = book => book.referenceTitle ? book.referenceTitle : book.subtitle || '　';
   const rateNote = () => `参考汇率：${esc(exchangeRates.date || '')} · 1 USD = ${esc(exchangeRates.rates.USD)} CNY，1 GBP = ${esc(exchangeRates.rates.GBP)} CNY；<a href="${esc(exchangeRates.sourceUrl)}" target="_blank" rel="noopener">${esc(exchangeRates.source)}</a>。固定折算，手动更新；非实际购书支出。`;
@@ -296,7 +296,7 @@
   $('#zoom-reset').addEventListener('click',()=>setZoom(1));
   window.addEventListener('resize',()=>{if(dialog.open)setZoom(zoom);});
   document.addEventListener('keydown',event=>{if(event.key==='/'&&!dialog.open&&!$('#catalog-page').hidden&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){event.preventDefault();$('#search').focus();}});
-  fetch('data/books.json?v=20261024-core').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
+  fetch('data/books.json?v=20261025-batch').then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
     priceGroups=data.priceGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};books=data.books;categoryOrder=data.categoryOrder || [];seriesGroups=data.seriesGroups || [];$('#summary').textContent=`共 ${books.length} 册`;categories();renderCollection();route();window.addEventListener('hashchange',route);
   }).catch(()=>{
     $('#collection').setAttribute('aria-busy','false');$('#collection').innerHTML='<div class="error-state"><h2>书目暂时未能展开</h2><p>请检查网络后重试。如果在本地查看，请通过网页服务器打开。</p><button type="button" class="primary-button" id="retry-load">重新载入</button></div>';$('#retry-load').addEventListener('click',()=>location.reload());
