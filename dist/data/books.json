@@ -7997,6 +7997,1006 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       }
+    },
+    {
+      "id": "LC-000079",
+      "title": "山海经全译",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "袁珂",
+          "country": null,
+          "role": "译注"
+        }
+      ],
+      "translators": [],
+      "publisher": "北京联合出版公司",
+      "isbn": "978-7-5502-8491-3",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:09:39+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。",
+      "description": "袁珂在古籍注释基础上整理、译注《山海经》，以现代汉语辅助理解其中的地理、神话与异兽记载。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000079/front-original.jpg",
+          "original": "assets/LC-000079/front-original.jpg",
+          "sourceFilename": "IMG_20261025_150939.jpg",
+          "capturedAt": "2026-10-25T15:09:39+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "c4f4024c035125f901f487b3c2bc44755506f5738cb3223b22cd3b5775caed1f",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000079/front-preview-ab63fc94842a.webp",
+          "thumbnail": "assets/LC-000079/front-thumbnail-b216029ecc32.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000079/front-small-061d73ee2616.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000079/front-thumbnail-b216029ecc32.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000079/front-large-975afb0f1c39.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000079/back-original.jpg",
+          "original": "assets/LC-000079/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151009.jpg",
+          "capturedAt": "2026-10-25T15:10:09+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "ffa9a5d77b76a82ebb42ffe6c45a880336355672b9c6730da5d3630112b9285f",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000079/back-preview-bfe2b5686013.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "titleAliases": [
+        "山海经",
+        "山海经 全译"
+      ],
+      "coverEditionLabel": "全译"
+    },
+    {
+      "id": "LC-000080",
+      "title": "苏美尔神话",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "萨缪尔·诺亚·克拉莫尔",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "叶舒宪",
+        "金立江"
+      ],
+      "publisher": "陕西师范大学出版总社",
+      "isbn": "978-7-5695-3688-1",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "神话学文库",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 86,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:10:50+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。",
+      "description": "整理、介绍苏美尔泥版文献中保存的神话材料，呈现苏美尔神话体系及其文化背景。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000080/front-original.jpg",
+          "original": "assets/LC-000080/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151050.jpg",
+          "capturedAt": "2026-10-25T15:10:50+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "6ce496942da13cb0ef2d9253d6c3398235ba4e52e2a8d1fa3abdbbc901b5b24c",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000080/front-preview-ec83d0a5de2a.webp",
+          "thumbnail": "assets/LC-000080/front-thumbnail-79c86c5966a7.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000080/front-small-ca2235327a3f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000080/front-thumbnail-79c86c5966a7.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000080/front-large-45bd437dacc5.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000080/back-original.jpg",
+          "original": "assets/LC-000080/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151101.jpg",
+          "capturedAt": "2026-10-25T15:11:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "a06cd5410919d95d0b13b5ca34dd3ac743eac91b07e450801016bef1efb85222",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000080/back-preview-49ccb0936071.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显磨损",
+        "note": "封面、封底边缘和书角可见折痕、磕碰或磨损；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Sumerian Mythology"
+    },
+    {
+      "id": "LC-000081",
+      "title": "中国货币史（上册）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "彭信威",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "中国人民大学出版社",
+      "isbn": null,
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "中国货币史",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": "上册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:11:19+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。 本次照片未展示ISBN或定价，均留空；仅录入上册，不推定持有下册，不推定整套价格。",
+      "description": "彭信威研究中国货币制度、钱币与货币流通历史的著作；本次录入为上册。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000081/front-original.jpg",
+          "original": "assets/LC-000081/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151119.jpg",
+          "capturedAt": "2026-10-25T15:11:19+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "2ba16a57adaa5d836834fb36f723987baa7e1b806f567c5968854d9ea6e39b2c",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000081/front-preview-4c5def80852a.webp",
+          "thumbnail": "assets/LC-000081/front-thumbnail-60f0bc175654.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000081/front-small-0f12615bed04.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000081/front-thumbnail-60f0bc175654.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000081/front-large-1e1390c3026e.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000081/back-original.jpg",
+          "original": "assets/LC-000081/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151133.jpg",
+          "capturedAt": "2026-10-25T15:11:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "e1cb55bc56e4fe54e56773918f7ceb722053b16ecb9d6bd27dd72c777e933ec2",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000081/back-preview-96e44b05a669.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显磨损",
+        "note": "封面、封底边缘和书角可见折痕、磕碰或磨损；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      }
+    },
+    {
+      "id": "LC-000082",
+      "title": "仿生人会梦见电子羊吗？",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "菲利普·迪克",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "姚向辉"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "978-7-5594-8248-8",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "读客科幻文库",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": "170",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 59.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:12:07+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。",
+      "description": "赏金猎人德卡德追捕逃亡仿生人，在人与仿生人的边界中面对记忆、同理心与身份的疑问。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000082/front-original.jpg",
+          "original": "assets/LC-000082/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151207.jpg",
+          "capturedAt": "2026-10-25T15:12:07+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "8fb3a3c1fa2c09caf0f715c00392f70a6081ad8b8a9c8b1e0b018cb264548271",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000082/front-preview-7223d6638338.webp",
+          "thumbnail": "assets/LC-000082/front-thumbnail-14fe1237a245.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000082/front-small-e66c411c7cbe.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000082/front-thumbnail-14fe1237a245.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000082/front-large-87139baa15e0.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000082/back-original.jpg",
+          "original": "assets/LC-000082/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151218.jpg",
+          "capturedAt": "2026-10-25T15:12:18+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "e1148bbcf44fe3a1686b85c12259fa145641c0814c09ad6606aac18d429727dd",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000082/back-preview-a28c7b1d1adc.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Do Androids Dream of Electric Sheep?",
+      "titleAliases": [
+        "仿生人会梦见电子羊吗",
+        "银翼杀手原著"
+      ]
+    },
+    {
+      "id": "LC-000083",
+      "title": "电影镜头设计",
+      "subtitle": "从构思到银幕",
+      "authors": [
+        {
+          "name": "史蒂文·卡茨",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "井迎兆",
+        "王旭锋"
+      ],
+      "publisher": "北京联合出版公司",
+      "isbn": "978-7-5502-5145-8",
+      "category": "写作与叙事",
+      "tags": [
+        "写作与叙事"
+      ],
+      "usageTags": [
+        "写作参考",
+        "影像叙事"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 88,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:13:29+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。",
+      "description": "从剧本构思到故事板与实际拍摄，介绍镜头设计、机位、调度及影像叙事方法。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000083/front-original.jpg",
+          "original": "assets/LC-000083/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151329.jpg",
+          "capturedAt": "2026-10-25T15:13:29+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "5a17d6280bcb679a711a3797f1eea8e8b2626884a87d482ab350308ef8ffc01e",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000083/front-preview-20dd32974a27.webp",
+          "thumbnail": "assets/LC-000083/front-thumbnail-03639d89dffb.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000083/front-small-d0f65a321b72.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000083/front-thumbnail-03639d89dffb.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000083/front-large-16c0d36cdc43.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000083/back-original.jpg",
+          "original": "assets/LC-000083/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151339.jpg",
+          "capturedAt": "2026-10-25T15:13:39+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "a300df6a238485b45d603e8aac82eab060fb78e57a1b619f613d3fa54f51d2f1",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000083/back-preview-f6daa89317d2.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Film Directing Shot by Shot",
+      "coverEditionLabel": "25周年纪念版"
+    },
+    {
+      "id": "LC-000084",
+      "title": "FPS关卡设计",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "李龙汰",
+          "country": "韩国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "武传海"
+      ],
+      "publisher": "人民邮电出版社",
+      "isbn": "978-7-115-48588-5",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "图灵程序设计丛书",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 69,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:14:05+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。",
+      "description": "围绕三维第一人称射击游戏，介绍关卡概念、空间构成、战场设计及制作中的思考方法。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000084/front-original.jpg",
+          "original": "assets/LC-000084/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151405.jpg",
+          "capturedAt": "2026-10-25T15:14:05+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "fc6387e69a902ecdf3e68416e5857cb18caa43c331b2477e6e55d0b66810a867",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000084/front-preview-9d17e8222c1c.webp",
+          "thumbnail": "assets/LC-000084/front-thumbnail-8de63a1203ef.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000084/front-small-933084e51dfa.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000084/front-thumbnail-8de63a1203ef.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000084/front-large-4adab5bbf864.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000084/back-original.jpg",
+          "original": "assets/LC-000084/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151426.jpg",
+          "capturedAt": "2026-10-25T15:14:26+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "c9251cefb49aeacb7e24186b8ee94261efe425e091832bc139984b3771a67ae9",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000084/back-preview-52078e2b3008.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "FPS Level Design"
+    },
+    {
+      "id": "LC-000085",
+      "title": "游戏机制",
+      "subtitle": "高级游戏设计技术",
+      "authors": [
+        {
+          "name": "Ernest Adams",
+          "country": null,
+          "role": "著"
+        },
+        {
+          "name": "Joris Dormans",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "石曦"
+      ],
+      "publisher": "人民邮电出版社",
+      "isbn": "978-7-115-34049-8",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "游戏设计与开发",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 119.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:15:04+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。",
+      "description": "围绕规则、流程和数据分析游戏机制，介绍机制的设计、原型构建、模拟与可视化方法。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000085/front-original.jpg",
+          "original": "assets/LC-000085/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151504.jpg",
+          "capturedAt": "2026-10-25T15:15:04+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "dcae67a88465a2ee15dd2673005f789ab2759f5a877d8e609ea8a294f633855e",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000085/front-preview-c6c96c738b9a.webp",
+          "thumbnail": "assets/LC-000085/front-thumbnail-c23c5f2f5209.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000085/front-small-8752a6a1d43a.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000085/front-thumbnail-c23c5f2f5209.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000085/front-large-e31a94243985.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000085/back-original.jpg",
+          "original": "assets/LC-000085/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151515.jpg",
+          "capturedAt": "2026-10-25T15:15:15+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "73e65c63e106695191c2c3a96bb50d3de1463c20cb7e18970bf1369acf581110",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000085/back-preview-c1bed3680c6c.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Game Mechanics: Advanced Game Design"
+    },
+    {
+      "id": "LC-000086",
+      "title": "游戏关卡设计",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "Phil Co",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "姚晓光",
+        "孙泱"
+      ],
+      "publisher": "机械工业出版社",
+      "isbn": "7-111-19872-7",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "游戏开发技术系列丛书",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 35,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:15:51+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。 封面标示附赠光盘，未核实该实体册当前是否附有光盘。ISBN按封底ISBN-10原样记录。",
+      "description": "介绍关卡设计在游戏开发中的作用，以及关卡创意、挑战、描述、制作与迭代方法。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000086/front-original.jpg",
+          "original": "assets/LC-000086/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151551.jpg",
+          "capturedAt": "2026-10-25T15:15:51+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "c3d7c8ff46fb79d5bc4b1210866ebed6751ce7d82954983496744345a9961adc",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000086/front-preview-636cf3c8fb61.webp",
+          "thumbnail": "assets/LC-000086/front-thumbnail-855a0699aa67.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000086/front-small-0382279a57db.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000086/front-thumbnail-855a0699aa67.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000086/front-large-bdf65fb4b726.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000086/back-original.jpg",
+          "original": "assets/LC-000086/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151600.jpg",
+          "capturedAt": "2026-10-25T15:16:00+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "818e642c125727ca678d6634e42ca75b5ec7882d2231846d780c7d675b1b0ae0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000086/back-preview-bd23e87cc7ec.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "Level Design for Games: Creating Compelling Game Experiences"
+    },
+    {
+      "id": "LC-000087",
+      "title": "全景探秘游戏设计艺术",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "Jesse Schell",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "吕阳",
+        "蒋韬",
+        "唐文"
+      ],
+      "publisher": "电子工业出版社",
+      "isbn": "978-7-121-10634-7",
+      "category": "游戏与设计",
+      "tags": [
+        "游戏与设计"
+      ],
+      "usageTags": [
+        "游戏设计参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 69,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:16:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。",
+      "description": "以多种观察游戏的设计透镜引导思考，讨论玩家体验、规则、故事、美学与游戏设计实践。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000087/front-original.jpg",
+          "original": "assets/LC-000087/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151616.jpg",
+          "capturedAt": "2026-10-25T15:16:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "c4f024d898baf80185bfa9743cbc4d855b5f6c7cdf2c5fe3a06bbad4d4ebf270",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000087/front-preview-bbba9f79979c.webp",
+          "thumbnail": "assets/LC-000087/front-thumbnail-d8fefda4c5e8.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000087/front-small-0cc2ffd04204.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000087/front-thumbnail-d8fefda4c5e8.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000087/front-large-dc3ae61134b4.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000087/back-original.jpg",
+          "original": "assets/LC-000087/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151627.jpg",
+          "capturedAt": "2026-10-25T15:16:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "c88d271c2193504bd6a3f9b8e4160b48f0e4c4d111ff7e58a0b2e08a7a6c5e88",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000087/back-preview-ae2a53b18d37.webp"
+        }
+      ],
+      "condition": {
+        "label": "有明显磨损",
+        "note": "封面、封底边缘和书角可见折痕、磕碰或磨损；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "The Art of Game Design: A Book of Lenses",
+      "titleAliases": [
+        "全景探秘 游戏设计艺术",
+        "游戏设计艺术",
+        "透镜游戏设计"
+      ]
+    },
+    {
+      "id": "LC-000088",
+      "title": "少数派报告",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "菲利普·迪克",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "周昭蓉"
+      ],
+      "publisher": "译林出版社",
+      "isbn": "978-7-5447-5655-6",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 58,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-25T15:16:41+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体正反面照片；版次及印次未从版权页核实。 本册是九篇科幻短篇选集，不仅为同名单篇小说。",
+      "description": "菲利普·迪克的九篇科幻短篇选集，收录《少数派报告》《全面回忆》《第二代》等作品。",
+      "metadataSource": "用户上传的实体书封面和封底照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000088/front-original.jpg",
+          "original": "assets/LC-000088/front-original.jpg",
+          "sourceFilename": "IMG_20261025_151641.jpg",
+          "capturedAt": "2026-10-25T15:16:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "b3313a5e17d46b704808ec6a9b984aa96478cd16412553d2d46bcc0657544f82",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000088/front-preview-d93d0facf550.webp",
+          "thumbnail": "assets/LC-000088/front-thumbnail-9332fb064785.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000088/front-small-b3866f9aa8c9.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000088/front-thumbnail-9332fb064785.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000088/front-large-6d4018f9dc0b.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000088/back-original.jpg",
+          "original": "assets/LC-000088/back-original.jpg",
+          "sourceFilename": "IMG_20261025_151650.jpg",
+          "capturedAt": "2026-10-25T15:16:50+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟；未据文件修改时间推定拍摄时间",
+          "sha256": "6a1604ee708d048113a979e76709d7ffa783e127b3c1dad0e320f3e2f7f2b50d",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000088/back-preview-a66cec3f2b62.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底与边角可见轻微使用痕迹；未检查内页及装订。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-25"
+      },
+      "originalTitle": "The Minority Report"
     }
   ],
   "seriesGroups": [
