@@ -3770,8 +3770,8 @@
     },
     {
       "id": "LC-000043",
-      "title": "绿野仙踪1",
-      "subtitle": null,
+      "title": "绿野仙踪",
+      "subtitle": "第1集",
       "authors": [
         {
           "name": "弗兰克·鲍姆",
@@ -3850,12 +3850,15 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "physicalSetId": "oz-four-volume"
+      "physicalSetId": "oz-four-volume",
+      "titleAliases": [
+        "绿野仙踪1"
+      ]
     },
     {
       "id": "LC-000044",
-      "title": "绿野仙踪2",
-      "subtitle": null,
+      "title": "绿野仙踪",
+      "subtitle": "第2集",
       "authors": [
         {
           "name": "弗兰克·鲍姆",
@@ -3934,12 +3937,15 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "physicalSetId": "oz-four-volume"
+      "physicalSetId": "oz-four-volume",
+      "titleAliases": [
+        "绿野仙踪2"
+      ]
     },
     {
       "id": "LC-000045",
-      "title": "绿野仙踪3",
-      "subtitle": null,
+      "title": "绿野仙踪",
+      "subtitle": "第3集",
       "authors": [
         {
           "name": "弗兰克·鲍姆",
@@ -4018,12 +4024,15 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "physicalSetId": "oz-four-volume"
+      "physicalSetId": "oz-four-volume",
+      "titleAliases": [
+        "绿野仙踪3"
+      ]
     },
     {
       "id": "LC-000046",
-      "title": "绿野仙踪4",
-      "subtitle": null,
+      "title": "绿野仙踪",
+      "subtitle": "第4集",
       "authors": [
         {
           "name": "弗兰克·鲍姆",
@@ -4102,13 +4111,16 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "physicalSetId": "oz-four-volume"
+      "physicalSetId": "oz-four-volume",
+      "titleAliases": [
+        "绿野仙踪4"
+      ]
     },
     {
       "id": "LC-000047",
-      "title": "故土",
+      "title": "黑暗精灵三部曲",
       "originalTitle": "Homeland",
-      "subtitle": null,
+      "subtitle": "故土",
       "authors": [
         {
           "name": "R.A.萨尔瓦多",
@@ -4193,13 +4205,16 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "故土"
+      ]
     },
     {
       "id": "LC-000048",
-      "title": "流亡",
+      "title": "黑暗精灵三部曲",
       "originalTitle": "Exile",
-      "subtitle": null,
+      "subtitle": "流亡",
       "authors": [
         {
           "name": "R.A.萨尔瓦多",
@@ -4284,13 +4299,16 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "流亡"
+      ]
     },
     {
       "id": "LC-000049",
-      "title": "旅居",
+      "title": "黑暗精灵三部曲",
       "originalTitle": "Sojourn",
-      "subtitle": null,
+      "subtitle": "旅居",
       "authors": [
         {
           "name": "R.A.萨尔瓦多",
@@ -4376,13 +4394,16 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "旅居"
+      ]
     },
     {
       "id": "LC-000050",
-      "title": "碎魔晶",
+      "title": "冰风谷",
       "originalTitle": "The Crystal Shard",
-      "subtitle": null,
+      "subtitle": "碎魔晶",
       "authors": [
         {
           "name": "R.A.萨尔瓦多",
@@ -4467,13 +4488,16 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "碎魔晶"
+      ]
     },
     {
       "id": "LC-000051",
-      "title": "白银溪流",
+      "title": "冰风谷",
       "originalTitle": "Streams of Silver",
-      "subtitle": null,
+      "subtitle": "白银溪流",
       "authors": [
         {
           "name": "R.A.萨尔瓦多",
@@ -4558,13 +4582,16 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "白银溪流"
+      ]
     },
     {
       "id": "LC-000052",
-      "title": "半身人的魔坠",
+      "title": "冰风谷",
       "originalTitle": "The Halfling’s Gem",
-      "subtitle": null,
+      "subtitle": "半身人的魔坠",
       "authors": [
         {
           "name": "R.A.萨尔瓦多",
@@ -4649,13 +4676,16 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "半身人的魔坠"
+      ]
     },
     {
       "id": "LC-000053",
-      "title": "永恒之井",
+      "title": "魔兽·上古之战三部曲",
       "originalTitle": "The Well of Eternity",
-      "subtitle": null,
+      "subtitle": "永恒之井",
       "authors": [
         {
           "name": "理查德·A.纳克",
@@ -4741,13 +4771,16 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "永恒之井"
+      ]
     },
     {
       "id": "LC-000054",
-      "title": "恶魔之魂",
+      "title": "魔兽·上古之战三部曲",
       "originalTitle": "The Demon Soul",
-      "subtitle": null,
+      "subtitle": "恶魔之魂",
       "authors": [
         {
           "name": "理查德·A.纳克",
@@ -4835,13 +4868,16 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "恶魔之魂"
+      ]
     },
     {
       "id": "LC-000055",
-      "title": "天崩地裂",
+      "title": "魔兽·上古之战三部曲",
       "originalTitle": "The Sundering",
-      "subtitle": null,
+      "subtitle": "天崩地裂",
       "authors": [
         {
           "name": "理查德·A.纳克",
@@ -4927,7 +4963,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "titleAliases": [
+        "天崩地裂"
+      ]
     }
   ],
   "seriesGroups": [
