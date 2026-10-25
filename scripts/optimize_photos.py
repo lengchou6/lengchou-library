@@ -21,7 +21,11 @@ for owner in data['books']+data.get('seriesGroups',[]):
      with Image.open(source) as raw:image=ImageOps.exif_transpose(raw).convert('RGB')
     derived=image.copy();derived.thumbnail((width,width*3),Image.Resampling.LANCZOS);derived.save(cache,'WEBP',quality=quality,method=6);generated+=1
    shutil.copy2(cache,path);rel=path.relative_to(ROOT).as_posix();outputs.append(path)
-   if kind in ['preview','thumbnail']:photo[kind]=rel
+   if kind in ['preview','thumbnail']:
+    photo[kind]=rel
+    # Existing tabs may still hold the v1 catalogue. Keep its public URLs valid.
+    legacy=source.with_name(photo['side']+'-'+kind+'-v1.webp')
+    shutil.copy2(cache,legacy);outputs.append(legacy)
    if kind!='preview':sources.append({'width':min(width,photo['width']),'path':rel})
   if sources:photo['sources']=sources
 # Remove previous derived versions from the deploy directory, never originals.

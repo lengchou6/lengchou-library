@@ -64,3 +64,11 @@ for source in [*data['books'], *data.get('seriesGroups',[])]:
         assert widths==sorted(set(widths)), f"Invalid responsive sizes: {photo.get('original')}"
         for item in variants:
             assert (ROOT/item['path']).is_file(), f"Missing responsive image: {item['path']}"
+
+# Old cached catalogues must continue to resolve their v1 display URLs.
+for source in [*data['books'], *data.get('seriesGroups',[])]:
+    for photo in source.get('photos',[]):
+        for kind in ['preview','thumbnail']:
+            if kind in photo:
+                legacy=(ROOT/photo['original']).with_name(photo['side']+'-'+kind+'-v1.webp')
+                assert legacy.is_file(), f"Missing cached-page compatibility image: {legacy}"
