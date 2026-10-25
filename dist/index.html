@@ -7,8 +7,8 @@
   <meta name="description" content="冷愁的个人实体藏书馆。以书目、实物照片与入库记录，保存每一本书的来处。">
   <title>冷愁藏书馆 · 个人馆藏</title>
   <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20261024-core">
-  <script src="app.js?v=20261024-core" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20261025-shelf">
+  <script src="app.js?v=20261025-shelf" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">跳至藏书内容</a>
@@ -20,8 +20,8 @@
     <section id="catalog-page" class="page">
       <section class="catalog-section" aria-label="藏书目录">
         <div class="catalog-heading"><h1>藏书目录</h1><p id="summary"></p></div>
-        <div class="search-row"><label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="搜索书名、作者" aria-label="搜索藏书"><kbd aria-hidden="true">/</kbd></label><label class="sort-control"><span>排序</span><select id="sort" aria-label="藏书排序"><option value="series">按系列陈列</option><option value="accession-desc">最近添加</option><option value="title">按书名排序</option></select></label></div>
-        <div id="categories" class="categories" role="group" aria-label="按类别筛选"></div>
+        <div class="search-row"><label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="搜索书名、作者" aria-label="搜索藏书"><kbd aria-hidden="true">/</kbd></label></div>
+        <div class="catalog-toolbar"><div id="categories" class="categories" role="group" aria-label="按类别筛选"></div><label class="sort-control"><span>排序</span><select id="sort" aria-label="藏书排序"><option value="series">按系列陈列</option><option value="accession-desc">最近添加</option><option value="title">按书名排序</option></select></label></div>
         <div id="active-filters" class="active-filters" role="group" aria-label="已选筛选条件" hidden></div><p id="results-status" class="results-status" aria-live="polite"></p><div id="collection" aria-busy="true"><p class="loading">正在展开藏书目录…</p></div>
       </section>
     </section>
