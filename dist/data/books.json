@@ -11482,6 +11482,111 @@
         "三体3",
         "地球往事"
       ]
+    },
+    {
+      "id": "LC-000114",
+      "title": "山海经（白话彩图版）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "徐客",
+          "country": null,
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "现代出版社",
+      "isbn": "978-7-5143-5289-4",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "白话全译彩图珍藏版",
+      "listPrice": 68,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:00:47+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、编著者、出版社、ISBN及68元定价据封面封底；版权页版次印次未核实。与已藏袁珂译注《山海经全译》为不同版本，分别建档。照片保存本馆接收的附件版本，未确认与设备源文件一致。",
+      "description": "徐客编著的《山海经》白话彩图版本，以白话与彩图呈现古籍中的地理、神话及异兽世界。",
+      "metadataSource": "用户上传的实体书封面和封底工作副本",
+      "titleAliases": [
+        "山海经",
+        "白话彩图山海经",
+        "徐客山海经"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000114/front-original.jpg",
+          "original": "assets/LC-000114/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000047(1).jpg",
+          "capturedAt": "2026-10-28T00:00:47+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4e66b10d2c174244daeaa3bc705fc11b7aa44a4848c34ff832cbfd4325f87732",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 750125,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000114/front-preview-cb80473b49cc.webp",
+          "thumbnail": "assets/LC-000114/front-thumbnail-ea230779b1f4.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000114/front-small-ce98712ad2bc.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000114/front-thumbnail-ea230779b1f4.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000114/front-large-d4e1a9fbdefe.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000114/back-original.jpg",
+          "original": "assets/LC-000114/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000102(1).jpg",
+          "capturedAt": "2026-10-28T00:01:02+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fdccda403c032a5c30458c5a536b9261249ecc1a9b304d1ed65dba7a87bcc4d5",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 793153,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000114/back-preview-4cfa6e4244bb.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底可见污点及边角使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      }
     }
   ],
   "seriesGroups": [

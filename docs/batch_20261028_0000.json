@@ -1,0 +1,26 @@
+{
+  "newBooks": [
+    "LC-000114"
+  ],
+  "originalPaths": [
+    "dist/assets/LC-000114/front-original.jpg",
+    "dist/assets/LC-000114/back-original.jpg"
+  ],
+  "receivedFiles": [
+    {
+      "filename": "IMG_20261028_000047(1).jpg",
+      "bytes": 750125,
+      "width": 1416,
+      "height": 2048,
+      "sha256": "4e66b10d2c174244daeaa3bc705fc11b7aa44a4848c34ff832cbfd4325f87732"
+    },
+    {
+      "filename": "IMG_20261028_000102(1).jpg",
+      "bytes": 793153,
+      "width": 1416,
+      "height": 2048,
+      "sha256": "fdccda403c032a5c30458c5a536b9261249ecc1a9b304d1ed65dba7a87bcc4d5"
+    }
+  ],
+  "note": "用户设备文件大小约2.9MB、5MB；只能确认工作副本缩小，未确认平台保存的上传文件也被替换。"
+}
