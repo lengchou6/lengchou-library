@@ -11587,6 +11587,1689 @@
         "source": "照片预估",
         "assessedOn": "2026-10-28"
       }
+    },
+    {
+      "id": "LC-000115",
+      "title": "晚熟的人",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "莫言",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "978-7-02-016477-6",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 59,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:01:19+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "以乡土与现实生活中的人物为中心，书写时代变化中的人情与处境。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000115/front-original.jpg",
+          "original": "assets/LC-000115/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000119.jpg",
+          "capturedAt": "2026-10-28T00:01:19+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4a5482dc25036751605ac96c4c86b210549707ed327f978c64a7e32c46bc2b07",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 748415,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000115/front-preview-e4da288bc37d.webp",
+          "thumbnail": "assets/LC-000115/front-thumbnail-3f60e5ca0bb2.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000115/front-small-50a1428928a6.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000115/front-thumbnail-3f60e5ca0bb2.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000115/front-large-dc01871f8848.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000115/back-original.jpg",
+          "original": "assets/LC-000115/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000127.jpg",
+          "capturedAt": "2026-10-28T00:01:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5a2a0484b56857e34c210ac0f6cb519fe9ae2dec901cfeeff0b5abee7e7b4608",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 727884,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000115/back-preview-256a2882c7d9.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000116",
+      "title": "中华人民共和国宪法",
+      "subtitle": null,
+      "authors": [],
+      "translators": [],
+      "publisher": "中国法制出版社",
+      "isbn": "978-7-5093-8321-6",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "实用版",
+      "listPrice": 20,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:01:37+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "宪法文本及相关法律资料的实用汇编。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000116/front-original.jpg",
+          "original": "assets/LC-000116/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000137.jpg",
+          "capturedAt": "2026-10-28T00:01:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "048fd1abe4ab3d114aff223dfad86aa2a49b1a5fb5cbcd543f3980fa56f4685f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 656530,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000116/front-preview-28676050f90c.webp",
+          "thumbnail": "assets/LC-000116/front-thumbnail-c09f99a20564.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000116/front-small-0f1e64835433.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000116/front-thumbnail-c09f99a20564.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000116/front-large-0ecb2142b100.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000116/back-original.jpg",
+          "original": "assets/LC-000116/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000144.jpg",
+          "capturedAt": "2026-10-28T00:01:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "bfa347a854772d0a8654c0a4c01b18107b78bb358db4ebf07c7ce7437392d18a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 676676,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000116/back-preview-6872d460cb4e.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000117",
+      "title": "孙子兵法",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "陈曦",
+          "country": null,
+          "role": "译注"
+        }
+      ],
+      "translators": [],
+      "publisher": "中华书局",
+      "isbn": "978-7-101-15651-5",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 26,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:01:56+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "《孙子兵法》全文及译注，供阅读与查考。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000117/front-original.jpg",
+          "original": "assets/LC-000117/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000156.jpg",
+          "capturedAt": "2026-10-28T00:01:56+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "52e9642966784adaefbc100f96623565c1fc9c1c32234efab720ea7c25dd9b75",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 990793,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000117/front-preview-07ccc631178c.webp",
+          "thumbnail": "assets/LC-000117/front-thumbnail-f1d35fd9ebb6.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000117/front-small-c7563f51d62d.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000117/front-thumbnail-f1d35fd9ebb6.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000117/front-large-d7d987afe949.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000117/back-original.jpg",
+          "original": "assets/LC-000117/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000204.jpg",
+          "capturedAt": "2026-10-28T00:02:04+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "b0341a4f9e9633bc804db0f9716c9fa7026a7819bc0ed7577f86a94d23b6908f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 775478,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000117/back-preview-27aafcc6a613.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000118",
+      "title": "中国古代文化常识",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "王力",
+          "country": null,
+          "role": "主编"
+        }
+      ],
+      "translators": [],
+      "publisher": "北京联合出版公司",
+      "isbn": "978-7-5502-3282-2",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "插图修订第4版",
+      "listPrice": 60,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:02:18+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "介绍古代制度、称谓、礼俗及日常生活中的文化知识。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000118/front-original.jpg",
+          "original": "assets/LC-000118/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000218.jpg",
+          "capturedAt": "2026-10-28T00:02:18+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "61802446a91759da89593029af47131c0953e7176b3cb9d388c0de0185b0212e",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 772795,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000118/front-preview-c291d0c32f70.webp",
+          "thumbnail": "assets/LC-000118/front-thumbnail-0bd641c94b9d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000118/front-small-c8789de10b5b.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000118/front-thumbnail-0bd641c94b9d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000118/front-large-d668a5b725df.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000118/back-original.jpg",
+          "original": "assets/LC-000118/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000233.jpg",
+          "capturedAt": "2026-10-28T00:02:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "171bcf0f452ec86e1179d789258b86a44bd59ed698e61d3b7150db2e74cfc57d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 791873,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000118/back-preview-34e3986c7635.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000119",
+      "title": "从你的全世界路过",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "张嘉佳",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "湖南文艺出版社",
+      "isbn": "978-7-5404-9194-9",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2019-07",
+      "edition": "2019年7月第1版",
+      "coverEditionLabel": "修订本",
+      "listPrice": 45,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:03:43+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "封底无书目信息，ISBN、45元定价及版次印次据补拍版权页确认。",
+      "description": "围绕相遇、情感与生活选择展开的故事集。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000119/front-original.jpg",
+          "original": "assets/LC-000119/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000343.jpg",
+          "capturedAt": "2026-10-28T00:03:43+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "f42f93fe31a6e833694a25b24ab37d4a973dcbdb910f67a2eaf8e7a6a3166a63",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 664748,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000119/front-preview-50c39c8e32ce.webp",
+          "thumbnail": "assets/LC-000119/front-thumbnail-5266435ab614.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000119/front-small-885183b1a5e2.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000119/front-thumbnail-5266435ab614.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000119/front-large-370a8b593f29.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000119/back-original.jpg",
+          "original": "assets/LC-000119/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000350.jpg",
+          "capturedAt": "2026-10-28T00:03:50+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "9385310761e5a1551cc08f8e1176ef107ea3a21b025f67c942a2d50a2feabd7a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 553097,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000119/back-preview-a0371f97e4fb.webp"
+        },
+        {
+          "side": "copyright",
+          "label": "版权页",
+          "file": "assets/LC-000119/copyright-original.jpg",
+          "original": "assets/LC-000119/copyright-original.jpg",
+          "sourceFilename": "IMG_20261028_000358.jpg",
+          "capturedAt": "2026-10-28T00:03:58+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8b2385dda1e6a21af2095b49d581c309ca368de664d02fb0bc9206a5cd679d28",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 705124,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000119/copyright-preview-12eda13085a6.webp"
+        }
+      ],
+      "condition": null,
+      "printing": "2023年6月第11次印刷"
+    },
+    {
+      "id": "LC-000120",
+      "title": "失去的三十年",
+      "subtitle": "平成日本经济史",
+      "authors": [
+        {
+          "name": "野口悠纪雄",
+          "country": "日本",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "郭超敏"
+      ],
+      "publisher": "机械工业出版社",
+      "isbn": "978-7-111-69815-9",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 69,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:04:08+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "回顾平成时期日本经济的变化，分析长期停滞的成因与背景。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000120/front-original.jpg",
+          "original": "assets/LC-000120/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000408.jpg",
+          "capturedAt": "2026-10-28T00:04:08+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "f2152de11d18558e998259c9922275b1a692baf83e6711e96e61cb6b033ba351",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 944063,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000120/front-preview-c21c0a0522b2.webp",
+          "thumbnail": "assets/LC-000120/front-thumbnail-7c674aa42fae.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000120/front-small-1ae01fa60c17.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000120/front-thumbnail-7c674aa42fae.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000120/front-large-3c1b4394a1ed.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000120/back-original.jpg",
+          "original": "assets/LC-000120/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000414.jpg",
+          "capturedAt": "2026-10-28T00:04:14+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "56769960f86e086f44be141718b679133e1c94bebce3eb808467e35af09f3b03",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 889038,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000120/back-preview-f612817de06f.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000121",
+      "title": "第一次养鹦鹉就恋爱了",
+      "subtitle": "鹦鹉饲养图鉴",
+      "authors": [
+        {
+          "name": "爱鸟生活",
+          "country": "日本",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "赵百灵"
+      ],
+      "publisher": "河北科学技术出版社",
+      "isbn": "978-7-5717-1232-7",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 68,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:04:24+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "图解鹦鹉品种、日常饲养、互动训练与照料知识。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000121/front-original.jpg",
+          "original": "assets/LC-000121/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000424.jpg",
+          "capturedAt": "2026-10-28T00:04:24+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a16388abfa237b8daf76fc004f9ca0fe010f81f9a96cc117dc77621c8f8ce7ba",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 851872,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000121/front-preview-9b1b89c736c2.webp",
+          "thumbnail": "assets/LC-000121/front-thumbnail-2a4a11e06d1a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000121/front-small-23254aab51ab.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000121/front-thumbnail-2a4a11e06d1a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000121/front-large-034951b6cce1.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000121/back-original.jpg",
+          "original": "assets/LC-000121/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000430.jpg",
+          "capturedAt": "2026-10-28T00:04:30+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2854681826cbac7c5b58cd180fcbedca92f85b910ac1d800e4cac26683b91671",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 832145,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000121/back-preview-62c9b7225c89.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000122",
+      "title": "中国文化要略",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "程裕祯",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "外语教学与研究出版社",
+      "isbn": "978-7-5135-9156-0",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "第4版",
+      "listPrice": 49.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:04:41+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "概述中国文化的历史脉络与传统文化知识。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000122/front-original.jpg",
+          "original": "assets/LC-000122/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000441.jpg",
+          "capturedAt": "2026-10-28T00:04:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "509633b97e167ec61ad01c77a4401eb582211918a60d8275b7fe092175e4bbfd",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 795318,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000122/front-preview-97133efd91ea.webp",
+          "thumbnail": "assets/LC-000122/front-thumbnail-3c355caf4ef9.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000122/front-small-b72e79eaaa8d.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000122/front-thumbnail-3c355caf4ef9.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000122/front-large-f32c959ee3a5.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000122/back-original.jpg",
+          "original": "assets/LC-000122/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000453_1.jpg",
+          "capturedAt": "2026-10-28T00:04:53+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "25ce42b25fd2f54a3d56489ff83de84e64b98af56e5ca5a7c23f38c0a5dd1597",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 811391,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000122/back-preview-12c58c15f9fa.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000123",
+      "title": "河边的错误",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "余华",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "时代文艺出版社",
+      "isbn": "978-7-5387-7216-6",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:05:44+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "余华小说作品，借案件与人物处境探讨现实、理性与荒诞。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000123/front-original.jpg",
+          "original": "assets/LC-000123/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000544.jpg",
+          "capturedAt": "2026-10-28T00:05:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e8a8218e08f7722ed8f604d51a527b1a5d00f5d95fe70c5ef7c9ccbba5e770a8",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 568151,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000123/front-preview-bda2c9fd04e0.webp",
+          "thumbnail": "assets/LC-000123/front-thumbnail-9d911ba147f0.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000123/front-small-36bbb729e943.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000123/front-thumbnail-9d911ba147f0.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000123/front-large-1b42d986af7b.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000123/back-original.jpg",
+          "original": "assets/LC-000123/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000605.jpg",
+          "capturedAt": "2026-10-28T00:06:05+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "01ddda6fcb2e726c2e8063556637a2fa1db45e83ec4e0e088513fdac0c5c67c1",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 523645,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000123/back-preview-ae868f73c59f.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000124",
+      "title": "许三观卖血记",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "余华",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北京十月文艺出版社",
+      "isbn": "978-7-5302-1603-3",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "精装典藏·增录新版自序",
+      "listPrice": 39.5,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:06:18+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "许三观以卖血应对家庭困境，故事围绕生存、亲情与普通人的命运展开。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000124/front-original.jpg",
+          "original": "assets/LC-000124/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000618.jpg",
+          "capturedAt": "2026-10-28T00:06:18+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7a0cc95e42b88f3167638274ffa7d295df5e65e50c57e67aa8ecd3154452f2cd",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 808049,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000124/front-preview-9ef744cb96d5.webp",
+          "thumbnail": "assets/LC-000124/front-thumbnail-bfed6fa98a72.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000124/front-small-cc93dbd3407c.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000124/front-thumbnail-bfed6fa98a72.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000124/front-large-5d36b3548904.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000124/back-original.jpg",
+          "original": "assets/LC-000124/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000626.jpg",
+          "capturedAt": "2026-10-28T00:06:26+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "75583df821eeca335fbaa5d8d6bd7cc7534e0624c02705c830bdfa19246abf73",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 752197,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000124/back-preview-6e38dcb4f98a.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000125",
+      "title": "鳄鱼",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "莫言",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "浙江文艺出版社",
+      "isbn": "978-7-5339-7234-9",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 56,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:06:36+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目信息据实体书照片录入，版权页版次印次未核实。",
+      "description": "莫言戏剧作品，借鳄鱼意象探讨人物不断膨胀的欲望。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000125/front-original.jpg",
+          "original": "assets/LC-000125/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000636.jpg",
+          "capturedAt": "2026-10-28T00:06:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3d2a1aa313f64228d1fb23c40e226c1b86ee87e30147613038882fd1154e75a0",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 969019,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000125/front-preview-9ec05dfc40d2.webp",
+          "thumbnail": "assets/LC-000125/front-thumbnail-4024151365ed.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000125/front-small-b5ca26542720.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000125/front-thumbnail-4024151365ed.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000125/front-large-f77a8bb7fd6c.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000125/back-original.jpg",
+          "original": "assets/LC-000125/back-original.jpg",
+          "sourceFilename": "IMG_20261028_000644.jpg",
+          "capturedAt": "2026-10-28T00:06:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7cd88bdd133880dbe2d404b6a456fe4a5224ede8ecc87dc5155ebdaa46c630d1",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 716885,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000125/back-preview-de65ea97008f.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000126",
+      "title": "月光落在左手上",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "余秀华",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北京十月文艺出版社",
+      "isbn": "978-7-5302-2070-2",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2020-09",
+      "edition": "2020年9月第1版",
+      "coverEditionLabel": null,
+      "listPrice": 58,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:07:36+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及作者据封面、扉页，出版社、ISBN、58元定价及版次印次据版权页确认。本批未提供封底照片。",
+      "description": "余秀华诗集，书写生命经验、情感与日常生活。",
+      "metadataSource": "用户上传的实体书封面、封底及补拍内页工作副本",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000126/front-original.jpg",
+          "original": "assets/LC-000126/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000736.jpg",
+          "capturedAt": "2026-10-28T00:07:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "222aa39119fe6f8e020bba21c62d4dc5e406c76461292a8ae76990baaed68cd7",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1010165,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000126/front-preview-395556ba7d46.webp",
+          "thumbnail": "assets/LC-000126/front-thumbnail-c02fd53fc4e1.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000126/front-small-d105e7dc13ad.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000126/front-thumbnail-c02fd53fc4e1.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000126/front-large-98136d017bb6.webp"
+            }
+          ]
+        },
+        {
+          "side": "title",
+          "label": "扉页",
+          "file": "assets/LC-000126/title-original.jpg",
+          "original": "assets/LC-000126/title-original.jpg",
+          "sourceFilename": "IMG_20261028_000745.jpg",
+          "capturedAt": "2026-10-28T00:07:45+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3c2395d0e9c347adf55a47436b2bc58fa6d4534a52caed44faa4f85473755194",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 445368,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000126/title-preview-d01367fe3c8c.webp"
+        },
+        {
+          "side": "copyright",
+          "label": "版权页",
+          "file": "assets/LC-000126/copyright-original.jpg",
+          "original": "assets/LC-000126/copyright-original.jpg",
+          "sourceFilename": "IMG_20261028_000755.jpg",
+          "capturedAt": "2026-10-28T00:07:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1c727c28da211e2e49db187f8af807d63f582ea260ee9df7c8218ad0ed66f9b4",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 671644,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000126/copyright-preview-51acbf4b91e6.webp"
+        }
+      ],
+      "condition": null,
+      "printing": "2021年12月第11次印刷"
+    },
+    {
+      "id": "LC-000127",
+      "title": "魔戒（第1卷）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "J.R.R.托尔金",
+          "country": "英国",
+          "role": "著",
+          "originalName": "J.R.R. Tolkien"
+        },
+        {
+          "name": "艾伦·李",
+          "country": "英国",
+          "role": "图",
+          "originalName": "Alan Lee"
+        }
+      ],
+      "translators": [
+        "邓嘉宛",
+        "石中歌",
+        "杜蕴慈"
+      ],
+      "publisher": "上海人民出版社",
+      "isbn": "978-7-208-16671-4",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说",
+        "奇幻"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "魔戒：文景精装插图典藏版（全7册）",
+      "seriesGroupId": "lotr-wenjing-illustrated",
+      "seriesNumber": 1,
+      "seriesLabel": "第1卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "文景精装插图典藏版",
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:09:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
+      "description": "《魔戒》文景精装插图典藏版的第1卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
+      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
+      "titleAliases": [
+        "指环王",
+        "The Lord of the Rings"
+      ],
+      "photos": [],
+      "condition": null,
+      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
+      "physicalSetId": "lotr-wenjing-illustrated",
+      "photoGroupId": "lotr-wenjing-illustrated",
+      "priceGroupId": "lotr-wenjing-illustrated-price",
+      "priceSourceLabel": "同款套装参考定价",
+      "referenceSources": [
+        {
+          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
+          "url": "https://www.sanmin.com.tw/product/index/009526533"
+        }
+      ]
+    },
+    {
+      "id": "LC-000128",
+      "title": "魔戒（第2卷）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "J.R.R.托尔金",
+          "country": "英国",
+          "role": "著",
+          "originalName": "J.R.R. Tolkien"
+        },
+        {
+          "name": "艾伦·李",
+          "country": "英国",
+          "role": "图",
+          "originalName": "Alan Lee"
+        }
+      ],
+      "translators": [
+        "邓嘉宛",
+        "石中歌",
+        "杜蕴慈"
+      ],
+      "publisher": "上海人民出版社",
+      "isbn": "978-7-208-16671-4",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说",
+        "奇幻"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "魔戒：文景精装插图典藏版（全7册）",
+      "seriesGroupId": "lotr-wenjing-illustrated",
+      "seriesNumber": 2,
+      "seriesLabel": "第2卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "文景精装插图典藏版",
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:09:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
+      "description": "《魔戒》文景精装插图典藏版的第2卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
+      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
+      "titleAliases": [
+        "指环王",
+        "The Lord of the Rings"
+      ],
+      "photos": [],
+      "condition": null,
+      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
+      "physicalSetId": "lotr-wenjing-illustrated",
+      "photoGroupId": "lotr-wenjing-illustrated",
+      "priceGroupId": "lotr-wenjing-illustrated-price",
+      "priceSourceLabel": "同款套装参考定价",
+      "referenceSources": [
+        {
+          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
+          "url": "https://www.sanmin.com.tw/product/index/009526533"
+        }
+      ]
+    },
+    {
+      "id": "LC-000129",
+      "title": "魔戒（第3卷）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "J.R.R.托尔金",
+          "country": "英国",
+          "role": "著",
+          "originalName": "J.R.R. Tolkien"
+        },
+        {
+          "name": "艾伦·李",
+          "country": "英国",
+          "role": "图",
+          "originalName": "Alan Lee"
+        }
+      ],
+      "translators": [
+        "邓嘉宛",
+        "石中歌",
+        "杜蕴慈"
+      ],
+      "publisher": "上海人民出版社",
+      "isbn": "978-7-208-16671-4",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说",
+        "奇幻"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "魔戒：文景精装插图典藏版（全7册）",
+      "seriesGroupId": "lotr-wenjing-illustrated",
+      "seriesNumber": 3,
+      "seriesLabel": "第3卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "文景精装插图典藏版",
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:09:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
+      "description": "《魔戒》文景精装插图典藏版的第3卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
+      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
+      "titleAliases": [
+        "指环王",
+        "The Lord of the Rings"
+      ],
+      "photos": [],
+      "condition": null,
+      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
+      "physicalSetId": "lotr-wenjing-illustrated",
+      "photoGroupId": "lotr-wenjing-illustrated",
+      "priceGroupId": "lotr-wenjing-illustrated-price",
+      "priceSourceLabel": "同款套装参考定价",
+      "referenceSources": [
+        {
+          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
+          "url": "https://www.sanmin.com.tw/product/index/009526533"
+        }
+      ]
+    },
+    {
+      "id": "LC-000130",
+      "title": "魔戒（第4卷）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "J.R.R.托尔金",
+          "country": "英国",
+          "role": "著",
+          "originalName": "J.R.R. Tolkien"
+        },
+        {
+          "name": "艾伦·李",
+          "country": "英国",
+          "role": "图",
+          "originalName": "Alan Lee"
+        }
+      ],
+      "translators": [
+        "邓嘉宛",
+        "石中歌",
+        "杜蕴慈"
+      ],
+      "publisher": "上海人民出版社",
+      "isbn": "978-7-208-16671-4",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说",
+        "奇幻"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "魔戒：文景精装插图典藏版（全7册）",
+      "seriesGroupId": "lotr-wenjing-illustrated",
+      "seriesNumber": 4,
+      "seriesLabel": "第4卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "文景精装插图典藏版",
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:09:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
+      "description": "《魔戒》文景精装插图典藏版的第4卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
+      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
+      "titleAliases": [
+        "指环王",
+        "The Lord of the Rings"
+      ],
+      "photos": [],
+      "condition": null,
+      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
+      "physicalSetId": "lotr-wenjing-illustrated",
+      "photoGroupId": "lotr-wenjing-illustrated",
+      "priceGroupId": "lotr-wenjing-illustrated-price",
+      "priceSourceLabel": "同款套装参考定价",
+      "referenceSources": [
+        {
+          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
+          "url": "https://www.sanmin.com.tw/product/index/009526533"
+        }
+      ]
+    },
+    {
+      "id": "LC-000131",
+      "title": "魔戒（第5卷）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "J.R.R.托尔金",
+          "country": "英国",
+          "role": "著",
+          "originalName": "J.R.R. Tolkien"
+        },
+        {
+          "name": "艾伦·李",
+          "country": "英国",
+          "role": "图",
+          "originalName": "Alan Lee"
+        }
+      ],
+      "translators": [
+        "邓嘉宛",
+        "石中歌",
+        "杜蕴慈"
+      ],
+      "publisher": "上海人民出版社",
+      "isbn": "978-7-208-16671-4",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说",
+        "奇幻"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "魔戒：文景精装插图典藏版（全7册）",
+      "seriesGroupId": "lotr-wenjing-illustrated",
+      "seriesNumber": 5,
+      "seriesLabel": "第5卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "文景精装插图典藏版",
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:09:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
+      "description": "《魔戒》文景精装插图典藏版的第5卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
+      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
+      "titleAliases": [
+        "指环王",
+        "The Lord of the Rings"
+      ],
+      "photos": [],
+      "condition": null,
+      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
+      "physicalSetId": "lotr-wenjing-illustrated",
+      "photoGroupId": "lotr-wenjing-illustrated",
+      "priceGroupId": "lotr-wenjing-illustrated-price",
+      "priceSourceLabel": "同款套装参考定价",
+      "referenceSources": [
+        {
+          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
+          "url": "https://www.sanmin.com.tw/product/index/009526533"
+        }
+      ]
+    },
+    {
+      "id": "LC-000132",
+      "title": "魔戒（第6卷）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "J.R.R.托尔金",
+          "country": "英国",
+          "role": "著",
+          "originalName": "J.R.R. Tolkien"
+        },
+        {
+          "name": "艾伦·李",
+          "country": "英国",
+          "role": "图",
+          "originalName": "Alan Lee"
+        }
+      ],
+      "translators": [
+        "邓嘉宛",
+        "石中歌",
+        "杜蕴慈"
+      ],
+      "publisher": "上海人民出版社",
+      "isbn": "978-7-208-16671-4",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说",
+        "奇幻"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "魔戒：文景精装插图典藏版（全7册）",
+      "seriesGroupId": "lotr-wenjing-illustrated",
+      "seriesNumber": 6,
+      "seriesLabel": "第6卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "文景精装插图典藏版",
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:09:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
+      "description": "《魔戒》文景精装插图典藏版的第6卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
+      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
+      "titleAliases": [
+        "指环王",
+        "The Lord of the Rings"
+      ],
+      "photos": [],
+      "condition": null,
+      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
+      "physicalSetId": "lotr-wenjing-illustrated",
+      "photoGroupId": "lotr-wenjing-illustrated",
+      "priceGroupId": "lotr-wenjing-illustrated-price",
+      "priceSourceLabel": "同款套装参考定价",
+      "referenceSources": [
+        {
+          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
+          "url": "https://www.sanmin.com.tw/product/index/009526533"
+        }
+      ]
+    },
+    {
+      "id": "LC-000133",
+      "title": "魔戒（附录）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "J.R.R.托尔金",
+          "country": "英国",
+          "role": "著",
+          "originalName": "J.R.R. Tolkien"
+        },
+        {
+          "name": "艾伦·李",
+          "country": "英国",
+          "role": "图",
+          "originalName": "Alan Lee"
+        }
+      ],
+      "translators": [
+        "邓嘉宛",
+        "石中歌",
+        "杜蕴慈"
+      ],
+      "publisher": "上海人民出版社",
+      "isbn": "978-7-208-16671-4",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说",
+        "奇幻"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "魔戒：文景精装插图典藏版（全7册）",
+      "seriesGroupId": "lotr-wenjing-illustrated",
+      "seriesNumber": 7,
+      "seriesLabel": "附录",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "文景精装插图典藏版",
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T00:09:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
+      "description": "《魔戒》文景精装插图典藏版的附录。收录故事背景与相关补充资料。",
+      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
+      "titleAliases": [
+        "指环王",
+        "The Lord of the Rings"
+      ],
+      "photos": [],
+      "condition": null,
+      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
+      "physicalSetId": "lotr-wenjing-illustrated",
+      "photoGroupId": "lotr-wenjing-illustrated",
+      "priceGroupId": "lotr-wenjing-illustrated-price",
+      "priceSourceLabel": "同款套装参考定价",
+      "referenceSources": [
+        {
+          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
+          "url": "https://www.sanmin.com.tw/product/index/009526533"
+        }
+      ]
     }
   ],
   "seriesGroups": [
@@ -11768,6 +13451,78 @@
       "shortTitle": "三体",
       "kind": "三部曲",
       "description": "三册各自独立ISBN及封底定价，分别建档；未推定为同次购买。"
+    },
+    {
+      "id": "lotr-wenjing-illustrated",
+      "title": "魔戒：文景精装插图典藏版（全7册）",
+      "shortTitle": "魔戒",
+      "kind": "全7册套装",
+      "description": "六卷正文与一册附录分别建档，共用套装实拍；没有单册封面照片。套装ISBN与628元参考定价据同款公开资料补录，未核实本套版权页或实付金额。",
+      "photos": [
+        {
+          "side": "front",
+          "label": "套装正面",
+          "file": "assets/lotr-wenjing-illustrated/front-original.jpg",
+          "original": "assets/lotr-wenjing-illustrated/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000916.jpg",
+          "capturedAt": "2026-10-28T00:09:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "57ad2be305b9d458b1bd5f9193dbcdcdcf1927004c87b62400dce484b0b0561d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1224593,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/lotr-wenjing-illustrated/front-preview-77df38efcf8a.webp",
+          "thumbnail": "assets/lotr-wenjing-illustrated/front-thumbnail-3a789c69e5bd.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/lotr-wenjing-illustrated/front-small-168872d8cd6b.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/lotr-wenjing-illustrated/front-thumbnail-3a789c69e5bd.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/lotr-wenjing-illustrated/front-large-25451deb7fde.webp"
+            }
+          ]
+        },
+        {
+          "side": "spines",
+          "label": "整套书脊",
+          "file": "assets/lotr-wenjing-illustrated/spines-original.jpg",
+          "original": "assets/lotr-wenjing-illustrated/spines-original.jpg",
+          "sourceFilename": "IMG_20261028_000841.jpg",
+          "capturedAt": "2026-10-28T00:08:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "eabdbb0725d7b33edd56596b063983b83c395ae0606317ef259b95a5362b7957",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1214802,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/lotr-wenjing-illustrated/spines-preview-25352c938f61.webp"
+        },
+        {
+          "side": "inside",
+          "label": "函套内侧",
+          "file": "assets/lotr-wenjing-illustrated/inside-original.jpg",
+          "original": "assets/lotr-wenjing-illustrated/inside-original.jpg",
+          "sourceFilename": "IMG_20261028_002703.jpg",
+          "capturedAt": "2026-10-28T00:27:03+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fbd184df5a1d3fd46b2344a21cfd4819a205b39fd19388a8191f56b19c22c09a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 572048,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/lotr-wenjing-illustrated/inside-preview-1355bdd5f81b.webp"
+        }
+      ]
     }
   ],
   "exchangeRates": {
@@ -11830,6 +13585,22 @@
         "LC-000089"
       ],
       "source": "下册封底明确标示198.00元（全二册）"
+    },
+    {
+      "id": "lotr-wenjing-illustrated-price",
+      "label": "魔戒：文景精装插图典藏版（全7册）",
+      "amount": 628,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000127",
+        "LC-000128",
+        "LC-000129",
+        "LC-000130",
+        "LC-000131",
+        "LC-000132",
+        "LC-000133"
+      ],
+      "source": "三民书店同款7册商品资料：人民币定价628元；不是本套封底核验或实付价格"
     }
   ],
   "categoryOrder": [

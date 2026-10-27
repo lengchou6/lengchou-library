@@ -6,6 +6,7 @@ from datetime import datetime
 ROOT = Path(__file__).resolve().parents[1] / 'dist'
 data = json.loads((ROOT/'data/books.json').read_text())
 seen = set()
+photo_groups = {g['id']:g for g in data.get('seriesGroups',[])}
 for book in data['books']:
     assert book['id'] not in seen, f"Duplicate accession: {book['id']}"
     seen.add(book['id'])
@@ -21,12 +22,17 @@ for book in data['books']:
     for key in ['listPrice','paidPrice']:
         assert book[key] is None or isinstance(book[key],(int,float)) and book[key]>=0
     assert datetime.fromisoformat(book['accessionedAt']).utcoffset().total_seconds()==28800
-    sides=[p['side'] for p in book['photos']]
+    photos=book['photos']
+    if book.get('photoGroupId'):
+        assert book['photoGroupId']==book.get('seriesGroupId'), f"Wrong shared photo group: {book['id']}"
+        assert not photos, f"Shared photos must be stored once: {book['id']}"
+        photos=photo_groups[book['photoGroupId']]['photos']
+    sides=[p['side'] for p in photos]
     assert 'front' in sides and len(sides)==len(set(sides))
-    assert all(p.get('label') for p in book['photos'])
-    front=next(p for p in book['photos'] if p['side']=='front')
+    assert all(p.get('label') for p in photos)
+    front=next(p for p in photos if p['side']=='front')
     assert book['accessionedAt']==front['capturedAt']
-    for photo in book['photos']:
+    for photo in photos:
         datetime.fromisoformat(photo['capturedAt'])
         for key in ['file','original','thumbnail','preview']:
             if key not in photo:

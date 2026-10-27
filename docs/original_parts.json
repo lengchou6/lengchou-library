@@ -25,5 +25,177 @@
         "sha256": "35bc487ffe2ebda2184d4d731ffb136d1bce60c95fc7db11ff7d061d9414cd52"
       }
     ]
+  },
+  {
+    "original": "dist/assets/LC-000117/front-original.jpg",
+    "size": 990793,
+    "sha256": "52e9642966784adaefbc100f96623565c1fc9c1c32234efab720ea7c25dd9b75",
+    "parts": [
+      {
+        "path": "source-assets/LC-000117/front-original.part01",
+        "size": 300000,
+        "sha256": "aa20974c5354e4f554ba57a08f2a691523cc17a8dec4444d7838fb58edb6a94f"
+      },
+      {
+        "path": "source-assets/LC-000117/front-original.part02",
+        "size": 300000,
+        "sha256": "5e67cceef1ed4ef6b312eca44d2f9a64905e5d080d16f040be1dc8106164edeb"
+      },
+      {
+        "path": "source-assets/LC-000117/front-original.part03",
+        "size": 300000,
+        "sha256": "2ac8e6ec156c6a9b2acadab12a1b73a3000744d2c7750d2e7f772396a51b1a21"
+      },
+      {
+        "path": "source-assets/LC-000117/front-original.part04",
+        "size": 90793,
+        "sha256": "c066c82863d3c879cced205d9a1f7a9af477ec487c5acbab2c4228ba7d78d9ac"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000120/front-original.jpg",
+    "size": 944063,
+    "sha256": "f2152de11d18558e998259c9922275b1a692baf83e6711e96e61cb6b033ba351",
+    "parts": [
+      {
+        "path": "source-assets/LC-000120/front-original.part01",
+        "size": 300000,
+        "sha256": "ee956d1fa85adc8e66a9c3c05dc88637e877ce6427278c4d3d8500a18c68cd95"
+      },
+      {
+        "path": "source-assets/LC-000120/front-original.part02",
+        "size": 300000,
+        "sha256": "9a070bbebadbbc5fefee753d027faf94ddda963d31417ed458d0e7ff563106c9"
+      },
+      {
+        "path": "source-assets/LC-000120/front-original.part03",
+        "size": 300000,
+        "sha256": "e8c81c8135582370eab3c7061f76c2c515425ad16f25fe1222feb2e1169e4843"
+      },
+      {
+        "path": "source-assets/LC-000120/front-original.part04",
+        "size": 44063,
+        "sha256": "c3fe3114e7246d2f0b48cf593ea2deee3a95deaf0d171d57461cfbb5d0324665"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000125/front-original.jpg",
+    "size": 969019,
+    "sha256": "3d2a1aa313f64228d1fb23c40e226c1b86ee87e30147613038882fd1154e75a0",
+    "parts": [
+      {
+        "path": "source-assets/LC-000125/front-original.part01",
+        "size": 300000,
+        "sha256": "dc60ccdb216ad7e7514b66679ab536f3a14c32a82e859d11ba26e0daed89751b"
+      },
+      {
+        "path": "source-assets/LC-000125/front-original.part02",
+        "size": 300000,
+        "sha256": "e58d9c9cec196dfa9ad16b4d8208a06cb7c43078f6fcbbb4bc49ec92703ca1ef"
+      },
+      {
+        "path": "source-assets/LC-000125/front-original.part03",
+        "size": 300000,
+        "sha256": "6737c5b4fdf54d0280d39f451a4e03ccd34cdcde503d08dc1982b5745431fd5c"
+      },
+      {
+        "path": "source-assets/LC-000125/front-original.part04",
+        "size": 69019,
+        "sha256": "2fe74d4a6e7cc236a9dd82703009a72357f24cc026ad21e691c96030a95de082"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000126/front-original.jpg",
+    "size": 1010165,
+    "sha256": "222aa39119fe6f8e020bba21c62d4dc5e406c76461292a8ae76990baaed68cd7",
+    "parts": [
+      {
+        "path": "source-assets/LC-000126/front-original.part01",
+        "size": 300000,
+        "sha256": "336b0c7d59fc8dc2e87c79af7a1113cd00dbfe9c97d0640b6b80f813c2b31601"
+      },
+      {
+        "path": "source-assets/LC-000126/front-original.part02",
+        "size": 300000,
+        "sha256": "71fd2cd8984ebbeaeecbf71120388273c1729faf18f7d84148a4c0344b7da55a"
+      },
+      {
+        "path": "source-assets/LC-000126/front-original.part03",
+        "size": 300000,
+        "sha256": "558c860b3f9ff3143a86614bd49955cb6dbb379d30539eeb7b751d24c51e5ee6"
+      },
+      {
+        "path": "source-assets/LC-000126/front-original.part04",
+        "size": 110165,
+        "sha256": "43e0618c1295dfb52dd9eaaa8148ccf4989f78e6de201097f02afffee893484d"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/lotr-wenjing-illustrated/front-original.jpg",
+    "size": 1224593,
+    "sha256": "57ad2be305b9d458b1bd5f9193dbcdcdcf1927004c87b62400dce484b0b0561d",
+    "parts": [
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/front-original.part01",
+        "size": 300000,
+        "sha256": "0d192875fcf57f7a218eb7bd6438b81a51af1bd421099e94d616bff14baa5346"
+      },
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/front-original.part02",
+        "size": 300000,
+        "sha256": "a4f07d63a57cd3b866f2d4bdc4a07f2f1057c7f878cfbe46cafc56a75bf89d59"
+      },
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/front-original.part03",
+        "size": 300000,
+        "sha256": "93d0079a690ad9bc8a57008debe3adddce1b3e6d210e7994513d454d527b45a9"
+      },
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/front-original.part04",
+        "size": 300000,
+        "sha256": "19cd6a7c1eeee2796dbdf6f0268e048f142c781e104a50e57e76a3a3c836d22f"
+      },
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/front-original.part05",
+        "size": 24593,
+        "sha256": "10875c66806864d60ed971041c6331e811bec647c70ab80ff258036b1579c987"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/lotr-wenjing-illustrated/spines-original.jpg",
+    "size": 1214802,
+    "sha256": "eabdbb0725d7b33edd56596b063983b83c395ae0606317ef259b95a5362b7957",
+    "parts": [
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/spines-original.part01",
+        "size": 300000,
+        "sha256": "ae87c76ef6626a4a66c9b5b360e2dd3e8c64bdfa47b6cc900227542c7ff15715"
+      },
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/spines-original.part02",
+        "size": 300000,
+        "sha256": "ef71a15ffdd9cf7014c7dfa5032f66a2292dacb056a4f8ef5e5e8d172acca690"
+      },
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/spines-original.part03",
+        "size": 300000,
+        "sha256": "956dc629d1b07239d8af5b6deda7d37f46f4d8e3a7c147abf4b953e7eb55b531"
+      },
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/spines-original.part04",
+        "size": 300000,
+        "sha256": "948b6b0a30fc424ef3f7237c79c112c2d9b8ef4c3e7fe7690df14143c6c7147f"
+      },
+      {
+        "path": "source-assets/lotr-wenjing-illustrated/spines-original.part05",
+        "size": 14802,
+        "sha256": "b79cbebb843394b033b601f6ede831d91f166b43f11e98db0aee51a1eacd5d21"
+      }
+    ]
   }
 ]
