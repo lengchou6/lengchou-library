@@ -1,0 +1,96 @@
+{
+  "id": "LC-000102",
+  "title": "一句顶一万句",
+  "subtitle": null,
+  "authors": [
+    {
+      "name": "刘震云",
+      "country": null,
+      "role": "著"
+    }
+  ],
+  "translators": [],
+  "publisher": "花城出版社",
+  "isbn": "978-7-5360-9726-1",
+  "category": "文学与小说",
+  "tags": [
+    "文学与小说"
+  ],
+  "usageTags": [
+    "文学阅读"
+  ],
+  "language": "zh-Hans",
+  "languageLabel": "中文",
+  "series": null,
+  "seriesGroupId": null,
+  "seriesNumber": null,
+  "seriesLabel": null,
+  "purchaseGroupId": null,
+  "orientation": "portrait",
+  "publicationDate": null,
+  "edition": null,
+  "listPrice": 68,
+  "paidPrice": null,
+  "currency": "CNY",
+  "purchaseDate": null,
+  "purchaseChannel": null,
+  "accessionedAt": "2026-10-27T23:41:30+08:00",
+  "readingStatus": null,
+  "location": null,
+  "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+  "description": "围绕人与人之间的交流、孤独及寻找能说得上话的人展开的长篇小说。",
+  "metadataSource": "用户上传的实体书照片",
+  "photos": [
+    {
+      "side": "front",
+      "label": "正面",
+      "file": "assets/LC-000102/front-original.jpg",
+      "original": "assets/LC-000102/front-original.jpg",
+      "sourceFilename": "IMG_20261027_234130.jpg",
+      "capturedAt": "2026-10-27T23:41:30+08:00",
+      "timePrecision": "second",
+      "timeSource": "文件名精确至秒，照片水印核对至分钟",
+      "sha256": "5f91a304bacf2eafcac0620964261f4009455c27643b08cb2d0e2ebfb12df9f9",
+      "width": 1416,
+      "height": 2048,
+      "preview": "assets/LC-000102/front-preview-f326cdfc7595.webp",
+      "thumbnail": "assets/LC-000102/front-thumbnail-fc4cce11efe5.webp",
+      "sources": [
+        {
+          "width": 320,
+          "path": "assets/LC-000102/front-small-fecb2e4f505c.webp"
+        },
+        {
+          "width": 480,
+          "path": "assets/LC-000102/front-thumbnail-fc4cce11efe5.webp"
+        },
+        {
+          "width": 720,
+          "path": "assets/LC-000102/front-large-6c5eb6e2d254.webp"
+        }
+      ]
+    },
+    {
+      "side": "back",
+      "label": "背面",
+      "file": "assets/LC-000102/back-original.jpg",
+      "original": "assets/LC-000102/back-original.jpg",
+      "sourceFilename": "IMG_20261027_234138.jpg",
+      "capturedAt": "2026-10-27T23:41:38+08:00",
+      "timePrecision": "second",
+      "timeSource": "文件名精确至秒，照片水印核对至分钟",
+      "sha256": "f84f7fe5cb55d6cb71e166df1d839ed125f2d1068e1b5ca6520d8c393214a01e",
+      "width": 1416,
+      "height": 2048,
+      "preview": "assets/LC-000102/back-preview-f5e585353079.webp"
+    }
+  ],
+  "condition": {
+    "label": "有使用痕迹",
+    "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+    "scope": "外观",
+    "source": "照片预估",
+    "assessedOn": "2026-10-28"
+  },
+  "originalTitle": "Someone to Talk to"
+}

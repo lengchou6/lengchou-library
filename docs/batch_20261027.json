@@ -1,0 +1,51 @@
+{
+  "newBooks": [
+    "LC-000101",
+    "LC-000103",
+    "LC-000104",
+    "LC-000105",
+    "LC-000106",
+    "LC-000107",
+    "LC-000108",
+    "LC-000109",
+    "LC-000110",
+    "LC-000111",
+    "LC-000112",
+    "LC-000113"
+  ],
+  "originalPaths": [
+    "dist/assets/LC-000101/front-original.jpg",
+    "dist/assets/LC-000101/back-original.jpg",
+    "dist/assets/LC-000102/front-original.jpg",
+    "dist/assets/LC-000102/back-original.jpg",
+    "dist/assets/LC-000103/front-original.jpg",
+    "dist/assets/LC-000103/back-original.jpg",
+    "dist/assets/LC-000104/front-original.jpg",
+    "dist/assets/LC-000104/back-original.jpg",
+    "dist/assets/LC-000105/front-original.jpg",
+    "dist/assets/LC-000105/back-original.jpg",
+    "dist/assets/LC-000105/copyright-original.jpg",
+    "dist/assets/LC-000106/front-original.jpg",
+    "dist/assets/LC-000106/back-original.jpg",
+    "dist/assets/LC-000107/front-original.jpg",
+    "dist/assets/LC-000107/back-original.jpg",
+    "dist/assets/LC-000108/front-original.jpg",
+    "dist/assets/LC-000108/back-original.jpg",
+    "dist/assets/LC-000109/front-original.jpg",
+    "dist/assets/LC-000109/back-original.jpg",
+    "dist/assets/LC-000110/front-original.jpg",
+    "dist/assets/LC-000110/back-original.jpg",
+    "dist/assets/LC-000110/copyright-original.jpg",
+    "dist/assets/LC-000111/front-original.jpg",
+    "dist/assets/LC-000111/back-original.jpg",
+    "dist/assets/LC-000112/front-original.jpg",
+    "dist/assets/LC-000112/back-original.jpg",
+    "dist/assets/LC-000113/front-original.jpg",
+    "dist/assets/LC-000113/back-original.jpg"
+  ],
+  "source": "2026-10-27两批共28张唯一实拍照片，含2张版权页；新旧书目与照片查重后录入。",
+  "pendingBooks": [
+    "LC-000102"
+  ],
+  "publicationNote": "12册先发布；一句顶一万句因正面原图触发自动审批上下文容量错误暂缓，完整书目保留在pending_20261027.json。"
+}

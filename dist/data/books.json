@@ -10195,6 +10195,1197 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       }
+    },
+    {
+      "id": "LC-000101",
+      "title": "死灵之书",
+      "subtitle": "H.P.洛夫克拉夫特小说全集",
+      "authors": [
+        {
+          "name": "H.P.洛夫克拉夫特",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北京时代华文书局",
+      "isbn": "978-7-5699-2332-2",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 198,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:14:09+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。 译者及绘者姓名待版权页核实。",
+      "description": "收录洛夫克拉夫特的恐怖与奇幻小说，呈现克苏鲁神话相关的想象世界。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000101/front-original.jpg",
+          "original": "assets/LC-000101/front-original.jpg",
+          "sourceFilename": "IMG_20261027_231409.jpg",
+          "capturedAt": "2026-10-27T23:14:09+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7af777f439913efae10db5f97157ba2369705fa9fd5613df4118b207a0911286",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000101/front-preview-d4a50ffd9aa2.webp",
+          "thumbnail": "assets/LC-000101/front-thumbnail-9f1baf7326ca.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000101/front-small-978fac4c0fcb.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000101/front-thumbnail-9f1baf7326ca.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000101/front-large-f4107ef7ccee.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000101/back-original.jpg",
+          "original": "assets/LC-000101/back-original.jpg",
+          "sourceFilename": "IMG_20261027_234011.jpg",
+          "capturedAt": "2026-10-27T23:40:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ebe5ab66005c3a5fed0152bcc7adf8a9d20ccddf3a4118413176222d12cfb482",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000101/back-preview-f0c347d74340.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      },
+      "originalTitle": "Necronomicon",
+      "titleAliases": [
+        "H. P. Lovecraft",
+        "克苏鲁"
+      ]
+    },
+    {
+      "id": "LC-000103",
+      "title": "女孩别怕",
+      "subtitle": "为女孩生活，提供安全方案",
+      "authors": [
+        {
+          "name": "田静",
+          "country": null,
+          "role": "编著"
+        },
+        {
+          "name": "女孩别怕团队",
+          "country": null,
+          "role": "编著"
+        }
+      ],
+      "translators": [],
+      "publisher": "中信出版集团",
+      "isbn": "978-7-5217-2290-1",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:41:48+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "围绕日常生活、亲密关系、网络与职场等场景，介绍女性安全与自我保护相关知识。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000103/front-original.jpg",
+          "original": "assets/LC-000103/front-original.jpg",
+          "sourceFilename": "IMG_20261027_234148.jpg",
+          "capturedAt": "2026-10-27T23:41:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a096a0b9ce12528921fe32882e4a3dbac3a3a1906e6e38ed1181a1b53d8b0363",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000103/front-preview-c651f49898e7.webp",
+          "thumbnail": "assets/LC-000103/front-thumbnail-617d94a755d9.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000103/front-small-3f5605af0b66.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000103/front-thumbnail-617d94a755d9.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000103/front-large-7f8f1598a3e7.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000103/back-original.jpg",
+          "original": "assets/LC-000103/back-original.jpg",
+          "sourceFilename": "IMG_20261027_234157.jpg",
+          "capturedAt": "2026-10-27T23:41:57+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d24b09853aacffdda6da9d7959d6ce7845cc14f988f964a4e42870de5e6828e3",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000103/back-preview-b480d57cacda.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      }
+    },
+    {
+      "id": "LC-000104",
+      "title": "人生没什么不可放下",
+      "subtitle": "弘一法师的人生智慧",
+      "authors": [
+        {
+          "name": "宋默",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "团结出版社",
+      "isbn": "978-7-5126-2245-6",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 32.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:42:07+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "围绕弘一法师的生活与思想，讨论取舍、心境和日常处世。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000104/front-original.jpg",
+          "original": "assets/LC-000104/front-original.jpg",
+          "sourceFilename": "IMG_20261027_234207.jpg",
+          "capturedAt": "2026-10-27T23:42:07+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "af25eee6ce95a8af9e5d665822f7833852d317711330a8332fd175630e929a20",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000104/front-preview-3b48260140d2.webp",
+          "thumbnail": "assets/LC-000104/front-thumbnail-a690d4191848.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000104/front-small-6508733fac15.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000104/front-thumbnail-a690d4191848.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000104/front-large-5b64594633d4.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000104/back-original.jpg",
+          "original": "assets/LC-000104/back-original.jpg",
+          "sourceFilename": "IMG_20261027_234219.jpg",
+          "capturedAt": "2026-10-27T23:42:19+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5a9afd39d932003308a8b13284e6c1d16e2807f5b23de6b9d8d381595eff8960",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000104/back-preview-3403044f9de2.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      }
+    },
+    {
+      "id": "LC-000105",
+      "title": "生死疲劳",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "莫言",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "浙江文艺出版社",
+      "isbn": "978-7-5339-6610-2",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2022-01",
+      "edition": "2022年1月第1版；2022年8月第10次印刷",
+      "listPrice": 69.9,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:49:57+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "护封已缺失，据补拍版权页核实ISBN、出版社与69.90元平装定价；保留正面、背面和版权页实拍。",
+      "description": "借轮回叙述乡土社会中人与土地的关系，以及时代变迁中的个人与家庭。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000105/front-original.jpg",
+          "original": "assets/LC-000105/front-original.jpg",
+          "sourceFilename": "IMG_20261027_234957.jpg",
+          "capturedAt": "2026-10-27T23:49:57+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1d7bea447e741005022602c4e889904bacf4128eba69f85221585a42f52feb3e",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000105/front-preview-c3051ab48e53.webp",
+          "thumbnail": "assets/LC-000105/front-thumbnail-3fb75a0c7fb7.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000105/front-small-576a0d8104da.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000105/front-thumbnail-3fb75a0c7fb7.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000105/front-large-1ebaa88c0224.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000105/back-original.jpg",
+          "original": "assets/LC-000105/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235016.jpg",
+          "capturedAt": "2026-10-27T23:50:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e87643619510adfd2a4d79f3613b741856fa5e09e4e4baefae90aabb072c7c65",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000105/back-preview-fe2023c2f4d0.webp"
+        },
+        {
+          "side": "copyright",
+          "label": "版权页",
+          "file": "assets/LC-000105/copyright-original.jpg",
+          "original": "assets/LC-000105/copyright-original.jpg",
+          "sourceFilename": "IMG_20261027_235011.jpg",
+          "capturedAt": "2026-10-27T23:50:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c18b1f256f10fddf5677b12fbcc93523d04b6c0dfb608b319b48c0a1a4e172d9",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000105/copyright-preview-c2036af0c0d7.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      }
+    },
+    {
+      "id": "LC-000106",
+      "title": "丰乳肥臀",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "莫言",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "浙江文艺出版社",
+      "isbn": "978-7-5339-6021-6",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 69,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:50:36+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "以母亲与家庭的命运为中心，书写历史变迁中的苦难、生存与生命韧性。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000106/front-original.jpg",
+          "original": "assets/LC-000106/front-original.jpg",
+          "sourceFilename": "IMG_20261027_235036.jpg",
+          "capturedAt": "2026-10-27T23:50:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "05fbb1e6cc81022c09c5d69f2aab534f12603a6a4034d31a52255515c8143154",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000106/front-preview-a32d7ee3a0f2.webp",
+          "thumbnail": "assets/LC-000106/front-thumbnail-a9dbc362390d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000106/front-small-74df71d2b641.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000106/front-thumbnail-a9dbc362390d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000106/front-large-5faf633f2d69.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000106/back-original.jpg",
+          "original": "assets/LC-000106/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235048.jpg",
+          "capturedAt": "2026-10-27T23:50:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "603523e636e07429dd85ebbcfac9dbc3b2b7afe272be146ca418b0c5bfbccff7",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000106/back-preview-b3f5708758d0.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      }
+    },
+    {
+      "id": "LC-000107",
+      "title": "蛙",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "莫言",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "浙江文艺出版社",
+      "isbn": "978-7-5339-6024-7",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 49,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:50:59+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "通过乡村妇产科医生的人生，书写生育、时代与个人伦理之间的矛盾。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000107/front-original.jpg",
+          "original": "assets/LC-000107/front-original.jpg",
+          "sourceFilename": "IMG_20261027_235059.jpg",
+          "capturedAt": "2026-10-27T23:50:59+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "122ae79a209d4a59d7dfdbea15bed4d6adb64847790dd038651990d84c979802",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000107/front-preview-4dff1f4520b7.webp",
+          "thumbnail": "assets/LC-000107/front-thumbnail-ecaefca0bc1d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000107/front-small-200c863135dd.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000107/front-thumbnail-ecaefca0bc1d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000107/front-large-64b3e5f24acd.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000107/back-original.jpg",
+          "original": "assets/LC-000107/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235110.jpg",
+          "capturedAt": "2026-10-27T23:51:10+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "45c63be2ecec4eee9831f7515503b99ddc483952445755b2faf9c47d58113e77",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000107/back-preview-a493597c1365.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      }
+    },
+    {
+      "id": "LC-000108",
+      "title": "人间小满",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "姑苏阿焦",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "中国水利水电出版社",
+      "isbn": "978-7-5226-0906-5",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 58,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:51:40+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "从日常生活出发，谈知足、分寸与平常日子中的安宁和欢喜。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000108/front-original.jpg",
+          "original": "assets/LC-000108/front-original.jpg",
+          "sourceFilename": "IMG_20261027_235140.jpg",
+          "capturedAt": "2026-10-27T23:51:40+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4dff35ba30305fdf530751c4b33cd5915fd8a168bae7a81aeca116d004ae476c",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000108/front-preview-466d220a3e23.webp",
+          "thumbnail": "assets/LC-000108/front-thumbnail-f1d19ad0a163.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000108/front-small-38f4f07578d1.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000108/front-thumbnail-f1d19ad0a163.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000108/front-large-04131766ae61.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000108/back-original.jpg",
+          "original": "assets/LC-000108/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235147.jpg",
+          "capturedAt": "2026-10-27T23:51:47+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2eb9d43ea7253bd61c879c081717623ed2969ef24262d4a9a16171bdead45d29",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000108/back-preview-61e18c180b12.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      }
+    },
+    {
+      "id": "LC-000109",
+      "title": "我与地坛",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "史铁生",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "978-7-02-008435-7",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 29,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:52:04+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "史铁生的散文作品，围绕生命、亲情、记忆与个人处境展开思索。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000109/front-original.jpg",
+          "original": "assets/LC-000109/front-original.jpg",
+          "sourceFilename": "IMG_20261027_235204.jpg",
+          "capturedAt": "2026-10-27T23:52:04+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d7981c5166229b07860a381dfc1bf5e6d92cf3246f89a659cb4a23280bc7a92e",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000109/front-preview-2c8d5306221c.webp",
+          "thumbnail": "assets/LC-000109/front-thumbnail-a6f4d48774d6.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000109/front-small-da466160c62e.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000109/front-thumbnail-a6f4d48774d6.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000109/front-large-6c1f180102b8.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000109/back-original.jpg",
+          "original": "assets/LC-000109/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235211.jpg",
+          "capturedAt": "2026-10-27T23:52:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "6014e2e53a839e1a3378722be6ff6315bcc8898f6b6458e12c6fcd746749ecb6",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000109/back-preview-9c5805f7e94a.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      },
+      "coverEditionLabel": "纪念版"
+    },
+    {
+      "id": "LC-000110",
+      "title": "皮囊",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "蔡崇达",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "天津人民出版社",
+      "isbn": "978-7-201-08894-5",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2014-12",
+      "edition": "2014年12月第1版；2018年12月第60次印刷",
+      "listPrice": 39.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:52:20+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "护封已缺失，据补拍版权页核实ISBN、出版社与39.80元定价；保留正面、背面和版权页实拍。",
+      "description": "以故乡、亲人与成长经历为线索，记录普通人的生活与精神世界。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000110/front-original.jpg",
+          "original": "assets/LC-000110/front-original.jpg",
+          "sourceFilename": "IMG_20261027_235220.jpg",
+          "capturedAt": "2026-10-27T23:52:20+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "606a0a22e485b0652d0ad1d754b9484d3c82ef0df8a702134573a68bbc8b4cc0",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000110/front-preview-cf68da68d259.webp",
+          "thumbnail": "assets/LC-000110/front-thumbnail-3bc1eb0d0749.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000110/front-small-7f7d76548f4b.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000110/front-thumbnail-3bc1eb0d0749.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000110/front-large-87340ce10500.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000110/back-original.jpg",
+          "original": "assets/LC-000110/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235245.jpg",
+          "capturedAt": "2026-10-27T23:52:45+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "41834605b84d40b8a1523fcd069f3c6d35f046b9aabf09ae6f2626073acb2a2f",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000110/back-preview-05e26dcfb2cf.webp"
+        },
+        {
+          "side": "copyright",
+          "label": "版权页",
+          "file": "assets/LC-000110/copyright-original.jpg",
+          "original": "assets/LC-000110/copyright-original.jpg",
+          "sourceFilename": "IMG_20261027_235236.jpg",
+          "capturedAt": "2026-10-27T23:52:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "037aec7de29c77064e2b0b268b6b6b771ab758b7c217ac989ac6f94341298e58",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000110/copyright-preview-3640dea3ed11.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      }
+    },
+    {
+      "id": "LC-000111",
+      "title": "三体",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "刘慈欣",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "重庆出版社",
+      "isbn": "978-7-5366-9293-0",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "地球往事三部曲",
+      "seriesGroupId": "three-body",
+      "seriesNumber": 1,
+      "seriesLabel": "第1部",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 23,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:53:18+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "地球往事三部曲第一部，从人类与外星文明的接触展开文明命运的故事。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000111/front-original.jpg",
+          "original": "assets/LC-000111/front-original.jpg",
+          "sourceFilename": "IMG_20261027_235318.jpg",
+          "capturedAt": "2026-10-27T23:53:18+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "03ef031df137417432a771773f847b75b06265317265599e3c9d000e8ec34b0b",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000111/front-preview-1be7fe8ba899.webp",
+          "thumbnail": "assets/LC-000111/front-thumbnail-afc157cf5366.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000111/front-small-94862451debe.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000111/front-thumbnail-afc157cf5366.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000111/front-large-8e5a991b338d.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000111/back-original.jpg",
+          "original": "assets/LC-000111/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235324.jpg",
+          "capturedAt": "2026-10-27T23:53:24+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0e124558e21b709c8331061bdcd8a047f4ebb8b95fd348bec9bc73a3a8359c04",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000111/back-preview-6bdd673f39cf.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      },
+      "titleAliases": [
+        "三体1",
+        "地球往事"
+      ]
+    },
+    {
+      "id": "LC-000112",
+      "title": "三体Ⅱ",
+      "subtitle": "黑暗森林",
+      "authors": [
+        {
+          "name": "刘慈欣",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "重庆出版社",
+      "isbn": "978-7-5366-9396-8",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "地球往事三部曲",
+      "seriesGroupId": "three-body",
+      "seriesNumber": 2,
+      "seriesLabel": "第2部",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 32,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:53:37+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "地球往事三部曲第二部，围绕文明间的生存困境与人类应对展开。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000112/front-original.jpg",
+          "original": "assets/LC-000112/front-original.jpg",
+          "sourceFilename": "IMG_20261027_235337.jpg",
+          "capturedAt": "2026-10-27T23:53:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1b41312b7ce7e152b38a624fd2ff8e2ebe7d13b24872625861afec2c40ba68ba",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000112/front-preview-f3141c041af4.webp",
+          "thumbnail": "assets/LC-000112/front-thumbnail-dd89e730e885.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000112/front-small-fb7f120c112a.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000112/front-thumbnail-dd89e730e885.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000112/front-large-26e0bc2f6731.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000112/back-original.jpg",
+          "original": "assets/LC-000112/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235347.jpg",
+          "capturedAt": "2026-10-27T23:53:47+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c43e9acc5227107c5fb8a92c1f70e1f0b598222dd69fda75a9a926473c25c205",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000112/back-preview-527e0b2af13a.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      },
+      "titleAliases": [
+        "三体2",
+        "地球往事"
+      ]
+    },
+    {
+      "id": "LC-000113",
+      "title": "三体Ⅲ",
+      "subtitle": "死神永生",
+      "authors": [
+        {
+          "name": "刘慈欣",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "重庆出版社",
+      "isbn": "978-7-229-03093-3",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "文学阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "地球往事三部曲",
+      "seriesGroupId": "three-body",
+      "seriesNumber": 3,
+      "seriesLabel": "第3部",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 38,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-27T23:53:58+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书目与定价据实体封面、封底照片；版权页版次及印次未核实。",
+      "description": "地球往事三部曲第三部，将人类与文明命运的叙事延伸到更广阔的宇宙尺度。",
+      "metadataSource": "用户上传的实体书照片",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000113/front-original.jpg",
+          "original": "assets/LC-000113/front-original.jpg",
+          "sourceFilename": "IMG_20261027_235358.jpg",
+          "capturedAt": "2026-10-27T23:53:58+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0fb9c62ec225131af23efdea31bf6cb13daec1db6135b3bf3ac9d531f737b9c9",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000113/front-preview-9df69215ae79.webp",
+          "thumbnail": "assets/LC-000113/front-thumbnail-4c716e558cc4.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000113/front-small-a88bd77626ee.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000113/front-thumbnail-4c716e558cc4.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000113/front-large-ae040d652721.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000113/back-original.jpg",
+          "original": "assets/LC-000113/back-original.jpg",
+          "sourceFilename": "IMG_20261027_235408.jpg",
+          "capturedAt": "2026-10-27T23:54:08+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c9793d5e7cbaf80b9e699d8aba3c35bcd0a2f6bce9ad714941bbbcf1e56e5365",
+          "width": 1416,
+          "height": 2048,
+          "preview": "assets/LC-000113/back-preview-f49af5801d8f.webp"
+        }
+      ],
+      "condition": {
+        "label": "有使用痕迹",
+        "note": "封面、封底及边角可见使用痕迹，未逐页检查。",
+        "scope": "外观",
+        "source": "照片预估",
+        "assessedOn": "2026-10-28"
+      },
+      "titleAliases": [
+        "三体3",
+        "地球往事"
+      ]
     }
   ],
   "seriesGroups": [
@@ -10369,6 +11560,13 @@
       "shortTitle": "平衡掌控者",
       "kind": "同名书系",
       "description": "战斗设计与经济设计分别建档，各自独立ISBN和定价。"
+    },
+    {
+      "id": "three-body",
+      "title": "三体：地球往事三部曲",
+      "shortTitle": "三体",
+      "kind": "三部曲",
+      "description": "三册各自独立ISBN及封底定价，分别建档；未推定为同次购买。"
     }
   ],
   "exchangeRates": {
