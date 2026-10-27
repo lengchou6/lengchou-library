@@ -1,0 +1,29 @@
+[
+  {
+    "original": "dist/assets/LC-000102/front-original.jpg",
+    "size": 1000173,
+    "sha256": "5f91a304bacf2eafcac0620964261f4009455c27643b08cb2d0e2ebfb12df9f9",
+    "parts": [
+      {
+        "path": "source-assets/LC-000102/front-original.part01",
+        "size": 300000,
+        "sha256": "fc1ced864dc5039e901e1ddbaabbe9d78d443dba7f2c8c7cdd07032085c11831"
+      },
+      {
+        "path": "source-assets/LC-000102/front-original.part02",
+        "size": 300000,
+        "sha256": "9da7ba6474d816e0c0362a8cf5f52d3590342c333d0a89452bc6d3c42c04ea90"
+      },
+      {
+        "path": "source-assets/LC-000102/front-original.part03",
+        "size": 300000,
+        "sha256": "baebc7b57d6283d880ea3a76502c14347a94c882a3970e29790bbd537a102d3a"
+      },
+      {
+        "path": "source-assets/LC-000102/front-original.part04",
+        "size": 100173,
+        "sha256": "35bc487ffe2ebda2184d4d731ffb136d1bce60c95fc7db11ff7d061d9414cd52"
+      }
+    ]
+  }
+]

@@ -28,6 +28,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Restore verified original photo parts
+        run: |
+          python scripts/restore_originals.py
+          python scripts/test_restore_originals.py
       - name: Reuse photo derivatives
         uses: actions/cache@v4
         with:
