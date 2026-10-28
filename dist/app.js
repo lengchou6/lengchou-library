@@ -365,7 +365,7 @@
   let resizeTimer;window.addEventListener('resize',()=>{if(dialog.open)setZoom(zoom);clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>{if(books.length&&columnCount()!==renderedColumns)renderCollection();},100);});
   window.addEventListener('popstate',()=>{if(books.length){readQuery();categories();renderCollection();}});
   document.addEventListener('keydown',event=>{if(event.key==='/'&&!dialog.open&&!$('#catalog-page').hidden&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){event.preventDefault();$('#search').focus();}});
-  fetch('data/books.json?v=20261028-lotr-set',{cache:'no-cache'}).then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
+  fetch('data/books.json?v=20261028-books-2011',{cache:'no-cache'}).then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
     priceGroups=data.priceGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};categoryOrder=data.categoryOrder || [];seriesGroups=data.seriesGroups || [];books=data.books.map(book=>({...book,photos:book.photoGroupId?(seriesGroups.find(g=>g.id===book.photoGroupId)?.photos || []):book.photos}));$('#summary').textContent=`共 ${volumeCount(books)} 册`;
     books.forEach(b=>{const normal=[fullTitle(b),b.originalTitle,b.referenceTitle,b.id,b.isbn,b.publisher,b.category,b.series,b.seriesLabel,...(b.titleAliases||[]),...b.tags,...b.translators,...b.authors.flatMap(a=>[a.name,a.originalName||''])].join(' ').toLocaleLowerCase();searchIndex.set(b.id,{normal,compact:normal.replace(/[\s-]/g,'')});});
     readQuery();categories();renderCollection();route();window.addEventListener('hashchange',route);

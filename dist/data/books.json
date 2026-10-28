@@ -12905,6 +12905,1720 @@
         "LC-000133"
       ],
       "photoScope": "set"
+    },
+    {
+      "id": "LC-000134",
+      "title": "无尽世界Ⅰ",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "肯·福莱特",
+          "country": "英国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "胡允桓"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "无尽世界（全三册）",
+      "seriesGroupId": "endless-world",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T19:55:25+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "中世纪三部曲第二部《无尽世界》的三册分别建档，按册序关联。本批封面封底未展示ISBN及定价，留空，未推定套书价格。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000134/front-original.jpg",
+          "original": "assets/LC-000134/front-original.jpg",
+          "sourceFilename": "IMG_20261028_195525.jpg",
+          "capturedAt": "2026-10-28T19:55:25+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "b962eb9c55691b1e4098670d212e446af6e70804d85937e61158f0222f1335e1",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 903243,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000134/front-preview-2863db6ad444.webp",
+          "thumbnail": "assets/LC-000134/front-thumbnail-f8f53b347877.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000134/front-small-2edc039cedcc.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000134/front-thumbnail-f8f53b347877.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000134/front-large-c276ff222fb0.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000134/back-original.jpg",
+          "original": "assets/LC-000134/back-original.jpg",
+          "sourceFilename": "IMG_20261028_195538.jpg",
+          "capturedAt": "2026-10-28T19:55:38+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a20797e1494b4d225760da07601aaf868e6e88cf47a9677825dfd8b4d89264cc",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 837233,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000134/back-preview-423fbd8bee9a.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000135",
+      "title": "无尽世界Ⅱ",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "肯·福莱特",
+          "country": "英国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "胡允桓"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "无尽世界（全三册）",
+      "seriesGroupId": "endless-world",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T19:55:51+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "中世纪三部曲第二部《无尽世界》的三册分别建档，按册序关联。本批封面封底未展示ISBN及定价，留空，未推定套书价格。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000135/front-original.jpg",
+          "original": "assets/LC-000135/front-original.jpg",
+          "sourceFilename": "IMG_20261028_195551.jpg",
+          "capturedAt": "2026-10-28T19:55:51+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "dd9e0790e0e4492a164cf12c68c48fed198ac1932dd96c16dd7752e18f122074",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 909401,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000135/front-preview-8500795bfd32.webp",
+          "thumbnail": "assets/LC-000135/front-thumbnail-5d2641266b4b.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000135/front-small-b03ef6bb398a.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000135/front-thumbnail-5d2641266b4b.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000135/front-large-faf36178edac.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000135/back-original.jpg",
+          "original": "assets/LC-000135/back-original.jpg",
+          "sourceFilename": "IMG_20261028_195605.jpg",
+          "capturedAt": "2026-10-28T19:56:05+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5387400a994f387b36923f49009700fb7c2844ed62a559092232f448f93bddfd",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 746559,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000135/back-preview-1aa9b2647564.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000136",
+      "title": "无尽世界Ⅲ",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "肯·福莱特",
+          "country": "英国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "胡允桓"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "无尽世界（全三册）",
+      "seriesGroupId": "endless-world",
+      "seriesNumber": 3,
+      "seriesLabel": "第3册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T19:56:22+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "中世纪三部曲第二部《无尽世界》的三册分别建档，按册序关联。本批封面封底未展示ISBN及定价，留空，未推定套书价格。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000136/front-original.jpg",
+          "original": "assets/LC-000136/front-original.jpg",
+          "sourceFilename": "IMG_20261028_195622.jpg",
+          "capturedAt": "2026-10-28T19:56:22+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "f18514d877329dcd1b4065fbb68f17b6bc3a91a396d39ac99eab72b9a6b76af8",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 746847,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000136/front-preview-6e2f80a7a4b8.webp",
+          "thumbnail": "assets/LC-000136/front-thumbnail-5b8126ae450a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000136/front-small-a281aef4a1a5.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000136/front-thumbnail-5b8126ae450a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000136/front-large-2abb607b7c3b.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000136/back-original.jpg",
+          "original": "assets/LC-000136/back-original.jpg",
+          "sourceFilename": "IMG_20261028_195632.jpg",
+          "capturedAt": "2026-10-28T19:56:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0a69635b31633a9813ea1223688e62ef7cb4f81e9a782063d645dcdcb0777655",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 927208,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000136/back-preview-858bde7368be.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000137",
+      "title": "新月集·飞鸟集",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "泰戈尔",
+          "country": "印度",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "郑振铎"
+      ],
+      "publisher": "浙江工商大学出版社",
+      "isbn": "9787517825692",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 21,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T19:57:04+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000137/front-original.jpg",
+          "original": "assets/LC-000137/front-original.jpg",
+          "sourceFilename": "IMG_20261028_195704.jpg",
+          "capturedAt": "2026-10-28T19:57:04+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "de68d4f6e7bc61ddf51afcaf89f13d38c4f280c29288a966253fc51e4fb8c1ed",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 838576,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000137/front-preview-02ccadeaba61.webp",
+          "thumbnail": "assets/LC-000137/front-thumbnail-639250bb797d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000137/front-small-4358814ca326.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000137/front-thumbnail-639250bb797d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000137/front-large-117155ec43c9.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000137/back-original.jpg",
+          "original": "assets/LC-000137/back-original.jpg",
+          "sourceFilename": "IMG_20261028_195713.jpg",
+          "capturedAt": "2026-10-28T19:57:13+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e4617a529db9fc053de9af42c35135d9620d335ee7e16894ce166b5869b73de2",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 848881,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000137/back-preview-50e90d328d51.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000138",
+      "title": "以色列：一个民族的重生",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "丹尼尔·戈迪斯",
+          "country": "以色列",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "王戎"
+      ],
+      "publisher": "浙江人民出版社",
+      "isbn": "9787213087981",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2018-09",
+      "edition": "2018年9月第1版",
+      "coverEditionLabel": null,
+      "listPrice": 88,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T19:59:33+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "ISBN、定价及版次印次据补拍版权页确认；封底没有书目信息。 校译：宋立宏。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000138/front-original.jpg",
+          "original": "assets/LC-000138/front-original.jpg",
+          "sourceFilename": "IMG_20261028_195933.jpg",
+          "capturedAt": "2026-10-28T19:59:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c4a8ba4b0cbb9dfa1b26d5f973d3cb5ba386f754945a46899389bee6e33a87c6",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 780324,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000138/front-preview-c2f3795f7363.webp",
+          "thumbnail": "assets/LC-000138/front-thumbnail-cf4c04f8d3e8.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000138/front-small-ae9e8f7f65e1.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000138/front-thumbnail-cf4c04f8d3e8.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000138/front-large-888887f7639e.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000138/back-original.jpg",
+          "original": "assets/LC-000138/back-original.jpg",
+          "sourceFilename": "IMG_20261028_195942.jpg",
+          "capturedAt": "2026-10-28T19:59:42+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "cff5aa16ad3cb883952d1f3fc9aba5ec49a2472f4a243057944ff1871b4c41d0",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 675918,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000138/back-preview-ae6a4f5092cc.webp"
+        },
+        {
+          "side": "copyright",
+          "label": "版权页",
+          "file": "assets/LC-000138/copyright-original.jpg",
+          "original": "assets/LC-000138/copyright-original.jpg",
+          "sourceFilename": "IMG_20261028_200009.jpg",
+          "capturedAt": "2026-10-28T20:00:09+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "de3f9470dafe2c78f93af2632d51f193b2f558f63d3cf0144824b8e98c7697d9",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 394373,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000138/copyright-preview-eb66c526825c.webp"
+        }
+      ],
+      "condition": null,
+      "printing": "2023年7月第22次印刷"
+    },
+    {
+      "id": "LC-000139",
+      "title": "乌合之众：大众心理研究",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "古斯塔夫·勒庞",
+          "country": "法国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "马晓佳"
+      ],
+      "publisher": "民主与建设出版社",
+      "isbn": "9787513919524",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 26,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:00:27+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000139/front-original.jpg",
+          "original": "assets/LC-000139/front-original.jpg",
+          "sourceFilename": "IMG_20261028_200027.jpg",
+          "capturedAt": "2026-10-28T20:00:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c71fffdbc7e19e963f5a67b0e5578d268e83c775bc0bd1e365baa9f5f557ee8a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1118527,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000139/front-preview-5ddc4dad6d55.webp",
+          "thumbnail": "assets/LC-000139/front-thumbnail-6d41cca17c41.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000139/front-small-6dfaee74442a.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000139/front-thumbnail-6d41cca17c41.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000139/front-large-310f7d9356db.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000139/back-original.jpg",
+          "original": "assets/LC-000139/back-original.jpg",
+          "sourceFilename": "IMG_20261028_200036.jpg",
+          "capturedAt": "2026-10-28T20:00:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e15bdabb6a6f7751fb2411fc5446aa9ad62324ec3ed3e445add5db8d5dd9cd8c",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1167605,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000139/back-preview-3d0db30a27ae.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000140",
+      "title": "13次时空穿梭之旅",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "科林·斯图尔特",
+          "country": "英国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "孙亚飞"
+      ],
+      "publisher": "湖南文艺出版社",
+      "isbn": "9787540478841",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2018-01",
+      "edition": "2018年1月第1版",
+      "coverEditionLabel": null,
+      "listPrice": 59,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:01:14+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "ISBN、定价及版次印次据补拍版权页确认；封底没有书目信息。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000140/front-original.jpg",
+          "original": "assets/LC-000140/front-original.jpg",
+          "sourceFilename": "IMG_20261028_200114.jpg",
+          "capturedAt": "2026-10-28T20:01:14+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ad970dfba3e1149ab7103c626d1c9b069ccbee86aba4016f0bb2df46645d4968",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 733755,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000140/front-preview-8149dbad2d2c.webp",
+          "thumbnail": "assets/LC-000140/front-thumbnail-232ab77d7d01.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000140/front-small-7811136b367c.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000140/front-thumbnail-232ab77d7d01.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000140/front-large-deac5fdd9e3e.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000140/back-original.jpg",
+          "original": "assets/LC-000140/back-original.jpg",
+          "sourceFilename": "IMG_20261028_200219.jpg",
+          "capturedAt": "2026-10-28T20:02:19+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ffef6378ee83c75e79ef60bfc1b84cb097c58aa0991a3ee5a7a9518fb6da2e37",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 797881,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000140/back-preview-628646bc9d57.webp"
+        },
+        {
+          "side": "copyright",
+          "label": "版权页",
+          "file": "assets/LC-000140/copyright-original.jpg",
+          "original": "assets/LC-000140/copyright-original.jpg",
+          "sourceFilename": "IMG_20261028_200235.jpg",
+          "capturedAt": "2026-10-28T20:02:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "367c2a7aa634813f7d1664004c7ccd37498956977aac6ccd92c082a4e7e87217",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 547262,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000140/copyright-preview-4a975a2ceecf.webp"
+        }
+      ],
+      "condition": null,
+      "printing": "2018年1月第1次印刷"
+    },
+    {
+      "id": "LC-000141",
+      "title": "宇宙奥德赛：漫步太阳系",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "王爽",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "清华大学出版社",
+      "isbn": "9787302509288",
+      "category": "人文与社科",
+      "tags": [
+        "人文与社科"
+      ],
+      "usageTags": [
+        "资料参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2018-10",
+      "edition": "2018年10月第1版",
+      "coverEditionLabel": null,
+      "listPrice": 55,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:03:13+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "ISBN、定价及版次印次据补拍版权页确认；封底没有书目信息。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000141/front-original.jpg",
+          "original": "assets/LC-000141/front-original.jpg",
+          "sourceFilename": "IMG_20261028_200313.jpg",
+          "capturedAt": "2026-10-28T20:03:13+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "b06ee7490856beb93de5e0658debbca867ae2cb597cc4c81a838f9e742ea657e",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 689442,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000141/front-preview-fb5be4db16de.webp",
+          "thumbnail": "assets/LC-000141/front-thumbnail-e485f073529f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000141/front-small-ef0701eae978.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000141/front-thumbnail-e485f073529f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000141/front-large-f35b98a3591d.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000141/back-original.jpg",
+          "original": "assets/LC-000141/back-original.jpg",
+          "sourceFilename": "IMG_20261028_200329.jpg",
+          "capturedAt": "2026-10-28T20:03:29+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e589c6ca39d99a58f2f80c6ccc8d1eab4c77b500ec4f54e72468a2e2ec48886b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 869180,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000141/back-preview-18e2d1b891d3.webp"
+        },
+        {
+          "side": "copyright",
+          "label": "版权页",
+          "file": "assets/LC-000141/copyright-original.jpg",
+          "original": "assets/LC-000141/copyright-original.jpg",
+          "sourceFilename": "IMG_20261028_200340.jpg",
+          "capturedAt": "2026-10-28T20:03:40+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "f5643fa57f35b4b34e0a43062f9a00e0fb069c9d5924a14356f91b370bfbe2b9",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 543290,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000141/copyright-preview-ad7942eb7f3b.webp"
+        }
+      ],
+      "condition": null,
+      "printing": "2023年1月第13次印刷"
+    },
+    {
+      "id": "LC-000142",
+      "title": "基督山伯爵Ⅰ",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "大仲马",
+          "country": "法国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "周克希"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "9787559427427",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "基督山伯爵（全三册）",
+      "seriesGroupId": "monte-cristo",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:07:27+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。 全三册ISBN与合价据第三册封底确认，价格仅计一次。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000142/front-original.jpg",
+          "original": "assets/LC-000142/front-original.jpg",
+          "sourceFilename": "IMG_20261028_200727.jpg",
+          "capturedAt": "2026-10-28T20:07:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2e3a56771db2b0ef723c637210f539c5235d5096f6867c6bb0b110c6d04f6329",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 842553,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000142/front-preview-c60522f669b2.webp",
+          "thumbnail": "assets/LC-000142/front-thumbnail-ed85bd73c8b7.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000142/front-small-5b6ad8574a12.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000142/front-thumbnail-ed85bd73c8b7.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000142/front-large-90397ec8c4a4.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000142/back-original.jpg",
+          "original": "assets/LC-000142/back-original.jpg",
+          "sourceFilename": "IMG_20261028_200738.jpg",
+          "capturedAt": "2026-10-28T20:07:38+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fb5bcdaec61ad7c6cc7e7a0c75611e2b306c235a1c362c69eb436e9bceeb5a47",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 816122,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000142/back-preview-617cdb251bd5.webp"
+        }
+      ],
+      "condition": null,
+      "physicalSetId": "monte-cristo",
+      "priceGroupId": "monte-cristo-price",
+      "isbnScope": "全三册套装ISBN，第三册封底确认"
+    },
+    {
+      "id": "LC-000143",
+      "title": "基督山伯爵Ⅱ",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "大仲马",
+          "country": "法国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "周克希"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "9787559427427",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "基督山伯爵（全三册）",
+      "seriesGroupId": "monte-cristo",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:07:52+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。 全三册ISBN与合价据第三册封底确认，价格仅计一次。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000143/front-original.jpg",
+          "original": "assets/LC-000143/front-original.jpg",
+          "sourceFilename": "IMG_20261028_200752.jpg",
+          "capturedAt": "2026-10-28T20:07:52+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0db0f373e1f0c304e398b18701d8a589ddd1713088eeffb78768648c6be9be22",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 900813,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000143/front-preview-5db1bc4691a9.webp",
+          "thumbnail": "assets/LC-000143/front-thumbnail-847b0786c850.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000143/front-small-3c4f2059315b.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000143/front-thumbnail-847b0786c850.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000143/front-large-d632fc169588.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000143/back-original.jpg",
+          "original": "assets/LC-000143/back-original.jpg",
+          "sourceFilename": "IMG_20261028_200801.jpg",
+          "capturedAt": "2026-10-28T20:08:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8a5d7e35ba122e8692378091b86b308b9b5d06c11cabf9c267d9c872b4a909fe",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 850184,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000143/back-preview-0297eec087d1.webp"
+        }
+      ],
+      "condition": null,
+      "physicalSetId": "monte-cristo",
+      "priceGroupId": "monte-cristo-price",
+      "isbnScope": "全三册套装ISBN，第三册封底确认"
+    },
+    {
+      "id": "LC-000144",
+      "title": "基督山伯爵Ⅲ",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "大仲马",
+          "country": "法国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "周克希"
+      ],
+      "publisher": "江苏凤凰文艺出版社",
+      "isbn": "9787559427427",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "基督山伯爵（全三册）",
+      "seriesGroupId": "monte-cristo",
+      "seriesNumber": 3,
+      "seriesLabel": "第3册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:08:12+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。 全三册ISBN与合价据第三册封底确认，价格仅计一次。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000144/front-original.jpg",
+          "original": "assets/LC-000144/front-original.jpg",
+          "sourceFilename": "IMG_20261028_200812.jpg",
+          "capturedAt": "2026-10-28T20:08:12+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "9275c24e39407e1249d128e274505d4c718b01f041fb49235d4bebe27e3e68d0",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 928068,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000144/front-preview-b80d9489e212.webp",
+          "thumbnail": "assets/LC-000144/front-thumbnail-1cb9ff1f7fff.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000144/front-small-75eb733521cf.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000144/front-thumbnail-1cb9ff1f7fff.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000144/front-large-b896d2491e82.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000144/back-original.jpg",
+          "original": "assets/LC-000144/back-original.jpg",
+          "sourceFilename": "IMG_20261028_200822.jpg",
+          "capturedAt": "2026-10-28T20:08:22+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "dc8beed5a2ae9e09f0862aa5b827eea1053321eefac2d165b6a380fe2b9130fb",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 802262,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000144/back-preview-ffc87568436e.webp"
+        }
+      ],
+      "condition": null,
+      "physicalSetId": "monte-cristo",
+      "priceGroupId": "monte-cristo-price",
+      "isbnScope": "全三册套装ISBN，第三册封底确认"
+    },
+    {
+      "id": "LC-000145",
+      "title": "飘（上）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "玛格丽特·米切尔",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "朱攸若"
+      ],
+      "publisher": "时代文艺出版社",
+      "isbn": "9787538755206",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "飘（上中下）",
+      "seriesGroupId": "gone-with-wind",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:09:13+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。 全三册ISBN与合价据第三册封底确认，价格仅计一次。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000145/front-original.jpg",
+          "original": "assets/LC-000145/front-original.jpg",
+          "sourceFilename": "IMG_20261028_200913.jpg",
+          "capturedAt": "2026-10-28T20:09:13+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "eb200d34c5631ec8e8a72d8eee336872e0800d7c0e69a87fd06bbbca317e5176",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 760203,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000145/front-preview-003663ad8500.webp",
+          "thumbnail": "assets/LC-000145/front-thumbnail-8cbf805a27f0.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000145/front-small-5d876ee04086.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000145/front-thumbnail-8cbf805a27f0.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000145/front-large-26d77f6a91a0.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000145/back-original.jpg",
+          "original": "assets/LC-000145/back-original.jpg",
+          "sourceFilename": "IMG_20261028_200923.jpg",
+          "capturedAt": "2026-10-28T20:09:23+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2378383ac4fbf4853c9631402f8690ff0edd214c5be8264afa372c49d1ba195a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 839297,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000145/back-preview-d5eddbcc8ef4.webp"
+        }
+      ],
+      "condition": null,
+      "physicalSetId": "gone-with-wind",
+      "priceGroupId": "gone-with-wind-price",
+      "isbnScope": "全三册套装ISBN，第三册封底确认"
+    },
+    {
+      "id": "LC-000146",
+      "title": "飘（中）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "玛格丽特·米切尔",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "朱攸若"
+      ],
+      "publisher": "时代文艺出版社",
+      "isbn": "9787538755206",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "飘（上中下）",
+      "seriesGroupId": "gone-with-wind",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:09:48+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。 全三册ISBN与合价据第三册封底确认，价格仅计一次。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000146/front-original.jpg",
+          "original": "assets/LC-000146/front-original.jpg",
+          "sourceFilename": "IMG_20261028_200948.jpg",
+          "capturedAt": "2026-10-28T20:09:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d847afb42fe2bc55b4a56b76fb5958659183c2b0164fed15525cc05e978d9843",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 798896,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000146/front-preview-76e48af1e605.webp",
+          "thumbnail": "assets/LC-000146/front-thumbnail-9d5817cd4cf3.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000146/front-small-ea478306bea6.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000146/front-thumbnail-9d5817cd4cf3.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000146/front-large-26a6a62a4dd1.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000146/back-original.jpg",
+          "original": "assets/LC-000146/back-original.jpg",
+          "sourceFilename": "IMG_20261028_200957.jpg",
+          "capturedAt": "2026-10-28T20:09:57+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "94f182090ca18e306c0ea302b97beb892aa2b298a1aa69df30f96e16cda2ed44",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 881861,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000146/back-preview-09188cab98ed.webp"
+        }
+      ],
+      "condition": null,
+      "physicalSetId": "gone-with-wind",
+      "priceGroupId": "gone-with-wind-price",
+      "isbnScope": "全三册套装ISBN，第三册封底确认"
+    },
+    {
+      "id": "LC-000147",
+      "title": "飘（下）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "玛格丽特·米切尔",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "朱攸若"
+      ],
+      "publisher": "时代文艺出版社",
+      "isbn": "9787538755206",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "飘（上中下）",
+      "seriesGroupId": "gone-with-wind",
+      "seriesNumber": 3,
+      "seriesLabel": "第3册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:10:07+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。 全三册ISBN与合价据第三册封底确认，价格仅计一次。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000147/front-original.jpg",
+          "original": "assets/LC-000147/front-original.jpg",
+          "sourceFilename": "IMG_20261028_201007.jpg",
+          "capturedAt": "2026-10-28T20:10:07+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8502a3bb174d84ea3ba5ce1ba074bf9b60ccb9dce2001c61b717b5494caed4a0",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 733399,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000147/front-preview-abef47e65e89.webp",
+          "thumbnail": "assets/LC-000147/front-thumbnail-226877445c0a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000147/front-small-71fc7c4dd5bb.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000147/front-thumbnail-226877445c0a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000147/front-large-d734f5cd13c1.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000147/back-original.jpg",
+          "original": "assets/LC-000147/back-original.jpg",
+          "sourceFilename": "IMG_20261028_201014.jpg",
+          "capturedAt": "2026-10-28T20:10:14+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1dc60aff51ac002571931292c832f83bc84d5f15f815e86eab672b25a8773415",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 649139,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000147/back-preview-e1c2c926b237.webp"
+        }
+      ],
+      "condition": null,
+      "physicalSetId": "gone-with-wind",
+      "priceGroupId": "gone-with-wind-price",
+      "isbnScope": "全三册套装ISBN，第三册封底确认"
+    },
+    {
+      "id": "LC-000148",
+      "title": "罪与罚（上）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "陀思妥耶夫斯基",
+          "country": "俄国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "曾思艺"
+      ],
+      "publisher": "西安交通大学出版社",
+      "isbn": "9787560576657",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "罪与罚（上下册）",
+      "seriesGroupId": "crime-punishment",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 32,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:10:39+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000148/front-original.jpg",
+          "original": "assets/LC-000148/front-original.jpg",
+          "sourceFilename": "IMG_20261028_201039.jpg",
+          "capturedAt": "2026-10-28T20:10:39+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "98d2b38790a5bdaf821f5fd9dae73b0918aec3c59d4556af8e40a577de0aa103",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 702342,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000148/front-preview-183a56f408af.webp",
+          "thumbnail": "assets/LC-000148/front-thumbnail-d2e02ef94444.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000148/front-small-e0c26abe3fba.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000148/front-thumbnail-d2e02ef94444.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000148/front-large-56a21830b668.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000148/back-original.jpg",
+          "original": "assets/LC-000148/back-original.jpg",
+          "sourceFilename": "IMG_20261028_201048.jpg",
+          "capturedAt": "2026-10-28T20:10:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8c5bb20dda24083f125006e41c4f7f652a8e05a72e6c0113c4bbf4d7719889b4",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 756187,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000148/back-preview-25a14e340304.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000149",
+      "title": "罪与罚（下）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "陀思妥耶夫斯基",
+          "country": "俄国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "曾思艺"
+      ],
+      "publisher": "西安交通大学出版社",
+      "isbn": "9787560576664",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "罪与罚（上下册）",
+      "seriesGroupId": "crime-punishment",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 30,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:11:06+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000149/front-original.jpg",
+          "original": "assets/LC-000149/front-original.jpg",
+          "sourceFilename": "IMG_20261028_201106.jpg",
+          "capturedAt": "2026-10-28T20:11:06+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "65ce44774c47dec5cff109893230d7b33a60f8a7b8abc67fdd198d8e44d6600f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 788803,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000149/front-preview-ae96cd56a46a.webp",
+          "thumbnail": "assets/LC-000149/front-thumbnail-3d7f4d7951ce.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000149/front-small-533950dca971.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000149/front-thumbnail-3d7f4d7951ce.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000149/front-large-249e29a8814f.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000149/back-original.jpg",
+          "original": "assets/LC-000149/back-original.jpg",
+          "sourceFilename": "IMG_20261028_201113.jpg",
+          "capturedAt": "2026-10-28T20:11:13+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e457d3cea5fe6002976fc5d332dd2929394bb3c4ab14f87b448f65990eb903b4",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 727170,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000149/back-preview-13df790c2c21.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000150",
+      "title": "长夜难明",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "紫金陈",
+          "country": null,
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "湖南文艺出版社",
+      "isbn": "9787572611971",
+      "category": "文学与小说",
+      "tags": [
+        "文学与小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": "修订新版",
+      "listPrice": 52,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-10-28T20:11:43+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、作者、译者及出版信息据实拍录入，未展示的版次印次及购买信息留空。",
+      "description": null,
+      "metadataSource": "用户上传的实体书正反面及补拍版权页",
+      "titleAliases": [],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000150/front-original.jpg",
+          "original": "assets/LC-000150/front-original.jpg",
+          "sourceFilename": "IMG_20261028_201143.jpg",
+          "capturedAt": "2026-10-28T20:11:43+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "6b5cea673e4be937c1a2971a3afb532678e3ad2409049c3bbec155d60fc4bee3",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1054535,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000150/front-preview-1e1f5a404c18.webp",
+          "thumbnail": "assets/LC-000150/front-thumbnail-1671d6c51151.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000150/front-small-22c91daa4b75.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000150/front-thumbnail-1671d6c51151.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000150/front-large-b79e3f745ad3.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000150/back-original.jpg",
+          "original": "assets/LC-000150/back-original.jpg",
+          "sourceFilename": "IMG_20261028_201158.jpg",
+          "capturedAt": "2026-10-28T20:11:58+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4c5f73d23df84bd185a6ad962b45c54a3106b021751d790e5d80eb51c84b5898",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 953147,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000150/back-preview-fd3c2fab4e07.webp"
+        }
+      ],
+      "condition": null
     }
   ],
   "seriesGroups": [
@@ -13086,6 +14800,34 @@
       "shortTitle": "三体",
       "kind": "三部曲",
       "description": "三册各自独立ISBN及封底定价，分别建档；未推定为同次购买。"
+    },
+    {
+      "id": "endless-world",
+      "title": "无尽世界（全三册）",
+      "shortTitle": "无尽世界",
+      "kind": "多册作品",
+      "description": "按已拍摄实体册分别建档，并按册序连续展示。"
+    },
+    {
+      "id": "monte-cristo",
+      "title": "基督山伯爵（全三册）",
+      "shortTitle": "基督山伯爵",
+      "kind": "多册作品",
+      "description": "按已拍摄实体册分别建档，并按册序连续展示。"
+    },
+    {
+      "id": "gone-with-wind",
+      "title": "飘（上中下）",
+      "shortTitle": "飘",
+      "kind": "多册作品",
+      "description": "按已拍摄实体册分别建档，并按册序连续展示。"
+    },
+    {
+      "id": "crime-punishment",
+      "title": "罪与罚（上下册）",
+      "shortTitle": "罪与罚",
+      "kind": "多册作品",
+      "description": "按已拍摄实体册分别建档，并按册序连续展示。"
     }
   ],
   "exchangeRates": {
@@ -13148,6 +14890,30 @@
         "LC-000089"
       ],
       "source": "下册封底明确标示198.00元（全二册）"
+    },
+    {
+      "id": "monte-cristo-price",
+      "label": "基督山伯爵（全三册）",
+      "amount": 168,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000142",
+        "LC-000143",
+        "LC-000144"
+      ],
+      "source": "第三册封底明确标示全三册定价，合计仅计一次"
+    },
+    {
+      "id": "gone-with-wind-price",
+      "label": "飘（上中下）",
+      "amount": 90,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000145",
+        "LC-000146",
+        "LC-000147"
+      ],
+      "source": "第三册封底明确标示全三册定价，合计仅计一次"
     }
   ],
   "categoryOrder": [
