@@ -1,26 +1,24 @@
-// A physical set can have individual records without individual cover photographs.
+// A complete physical set is one catalogue entry, with its true volume count.
 const fs=require('fs'),assert=require('assert'),{JSDOM}=require('jsdom');
 const root=require('path').resolve(__dirname,'../dist')+'/';
 const data=JSON.parse(fs.readFileSync(root+'data/books.json'));
-const group=data.seriesGroups.find(g=>g.id==='lotr-wenjing-illustrated');
-const members=data.books.filter(b=>b.photoGroupId===group.id);
-assert.equal(members.length,7);assert.equal(group.photos.length,3);
-assert(members.every(b=>b.photos.length===0),'shared photographs stored once');
-const originals=new Set([...data.books,...data.seriesGroups].flatMap(o=>(o.photos||[]).map(p=>p.original)));
+const set=data.books.find(b=>b.id==='LC-000127');
+assert.equal(set.volumeCount,7);assert.equal(set.photos.length,3);assert.equal(set.listPrice,628);
+assert.equal(set.accessionIds.length,7);assert.equal(data.books.filter(b=>b.physicalSetId===set.physicalSetId).length,1);
 const dom=new JSDOM(fs.readFileSync(root+'index.html','utf8'),{url:'https://example.test/#catalog',runScripts:'outside-only',pretendToBeVisual:true});
 const w=dom.window,d=w.document;w.fetch=async()=>({ok:true,json:async()=>data});w.scrollTo=()=>{};w.HTMLElement.prototype.scrollIntoView=()=>{};
 w.Image=class {set src(v){setTimeout(()=>this.onload?.(),0)}decode(){return Promise.resolve()}};
-const pause=()=>new Promise(r=>setTimeout(r,35));
+const pause=(ms=35)=>new Promise(r=>setTimeout(r,ms));
 w.eval(fs.readFileSync(root+'app.js','utf8'));
 (async()=>{
- await pause();
- for(const book of members){
-  const card=d.querySelector(`[data-book="${book.id}"] img`);assert(card);assert(card.alt.includes('所属套装实拍'));assert.equal(card.dataset.original,group.photos[0].original);
-  w.location.hash='book/'+book.id;await pause();
-  assert.equal(d.querySelectorAll('#detail-page [data-side]').length,3);assert(d.querySelector('#detail-photo').alt.includes('套装正面'));assert(d.querySelector('.full-bibliography').textContent.includes('同款套装参考定价'));assert(!d.querySelector('.full-bibliography').textContent.includes('封底定价'));
-  d.querySelector('[data-side="spines"]').click();await pause();assert.equal(d.querySelector('#detail-photo').dataset.original,group.photos[1].original);assert(d.querySelector('#detail-photo').alt.includes('整套书脊'));
- }
- w.location.hash='about';await pause();assert(d.querySelector('#about-page').textContent.includes(String(originals.size)));assert(members.every(b=>b.photos.length===0),'runtime must not mutate catalogue');
- const price=data.priceGroups.find(g=>g.id===members[0].priceGroupId);assert.equal(price.amount,628);assert.equal(price.bookIds.length,7);assert(members.every(b=>b.listPrice===null));
- console.log('PASS: seven physical records share three photographs, honest labels, working photo switches, unique image count and one set price; raw catalogue remains unchanged.');dom.window.close();
+ await pause();assert.equal(d.querySelector('#summary').textContent,'共 133 册');
+ const setCards=()=>[...d.querySelectorAll('.book-card')].filter(c=>c.textContent.includes('魔戒'));
+ assert.equal(setCards().length,1);assert(setCards()[0].textContent.includes('全7册'));assert(setCards()[0].querySelector('img').alt.includes('套装实拍'));
+ for(const sort of ['series','title','accession-desc']){d.querySelector('#sort').value=sort;d.querySelector('#sort').dispatchEvent(new w.Event('change'));assert.equal(setCards().length,1)}
+ const search=d.querySelector('#search');search.value='魔戒';search.dispatchEvent(new w.Event('input'));await pause(180);assert.equal(d.querySelectorAll('.book-card').length,1);assert.equal(d.querySelector('#results-status').textContent,'找到 7 册');
+ for(const id of set.accessionIds){w.location.hash='book/'+id;await pause();assert(d.querySelector('.detail-title').textContent.includes('全7册'));assert.equal(d.querySelectorAll('#detail-page [data-side]').length,3)}
+ d.querySelector('[data-side="spines"]').click();await pause();assert.equal(d.querySelector('#detail-photo').dataset.original,set.photos[1].original);
+ w.location.hash='timeline';await pause();assert.equal([...d.querySelectorAll('.timeline-entry')].filter(c=>c.textContent.includes('魔戒')).length,1);assert(d.querySelector('#timeline-page').textContent.includes('133 册'));
+ w.location.hash='about';await pause();assert(d.querySelector('#about-page').textContent.includes('133 册 · 262 张实拍'));
+ console.log('PASS: one complete-set card in all sorts and search; seven-volume totals; three photos switch; all seven old links resolve; timeline and about counts preserved.');dom.window.close();
 })().catch(e=>{console.error(e);dom.window.close();process.exitCode=1});

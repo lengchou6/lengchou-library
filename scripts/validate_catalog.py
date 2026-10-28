@@ -10,6 +10,13 @@ photo_groups = {g['id']:g for g in data.get('seriesGroups',[])}
 for book in data['books']:
     assert book['id'] not in seen, f"Duplicate accession: {book['id']}"
     seen.add(book['id'])
+    count=book.get('volumeCount',1)
+    assert isinstance(count,int) and count>=1
+    if book.get('accessionIds'):
+        assert len(book['accessionIds'])==count and book['accessionIds'][0]==book['id']
+        for accession in book['accessionIds'][1:]:
+            assert accession not in seen, f'Duplicate accession: {accession}'
+            seen.add(accession)
     if book.get('isbn'):
         digits=book['isbn'].replace('-','')
         if len(digits)==10:
@@ -39,7 +46,7 @@ for book in data['books']:
                 continue
             assert (ROOT/photo[key]).is_file(), f"Missing {photo[key]}"
     assert book.get('currency','CNY') in data.get('exchangeRates',{}).get('rates',{'CNY':1}), f"Missing FX rate: {book['id']}"
-print(f"Catalogue validated: {len(seen)} unique books, ISBN checksums and all photos OK.")
+print(f"Catalogue validated: {len(seen)} unique physical accessions, ISBN checksums and all photos OK.")
 
 from decimal import Decimal
 rates=data.get('exchangeRates',{}).get('rates',{'CNY':1})
