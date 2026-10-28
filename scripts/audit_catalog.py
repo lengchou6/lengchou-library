@@ -37,6 +37,7 @@ for b in data['books']:
         assert isinstance(b.get('seriesNumber'),int) and b['seriesNumber']>0
 report={
  'books':len(data['books']),
+ 'physicalVolumes':sum(b.get('volumeCount',1) for b in data['books']),
  'originalPhotos':sum(len(b['photos']) for b in data['books'])+sum(len(g.get('photos',[])) for g in data.get('seriesGroups',[])),
  'booksWithoutISBN':[b['id'] for b in data['books'] if not b.get('isbn')],
  'seriesGroups':len(groups),

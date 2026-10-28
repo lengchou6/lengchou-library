@@ -12762,8 +12762,8 @@
     },
     {
       "id": "LC-000127",
-      "title": "魔戒（第1卷）",
-      "subtitle": null,
+      "title": "魔戒",
+      "subtitle": "精装插图典藏版（全7册）",
       "authors": [
         {
           "name": "J.R.R.托尔金",
@@ -12795,16 +12795,16 @@
       ],
       "language": "zh-Hans",
       "languageLabel": "中文",
-      "series": "魔戒：文景精装插图典藏版（全7册）",
-      "seriesGroupId": "lotr-wenjing-illustrated",
-      "seriesNumber": 1,
-      "seriesLabel": "第1卷",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
       "purchaseGroupId": null,
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
       "coverEditionLabel": "文景精装插图典藏版",
-      "listPrice": null,
+      "listPrice": 628,
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
@@ -12812,464 +12812,99 @@
       "accessionedAt": "2026-10-28T00:09:16+08:00",
       "readingStatus": null,
       "location": null,
-      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
-      "description": "《魔戒》文景精装插图典藏版的第1卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
+      "notes": "文景精装插图典藏版全7册（第1至6卷、附录）按整套建档，展示套装正面、整套书脊和函套内侧3张实拍。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
+      "description": "托尔金《魔戒》文景精装插图典藏版，六卷正文及一册附录，共7册，按一套收藏展示。",
       "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
       "titleAliases": [
         "指环王",
         "The Lord of the Rings"
       ],
-      "photos": [],
-      "condition": null,
-      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
-      "physicalSetId": "lotr-wenjing-illustrated",
-      "photoGroupId": "lotr-wenjing-illustrated",
-      "priceGroupId": "lotr-wenjing-illustrated-price",
-      "priceSourceLabel": "同款套装参考定价",
-      "referenceSources": [
+      "photos": [
         {
-          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
-          "url": "https://www.sanmin.com.tw/product/index/009526533"
-        }
-      ]
-    },
-    {
-      "id": "LC-000128",
-      "title": "魔戒（第2卷）",
-      "subtitle": null,
-      "authors": [
-        {
-          "name": "J.R.R.托尔金",
-          "country": "英国",
-          "role": "著",
-          "originalName": "J.R.R. Tolkien"
+          "side": "front",
+          "label": "套装正面",
+          "file": "assets/lotr-wenjing-illustrated/front-original.jpg",
+          "original": "assets/lotr-wenjing-illustrated/front-original.jpg",
+          "sourceFilename": "IMG_20261028_000916.jpg",
+          "capturedAt": "2026-10-28T00:09:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "57ad2be305b9d458b1bd5f9193dbcdcdcf1927004c87b62400dce484b0b0561d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1224593,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/lotr-wenjing-illustrated/front-preview-77df38efcf8a.webp",
+          "thumbnail": "assets/lotr-wenjing-illustrated/front-thumbnail-3a789c69e5bd.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/lotr-wenjing-illustrated/front-small-168872d8cd6b.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/lotr-wenjing-illustrated/front-thumbnail-3a789c69e5bd.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/lotr-wenjing-illustrated/front-large-25451deb7fde.webp"
+            }
+          ]
         },
         {
-          "name": "艾伦·李",
-          "country": "英国",
-          "role": "图",
-          "originalName": "Alan Lee"
-        }
-      ],
-      "translators": [
-        "邓嘉宛",
-        "石中歌",
-        "杜蕴慈"
-      ],
-      "publisher": "上海人民出版社",
-      "isbn": "978-7-208-16671-4",
-      "category": "文学与小说",
-      "tags": [
-        "文学与小说",
-        "奇幻"
-      ],
-      "usageTags": [
-        "休闲阅读"
-      ],
-      "language": "zh-Hans",
-      "languageLabel": "中文",
-      "series": "魔戒：文景精装插图典藏版（全7册）",
-      "seriesGroupId": "lotr-wenjing-illustrated",
-      "seriesNumber": 2,
-      "seriesLabel": "第2卷",
-      "purchaseGroupId": null,
-      "orientation": "portrait",
-      "publicationDate": null,
-      "edition": null,
-      "coverEditionLabel": "文景精装插图典藏版",
-      "listPrice": null,
-      "paidPrice": null,
-      "currency": "CNY",
-      "purchaseDate": null,
-      "purchaseChannel": null,
-      "accessionedAt": "2026-10-28T00:09:16+08:00",
-      "readingStatus": null,
-      "location": null,
-      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
-      "description": "《魔戒》文景精装插图典藏版的第2卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
-      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
-      "titleAliases": [
-        "指环王",
-        "The Lord of the Rings"
-      ],
-      "photos": [],
-      "condition": null,
-      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
-      "physicalSetId": "lotr-wenjing-illustrated",
-      "photoGroupId": "lotr-wenjing-illustrated",
-      "priceGroupId": "lotr-wenjing-illustrated-price",
-      "priceSourceLabel": "同款套装参考定价",
-      "referenceSources": [
-        {
-          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
-          "url": "https://www.sanmin.com.tw/product/index/009526533"
-        }
-      ]
-    },
-    {
-      "id": "LC-000129",
-      "title": "魔戒（第3卷）",
-      "subtitle": null,
-      "authors": [
-        {
-          "name": "J.R.R.托尔金",
-          "country": "英国",
-          "role": "著",
-          "originalName": "J.R.R. Tolkien"
+          "side": "spines",
+          "label": "整套书脊",
+          "file": "assets/lotr-wenjing-illustrated/spines-original.jpg",
+          "original": "assets/lotr-wenjing-illustrated/spines-original.jpg",
+          "sourceFilename": "IMG_20261028_000841.jpg",
+          "capturedAt": "2026-10-28T00:08:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "eabdbb0725d7b33edd56596b063983b83c395ae0606317ef259b95a5362b7957",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1214802,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/lotr-wenjing-illustrated/spines-preview-25352c938f61.webp"
         },
         {
-          "name": "艾伦·李",
-          "country": "英国",
-          "role": "图",
-          "originalName": "Alan Lee"
+          "side": "inside",
+          "label": "函套内侧",
+          "file": "assets/lotr-wenjing-illustrated/inside-original.jpg",
+          "original": "assets/lotr-wenjing-illustrated/inside-original.jpg",
+          "sourceFilename": "IMG_20261028_002703.jpg",
+          "capturedAt": "2026-10-28T00:27:03+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fbd184df5a1d3fd46b2344a21cfd4819a205b39fd19388a8191f56b19c22c09a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 572048,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/lotr-wenjing-illustrated/inside-preview-1355bdd5f81b.webp"
         }
       ],
-      "translators": [
-        "邓嘉宛",
-        "石中歌",
-        "杜蕴慈"
-      ],
-      "publisher": "上海人民出版社",
-      "isbn": "978-7-208-16671-4",
-      "category": "文学与小说",
-      "tags": [
-        "文学与小说",
-        "奇幻"
-      ],
-      "usageTags": [
-        "休闲阅读"
-      ],
-      "language": "zh-Hans",
-      "languageLabel": "中文",
-      "series": "魔戒：文景精装插图典藏版（全7册）",
-      "seriesGroupId": "lotr-wenjing-illustrated",
-      "seriesNumber": 3,
-      "seriesLabel": "第3卷",
-      "purchaseGroupId": null,
-      "orientation": "portrait",
-      "publicationDate": null,
-      "edition": null,
-      "coverEditionLabel": "文景精装插图典藏版",
-      "listPrice": null,
-      "paidPrice": null,
-      "currency": "CNY",
-      "purchaseDate": null,
-      "purchaseChannel": null,
-      "accessionedAt": "2026-10-28T00:09:16+08:00",
-      "readingStatus": null,
-      "location": null,
-      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
-      "description": "《魔戒》文景精装插图典藏版的第3卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
-      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
-      "titleAliases": [
-        "指环王",
-        "The Lord of the Rings"
-      ],
-      "photos": [],
       "condition": null,
       "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
       "physicalSetId": "lotr-wenjing-illustrated",
-      "photoGroupId": "lotr-wenjing-illustrated",
-      "priceGroupId": "lotr-wenjing-illustrated-price",
       "priceSourceLabel": "同款套装参考定价",
       "referenceSources": [
         {
           "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
           "url": "https://www.sanmin.com.tw/product/index/009526533"
         }
-      ]
-    },
-    {
-      "id": "LC-000130",
-      "title": "魔戒（第4卷）",
-      "subtitle": null,
-      "authors": [
-        {
-          "name": "J.R.R.托尔金",
-          "country": "英国",
-          "role": "著",
-          "originalName": "J.R.R. Tolkien"
-        },
-        {
-          "name": "艾伦·李",
-          "country": "英国",
-          "role": "图",
-          "originalName": "Alan Lee"
-        }
       ],
-      "translators": [
-        "邓嘉宛",
-        "石中歌",
-        "杜蕴慈"
+      "volumeCount": 7,
+      "accessionIds": [
+        "LC-000127",
+        "LC-000128",
+        "LC-000129",
+        "LC-000130",
+        "LC-000131",
+        "LC-000132",
+        "LC-000133"
       ],
-      "publisher": "上海人民出版社",
-      "isbn": "978-7-208-16671-4",
-      "category": "文学与小说",
-      "tags": [
-        "文学与小说",
-        "奇幻"
-      ],
-      "usageTags": [
-        "休闲阅读"
-      ],
-      "language": "zh-Hans",
-      "languageLabel": "中文",
-      "series": "魔戒：文景精装插图典藏版（全7册）",
-      "seriesGroupId": "lotr-wenjing-illustrated",
-      "seriesNumber": 4,
-      "seriesLabel": "第4卷",
-      "purchaseGroupId": null,
-      "orientation": "portrait",
-      "publicationDate": null,
-      "edition": null,
-      "coverEditionLabel": "文景精装插图典藏版",
-      "listPrice": null,
-      "paidPrice": null,
-      "currency": "CNY",
-      "purchaseDate": null,
-      "purchaseChannel": null,
-      "accessionedAt": "2026-10-28T00:09:16+08:00",
-      "readingStatus": null,
-      "location": null,
-      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
-      "description": "《魔戒》文景精装插图典藏版的第4卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
-      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
-      "titleAliases": [
-        "指环王",
-        "The Lord of the Rings"
-      ],
-      "photos": [],
-      "condition": null,
-      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
-      "physicalSetId": "lotr-wenjing-illustrated",
-      "photoGroupId": "lotr-wenjing-illustrated",
-      "priceGroupId": "lotr-wenjing-illustrated-price",
-      "priceSourceLabel": "同款套装参考定价",
-      "referenceSources": [
-        {
-          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
-          "url": "https://www.sanmin.com.tw/product/index/009526533"
-        }
-      ]
-    },
-    {
-      "id": "LC-000131",
-      "title": "魔戒（第5卷）",
-      "subtitle": null,
-      "authors": [
-        {
-          "name": "J.R.R.托尔金",
-          "country": "英国",
-          "role": "著",
-          "originalName": "J.R.R. Tolkien"
-        },
-        {
-          "name": "艾伦·李",
-          "country": "英国",
-          "role": "图",
-          "originalName": "Alan Lee"
-        }
-      ],
-      "translators": [
-        "邓嘉宛",
-        "石中歌",
-        "杜蕴慈"
-      ],
-      "publisher": "上海人民出版社",
-      "isbn": "978-7-208-16671-4",
-      "category": "文学与小说",
-      "tags": [
-        "文学与小说",
-        "奇幻"
-      ],
-      "usageTags": [
-        "休闲阅读"
-      ],
-      "language": "zh-Hans",
-      "languageLabel": "中文",
-      "series": "魔戒：文景精装插图典藏版（全7册）",
-      "seriesGroupId": "lotr-wenjing-illustrated",
-      "seriesNumber": 5,
-      "seriesLabel": "第5卷",
-      "purchaseGroupId": null,
-      "orientation": "portrait",
-      "publicationDate": null,
-      "edition": null,
-      "coverEditionLabel": "文景精装插图典藏版",
-      "listPrice": null,
-      "paidPrice": null,
-      "currency": "CNY",
-      "purchaseDate": null,
-      "purchaseChannel": null,
-      "accessionedAt": "2026-10-28T00:09:16+08:00",
-      "readingStatus": null,
-      "location": null,
-      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
-      "description": "《魔戒》文景精装插图典藏版的第5卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
-      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
-      "titleAliases": [
-        "指环王",
-        "The Lord of the Rings"
-      ],
-      "photos": [],
-      "condition": null,
-      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
-      "physicalSetId": "lotr-wenjing-illustrated",
-      "photoGroupId": "lotr-wenjing-illustrated",
-      "priceGroupId": "lotr-wenjing-illustrated-price",
-      "priceSourceLabel": "同款套装参考定价",
-      "referenceSources": [
-        {
-          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
-          "url": "https://www.sanmin.com.tw/product/index/009526533"
-        }
-      ]
-    },
-    {
-      "id": "LC-000132",
-      "title": "魔戒（第6卷）",
-      "subtitle": null,
-      "authors": [
-        {
-          "name": "J.R.R.托尔金",
-          "country": "英国",
-          "role": "著",
-          "originalName": "J.R.R. Tolkien"
-        },
-        {
-          "name": "艾伦·李",
-          "country": "英国",
-          "role": "图",
-          "originalName": "Alan Lee"
-        }
-      ],
-      "translators": [
-        "邓嘉宛",
-        "石中歌",
-        "杜蕴慈"
-      ],
-      "publisher": "上海人民出版社",
-      "isbn": "978-7-208-16671-4",
-      "category": "文学与小说",
-      "tags": [
-        "文学与小说",
-        "奇幻"
-      ],
-      "usageTags": [
-        "休闲阅读"
-      ],
-      "language": "zh-Hans",
-      "languageLabel": "中文",
-      "series": "魔戒：文景精装插图典藏版（全7册）",
-      "seriesGroupId": "lotr-wenjing-illustrated",
-      "seriesNumber": 6,
-      "seriesLabel": "第6卷",
-      "purchaseGroupId": null,
-      "orientation": "portrait",
-      "publicationDate": null,
-      "edition": null,
-      "coverEditionLabel": "文景精装插图典藏版",
-      "listPrice": null,
-      "paidPrice": null,
-      "currency": "CNY",
-      "purchaseDate": null,
-      "purchaseChannel": null,
-      "accessionedAt": "2026-10-28T00:09:16+08:00",
-      "readingStatus": null,
-      "location": null,
-      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
-      "description": "《魔戒》文景精装插图典藏版的第6卷。托尔金中洲奇幻史诗，围绕护戒旅程与各族命运展开。",
-      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
-      "titleAliases": [
-        "指环王",
-        "The Lord of the Rings"
-      ],
-      "photos": [],
-      "condition": null,
-      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
-      "physicalSetId": "lotr-wenjing-illustrated",
-      "photoGroupId": "lotr-wenjing-illustrated",
-      "priceGroupId": "lotr-wenjing-illustrated-price",
-      "priceSourceLabel": "同款套装参考定价",
-      "referenceSources": [
-        {
-          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
-          "url": "https://www.sanmin.com.tw/product/index/009526533"
-        }
-      ]
-    },
-    {
-      "id": "LC-000133",
-      "title": "魔戒（附录）",
-      "subtitle": null,
-      "authors": [
-        {
-          "name": "J.R.R.托尔金",
-          "country": "英国",
-          "role": "著",
-          "originalName": "J.R.R. Tolkien"
-        },
-        {
-          "name": "艾伦·李",
-          "country": "英国",
-          "role": "图",
-          "originalName": "Alan Lee"
-        }
-      ],
-      "translators": [
-        "邓嘉宛",
-        "石中歌",
-        "杜蕴慈"
-      ],
-      "publisher": "上海人民出版社",
-      "isbn": "978-7-208-16671-4",
-      "category": "文学与小说",
-      "tags": [
-        "文学与小说",
-        "奇幻"
-      ],
-      "usageTags": [
-        "休闲阅读"
-      ],
-      "language": "zh-Hans",
-      "languageLabel": "中文",
-      "series": "魔戒：文景精装插图典藏版（全7册）",
-      "seriesGroupId": "lotr-wenjing-illustrated",
-      "seriesNumber": 7,
-      "seriesLabel": "附录",
-      "purchaseGroupId": null,
-      "orientation": "portrait",
-      "publicationDate": null,
-      "edition": null,
-      "coverEditionLabel": "文景精装插图典藏版",
-      "listPrice": null,
-      "paidPrice": null,
-      "currency": "CNY",
-      "purchaseDate": null,
-      "purchaseChannel": null,
-      "accessionedAt": "2026-10-28T00:09:16+08:00",
-      "readingStatus": null,
-      "location": null,
-      "notes": "据整套书脊确认六卷正文与附录共7册，逐册建档。仅有套装正面、整套书脊和函套内侧照片，共享展示，不代表单册封面。作者、绘者、译者与出版社据套装正面；套装ISBN与628元参考定价据三民书店同款资料补录，整套仅计一次。具体版次印次、单册ISBN及实付价格未核实。",
-      "description": "《魔戒》文景精装插图典藏版的附录。收录故事背景与相关补充资料。",
-      "metadataSource": "用户套装实拍及用户授权查询的同款公开资料",
-      "titleAliases": [
-        "指环王",
-        "The Lord of the Rings"
-      ],
-      "photos": [],
-      "condition": null,
-      "isbnScope": "全7册套装ISBN；同款公开资料补录，未核实本套版权页",
-      "physicalSetId": "lotr-wenjing-illustrated",
-      "photoGroupId": "lotr-wenjing-illustrated",
-      "priceGroupId": "lotr-wenjing-illustrated-price",
-      "priceSourceLabel": "同款套装参考定价",
-      "referenceSources": [
-        {
-          "label": "三民书店：同款7册ISBN与人民币定价（外部补录）",
-          "url": "https://www.sanmin.com.tw/product/index/009526533"
-        }
-      ]
+      "photoScope": "set"
     }
   ],
   "seriesGroups": [
@@ -13451,78 +13086,6 @@
       "shortTitle": "三体",
       "kind": "三部曲",
       "description": "三册各自独立ISBN及封底定价，分别建档；未推定为同次购买。"
-    },
-    {
-      "id": "lotr-wenjing-illustrated",
-      "title": "魔戒：文景精装插图典藏版（全7册）",
-      "shortTitle": "魔戒",
-      "kind": "全7册套装",
-      "description": "六卷正文与一册附录分别建档，共用套装实拍；没有单册封面照片。套装ISBN与628元参考定价据同款公开资料补录，未核实本套版权页或实付金额。",
-      "photos": [
-        {
-          "side": "front",
-          "label": "套装正面",
-          "file": "assets/lotr-wenjing-illustrated/front-original.jpg",
-          "original": "assets/lotr-wenjing-illustrated/front-original.jpg",
-          "sourceFilename": "IMG_20261028_000916.jpg",
-          "capturedAt": "2026-10-28T00:09:16+08:00",
-          "timePrecision": "second",
-          "timeSource": "文件名精确至秒，照片水印核对至分钟",
-          "sha256": "57ad2be305b9d458b1bd5f9193dbcdcdcf1927004c87b62400dce484b0b0561d",
-          "width": 1416,
-          "height": 2048,
-          "receivedBytes": 1224593,
-          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
-          "preview": "assets/lotr-wenjing-illustrated/front-preview-77df38efcf8a.webp",
-          "thumbnail": "assets/lotr-wenjing-illustrated/front-thumbnail-3a789c69e5bd.webp",
-          "sources": [
-            {
-              "width": 320,
-              "path": "assets/lotr-wenjing-illustrated/front-small-168872d8cd6b.webp"
-            },
-            {
-              "width": 480,
-              "path": "assets/lotr-wenjing-illustrated/front-thumbnail-3a789c69e5bd.webp"
-            },
-            {
-              "width": 720,
-              "path": "assets/lotr-wenjing-illustrated/front-large-25451deb7fde.webp"
-            }
-          ]
-        },
-        {
-          "side": "spines",
-          "label": "整套书脊",
-          "file": "assets/lotr-wenjing-illustrated/spines-original.jpg",
-          "original": "assets/lotr-wenjing-illustrated/spines-original.jpg",
-          "sourceFilename": "IMG_20261028_000841.jpg",
-          "capturedAt": "2026-10-28T00:08:41+08:00",
-          "timePrecision": "second",
-          "timeSource": "文件名精确至秒，照片水印核对至分钟",
-          "sha256": "eabdbb0725d7b33edd56596b063983b83c395ae0606317ef259b95a5362b7957",
-          "width": 1416,
-          "height": 2048,
-          "receivedBytes": 1214802,
-          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
-          "preview": "assets/lotr-wenjing-illustrated/spines-preview-25352c938f61.webp"
-        },
-        {
-          "side": "inside",
-          "label": "函套内侧",
-          "file": "assets/lotr-wenjing-illustrated/inside-original.jpg",
-          "original": "assets/lotr-wenjing-illustrated/inside-original.jpg",
-          "sourceFilename": "IMG_20261028_002703.jpg",
-          "capturedAt": "2026-10-28T00:27:03+08:00",
-          "timePrecision": "second",
-          "timeSource": "文件名精确至秒，照片水印核对至分钟",
-          "sha256": "fbd184df5a1d3fd46b2344a21cfd4819a205b39fd19388a8191f56b19c22c09a",
-          "width": 1416,
-          "height": 2048,
-          "receivedBytes": 572048,
-          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
-          "preview": "assets/lotr-wenjing-illustrated/inside-preview-1355bdd5f81b.webp"
-        }
-      ]
     }
   ],
   "exchangeRates": {
@@ -13585,22 +13148,6 @@
         "LC-000089"
       ],
       "source": "下册封底明确标示198.00元（全二册）"
-    },
-    {
-      "id": "lotr-wenjing-illustrated-price",
-      "label": "魔戒：文景精装插图典藏版（全7册）",
-      "amount": 628,
-      "currency": "CNY",
-      "bookIds": [
-        "LC-000127",
-        "LC-000128",
-        "LC-000129",
-        "LC-000130",
-        "LC-000131",
-        "LC-000132",
-        "LC-000133"
-      ],
-      "source": "三民书店同款7册商品资料：人民币定价628元；不是本套封底核验或实付价格"
     }
   ],
   "categoryOrder": [
