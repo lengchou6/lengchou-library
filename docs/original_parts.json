@@ -802,5 +802,209 @@
         "sha256": "57e6b249858dddc0de2b0e90692b4267cbe84316c46ed2c0c2e4ee30f401eced"
       }
     ]
+  },
+  {
+    "original": "dist/assets/LC-000191/back-original.jpg",
+    "size": 915045,
+    "sha256": "b118018c09954616742234f91cd317d7a86470ab1f24da360b7464fe2c874b80",
+    "parts": [
+      {
+        "path": "source-assets/LC-000191/back-original.part01",
+        "size": 600000,
+        "sha256": "f3a130da53056ee29c3b7fe986e3816b6c83ab739e10637668d20f4ce55be3f6"
+      },
+      {
+        "path": "source-assets/LC-000191/back-original.part02",
+        "size": 315045,
+        "sha256": "02294f52a983b8dec4d01206beaccf706a875088531e64b7743c8dad0150aa44"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000192/back-original.jpg",
+    "size": 924694,
+    "sha256": "4e177246ad8ea291b0b42ea14f124c89a6491de09669c8592d6e12b290c46078",
+    "parts": [
+      {
+        "path": "source-assets/LC-000192/back-original.part01",
+        "size": 600000,
+        "sha256": "3feda47160245f2549daa38dee48fa0232161cf24200ccec1522c50080ac6eb4"
+      },
+      {
+        "path": "source-assets/LC-000192/back-original.part02",
+        "size": 324694,
+        "sha256": "882f844b26a63a026e1881ee89aedd3b21f2e06fdc9776f18f7b06d05c04ffe3"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000193/back-original.jpg",
+    "size": 908146,
+    "sha256": "5a248bff7b299c3c30e70030dce62587f31ae212a055cb50d03e43bc98270faf",
+    "parts": [
+      {
+        "path": "source-assets/LC-000193/back-original.part01",
+        "size": 600000,
+        "sha256": "e6d97a46be782faab99e43b0513407d54b44d4d337ceab98e4435a47f2c4c34e"
+      },
+      {
+        "path": "source-assets/LC-000193/back-original.part02",
+        "size": 308146,
+        "sha256": "9022e422f2038cd34f3152c6b35adb90360c948ef4523a281caa6f8ea8b83b95"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000196/back-original.jpg",
+    "size": 900588,
+    "sha256": "cf6ca85c552b7e793ccf35de3f626b9582b4c766bc165934dbe2a8a3edcd73dd",
+    "parts": [
+      {
+        "path": "source-assets/LC-000196/back-original.part01",
+        "size": 600000,
+        "sha256": "7c39f29f471679ba90578fe83cec4640d077adf57e58bbd26b9936556486906c"
+      },
+      {
+        "path": "source-assets/LC-000196/back-original.part02",
+        "size": 300588,
+        "sha256": "8e4dac1bdb2dfc7702e73f19a88e2b4eff717a904a60e4dc266cb797a1160cd3"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000197/back-original.jpg",
+    "size": 919336,
+    "sha256": "c13880afd96c9c24d00023342d0b035ece4e90c7e950997cc67740423ba6d7de",
+    "parts": [
+      {
+        "path": "source-assets/LC-000197/back-original.part01",
+        "size": 600000,
+        "sha256": "bee3e03c561dd75181bac3ccb19aba2b1409abbae2cc0d16b78ba10b1d492681"
+      },
+      {
+        "path": "source-assets/LC-000197/back-original.part02",
+        "size": 319336,
+        "sha256": "3863410e33148ba18a6fa355db1ced25f552ed7f6dbbfe92e74cc8781062a15e"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000199/back-original.jpg",
+    "size": 901085,
+    "sha256": "b9f53d6a63f44b54f8ee85ad5dbe10612f4592a4ddb992bd6e38fb38ac440a95",
+    "parts": [
+      {
+        "path": "source-assets/LC-000199/back-original.part01",
+        "size": 600000,
+        "sha256": "f7f6e5a6c0dff38e6aff172d68310bb70470e23e8d9ce2c78a0d191805efbb71"
+      },
+      {
+        "path": "source-assets/LC-000199/back-original.part02",
+        "size": 301085,
+        "sha256": "68fa94fbd4c5ce04f9b74e44acba61b0cc5cd706e26e37f30e6917e7216b4c50"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000200/back-original.jpg",
+    "size": 910683,
+    "sha256": "04bc5abaf9e12edd19639f41b88541f47d073e1bfbc484c76571b7cdf139bf4a",
+    "parts": [
+      {
+        "path": "source-assets/LC-000200/back-original.part01",
+        "size": 600000,
+        "sha256": "4d6e18369b94939289b53c2dcf7ff2f503aefe9a8430bca60075eb6b0a922c6e"
+      },
+      {
+        "path": "source-assets/LC-000200/back-original.part02",
+        "size": 310683,
+        "sha256": "e5d32384722f7b1506bdd2f7307246c6fded56b506fe77a198f99c92ecfe3769"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000194/back-original.jpg",
+    "size": 949715,
+    "sha256": "b5d247f45156c8333b4d4493aada3413968b180da4d6efe7576a792936ef2c84",
+    "parts": [
+      {
+        "path": "source-assets/LC-000194/back-original.part01",
+        "size": 600000,
+        "sha256": "636ebf9416ba042a9bd958cfc76d25f962f74981fef591a548d4249b6a81524b"
+      },
+      {
+        "path": "source-assets/LC-000194/back-original.part02",
+        "size": 349715,
+        "sha256": "15843a8f42443fb524d2c97e5656f4b8c1523b185c477134ce7d761a577fd45f"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000195/back-original.jpg",
+    "size": 904192,
+    "sha256": "3eeafc73048a6c9f3c38ca3c6343cfd48cda0382589668a0520596cebd7f8719",
+    "parts": [
+      {
+        "path": "source-assets/LC-000195/back-original.part01",
+        "size": 600000,
+        "sha256": "deeecd096091bfc84f84e56540d4e7ad3e3ff0ffa56c8f55124a9685dc84d517"
+      },
+      {
+        "path": "source-assets/LC-000195/back-original.part02",
+        "size": 304192,
+        "sha256": "c7a370479be4194f184ef8b534bc03727f9a9cd7a3819dba421af5a4bdfa89fb"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000201/back-original.jpg",
+    "size": 916988,
+    "sha256": "97e3434bfde2e961a12dba571e4bd8721c2821473c14541bea6897279f5635f7",
+    "parts": [
+      {
+        "path": "source-assets/LC-000201/back-original.part01",
+        "size": 600000,
+        "sha256": "5953a8fa74a56bb62263bb6c0a8982d3c8497c37e2befdf7f3bf912bb1b5fe81"
+      },
+      {
+        "path": "source-assets/LC-000201/back-original.part02",
+        "size": 316988,
+        "sha256": "92bf1fda765070bb3a5f45e8dd18a25642740dcabf69e4dcda9e7032b939da50"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000202/back-original.jpg",
+    "size": 922752,
+    "sha256": "21be6c05717a65243e948595c858a021583ac51deb1416f1c9039d77e1d67958",
+    "parts": [
+      {
+        "path": "source-assets/LC-000202/back-original.part01",
+        "size": 600000,
+        "sha256": "a862081c4e2e06c8918ab5190d9431b36faa660812c5e5cd6c4261f19d782584"
+      },
+      {
+        "path": "source-assets/LC-000202/back-original.part02",
+        "size": 322752,
+        "sha256": "490ff3d4459cbb2d486623c9ac621a6ee823a4ce408fe77eef2390dc68356102"
+      }
+    ]
+  },
+  {
+    "original": "dist/assets/LC-000206/front-original.jpg",
+    "size": 905001,
+    "sha256": "bb2f5e07cea792d695e4cbfb1dd147595076daf17a826183732a8568335d038d",
+    "parts": [
+      {
+        "path": "source-assets/LC-000206/front-original.part01",
+        "size": 600000,
+        "sha256": "aa09d33749b7c79079d037c5cafcde8f68b8a43cf4e09e55d441183473b09d19"
+      },
+      {
+        "path": "source-assets/LC-000206/front-original.part02",
+        "size": 305001,
+        "sha256": "412b7ef59b8d3086a52979d7b1ab9931bd4b0221c5f83d00e036aea625c31cdc"
+      }
+    ]
   }
 ]
