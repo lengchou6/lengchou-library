@@ -55,6 +55,7 @@ raw_total=sum(Decimal(str(b['listPrice']))*Decimal(str(rates[b['currency']])) fo
 price_groups={g['id']:g for g in data.get('priceGroups',[])}
 for g in price_groups.values():
     assert set(g['bookIds']) <= seen
+    if g.get('volumeCount') is not None: assert isinstance(g['volumeCount'],int) and g['volumeCount']>=len(g['bookIds']), 'Invalid price scope'
     assert g['amount']>=0 and g['currency'] in rates
     raw_total+=Decimal(str(g['amount']))*Decimal(str(rates[g['currency']]))
 for book in data['books']:

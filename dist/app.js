@@ -10,7 +10,7 @@
   const priceAmount = book => book.listPrice ?? priceGroup(book)?.amount ?? null;
   const converted = book => priceAmount(book)==null || exchangeRates.rates[book.currency || 'CNY']==null ? null : priceAmount(book)*exchangeRates.rates[book.currency || 'CNY'];
   const sumCny = items => {const seen=new Set();return items.reduce((sum,b)=>{const key=b.priceGroupId || b.id;if(seen.has(key))return sum;seen.add(key);return sum+(converted(b) ?? 0);},0);};
-  const priceText = book => priceAmount(book)==null ? '未填写' : money(priceAmount(book),book.currency)+(book.priceGroupId?`（全 ${priceGroup(book).bookIds.length} 册合价，仅计一次）`:'')+(book.currency && book.currency!=='CNY' ? (converted(book)==null?' · 暂无折算汇率':` · 约 ${money(converted(book))}`) : '');
+  const priceText = book => priceAmount(book)==null ? '未填写' : money(priceAmount(book),book.currency)+(book.priceGroupId?`（全 ${(priceGroup(book).volumeCount || priceGroup(book).bookIds.length)} 册合价，仅计一次）`:'')+(book.currency && book.currency!=='CNY' ? (converted(book)==null?' · 暂无折算汇率':` · 约 ${money(converted(book))}`) : '');
   const isForeign=book=>book.language && !book.language.startsWith('zh');
   const titleAttrs = book => isForeign(book) ? ` class="foreign-title" lang="${esc(book.language)}"` : '';
   const secondaryTitle = book => book.referenceTitle ? book.referenceTitle : book.subtitle || '　';
@@ -365,7 +365,7 @@
   let resizeTimer;window.addEventListener('resize',()=>{if(dialog.open)setZoom(zoom);clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>{if(books.length&&columnCount()!==renderedColumns)renderCollection();},100);});
   window.addEventListener('popstate',()=>{if(books.length){readQuery();categories();renderCollection();}});
   document.addEventListener('keydown',event=>{if(event.key==='/'&&!dialog.open&&!$('#catalog-page').hidden&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){event.preventDefault();$('#search').focus();}});
-  fetch('data/books.json?v=20261101-books-1547',{cache:'no-cache'}).then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
+  fetch('data/books.json?v=20261101-books-1611',{cache:'no-cache'}).then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
     priceGroups=data.priceGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};categoryOrder=data.categoryOrder || [];seriesGroups=data.seriesGroups || [];books=data.books.map(book=>({...book,photos:book.photoGroupId?(seriesGroups.find(g=>g.id===book.photoGroupId)?.photos || []):book.photos}));$('#summary').textContent=`共 ${volumeCount(books)} 册`;
     books.forEach(b=>{const normal=[fullTitle(b),b.originalTitle,b.referenceTitle,b.id,b.isbn,b.publisher,b.category,b.series,b.seriesLabel,...(b.titleAliases||[]),...b.tags,...b.translators,...b.authors.flatMap(a=>[a.name,a.originalName||''])].join(' ').toLocaleLowerCase();searchIndex.set(b.id,{normal,compact:normal.replace(/[\s-]/g,'')});});
     readQuery();categories();renderCollection();route();window.addEventListener('hashchange',route);

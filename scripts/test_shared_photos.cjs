@@ -21,5 +21,6 @@ w.eval(fs.readFileSync(root+'app.js','utf8'));
  d.querySelector('[data-side="spines"]').click();await pause();assert.equal(d.querySelector('#detail-photo').dataset.original,set.photos[1].original);
  w.location.hash='timeline';await pause();assert.equal([...d.querySelectorAll('.timeline-entry')].filter(c=>c.textContent.includes('魔戒')).length,1);assert(d.querySelector('#timeline-page').textContent.includes(`${total} 册`));
  w.location.hash='about';await pause();assert(d.querySelector('#about-page').textContent.includes(`${total} 册 · ${photoTotal} 张实拍`));
+ for(const group of data.priceGroups.filter(g=>g.volumeCount && g.volumeCount>g.bookIds.length)){w.location.hash='book/'+group.bookIds[0];await pause();assert(d.querySelector('#detail-page').textContent.includes(`全 ${group.volumeCount} 册合价，仅计一次`));w.location.hash='catalog';await pause();const batchSearch=d.querySelector('#search');batchSearch.value='古龙作品全集';batchSearch.dispatchEvent(new w.Event('input'));await pause(180);assert.equal(d.querySelector('#results-status').textContent,`找到 ${group.bookIds.length} 册`)}
  console.log('PASS: one complete-set card in all sorts and search; seven-volume totals; three photos switch; all seven old links resolve; timeline and about counts preserved.');dom.window.close();
 })().catch(e=>{console.error(e);dom.window.close();process.exitCode=1});
