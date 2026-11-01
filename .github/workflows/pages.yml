@@ -28,10 +28,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-images.txt
       - name: Restore verified original photo parts
         run: |
           python scripts/restore_originals.py
           python scripts/test_restore_originals.py
+          python scripts/test_prepare_uploads.py
       - name: Reuse photo derivatives
         uses: actions/cache@v4
         with:
@@ -42,15 +45,20 @@ jobs:
             photos-v2-${{ runner.os }}-
       - name: Prepare full-frame display images
         run: |
-          python -m pip install Pillow==11.3.0
+          python -m pip install -r requirements-images.txt
           python scripts/optimize_photos.py
       - name: Validate book catalogue
         run: |
           python3 scripts/validate_catalog.py
           python3 scripts/audit_catalog.py
+      - name: Reuse JavaScript dependency
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: jsdom-26-1-0-${{ runner.os }}
       - name: Test image recovery and cached catalogue URLs
         run: |
-          npm install --no-save --package-lock=false --ignore-scripts --no-audit --no-fund jsdom@26.1.0
+          npm install --no-save --package-lock=false --ignore-scripts --no-audit --no-fund --prefer-offline jsdom@26.1.0
           node scripts/test_image_recovery.cjs
           node scripts/test_shared_photos.cjs
       - uses: actions/configure-pages@v5

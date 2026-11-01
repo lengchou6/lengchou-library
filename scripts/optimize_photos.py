@@ -2,6 +2,8 @@
 import json,hashlib,shutil
 from pathlib import Path
 from PIL import Image,ImageOps,__version__
+expected=(Path(__file__).resolve().parents[1]/'requirements-images.txt').read_text().strip().split('==')[1]
+if __version__!=expected:raise SystemExit('Install pinned image dependencies: python -m pip install -r requirements-images.txt')
 ROOT=Path(__file__).resolve().parents[1]/'dist';CACHE=ROOT.parent/'.cache/photos';CACHE.mkdir(parents=True,exist_ok=True)
 data=json.loads((ROOT/'data/books.json').read_text());generated=reused=0;outputs=[];originals=set()
 for owner in data['books']+data.get('seriesGroups',[]):

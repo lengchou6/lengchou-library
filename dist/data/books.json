@@ -17073,6 +17073,1314 @@
         }
       ],
       "condition": null
+    },
+    {
+      "id": "LC-000176",
+      "title": "冰与火之歌1：卷一·权力的游戏（上）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "谭光磊",
+        "屈畅"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128555",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 1,
+      "seriesLabel": "1 · 权力的游戏（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": "2018-01",
+      "edition": "2018年1月第2版；2024年4月第4次印刷",
+      "coverEditionLabel": null,
+      "listPrice": 39.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:42:20+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明第1册已拆封阅读；照片展示内封正反面，未展示带书目信息的护封；书名、ISBN、定价、版次印次据补拍版权页。",
+      "description": "《冰与火之歌》卷一《权力的游戏》上册，全系列分册序号1。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "权力的游戏",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "内封正面",
+          "file": "assets/LC-000176/front-original.jpg",
+          "original": "assets/LC-000176/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154220.jpg",
+          "capturedAt": "2026-11-01T15:42:20+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ef4aad43fc4188d19e6317aa808afea773b840e1752ebe3af50c03e7a74efaf3",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 609643,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "内封背面",
+          "file": "assets/LC-000176/back-original.jpg",
+          "original": "assets/LC-000176/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154213.jpg",
+          "capturedAt": "2026-11-01T15:42:13+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "dfd48c80887c51e7833ca391a064e93614b51c332ed7a634a145cc5226886f07",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 687886,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "copyright",
+          "label": "版权页",
+          "file": "assets/LC-000176/copyright-original.jpg",
+          "original": "assets/LC-000176/copyright-original.jpg",
+          "sourceFilename": "IMG_20261101_154238.jpg",
+          "capturedAt": "2026-11-01T15:42:38+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1abc8d6d7bfa8d54ad21404545321fb033c552fb9958b551bec2e990d5b4a4c6",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 578810,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000177",
+      "title": "冰与火之歌2：卷一·权力的游戏（中）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "谭光磊",
+        "屈畅"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128746",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 2,
+      "seriesLabel": "2 · 权力的游戏（中）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 39.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:43:01+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明第2册已拆封；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷一《权力的游戏》中册，全系列分册序号2。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "权力的游戏",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000177/front-original.jpg",
+          "original": "assets/LC-000177/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154301.jpg",
+          "capturedAt": "2026-11-01T15:43:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "90d0baf9754d52c510ee225dd5a59adfba6dea541e84ca5b0ab11d69b2a7f908",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1001317,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000177/back-original.jpg",
+          "original": "assets/LC-000177/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154312.jpg",
+          "capturedAt": "2026-11-01T15:43:12+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "cc84c847277ad546ad9ce1ab390439e34822397a307bc33e737454b1abbe5ddd",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 960997,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000178",
+      "title": "冰与火之歌3：卷一·权力的游戏（下）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "谭光磊",
+        "屈畅"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128562",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 3,
+      "seriesLabel": "3 · 权力的游戏（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 39.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:43:25+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷一《权力的游戏》下册，全系列分册序号3。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "权力的游戏",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000178/front-original.jpg",
+          "original": "assets/LC-000178/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154325.jpg",
+          "capturedAt": "2026-11-01T15:43:25+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "694fbb751ac3f6394c8df2d7e0d309c9aaeeed75f46d2cc49b8389799d417b13",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 911357,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000178/back-original.jpg",
+          "original": "assets/LC-000178/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154337.jpg",
+          "capturedAt": "2026-11-01T15:43:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a11359702eaf7a26f5ca8f7b2b50e59bb895fde6726464e0fea6613662d9799d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 899514,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000179",
+      "title": "冰与火之歌4：卷二·列王的纷争（上）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏",
+        "谭光磊"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128579",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 4,
+      "seriesLabel": "4 · 列王的纷争（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 42,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:43:49+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷二《列王的纷争》上册，全系列分册序号4。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "列王的纷争",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000179/front-original.jpg",
+          "original": "assets/LC-000179/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154349.jpg",
+          "capturedAt": "2026-11-01T15:43:49+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fc27e17042cceffcbcd4049e537a000d4cf48222ae15aca1cab576780965800b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1039781,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000179/back-original.jpg",
+          "original": "assets/LC-000179/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154400.jpg",
+          "capturedAt": "2026-11-01T15:44:00+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fff12ff476c4dd7f059db69aca304f139cbc039492db6b5dec5de9c93d2ae06f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 928956,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000180",
+      "title": "冰与火之歌5：卷二·列王的纷争（中）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏",
+        "谭光磊"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128586",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 5,
+      "seriesLabel": "5 · 列王的纷争（中）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 42,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:44:11+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷二《列王的纷争》中册，全系列分册序号5。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "列王的纷争",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000180/front-original.jpg",
+          "original": "assets/LC-000180/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154411.jpg",
+          "capturedAt": "2026-11-01T15:44:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "183431cf3da5835df4932279ee8ee20c44e56b7ab76cad33f48fb3a0a82cead8",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1021690,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000180/back-original.jpg",
+          "original": "assets/LC-000180/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154423.jpg",
+          "capturedAt": "2026-11-01T15:44:23+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4540e030785db6751404a7c18f9b99f3b0f02a1152df864ad2108afa7890e7e0",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 975930,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000181",
+      "title": "冰与火之歌6：卷二·列王的纷争（下）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏",
+        "谭光磊"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128593",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 6,
+      "seriesLabel": "6 · 列王的纷争（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 42,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:44:40+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷二《列王的纷争》下册，全系列分册序号6。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "列王的纷争",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000181/front-original.jpg",
+          "original": "assets/LC-000181/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154440.jpg",
+          "capturedAt": "2026-11-01T15:44:40+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "073ab5e2a6a726a727a341e9e96898da09b2060b0ac8279d0fda1d83a858405f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 997030,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000181/back-original.jpg",
+          "original": "assets/LC-000181/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154449.jpg",
+          "capturedAt": "2026-11-01T15:44:49+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "6dd0c43c85ca83d8369a4ca34ef9fd43490ec77e4d5876322dcf607140347192",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 920171,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000182",
+      "title": "冰与火之歌7：卷三·冰雨的风暴（上）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128609",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 7,
+      "seriesLabel": "7 · 冰雨的风暴（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:45:09+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷三《冰雨的风暴》上册，全系列分册序号7。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "冰雨的风暴",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000182/front-original.jpg",
+          "original": "assets/LC-000182/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154509.jpg",
+          "capturedAt": "2026-11-01T15:45:09+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5402a31e745ee6182eba70b674ab0c6119903f6cbdcee917b81d731a6b52af5b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 953885,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000182/back-original.jpg",
+          "original": "assets/LC-000182/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154521.jpg",
+          "capturedAt": "2026-11-01T15:45:21+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2d5fbc45b26d9d7dc5956314c2962cac457963e6a962cbff2eb54c7823f9823a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 859446,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000183",
+      "title": "冰与火之歌8：卷三·冰雨的风暴（中）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128616",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 8,
+      "seriesLabel": "8 · 冰雨的风暴（中）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:45:31+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷三《冰雨的风暴》中册，全系列分册序号8。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "冰雨的风暴",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000183/front-original.jpg",
+          "original": "assets/LC-000183/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154531.jpg",
+          "capturedAt": "2026-11-01T15:45:31+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "02855944b646252c9c6bbd2aa6efe1f4e952bc74155891df92fa82106f39cdb0",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 926219,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000183/back-original.jpg",
+          "original": "assets/LC-000183/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154538.jpg",
+          "capturedAt": "2026-11-01T15:45:38+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a493238b12ffe9c6917dc4be3a4b25bc29f6a6e46c09e65959401248d985712a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 820911,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000184",
+      "title": "冰与火之歌9：卷三·冰雨的风暴（下）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128623",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 9,
+      "seriesLabel": "9 · 冰雨的风暴（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:45:50+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷三《冰雨的风暴》下册，全系列分册序号9。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "冰雨的风暴",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000184/front-original.jpg",
+          "original": "assets/LC-000184/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154550.jpg",
+          "capturedAt": "2026-11-01T15:45:50+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "87a3fbc9e2e41564a5bd808761c5a9e91c7ceead871be9fe0f9e47be112c3618",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 956348,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000184/back-original.jpg",
+          "original": "assets/LC-000184/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154557.jpg",
+          "capturedAt": "2026-11-01T15:45:57+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "85728fb49f2d6e1b2fd950d3ffab089dcc33789187ed3898b5906e00e75548fc",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 792034,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000185",
+      "title": "冰与火之歌10：卷四·群鸦的盛宴（上）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128630",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 10,
+      "seriesLabel": "10 · 群鸦的盛宴（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 40,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:46:07+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷四《群鸦的盛宴》上册，全系列分册序号10。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "群鸦的盛宴",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000185/front-original.jpg",
+          "original": "assets/LC-000185/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154607.jpg",
+          "capturedAt": "2026-11-01T15:46:07+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2e6027fcbd052f8e153f0f008a51cea037d7d5f3d6398dda535d4c27716d5b67",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 908092,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000185/back-original.jpg",
+          "original": "assets/LC-000185/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154616.jpg",
+          "capturedAt": "2026-11-01T15:46:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a3857c9fcbe191e50e21086c5cdb7523037876de09d75dbaff3835053e41f031",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 881523,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000186",
+      "title": "冰与火之歌11：卷四·群鸦的盛宴（中）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128647",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 11,
+      "seriesLabel": "11 · 群鸦的盛宴（中）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 40,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:46:27+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷四《群鸦的盛宴》中册，全系列分册序号11。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "群鸦的盛宴",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000186/front-original.jpg",
+          "original": "assets/LC-000186/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154627.jpg",
+          "capturedAt": "2026-11-01T15:46:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "460d687fa434f79eac2034956d1918c4e6053b29a52c031546ac52abd99a18f3",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 956387,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000186/back-original.jpg",
+          "original": "assets/LC-000186/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154635.jpg",
+          "capturedAt": "2026-11-01T15:46:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fd480cc030c5dda8e07a1443dd997dd35f0ab0b6f9fe1ccf440d8ab3c1899b2b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 813123,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000187",
+      "title": "冰与火之歌12：卷四·群鸦的盛宴（下）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "胡绍晏"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128654",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 12,
+      "seriesLabel": "12 · 群鸦的盛宴（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 40,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:46:47+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷四《群鸦的盛宴》下册，全系列分册序号12。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "群鸦的盛宴",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000187/front-original.jpg",
+          "original": "assets/LC-000187/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154647.jpg",
+          "capturedAt": "2026-11-01T15:46:47+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a68abf791b7ba73d049a2537d625e438fd6e6cb3ce4b98080e22b584a696905c",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 961770,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000187/back-original.jpg",
+          "original": "assets/LC-000187/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154655.jpg",
+          "capturedAt": "2026-11-01T15:46:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "f784d666c9a90a14644cea508fb405d7fc1e2217c47b6d19ac8e3bf8d51ab340",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 811007,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000188",
+      "title": "冰与火之歌13：卷五·魔龙的狂舞（上）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "赵琳"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128661",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 13,
+      "seriesLabel": "13 · 魔龙的狂舞（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:47:05+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷五《魔龙的狂舞》上册，全系列分册序号13。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "魔龙的狂舞",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000188/front-original.jpg",
+          "original": "assets/LC-000188/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154705.jpg",
+          "capturedAt": "2026-11-01T15:47:05+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "dbf09e35eb3ac10c9fda5dc8d8e7ed9cffe0b110409ab13651f02fc468381028",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 941428,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000188/back-original.jpg",
+          "original": "assets/LC-000188/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154714.jpg",
+          "capturedAt": "2026-11-01T15:47:14+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7b386456ec33f47c39a027315157485201a689a73be92b26cf0d96f83c634690",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 905497,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000189",
+      "title": "冰与火之歌14：卷五·魔龙的狂舞（中）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "赵琳"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128678",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 14,
+      "seriesLabel": "14 · 魔龙的狂舞（中）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:47:24+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷五《魔龙的狂舞》中册，全系列分册序号14。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "魔龙的狂舞",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000189/front-original.jpg",
+          "original": "assets/LC-000189/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154724.jpg",
+          "capturedAt": "2026-11-01T15:47:24+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "17cadc2c6fe1a8b9e3ea31db72928be116b61f18a40fd69598eb9361d62f974d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 889518,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000189/back-original.jpg",
+          "original": "assets/LC-000189/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154737.jpg",
+          "capturedAt": "2026-11-01T15:47:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2167b124bfcd4d5fa62fe6392a40c90145a78f6be44051e4edb4b0bf935a4124",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 763524,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000190",
+      "title": "冰与火之歌15：卷五·魔龙的狂舞（下）",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "乔治·R.R.马丁",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "屈畅",
+        "赵琳"
+      ],
+      "publisher": "重庆出版社",
+      "isbn": "9787229128685",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "奇幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "冰与火之歌",
+      "seriesGroupId": "ice-and-fire-chongqing",
+      "seriesNumber": 15,
+      "seriesLabel": "15 · 魔龙的狂舞（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": 49.8,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T15:47:49+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "用户说明本册塑封未拆；书名、作者、译者、出版社据封面，ISBN及定价据封底；版权页版次印次未展示。",
+      "description": "《冰与火之歌》卷五《魔龙的狂舞》下册，全系列分册序号15。",
+      "metadataSource": "用户上传的实体书照片及拆封状态说明",
+      "titleAliases": [
+        "冰与火之歌",
+        "魔龙的狂舞",
+        "A Song of Ice and Fire"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000190/front-original.jpg",
+          "original": "assets/LC-000190/front-original.jpg",
+          "sourceFilename": "IMG_20261101_154749.jpg",
+          "capturedAt": "2026-11-01T15:47:49+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "9c445c634cd18a8b69bbe84390e16f53d6c145d156fe5af1d54835bd99ca7b97",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 921600,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000190/back-original.jpg",
+          "original": "assets/LC-000190/back-original.jpg",
+          "sourceFilename": "IMG_20261101_154758.jpg",
+          "capturedAt": "2026-11-01T15:47:58+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d10c5733069a4254fbfde2d82cfef334b6721b67fd7fec493e01cfe31d03b7a6",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 871528,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null
     }
   ],
   "seriesGroups": [
@@ -17310,6 +18618,13 @@
       "shortTitle": "明朝那些事儿",
       "kind": "九部作品",
       "description": "已拍摄增补版第1至9部，各册独立ISBN与45元定价，按册序关联展示。"
+    },
+    {
+      "id": "ice-and-fire-chongqing",
+      "title": "冰与火之歌（卷一至卷五，15册）",
+      "shortTitle": "冰与火之歌",
+      "kind": "系列作品",
+      "description": "重庆出版社版本，卷一至卷五分别分为上、中、下册，共15个实体册；按分册序号1至15关联，各册独立ISBN与定价。此处仅描述已收录的五卷，不表示作品已完结。"
     }
   ],
   "exchangeRates": {
