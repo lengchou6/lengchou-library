@@ -24550,6 +24550,2082 @@
         }
       ],
       "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000244",
+      "title": "2001：太空漫游",
+      "subtitle": null,
+      "authors": [
+        {
+          "name": "阿瑟·克拉克",
+          "country": "英国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "郝明义"
+      ],
+      "publisher": "上海文艺出版社",
+      "isbn": "9787532170692",
+      "category": "文学与小说",
+      "tags": [
+        "科幻小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "读客科幻文库",
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 62,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:17:35+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000244/front-original.jpg",
+          "original": "assets/LC-000244/front-original.jpg",
+          "sourceFilename": "IMG_20261101_221735.jpg",
+          "capturedAt": "2026-11-01T22:17:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "529fcd7a3711aaa1e73a3f8a7d95f8b40d7ef3a897833d7724285279e6579776",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 889385,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000244/front-preview-4d78ce0b1c0a.webp",
+          "thumbnail": "assets/LC-000244/front-thumbnail-461d19230f6e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000244/front-small-b42d000693a2.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000244/front-thumbnail-461d19230f6e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000244/front-large-2d41e93802aa.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000244/back-original.jpg",
+          "original": "assets/LC-000244/back-original.jpg",
+          "sourceFilename": "IMG_20261101_221744.jpg",
+          "capturedAt": "2026-11-01T22:17:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8b5bfb58401a63af7cbb740b0479557257b5e0578460c1eb900b9dcb03d8663a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 847473,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000244/back-preview-f4e50d1941e1.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000245",
+      "title": "写作这回事",
+      "subtitle": "创作生涯回忆录",
+      "authors": [
+        {
+          "name": "斯蒂芬·金",
+          "country": "美国",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "张坤"
+      ],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020118359",
+      "category": "写作与叙事",
+      "tags": [
+        "写作方法"
+      ],
+      "usageTags": [
+        "写作参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 69,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:18:28+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000245/front-original.jpg",
+          "original": "assets/LC-000245/front-original.jpg",
+          "sourceFilename": "IMG_20261101_221828.jpg",
+          "capturedAt": "2026-11-01T22:18:28+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0d5f8362d7346eb243b3975add5c00fba3e92dab99932d854142c6000e116faf",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 823252,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000245/front-preview-dff21cc605ba.webp",
+          "thumbnail": "assets/LC-000245/front-thumbnail-1ae47a7c2cc4.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000245/front-small-2adc0596b42a.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000245/front-thumbnail-1ae47a7c2cc4.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000245/front-large-6e7d51a2a65c.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000245/back-original.jpg",
+          "original": "assets/LC-000245/back-original.jpg",
+          "sourceFilename": "IMG_20261101_221835.jpg",
+          "capturedAt": "2026-11-01T22:18:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "598ee8f5db9f51906224c69b25cb7206fcbd87ef5ac0d64700baeee659aafe9e",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 892162,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000245/back-preview-ee624a3452f9.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000246",
+      "title": "中世纪的秋天",
+      "subtitle": "14世纪和15世纪法国与荷兰的生活、思想与艺术",
+      "authors": [
+        {
+          "name": "约翰·赫伊津哈",
+          "country": "荷兰",
+          "role": "著"
+        }
+      ],
+      "translators": [
+        "何道宽"
+      ],
+      "publisher": "广西师范大学出版社",
+      "isbn": "9787563376476",
+      "category": "人文与社科",
+      "tags": [
+        "文化史"
+      ],
+      "usageTags": [
+        "世界观参考"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": null,
+      "seriesGroupId": null,
+      "seriesNumber": null,
+      "seriesLabel": null,
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": 45,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:18:45+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000246/front-original.jpg",
+          "original": "assets/LC-000246/front-original.jpg",
+          "sourceFilename": "IMG_20261101_221845.jpg",
+          "capturedAt": "2026-11-01T22:18:45+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1bdc8fcf8c169111cb0a27e002de81375e4af455b42c063a4e181e0542caed1c",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 764952,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000246/front-preview-4667b0319038.webp",
+          "thumbnail": "assets/LC-000246/front-thumbnail-53e57b349c91.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000246/front-small-3e42c09b3873.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000246/front-thumbnail-53e57b349c91.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000246/front-large-0202fec7983d.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000246/back-original.jpg",
+          "original": "assets/LC-000246/back-original.jpg",
+          "sourceFilename": "IMG_20261101_221852.jpg",
+          "capturedAt": "2026-11-01T22:18:52+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e67e218e9ced0f2081368eec8511da2f9786562eb874c2272a80680167e8f5f3",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 823804,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000246/back-preview-276a3702cf41.webp"
+        }
+      ],
+      "condition": null
+    },
+    {
+      "id": "LC-000247",
+      "title": "三国演义",
+      "subtitle": "第1册（按上传顺序）",
+      "authors": [
+        {
+          "name": "罗贯中",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020008728",
+      "category": "文学与小说",
+      "tags": [
+        "中国古典小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "三国演义（全两册）",
+      "seriesGroupId": "sanguo-renwen",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册（按上传顺序）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:19:37+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面未显示上下册标识，册序暂按上传顺序编排；著者采用作品通行归属，具体整理者、续作者及校注者待版权页确认。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000247/front-original.jpg",
+          "original": "assets/LC-000247/front-original.jpg",
+          "sourceFilename": "IMG_20261101_221937.jpg",
+          "capturedAt": "2026-11-01T22:19:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "837cd944565c7fabec0b3cb3764aefba60b4cb0ac41a2a1741721e6ecc885205",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 826161,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000247/front-preview-61194d7a60ea.webp",
+          "thumbnail": "assets/LC-000247/front-thumbnail-757ed13f7e2d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000247/front-small-e0bd1caffb7e.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000247/front-thumbnail-757ed13f7e2d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000247/front-large-004d6099379c.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000247/back-original.jpg",
+          "original": "assets/LC-000247/back-original.jpg",
+          "sourceFilename": "IMG_20261101_221942.jpg",
+          "capturedAt": "2026-11-01T22:19:42+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8b46573ab065295f8d466d52ce5ed4ce04cd3f5e2f653d0b949be23b7392e02b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 768137,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000247/back-preview-31fea760ee53.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "sanguo-renwen-price",
+      "physicalSetId": "sanguo-renwen",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000248",
+      "title": "三国演义",
+      "subtitle": "第2册（按上传顺序）",
+      "authors": [
+        {
+          "name": "罗贯中",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020008728",
+      "category": "文学与小说",
+      "tags": [
+        "中国古典小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "三国演义（全两册）",
+      "seriesGroupId": "sanguo-renwen",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册（按上传顺序）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:19:50+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面未显示上下册标识，册序暂按上传顺序编排；著者采用作品通行归属，具体整理者、续作者及校注者待版权页确认。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000248/front-original.jpg",
+          "original": "assets/LC-000248/front-original.jpg",
+          "sourceFilename": "IMG_20261101_221950.jpg",
+          "capturedAt": "2026-11-01T22:19:50+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c1d60cba6203f06e076802708d8b41a417721cd33da4e86b393cad6eef1cf881",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 839547,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000248/front-preview-c8d41f9f4395.webp",
+          "thumbnail": "assets/LC-000248/front-thumbnail-b8adeec72c6b.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000248/front-small-0fc2467b875a.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000248/front-thumbnail-b8adeec72c6b.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000248/front-large-39c8e2e0d982.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000248/back-original.jpg",
+          "original": "assets/LC-000248/back-original.jpg",
+          "sourceFilename": "IMG_20261101_221956.jpg",
+          "capturedAt": "2026-11-01T22:19:56+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3f1f5779cd53057661a5e6b31a9c88bff5c50c033bdb1938196e6050decb645b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 751410,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000248/back-preview-080fd16c0510.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "sanguo-renwen-price",
+      "physicalSetId": "sanguo-renwen",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000249",
+      "title": "西游记",
+      "subtitle": "第1册（按上传顺序）",
+      "authors": [
+        {
+          "name": "吴承恩",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020008735",
+      "category": "文学与小说",
+      "tags": [
+        "中国古典小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "西游记（全两册）",
+      "seriesGroupId": "xiyou-renwen",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册（按上传顺序）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:20:10+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面未显示上下册标识，册序暂按上传顺序编排；著者采用作品通行归属，具体整理者、续作者及校注者待版权页确认。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000249/front-original.jpg",
+          "original": "assets/LC-000249/front-original.jpg",
+          "sourceFilename": "IMG_20261101_222010.jpg",
+          "capturedAt": "2026-11-01T22:20:10+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "21dd85c272c3f8675f23b6fee463f613cbca14a8113a6fcb02bfc1d084001ead",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 955642,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000249/front-preview-2fc84c21caac.webp",
+          "thumbnail": "assets/LC-000249/front-thumbnail-ac487fa9c870.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000249/front-small-d13b7e2898e3.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000249/front-thumbnail-ac487fa9c870.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000249/front-large-07eca5fd0c87.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000249/back-original.jpg",
+          "original": "assets/LC-000249/back-original.jpg",
+          "sourceFilename": "IMG_20261101_222016.jpg",
+          "capturedAt": "2026-11-01T22:20:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "80de8ac44d885c1d1e85798a29ca2dc032b01fb052495f5afe5993d251b46b20",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 835147,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000249/back-preview-979b2e5e15d0.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "xiyou-renwen-price",
+      "physicalSetId": "xiyou-renwen",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000250",
+      "title": "西游记",
+      "subtitle": "第2册（按上传顺序）",
+      "authors": [
+        {
+          "name": "吴承恩",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020008735",
+      "category": "文学与小说",
+      "tags": [
+        "中国古典小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "西游记（全两册）",
+      "seriesGroupId": "xiyou-renwen",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册（按上传顺序）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:20:28+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面未显示上下册标识，册序暂按上传顺序编排；著者采用作品通行归属，具体整理者、续作者及校注者待版权页确认。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000250/front-original.jpg",
+          "original": "assets/LC-000250/front-original.jpg",
+          "sourceFilename": "IMG_20261101_222028.jpg",
+          "capturedAt": "2026-11-01T22:20:28+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "08175fae66eef82ca60bd36538f26fac8f84f55bdc8119cb8af7990a54f56a0b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 973325,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000250/front-preview-8633961250ee.webp",
+          "thumbnail": "assets/LC-000250/front-thumbnail-0147ec50183f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000250/front-small-80fd925fa599.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000250/front-thumbnail-0147ec50183f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000250/front-large-42f081100607.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000250/back-original.jpg",
+          "original": "assets/LC-000250/back-original.jpg",
+          "sourceFilename": "IMG_20261101_222034.jpg",
+          "capturedAt": "2026-11-01T22:20:34+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3b74332399fe22cfd6cc00a6f9de07b1ed625827b31fa16dea237f7ee39cff58",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 764466,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000250/back-preview-78d4532ac737.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "xiyou-renwen-price",
+      "physicalSetId": "xiyou-renwen",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000251",
+      "title": "红楼梦",
+      "subtitle": "第1册（按上传顺序）",
+      "authors": [
+        {
+          "name": "曹雪芹",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020002207",
+      "category": "文学与小说",
+      "tags": [
+        "中国古典小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "红楼梦（全两册）",
+      "seriesGroupId": "honglou-renwen",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册（按上传顺序）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:20:48+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面未显示上下册标识，册序暂按上传顺序编排；著者采用作品通行归属，具体整理者、续作者及校注者待版权页确认。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000251/front-original.jpg",
+          "original": "assets/LC-000251/front-original.jpg",
+          "sourceFilename": "IMG_20261101_222048.jpg",
+          "capturedAt": "2026-11-01T22:20:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "33eb4e2ac65282e13bd88415ba01cab5151beaa7b27f24f39f84b614b25a4698",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 770572,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000251/front-preview-a6bc45112f7f.webp",
+          "thumbnail": "assets/LC-000251/front-thumbnail-8d8e2d8b1f6f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000251/front-small-594077e8ecbb.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000251/front-thumbnail-8d8e2d8b1f6f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000251/front-large-5e14e658f335.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000251/back-original.jpg",
+          "original": "assets/LC-000251/back-original.jpg",
+          "sourceFilename": "IMG_20261101_222055.jpg",
+          "capturedAt": "2026-11-01T22:20:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "45c40854d86d9927fc78064b70103ca1374be707ea4f113eb1b39d45afe168fb",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 634778,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000251/back-preview-b2943d02f6c2.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "honglou-renwen-price",
+      "physicalSetId": "honglou-renwen",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000252",
+      "title": "红楼梦",
+      "subtitle": "第2册（按上传顺序）",
+      "authors": [
+        {
+          "name": "曹雪芹",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020002207",
+      "category": "文学与小说",
+      "tags": [
+        "中国古典小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "红楼梦（全两册）",
+      "seriesGroupId": "honglou-renwen",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册（按上传顺序）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:21:04+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面未显示上下册标识，册序暂按上传顺序编排；著者采用作品通行归属，具体整理者、续作者及校注者待版权页确认。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000252/front-original.jpg",
+          "original": "assets/LC-000252/front-original.jpg",
+          "sourceFilename": "IMG_20261101_222104.jpg",
+          "capturedAt": "2026-11-01T22:21:04+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "6c2df0bdd61bf01b3dc7ccd2af5fe7b279adbee31e8842c3b1ea70cc0097c200",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 745650,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000252/front-preview-28363cb727d8.webp",
+          "thumbnail": "assets/LC-000252/front-thumbnail-31b0e2c779b8.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000252/front-small-d9a49adc9326.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000252/front-thumbnail-31b0e2c779b8.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000252/front-large-ed00f8d91545.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000252/back-original.jpg",
+          "original": "assets/LC-000252/back-original.jpg",
+          "sourceFilename": "IMG_20261101_222111.jpg",
+          "capturedAt": "2026-11-01T22:21:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e4e2fb1b16fb230150a8809e0092e4e992abf4a37537874f29de6ebead6c450d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 771462,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000252/back-preview-0979b77a1be6.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "honglou-renwen-price",
+      "physicalSetId": "honglou-renwen",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000253",
+      "title": "水浒传",
+      "subtitle": "第1册（按上传顺序）",
+      "authors": [
+        {
+          "name": "施耐庵",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020008742",
+      "category": "文学与小说",
+      "tags": [
+        "中国古典小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "水浒传（全两册）",
+      "seriesGroupId": "shuihu-renwen",
+      "seriesNumber": 1,
+      "seriesLabel": "第1册（按上传顺序）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:21:21+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面未显示上下册标识，册序暂按上传顺序编排；著者采用作品通行归属，具体整理者、续作者及校注者待版权页确认。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000253/front-original.jpg",
+          "original": "assets/LC-000253/front-original.jpg",
+          "sourceFilename": "IMG_20261101_222121.jpg",
+          "capturedAt": "2026-11-01T22:21:21+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "40324ac24e17bc05b33760b55900f25e56425ab2b12e6595b13fa2b71085615e",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 956925,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000253/front-preview-1127447a5fa8.webp",
+          "thumbnail": "assets/LC-000253/front-thumbnail-1bbddbcd7b8a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000253/front-small-2dcd297c5458.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000253/front-thumbnail-1bbddbcd7b8a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000253/front-large-3edc73483a7f.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000253/back-original.jpg",
+          "original": "assets/LC-000253/back-original.jpg",
+          "sourceFilename": "IMG_20261101_222127.jpg",
+          "capturedAt": "2026-11-01T22:21:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "39e3c76430048ddf03d232ce4266fec9f71661c115a6724822d842599ba6cb2e",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 697786,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000253/back-preview-b9b0fb1639ac.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shuihu-renwen-price",
+      "physicalSetId": "shuihu-renwen",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000254",
+      "title": "水浒传",
+      "subtitle": "第2册（按上传顺序）",
+      "authors": [
+        {
+          "name": "施耐庵",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "人民文学出版社",
+      "isbn": "9787020008742",
+      "category": "文学与小说",
+      "tags": [
+        "中国古典小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "水浒传（全两册）",
+      "seriesGroupId": "shuihu-renwen",
+      "seriesNumber": 2,
+      "seriesLabel": "第2册（按上传顺序）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:21:36+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面未显示上下册标识，册序暂按上传顺序编排；著者采用作品通行归属，具体整理者、续作者及校注者待版权页确认。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000254/front-original.jpg",
+          "original": "assets/LC-000254/front-original.jpg",
+          "sourceFilename": "IMG_20261101_222136.jpg",
+          "capturedAt": "2026-11-01T22:21:36+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8caa29a120644d5221aa3ff2961e7f32beb2e48a3d231b0346b0f11e6f076852",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 804174,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000254/front-preview-80e58cb28dc8.webp",
+          "thumbnail": "assets/LC-000254/front-thumbnail-9add5be54e01.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000254/front-small-7a7bfdb4ddee.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000254/front-thumbnail-9add5be54e01.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000254/front-large-37f04097ff89.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000254/back-original.jpg",
+          "original": "assets/LC-000254/back-original.jpg",
+          "sourceFilename": "IMG_20261101_222142.jpg",
+          "capturedAt": "2026-11-01T22:21:42+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3430c3a800486a68af6210560ff6a3280e27ec6bdd994935787a54af435b48fa",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 834718,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000254/back-preview-0eec1aaaba62.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shuihu-renwen-price",
+      "physicalSetId": "shuihu-renwen",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000255",
+      "title": "蜀山剑侠传",
+      "subtitle": "第1卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 1,
+      "seriesLabel": "第1卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:24:16+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000255/front-original.jpg",
+          "original": "assets/LC-000255/front-original.jpg",
+          "sourceFilename": "IMG_20261101_222416.jpg",
+          "capturedAt": "2026-11-01T22:24:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "308446213d4f24886b4e554ee8de039b13b032ae14d96055c66e9832f52ed499",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 633179,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000255/front-preview-0980982eb3e3.webp",
+          "thumbnail": "assets/LC-000255/front-thumbnail-4fffc6a00f41.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000255/front-small-ee79c65687f0.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000255/front-thumbnail-4fffc6a00f41.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000255/front-large-adac6a3d16c9.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000255/back-original.jpg",
+          "original": "assets/LC-000255/back-original.jpg",
+          "sourceFilename": "IMG_20261101_222424.jpg",
+          "capturedAt": "2026-11-01T22:24:24+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fc3a33aca03c0ef8df7b00f69090b67822609aa73308676c07d35c62657dd531",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 651301,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000255/back-preview-74c7e91d144d.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000256",
+      "title": "蜀山剑侠传",
+      "subtitle": "第2卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 2,
+      "seriesLabel": "第2卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:29:47+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000256/front-original.jpg",
+          "original": "assets/LC-000256/front-original.jpg",
+          "sourceFilename": "IMG_20261101_222947.jpg",
+          "capturedAt": "2026-11-01T22:29:47+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "f3bcb7a0e63321759f2fd8ad672825b2cbd0b69771dd40b5144b16d6bb9a0f33",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 710200,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000256/front-preview-ad0a8477cd15.webp",
+          "thumbnail": "assets/LC-000256/front-thumbnail-746e638b45bc.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000256/front-small-137b6ba26e60.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000256/front-thumbnail-746e638b45bc.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000256/front-large-e8a838ea8643.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000256/back-original.jpg",
+          "original": "assets/LC-000256/back-original.jpg",
+          "sourceFilename": "IMG_20261101_222956.jpg",
+          "capturedAt": "2026-11-01T22:29:56+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "6d49144e658ae98e557ee588cef3f9b5a5203625d165de00f388ea60310c0b0f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 654284,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000256/back-preview-c524bdc22688.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000257",
+      "title": "蜀山剑侠传",
+      "subtitle": "第3卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 3,
+      "seriesLabel": "第3卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:30:05+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000257/front-original.jpg",
+          "original": "assets/LC-000257/front-original.jpg",
+          "sourceFilename": "IMG_20261101_223005.jpg",
+          "capturedAt": "2026-11-01T22:30:05+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "6c139fd5daa282b61c09e59985e3c8adeaf7bc646649c92b2cdb0c79cc29b57c",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 624952,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000257/front-preview-251fc019aa2f.webp",
+          "thumbnail": "assets/LC-000257/front-thumbnail-07dad57b772b.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000257/front-small-a7311e88071a.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000257/front-thumbnail-07dad57b772b.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000257/front-large-018e8def3b0d.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000257/back-original.jpg",
+          "original": "assets/LC-000257/back-original.jpg",
+          "sourceFilename": "IMG_20261101_223011.jpg",
+          "capturedAt": "2026-11-01T22:30:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "2504b6592fa7e957214aeba5ae87c5df9be1d0a416fe7c1ad2852dbe893412cc",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 664221,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000257/back-preview-409a7b6b5ed7.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000258",
+      "title": "蜀山剑侠传",
+      "subtitle": "第4卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 4,
+      "seriesLabel": "第4卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:30:26+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000258/front-original.jpg",
+          "original": "assets/LC-000258/front-original.jpg",
+          "sourceFilename": "IMG_20261101_223026.jpg",
+          "capturedAt": "2026-11-01T22:30:26+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "b60b099f1a47be69b81760038b412e8546d2aec8009bbfc7b4a6afbabfa92d9b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 626851,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000258/front-preview-71959b6b0c81.webp",
+          "thumbnail": "assets/LC-000258/front-thumbnail-bcbbcac9b17e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000258/front-small-609ab9d66998.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000258/front-thumbnail-bcbbcac9b17e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000258/front-large-e33506422299.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000258/back-original.jpg",
+          "original": "assets/LC-000258/back-original.jpg",
+          "sourceFilename": "IMG_20261101_223033.jpg",
+          "capturedAt": "2026-11-01T22:30:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1529829375c49ea6609add720614e10a41e8c16f98849240155930a32408c4cd",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 665966,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000258/back-preview-caf2918b3758.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000259",
+      "title": "蜀山剑侠传",
+      "subtitle": "第5卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 5,
+      "seriesLabel": "第5卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:30:44+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000259/front-original.jpg",
+          "original": "assets/LC-000259/front-original.jpg",
+          "sourceFilename": "IMG_20261101_223044.jpg",
+          "capturedAt": "2026-11-01T22:30:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "6e94d630582d627708157c739f87b6df428314a178205ff701ec5cf985b68175",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 723830,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000259/front-preview-16e1beb70187.webp",
+          "thumbnail": "assets/LC-000259/front-thumbnail-8c40e323eb2f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000259/front-small-577a8649e55f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000259/front-thumbnail-8c40e323eb2f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000259/front-large-8a2fff73ec94.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000259/back-original.jpg",
+          "original": "assets/LC-000259/back-original.jpg",
+          "sourceFilename": "IMG_20261101_223050.jpg",
+          "capturedAt": "2026-11-01T22:30:50+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "26bff1b06889087c5a00b8aaa03e9a5fc41fe465601ba3095c596b5940c14a6b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 708648,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000259/back-preview-6330274e654d.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000260",
+      "title": "蜀山剑侠传",
+      "subtitle": "第6卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 6,
+      "seriesLabel": "第6卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:31:06+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000260/front-original.jpg",
+          "original": "assets/LC-000260/front-original.jpg",
+          "sourceFilename": "IMG_20261101_223106.jpg",
+          "capturedAt": "2026-11-01T22:31:06+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "b98bc6694ff83da93d60bc5918cacc93ef0d40727dac22a9166125a2217ce5db",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 683903,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000260/front-preview-e230993ef9ba.webp",
+          "thumbnail": "assets/LC-000260/front-thumbnail-42e09305dfc8.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000260/front-small-59b925c3a401.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000260/front-thumbnail-42e09305dfc8.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000260/front-large-1219e5a133cc.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000260/back-original.jpg",
+          "original": "assets/LC-000260/back-original.jpg",
+          "sourceFilename": "IMG_20261101_223115.jpg",
+          "capturedAt": "2026-11-01T22:31:15+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "236250a092a751d2bf1c65ea9ed5697ea326aa9c787a3249ce2c3402ece24887",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 747843,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000260/back-preview-c21b0eef523b.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000261",
+      "title": "蜀山剑侠传",
+      "subtitle": "第7卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 7,
+      "seriesLabel": "第7卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:31:26+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000261/front-original.jpg",
+          "original": "assets/LC-000261/front-original.jpg",
+          "sourceFilename": "IMG_20261101_223126.jpg",
+          "capturedAt": "2026-11-01T22:31:26+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7a10f2daa4b476ed456968006b44e782e17ceb6beaf61609731962e8fa200103",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 658287,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000261/front-preview-e96cd2c4f34a.webp",
+          "thumbnail": "assets/LC-000261/front-thumbnail-2204c84736f7.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000261/front-small-b1d2d2223956.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000261/front-thumbnail-2204c84736f7.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000261/front-large-0bbd49d67c16.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000261/back-original.jpg",
+          "original": "assets/LC-000261/back-original.jpg",
+          "sourceFilename": "IMG_20261101_223133.jpg",
+          "capturedAt": "2026-11-01T22:31:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "87ff3574858e2df0ae99a122562b653ec3587a42326858063d20d4142da48fed",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 666529,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000261/back-preview-eb59bbeed5a0.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000262",
+      "title": "蜀山剑侠传",
+      "subtitle": "第8卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 8,
+      "seriesLabel": "第8卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:31:43+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000262/front-original.jpg",
+          "original": "assets/LC-000262/front-original.jpg",
+          "sourceFilename": "IMG_20261101_223143.jpg",
+          "capturedAt": "2026-11-01T22:31:43+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "18c37baccfa695cf79cace6b37b72df022a744dc1e3a91c9d1d92dd015e8c845",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 714751,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000262/front-preview-3702caca3cae.webp",
+          "thumbnail": "assets/LC-000262/front-thumbnail-9258a6dbc9d3.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000262/front-small-d1ca67734d69.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000262/front-thumbnail-9258a6dbc9d3.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000262/front-large-f3d47655a957.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000262/back-original.jpg",
+          "original": "assets/LC-000262/back-original.jpg",
+          "sourceFilename": "IMG_20261101_223148.jpg",
+          "capturedAt": "2026-11-01T22:31:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8d92fdcb2c57a4e260fc4394b27252b17a44ed6762fefd1fe97bf179aade64a4",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 758097,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000262/back-preview-3b97ccfad1a5.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000263",
+      "title": "蜀山剑侠传",
+      "subtitle": "第9卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 9,
+      "seriesLabel": "第9卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:31:56+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000263/front-original.jpg",
+          "original": "assets/LC-000263/front-original.jpg",
+          "sourceFilename": "IMG_20261101_223156.jpg",
+          "capturedAt": "2026-11-01T22:31:56+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a43c2a8fb17d540ba6dacd2aea048899f8dfacfcab6afb42a503177ad6895f99",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 610802,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000263/front-preview-17f0f915d1e0.webp",
+          "thumbnail": "assets/LC-000263/front-thumbnail-bb4cda1d02ac.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000263/front-small-47b55744bc79.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000263/front-thumbnail-bb4cda1d02ac.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000263/front-large-4af496782bce.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000263/back-original.jpg",
+          "original": "assets/LC-000263/back-original.jpg",
+          "sourceFilename": "IMG_20261101_223202.jpg",
+          "capturedAt": "2026-11-01T22:32:02+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "49ef49320a0a2334f7a0558b5615c7a7312b76a276dee5f016137db7f886a87f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 666065,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000263/back-preview-fb57c1ded5d1.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000264",
+      "title": "蜀山剑侠传",
+      "subtitle": "第10卷",
+      "authors": [
+        {
+          "name": "还珠楼主",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "北岳文艺出版社",
+      "isbn": "9787537836678",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "蜀山剑侠传（全十卷）",
+      "seriesGroupId": "shushan-beiyue",
+      "seriesNumber": 10,
+      "seriesLabel": "第10卷",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T22:32:11+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名、出版社、ISBN与定价依据实拍；未展示版权页，出版日期、版次印次留空。套价只计一次。封面署裴效维校点；卷号依据实拍封面。",
+      "description": "依据实体书正反面照片录入。",
+      "metadataSource": "用户实体书正反面照片；分类与用途标签为个人编目",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000264/front-original.jpg",
+          "original": "assets/LC-000264/front-original.jpg",
+          "sourceFilename": "IMG_20261101_223211.jpg",
+          "capturedAt": "2026-11-01T22:32:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "35ef4a5e366ba0f66da38a495d4ea93585d3aa2ae27d6ee06e8e5db460b8c51a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 658940,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000264/front-preview-241b5d760340.webp",
+          "thumbnail": "assets/LC-000264/front-thumbnail-f64545cafafa.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000264/front-small-2974e3a64ce7.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000264/front-thumbnail-f64545cafafa.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000264/front-large-3d02aca57290.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000264/back-original.jpg",
+          "original": "assets/LC-000264/back-original.jpg",
+          "sourceFilename": "IMG_20261101_223222.jpg",
+          "capturedAt": "2026-11-01T22:32:22+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "6764085fe996d223123678f871bfaed84284145a2c88d90d5eafe96e9f8c84d0",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 670788,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000264/back-preview-3e07167e6719.webp"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "shushan-beiyue-price",
+      "physicalSetId": "shushan-beiyue",
+      "isbnScope": "全套共用ISBN，取自本套封底"
     }
   ],
   "seriesGroups": [
@@ -24801,6 +26877,41 @@
       "shortTitle": "古龙作品全集",
       "kind": "系列作品",
       "description": "整套53个实体册均已收录，每册附正反照片，共106张。总册号参考同社53册馆藏目录并结合封面分篇核对；具体版次印次未核实。"
+    },
+    {
+      "id": "sanguo-renwen",
+      "title": "三国演义（全两册）",
+      "shortTitle": "三国演义",
+      "kind": "多卷本",
+      "description": "已收录2个实体册及4张正反照片；套书ISBN与总定价据本套封底，套价只计一次。上下册标识未展示，暂按上传顺序编排。"
+    },
+    {
+      "id": "xiyou-renwen",
+      "title": "西游记（全两册）",
+      "shortTitle": "西游记",
+      "kind": "多卷本",
+      "description": "已收录2个实体册及4张正反照片；套书ISBN与总定价据本套封底，套价只计一次。上下册标识未展示，暂按上传顺序编排。"
+    },
+    {
+      "id": "honglou-renwen",
+      "title": "红楼梦（全两册）",
+      "shortTitle": "红楼梦",
+      "kind": "多卷本",
+      "description": "已收录2个实体册及4张正反照片；套书ISBN与总定价据本套封底，套价只计一次。上下册标识未展示，暂按上传顺序编排。"
+    },
+    {
+      "id": "shuihu-renwen",
+      "title": "水浒传（全两册）",
+      "shortTitle": "水浒传",
+      "kind": "多卷本",
+      "description": "已收录2个实体册及4张正反照片；套书ISBN与总定价据本套封底，套价只计一次。上下册标识未展示，暂按上传顺序编排。"
+    },
+    {
+      "id": "shushan-beiyue",
+      "title": "蜀山剑侠传（全十卷）",
+      "shortTitle": "蜀山剑侠传",
+      "kind": "多卷本",
+      "description": "已收录10个实体册及20张正反照片；套书ISBN与总定价据本套封底，套价只计一次。卷号以封面为准。"
     }
   ],
   "exchangeRates": {
@@ -24962,6 +27073,74 @@
         "LC-000243"
       ],
       "source": "实拍封底明确标示2980元为全53卷套价，非单册价格或实际支出；全套仅计一次。"
+    },
+    {
+      "id": "sanguo-renwen-price",
+      "label": "三国演义（全两册）",
+      "amount": 39.5,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000247",
+        "LC-000248"
+      ],
+      "volumeCount": 2,
+      "source": "实拍封底标明39.50元为共两册总定价，只计一次，非单册价格或实际支出。"
+    },
+    {
+      "id": "xiyou-renwen-price",
+      "label": "西游记（全两册）",
+      "amount": 47.2,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000249",
+        "LC-000250"
+      ],
+      "volumeCount": 2,
+      "source": "实拍封底标明47.20元为共两册总定价，只计一次，非单册价格或实际支出。"
+    },
+    {
+      "id": "honglou-renwen-price",
+      "label": "红楼梦（全两册）",
+      "amount": 59.7,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000251",
+        "LC-000252"
+      ],
+      "volumeCount": 2,
+      "source": "实拍封底标明59.70元为共两册总定价，只计一次，非单册价格或实际支出。"
+    },
+    {
+      "id": "shuihu-renwen-price",
+      "label": "水浒传（全两册）",
+      "amount": 50.6,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000253",
+        "LC-000254"
+      ],
+      "volumeCount": 2,
+      "source": "实拍封底标明50.60元为共两册总定价，只计一次，非单册价格或实际支出。"
+    },
+    {
+      "id": "shushan-beiyue-price",
+      "label": "蜀山剑侠传（全十卷）",
+      "amount": 318,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000255",
+        "LC-000256",
+        "LC-000257",
+        "LC-000258",
+        "LC-000259",
+        "LC-000260",
+        "LC-000261",
+        "LC-000262",
+        "LC-000263",
+        "LC-000264"
+      ],
+      "volumeCount": 10,
+      "source": "实拍封底标明318.00元为全十卷总定价，只计一次，非单册价格或实际支出。"
     }
   ],
   "categoryOrder": [
