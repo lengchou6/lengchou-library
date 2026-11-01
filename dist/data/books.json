@@ -22043,6 +22043,2513 @@
         }
       ],
       "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000221",
+      "title": "古龙作品全集（第31册）：流星·蝴蝶·剑",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 31,
+      "seriesLabel": "全套第31册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:16:14+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第31册，收录《流星·蝴蝶·剑》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "流星·蝴蝶·剑",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000221/front-original.jpg",
+          "original": "assets/LC-000221/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191614.jpg",
+          "capturedAt": "2026-11-01T19:16:14+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fcc298cb0f1c3b0fbf2463d3176ea4d0fb3edc1f0836bb29af80c12abe5d2614",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 901225,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000221/front-preview-a0034ab823d4.webp",
+          "thumbnail": "assets/LC-000221/front-thumbnail-1817aa6a515e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000221/front-small-113dc46a09dd.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000221/front-thumbnail-1817aa6a515e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000221/front-large-99e80a4d21a1.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000221/back-original.jpg",
+          "original": "assets/LC-000221/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191622.jpg",
+          "capturedAt": "2026-11-01T19:16:22+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4e89e8ce3682aa7d552c72ffb4694b6278b4efd07163b2d90f61e4c3e2423d32",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 924981,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000221/back-preview-ef5504b8c1b3.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000222",
+      "title": "古龙作品全集（第32册）：大旗英雄传（上）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 32,
+      "seriesLabel": "全套第32册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:16:35+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第32册，收录《大旗英雄传（上）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "大旗英雄传（上）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000222/front-original.jpg",
+          "original": "assets/LC-000222/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191635.jpg",
+          "capturedAt": "2026-11-01T19:16:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fb021d8bcc2b12d8b4bc1dfe4f6c53fb7d10883ab6ef58b790b444c761b2a8ab",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 924150,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000222/front-preview-cd6dee6cf7fd.webp",
+          "thumbnail": "assets/LC-000222/front-thumbnail-3c43ddeb781f.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000222/front-small-edb44a3db4b6.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000222/front-thumbnail-3c43ddeb781f.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000222/front-large-0791a7afc2fe.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000222/back-original.jpg",
+          "original": "assets/LC-000222/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191641.jpg",
+          "capturedAt": "2026-11-01T19:16:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "9078ac672c1be3d2de87ef10db6485063f24a196788974958e624c9a96848aa2",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 963961,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000222/back-preview-9affe739fec5.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000223",
+      "title": "古龙作品全集（第33册）：大旗英雄传（下）",
+      "subtitle": "猎鹰",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 33,
+      "seriesLabel": "全套第33册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:16:55+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第33册，收录猎鹰。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "大旗英雄传（下）",
+        "猎鹰"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000223/front-original.jpg",
+          "original": "assets/LC-000223/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191655.jpg",
+          "capturedAt": "2026-11-01T19:16:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "27b40295f058b0b88ddb7096360125c5a4766fee68a0634f5f5d0454cbf4b800",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 906142,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000223/front-preview-8ceddd044c53.webp",
+          "thumbnail": "assets/LC-000223/front-thumbnail-e4f4ddfb0270.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000223/front-small-118a8b49c0c0.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000223/front-thumbnail-e4f4ddfb0270.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000223/front-large-40fcde32b040.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000223/back-original.jpg",
+          "original": "assets/LC-000223/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191703.jpg",
+          "capturedAt": "2026-11-01T19:17:03+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8d4d11d870a7b72bbce39a93ba76509f90ff640fd560f7232a8d4820ad4be705",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 932300,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000223/back-preview-ec66afcffdfc.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000224",
+      "title": "古龙作品全集（第34册）：浣花洗剑录（上）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 34,
+      "seriesLabel": "全套第34册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:17:14+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第34册，收录《浣花洗剑录（上）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "浣花洗剑录（上）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000224/front-original.jpg",
+          "original": "assets/LC-000224/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191714.jpg",
+          "capturedAt": "2026-11-01T19:17:14+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e613d9bbcf084c43ca7eab8843e0a33b588941dd023de687bd49a9f180f56628",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 925686,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000224/front-preview-469da87dacf4.webp",
+          "thumbnail": "assets/LC-000224/front-thumbnail-7db5518bb2b8.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000224/front-small-5dc75a26ad32.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000224/front-thumbnail-7db5518bb2b8.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000224/front-large-ef425ea844b9.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000224/back-original.jpg",
+          "original": "assets/LC-000224/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191723.jpg",
+          "capturedAt": "2026-11-01T19:17:23+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8f38444e4de8a49cbdd6d9a18d9a396b3d4b78118ecc6fa4c1ad238ddcf4bdba",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 941580,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000224/back-preview-22878203071c.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000225",
+      "title": "古龙作品全集（第35册）：浣花洗剑录（下）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 35,
+      "seriesLabel": "全套第35册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:17:32+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第35册，收录《浣花洗剑录（下）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "浣花洗剑录（下）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000225/front-original.jpg",
+          "original": "assets/LC-000225/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191732.jpg",
+          "capturedAt": "2026-11-01T19:17:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "46527007768286544dd909432f224178ba46f4990716bc21dfe9916455b1a297",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 952655,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000225/front-preview-8b4284d2b84f.webp",
+          "thumbnail": "assets/LC-000225/front-thumbnail-57720a1d003c.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000225/front-small-51a3b23c86f7.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000225/front-thumbnail-57720a1d003c.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000225/front-large-a8672437164c.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000225/back-original.jpg",
+          "original": "assets/LC-000225/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191740.jpg",
+          "capturedAt": "2026-11-01T19:17:40+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fed1223a741a92da909441c00fe72c3848e071d7144fa660b9eef385493f562d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 969038,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000225/back-preview-31b8f505076b.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000226",
+      "title": "古龙作品全集（第36册）：情人箭（上）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 36,
+      "seriesLabel": "全套第36册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:17:48+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第36册，收录《情人箭（上）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "情人箭（上）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000226/front-original.jpg",
+          "original": "assets/LC-000226/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191748.jpg",
+          "capturedAt": "2026-11-01T19:17:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "013c2ce96fb6ec88c9891b52243de233e22326058fe578feb455dba8da41a2be",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 907423,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000226/front-preview-a11876814400.webp",
+          "thumbnail": "assets/LC-000226/front-thumbnail-e98899754bce.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000226/front-small-a64262789df6.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000226/front-thumbnail-e98899754bce.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000226/front-large-3dbc9e1249b0.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000226/back-original.jpg",
+          "original": "assets/LC-000226/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191753.jpg",
+          "capturedAt": "2026-11-01T19:17:53+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e6e898acae7f54afa641160c32dd3a566cecf2fc3e0ec61dcdce9599faebf01b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 835577,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000226/back-preview-6aa1ad173796.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000227",
+      "title": "古龙作品全集（第37册）：情人箭（下）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 37,
+      "seriesLabel": "全套第37册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:18:02+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第37册，收录《情人箭（下）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "情人箭（下）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000227/front-original.jpg",
+          "original": "assets/LC-000227/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191802.jpg",
+          "capturedAt": "2026-11-01T19:18:02+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "46593fcff0340953f2b5ad159fa1b449e82ff2692dc502a631087f80c3594586",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 853169,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000227/front-preview-b69e30ee79f0.webp",
+          "thumbnail": "assets/LC-000227/front-thumbnail-58ca58a2a7f0.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000227/front-small-fd60c0c21d6f.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000227/front-thumbnail-58ca58a2a7f0.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000227/front-large-6f17f7574560.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000227/back-original.jpg",
+          "original": "assets/LC-000227/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191808.jpg",
+          "capturedAt": "2026-11-01T19:18:08+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4de33e20bad84a59c3e31bc23c6041bf033eb9575c49a026bbfb9e88ca2e06d1",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 906649,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000227/back-preview-5747774eb6ba.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000228",
+      "title": "古龙作品全集（第38册）：孤星传",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 38,
+      "seriesLabel": "全套第38册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:18:56+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第38册，收录《孤星传》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "孤星传",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000228/front-original.jpg",
+          "original": "assets/LC-000228/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191856.jpg",
+          "capturedAt": "2026-11-01T19:18:56+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3779f9830c4241d0c0810755f6525b2135520131192c5890124ef5978188df33",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 854536,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000228/front-preview-fbbc7105f2d3.webp",
+          "thumbnail": "assets/LC-000228/front-thumbnail-a2ef59a66b2d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000228/front-small-a6c183d27455.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000228/front-thumbnail-a2ef59a66b2d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000228/front-large-c42d10d76426.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000228/back-original.jpg",
+          "original": "assets/LC-000228/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191901.jpg",
+          "capturedAt": "2026-11-01T19:19:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3b47a58ed4c00326b30abfc80f5b824ef944ba8c08ecebae20fdc6d9113177ab",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 953599,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000228/back-preview-80f8dfc75689.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000229",
+      "title": "古龙作品全集（第39册）：苍穹神剑",
+      "subtitle": "飘香剑雨",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 39,
+      "seriesLabel": "全套第39册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:19:11+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第39册，收录飘香剑雨。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "苍穹神剑",
+        "飘香剑雨"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000229/front-original.jpg",
+          "original": "assets/LC-000229/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191911.jpg",
+          "capturedAt": "2026-11-01T19:19:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d08b0c96e6a4dfaf055be6fd90cea26da8b035a3d03a45c0ec4aadb00bcd097b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 922924,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000229/front-preview-38495edee659.webp",
+          "thumbnail": "assets/LC-000229/front-thumbnail-ec1a055cb1d1.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000229/front-small-bc1a4ab3efe4.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000229/front-thumbnail-ec1a055cb1d1.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000229/front-large-abd86930a504.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000229/back-original.jpg",
+          "original": "assets/LC-000229/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191917.jpg",
+          "capturedAt": "2026-11-01T19:19:17+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7158c596ea98cd21d1cfc7c2371a7bd5db559191888f327269768cc947c1b7f2",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 962370,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000229/back-preview-2837e3f49800.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000230",
+      "title": "古龙作品全集（第40册）：湘妃剑",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 40,
+      "seriesLabel": "全套第40册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:19:27+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第40册，收录《湘妃剑》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "湘妃剑",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000230/front-original.jpg",
+          "original": "assets/LC-000230/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191927.jpg",
+          "capturedAt": "2026-11-01T19:19:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "da9bf0e67c2d00786d46cc434963b8de9c823020bcfc67613be03846fb334378",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 909544,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000230/front-preview-ad8b1fba2c94.webp",
+          "thumbnail": "assets/LC-000230/front-thumbnail-263b98b10fa5.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000230/front-small-d80a343b8e96.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000230/front-thumbnail-263b98b10fa5.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000230/front-large-d3eb1aa61c16.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000230/back-original.jpg",
+          "original": "assets/LC-000230/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191933.jpg",
+          "capturedAt": "2026-11-01T19:19:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d0c0dc8e21bd3c7326b039af274e131763bd5f588ea005e14c4aa7193cca63c4",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 936169,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000230/back-preview-e1baed5bbfa9.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000231",
+      "title": "古龙作品全集（第41册）：彩环曲",
+      "subtitle": "残金缺玉",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 41,
+      "seriesLabel": "全套第41册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:19:42+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第41册，收录残金缺玉。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "彩环曲",
+        "残金缺玉"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000231/front-original.jpg",
+          "original": "assets/LC-000231/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191942.jpg",
+          "capturedAt": "2026-11-01T19:19:42+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4036c34aa46801f4fbf5d21156adba2bf55f52220629960accc40deb8ba45237",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 956831,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000231/front-preview-afc87ebf6916.webp",
+          "thumbnail": "assets/LC-000231/front-thumbnail-546f99654d95.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000231/front-small-5f3d68968902.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000231/front-thumbnail-546f99654d95.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000231/front-large-0782d8174c1e.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000231/back-original.jpg",
+          "original": "assets/LC-000231/back-original.jpg",
+          "sourceFilename": "IMG_20261101_191950.jpg",
+          "capturedAt": "2026-11-01T19:19:50+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a18835d3783a88874d0e5cadcf7e3274e77b3f016b537f58dd46fb1dd176bfba",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 976165,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000231/back-preview-60e208c4f8d8.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000232",
+      "title": "古龙作品全集（第42册）：剑毒梅香（上）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 42,
+      "seriesLabel": "全套第42册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:19:58+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第42册，收录《剑毒梅香（上）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "剑毒梅香（上）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000232/front-original.jpg",
+          "original": "assets/LC-000232/front-original.jpg",
+          "sourceFilename": "IMG_20261101_191958.jpg",
+          "capturedAt": "2026-11-01T19:19:58+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d64d95838e5ce686b2dd225c64d0eab17f26cf1eb9aeea160c3c2ba8f85160f5",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 905362,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000232/front-preview-4c18f6018cec.webp",
+          "thumbnail": "assets/LC-000232/front-thumbnail-2411a852303e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000232/front-small-89701ee7e1db.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000232/front-thumbnail-2411a852303e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000232/front-large-426b02d0af6c.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000232/back-original.jpg",
+          "original": "assets/LC-000232/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192006.jpg",
+          "capturedAt": "2026-11-01T19:20:06+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fa5d2d90f3980c252d59f298825156d4e32bb8ad4e408c09a1f3072e13423da7",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 956817,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000232/back-preview-19cad7857a9c.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000233",
+      "title": "古龙作品全集（第43册）：剑毒梅香（下）",
+      "subtitle": "失魂引",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 43,
+      "seriesLabel": "全套第43册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:20:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第43册，收录失魂引。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "剑毒梅香（下）",
+        "失魂引"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000233/front-original.jpg",
+          "original": "assets/LC-000233/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192016.jpg",
+          "capturedAt": "2026-11-01T19:20:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0bd24784133b836f586f11a380867c2f296e7b6a67faefc88d4581152016da3a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 916920,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000233/front-preview-faf68a0baec2.webp",
+          "thumbnail": "assets/LC-000233/front-thumbnail-76810b4e8f53.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000233/front-small-e813eb05af4b.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000233/front-thumbnail-76810b4e8f53.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000233/front-large-6258527127ed.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000233/back-original.jpg",
+          "original": "assets/LC-000233/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192022.jpg",
+          "capturedAt": "2026-11-01T19:20:22+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c672f84c86c39c6e945326bd51e9d17422819435c80c554bebaa9500f281ff5e",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 978443,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000233/back-preview-99e4e596b85b.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000234",
+      "title": "古龙作品全集（第44册）：剑客行（上）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 44,
+      "seriesLabel": "全套第44册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:20:31+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第44册，收录《剑客行（上）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "剑客行（上）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000234/front-original.jpg",
+          "original": "assets/LC-000234/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192031.jpg",
+          "capturedAt": "2026-11-01T19:20:31+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a6ba1c00360333218d3dd6e9bd6d669f881ce3e2ca2350e4393511515bb674c5",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 906060,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000234/front-preview-be705279a524.webp",
+          "thumbnail": "assets/LC-000234/front-thumbnail-6c459b1a59f7.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000234/front-small-c49e0fd58539.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000234/front-thumbnail-6c459b1a59f7.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000234/front-large-67efe434b016.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000234/back-original.jpg",
+          "original": "assets/LC-000234/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192039.jpg",
+          "capturedAt": "2026-11-01T19:20:39+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0b2c633f0fa5491cf08f885f2807d9243d34492bfd4fdbffec0c58802e2344de",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 916713,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000234/back-preview-78269aaab453.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000235",
+      "title": "古龙作品全集（第45册）：剑客行（下）",
+      "subtitle": "游侠录",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 45,
+      "seriesLabel": "全套第45册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:20:51+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第45册，收录游侠录。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "剑客行（下）",
+        "游侠录"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000235/front-original.jpg",
+          "original": "assets/LC-000235/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192051.jpg",
+          "capturedAt": "2026-11-01T19:20:51+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "03f5decb815fc65e533d12c8eeb3bf517b9494e4a31ef5cefa2a14ec0ac58cf5",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 900475,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000235/front-preview-ccaeffa050f5.webp",
+          "thumbnail": "assets/LC-000235/front-thumbnail-c45d0b5cc438.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000235/front-small-5b33fa338583.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000235/front-thumbnail-c45d0b5cc438.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000235/front-large-e5cdabf545dd.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000235/back-original.jpg",
+          "original": "assets/LC-000235/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192057.jpg",
+          "capturedAt": "2026-11-01T19:20:57+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7cecd8a758af13d7249855279b7ac114bf363905e999934592f0251e62c2fda5",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 943306,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000235/back-preview-2fe965a15d79.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000236",
+      "title": "古龙作品全集（第46册）：血鹦鹉",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 46,
+      "seriesLabel": "全套第46册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:22:03+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第46册，收录《血鹦鹉》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "血鹦鹉",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000236/front-original.jpg",
+          "original": "assets/LC-000236/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192203.jpg",
+          "capturedAt": "2026-11-01T19:22:03+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1c39572ff9db1e1cd3215f3b5e25d80fb1e4d8bb1689c00a7416a97799fefa38",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 933779,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000236/front-preview-54fe9a9f2f9d.webp",
+          "thumbnail": "assets/LC-000236/front-thumbnail-cbb17072466d.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000236/front-small-dc342fb3e2cc.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000236/front-thumbnail-cbb17072466d.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000236/front-large-a5bf1b700a9e.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000236/back-original.jpg",
+          "original": "assets/LC-000236/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192208.jpg",
+          "capturedAt": "2026-11-01T19:22:08+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8c197bfd49f9b5d652a5089a615bdb73b8a3f2d5b8d86c9b8999722ab6ee5d4c",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 881637,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000236/back-preview-ab9a336483ab.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000237",
+      "title": "古龙作品全集（第47册）：碧血洗银枪",
+      "subtitle": "绝不低头",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 47,
+      "seriesLabel": "全套第47册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:22:15+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第47册，收录绝不低头。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "碧血洗银枪",
+        "绝不低头"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000237/front-original.jpg",
+          "original": "assets/LC-000237/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192215.jpg",
+          "capturedAt": "2026-11-01T19:22:15+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5ef8405bf0557b283b538553787ef08e14a5b2d380569b9d64fd57e507e48675",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 863184,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000237/front-preview-bd88e69825ef.webp",
+          "thumbnail": "assets/LC-000237/front-thumbnail-d1519640fd82.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000237/front-small-3900a12cb518.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000237/front-thumbnail-d1519640fd82.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000237/front-large-37f03074077e.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000237/back-original.jpg",
+          "original": "assets/LC-000237/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192220.jpg",
+          "capturedAt": "2026-11-01T19:22:20+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "52c33db7c9243ffa50540de6200c410fec9395feb2182d82f9e250e2ad9ab841",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 929936,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000237/back-preview-cdcfacaffce3.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000238",
+      "title": "古龙作品全集（第48册）：剑玄录（上）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 48,
+      "seriesLabel": "全套第48册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:22:28+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第48册，收录《剑玄录（上）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "剑玄录（上）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000238/front-original.jpg",
+          "original": "assets/LC-000238/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192228.jpg",
+          "capturedAt": "2026-11-01T19:22:28+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "65fdba07217e389235e2b447fee12a1fbca83fc40df6983a32a49efc089a3f34",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 893337,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000238/front-preview-309943b44357.webp",
+          "thumbnail": "assets/LC-000238/front-thumbnail-c9534d2a5b8a.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000238/front-small-4a19cbfecd1c.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000238/front-thumbnail-c9534d2a5b8a.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000238/front-large-85b7c31346af.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000238/back-original.jpg",
+          "original": "assets/LC-000238/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192234.jpg",
+          "capturedAt": "2026-11-01T19:22:34+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0ef7c2547eb6b8dcbf805fa18e0ca48be053a6c97b455225f8e170011dea1a0a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 969156,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000238/back-preview-89cbef708e85.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000239",
+      "title": "古龙作品全集（第49册）：剑玄录（下）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 49,
+      "seriesLabel": "全套第49册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:22:44+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第49册，收录《剑玄录（下）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "剑玄录（下）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000239/front-original.jpg",
+          "original": "assets/LC-000239/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192244.jpg",
+          "capturedAt": "2026-11-01T19:22:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1248ac73b1b153e764a4ed2593505fa2e4a26ce2559d1de38fa983e567375c88",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 877966,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000239/front-preview-14aa2b12a93b.webp",
+          "thumbnail": "assets/LC-000239/front-thumbnail-0e8e30e1a647.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000239/front-small-4fa44822514d.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000239/front-thumbnail-0e8e30e1a647.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000239/front-large-8b184e0abb63.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000239/back-original.jpg",
+          "original": "assets/LC-000239/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192251.jpg",
+          "capturedAt": "2026-11-01T19:22:51+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d452984fdf4e75d3135638a79ebef9f7c04b1cddb3405d4713167cbb6738e89b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 969396,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000239/back-preview-f00556d30256.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000240",
+      "title": "古龙作品全集（第50册）：欢乐英雄（上）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 50,
+      "seriesLabel": "全套第50册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:23:00+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第50册，收录《欢乐英雄（上）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "欢乐英雄（上）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000240/front-original.jpg",
+          "original": "assets/LC-000240/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192300.jpg",
+          "capturedAt": "2026-11-01T19:23:00+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d5fd82e372eda43cf429d9cbf496e84fbb993c8e77d66f61153d82e23cf0683d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 912899,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000240/front-preview-a39654f4133c.webp",
+          "thumbnail": "assets/LC-000240/front-thumbnail-7a9470697e19.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000240/front-small-9f48e2105704.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000240/front-thumbnail-7a9470697e19.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000240/front-large-e8ff7e7bd26f.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000240/back-original.jpg",
+          "original": "assets/LC-000240/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192306.jpg",
+          "capturedAt": "2026-11-01T19:23:06+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "795a6d75df5d04e0e36664588bdb03aa4fe7799fd364cfecc61f18c2148b0efe",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 842267,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000240/back-preview-adb0d44eb3eb.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000241",
+      "title": "古龙作品全集（第51册）：欢乐英雄（下）",
+      "subtitle": "七星龙王",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 51,
+      "seriesLabel": "全套第51册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:23:16+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第51册，收录七星龙王。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "欢乐英雄（下）",
+        "七星龙王"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000241/front-original.jpg",
+          "original": "assets/LC-000241/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192316.jpg",
+          "capturedAt": "2026-11-01T19:23:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "695cb1339f00b000c586a96a1ea5b22189cb2500539990e350c677d11d47b589",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 843377,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000241/front-preview-96e7a8988a03.webp",
+          "thumbnail": "assets/LC-000241/front-thumbnail-09ce60a98ed6.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000241/front-small-2e95f959e501.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000241/front-thumbnail-09ce60a98ed6.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000241/front-large-f740d75b779d.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000241/back-original.jpg",
+          "original": "assets/LC-000241/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192323.jpg",
+          "capturedAt": "2026-11-01T19:23:23+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8bc789f7b2c0c74810e572a9aabc7462777a6f932091931f754025ace1f767f6",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 951998,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000241/back-preview-d9a3d5911d2e.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000242",
+      "title": "古龙作品全集（第52册）：护花铃（上）",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 52,
+      "seriesLabel": "全套第52册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:23:32+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第52册，收录《护花铃（上）》。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "护花铃（上）",
+        ""
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000242/front-original.jpg",
+          "original": "assets/LC-000242/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192332.jpg",
+          "capturedAt": "2026-11-01T19:23:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "842f9c7044f48c8404b13f1ff81755d506f3ce64ba84229693be930e96ebf783",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 919247,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000242/front-preview-6422e2b9f033.webp",
+          "thumbnail": "assets/LC-000242/front-thumbnail-e7f679967a31.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000242/front-small-3266fec88042.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000242/front-thumbnail-e7f679967a31.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000242/front-large-a67504a1c44a.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000242/back-original.jpg",
+          "original": "assets/LC-000242/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192338.jpg",
+          "capturedAt": "2026-11-01T19:23:38+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "741c2787a972ef21f586cebb11c03a040e23fd93ea57aa03c59618d66719cf1c",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 776384,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000242/back-preview-5197785941fe.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
+    },
+    {
+      "id": "LC-000243",
+      "title": "古龙作品全集（第53册）：护花铃（下）",
+      "subtitle": "月异星邪",
+      "authors": [
+        {
+          "name": "古龙",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "太白文艺出版社",
+      "isbn": "9787806800522",
+      "category": "文学",
+      "tags": [
+        "文学",
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "古龙作品全集（太白文艺出版社，全53卷）",
+      "seriesGroupId": "gulong-taibai-53",
+      "seriesNumber": 53,
+      "seriesLabel": "全套第53册",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "publicationDate": null,
+      "edition": null,
+      "coverEditionLabel": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-01T19:23:46+08:00",
+      "readingStatus": null,
+      "location": null,
+      "notes": "书名及分篇据封面，套书ISBN和2980元全53卷定价据封底；总册号由同社53册馆藏目录辅助核对，非书脊实拍。版权页未展示，具体出版日期、版次印次不填。",
+      "description": "太白文艺出版社《古龙作品全集》全53卷中的第53册，收录月异星邪。",
+      "metadataSource": "用户实体书正反照片；总册序参考同社53册馆藏目录",
+      "titleAliases": [
+        "古龙作品全集",
+        "护花铃（下）",
+        "月异星邪"
+      ],
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000243/front-original.jpg",
+          "original": "assets/LC-000243/front-original.jpg",
+          "sourceFilename": "IMG_20261101_192346.jpg",
+          "capturedAt": "2026-11-01T19:23:46+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "661c3f16c8594766a43a540169a8370fb326c94165003e18ebeb4931f34b9239",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 948429,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000243/front-preview-014f9c5b25e2.webp",
+          "thumbnail": "assets/LC-000243/front-thumbnail-4d8df0371d8e.webp",
+          "sources": [
+            {
+              "width": 320,
+              "path": "assets/LC-000243/front-small-c9ab5854d560.webp"
+            },
+            {
+              "width": 480,
+              "path": "assets/LC-000243/front-thumbnail-4d8df0371d8e.webp"
+            },
+            {
+              "width": 720,
+              "path": "assets/LC-000243/front-large-54c696b7a114.webp"
+            }
+          ]
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000243/back-original.jpg",
+          "original": "assets/LC-000243/back-original.jpg",
+          "sourceFilename": "IMG_20261101_192352.jpg",
+          "capturedAt": "2026-11-01T19:23:52+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5d88a8c8cfde4a4745416e51c45c726e8396763daf1c47325bf2b3bd2b0ed803",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 837647,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致",
+          "preview": "assets/LC-000243/back-preview-70e08a2b86f5.webp"
+        }
+      ],
+      "condition": null,
+      "isbnScope": "全53卷套书共用ISBN；封底同时印ISBN-10：7-80680-052-2",
+      "priceGroupId": "gulong-taibai-53-price",
+      "referenceSources": [
+        {
+          "label": "华南师大附中图书馆：太白文艺出版社53册目录（早期版本，仅辅助册序核对）",
+          "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
+        }
+      ],
+      "physicalSetId": "gulong-taibai-53"
     }
   ],
   "seriesGroups": [
@@ -22293,7 +24800,7 @@
       "title": "古龙作品全集（太白文艺出版社，全53卷）",
       "shortTitle": "古龙作品全集",
       "kind": "系列作品",
-      "description": "整套53个实体册；当前收录已收到正反照片的第1至30册，不提前创建其余23册条目。总册号参考同社53册馆藏目录并结合封面分篇核对；具体版次印次未核实。"
+      "description": "整套53个实体册均已收录，每册附正反照片，共106张。总册号参考同社53册馆藏目录并结合封面分篇核对；具体版次印次未核实。"
     }
   ],
   "exchangeRates": {
@@ -22429,9 +24936,32 @@
         "LC-000217",
         "LC-000218",
         "LC-000219",
-        "LC-000220"
+        "LC-000220",
+        "LC-000221",
+        "LC-000222",
+        "LC-000223",
+        "LC-000224",
+        "LC-000225",
+        "LC-000226",
+        "LC-000227",
+        "LC-000228",
+        "LC-000229",
+        "LC-000230",
+        "LC-000231",
+        "LC-000232",
+        "LC-000233",
+        "LC-000234",
+        "LC-000235",
+        "LC-000236",
+        "LC-000237",
+        "LC-000238",
+        "LC-000239",
+        "LC-000240",
+        "LC-000241",
+        "LC-000242",
+        "LC-000243"
       ],
-      "source": "实拍封底明确标示2980元为全53卷套价，非已收录30册单价或实际支出；全套仅计一次。"
+      "source": "实拍封底明确标示2980元为全53卷套价，非单册价格或实际支出；全套仅计一次。"
     }
   ],
   "categoryOrder": [
