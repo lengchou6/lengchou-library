@@ -30,11 +30,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 24.0,
-      "paidPrice": null,
+      "paidPrice": 16,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T17:29:52+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -94,7 +94,11 @@
       "usageTags": [
         "民俗神话",
         "世界观参考"
-      ]
+      ],
+      "purchaseGroupId": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I83:J83"
     },
     {
       "id": "LC-000002",
@@ -125,11 +129,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49.0,
-      "paidPrice": null,
+      "paidPrice": 17.36,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-18T17:30:55+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -189,7 +193,11 @@
       "usageTags": [
         "角色塑造",
         "叙事结构"
-      ]
+      ],
+      "purchaseGroupId": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I25:J25"
     },
     {
       "id": "LC-000003",
@@ -220,11 +228,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 36.0,
-      "paidPrice": null,
+      "paidPrice": 43,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T17:38:51+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -284,7 +292,11 @@
       "usageTags": [
         "历史制度",
         "世界观参考"
-      ]
+      ],
+      "purchaseGroupId": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I122:J122"
     },
     {
       "id": "LC-000004",
@@ -1531,11 +1543,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 99,
-      "paidPrice": null,
+      "paidPrice": 81.33,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T19:03:26+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1598,7 +1610,10 @@
       "usageTags": [
         "玩法设计",
         "系统设计"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I46:J46"
     },
     {
       "id": "LC-000017",
@@ -1628,7 +1643,7 @@
       "seriesGroupId": "dnd-revised-core",
       "seriesNumber": 1,
       "seriesLabel": "玩家规则",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-124",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -1638,7 +1653,7 @@
       "currency": "USD",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "D&D Beyond＋中邮海外购转运",
       "accessionedAt": "2026-10-18T19:04:37+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1717,7 +1732,10 @@
       "usageTags": [
         "角色塑造",
         "规则设计"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "D&D byond+中邮海外购转运",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I124:J124"
     },
     {
       "id": "LC-000018",
@@ -1747,7 +1765,7 @@
       "seriesGroupId": "dnd-revised-core",
       "seriesNumber": 3,
       "seriesLabel": "怪物资料",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-124",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -1757,7 +1775,7 @@
       "currency": "USD",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "D&D Beyond＋中邮海外购转运",
       "accessionedAt": "2026-10-18T19:05:29+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1837,7 +1855,10 @@
       "usageTags": [
         "怪物设计",
         "世界观参考"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "D&D byond+中邮海外购转运",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I124:J124"
     },
     {
       "id": "LC-000019",
@@ -1867,7 +1888,7 @@
       "seriesGroupId": "dnd-revised-core",
       "seriesNumber": 2,
       "seriesLabel": "主持人指南",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-124",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -1877,7 +1898,7 @@
       "currency": "USD",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "D&D Beyond＋中邮海外购转运",
       "accessionedAt": "2026-10-18T19:05:59+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1957,7 +1978,10 @@
         "世界观参考",
         "叙事结构",
         "规则设计"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "D&D byond+中邮海外购转运",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I124:J124"
     },
     {
       "id": "LC-000020",
@@ -2198,11 +2222,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 59.9,
-      "paidPrice": null,
+      "paidPrice": 17,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T23:43:33+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2260,7 +2284,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I119:J119"
     },
     {
       "id": "LC-000023",
@@ -2402,11 +2429,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 58,
-      "paidPrice": null,
+      "paidPrice": 23.36,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·果麦",
       "accessionedAt": "2026-10-18T23:45:16+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2464,7 +2491,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 果麦",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I20:J20"
     },
     {
       "id": "LC-000025",
@@ -2503,11 +2533,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 68,
-      "paidPrice": null,
+      "paidPrice": 25.56,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·果麦",
       "accessionedAt": "2026-10-18T23:45:49+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2565,7 +2595,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 果麦",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I27:J27"
     },
     {
       "id": "LC-000026",
@@ -2604,11 +2637,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 68,
-      "paidPrice": null,
+      "paidPrice": 27.26,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·果麦",
       "accessionedAt": "2026-10-18T23:47:14+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2666,7 +2699,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 果麦",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I14:J14"
     },
     {
       "id": "LC-000027",
@@ -4271,10 +4307,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": null,
-      "paidPrice": null,
+      "paidPrice": 28,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T12:52:39+08:00",
       "readingStatus": null,
       "location": null,
@@ -4354,7 +4390,10 @@
         "零ZERRO",
         "世界符号大全"
       ],
-      "originalTitle": "ZERRO"
+      "originalTitle": "ZERRO",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I98:J98"
     },
     {
       "id": "LC-000043",
@@ -4385,7 +4424,7 @@
       "seriesGroupId": "oz-four-volume",
       "seriesNumber": 1,
       "seriesLabel": "第1集",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-134",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -4393,7 +4432,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T12:53:35+08:00",
       "readingStatus": null,
       "location": null,
@@ -4455,7 +4494,10 @@
       "physicalSetId": "oz-four-volume",
       "titleAliases": [
         "绿野仙踪1"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I134:J134"
     },
     {
       "id": "LC-000044",
@@ -4486,7 +4528,7 @@
       "seriesGroupId": "oz-four-volume",
       "seriesNumber": 2,
       "seriesLabel": "第2集",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-134",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -4494,7 +4536,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T12:54:05+08:00",
       "readingStatus": null,
       "location": null,
@@ -4556,7 +4598,10 @@
       "physicalSetId": "oz-four-volume",
       "titleAliases": [
         "绿野仙踪2"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I134:J134"
     },
     {
       "id": "LC-000045",
@@ -4587,7 +4632,7 @@
       "seriesGroupId": "oz-four-volume",
       "seriesNumber": 3,
       "seriesLabel": "第3集",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-134",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -4595,7 +4640,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T12:54:24+08:00",
       "readingStatus": null,
       "location": null,
@@ -4657,7 +4702,10 @@
       "physicalSetId": "oz-four-volume",
       "titleAliases": [
         "绿野仙踪3"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I134:J134"
     },
     {
       "id": "LC-000046",
@@ -4688,7 +4736,7 @@
       "seriesGroupId": "oz-four-volume",
       "seriesNumber": 4,
       "seriesLabel": "第4集",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-134",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -4696,7 +4744,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T12:54:46+08:00",
       "readingStatus": null,
       "location": null,
@@ -4758,7 +4806,10 @@
       "physicalSetId": "oz-four-volume",
       "titleAliases": [
         "绿野仙踪4"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I134:J134"
     },
     {
       "id": "LC-000047",
@@ -5446,7 +5497,7 @@
       "seriesNumber": 1,
       "seriesLabel": "第1部",
       "physicalSetId": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-127",
       "priceGroupId": null,
       "orientation": "portrait",
       "publicationDate": null,
@@ -5455,7 +5506,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T12:59:15+08:00",
       "readingStatus": null,
       "location": null,
@@ -5516,7 +5567,10 @@
       },
       "titleAliases": [
         "永恒之井"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I127:J127"
     },
     {
       "id": "LC-000054",
@@ -5557,7 +5611,7 @@
       "seriesNumber": 2,
       "seriesLabel": "第2部",
       "physicalSetId": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-127",
       "priceGroupId": null,
       "orientation": "portrait",
       "publicationDate": null,
@@ -5566,7 +5620,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T13:03:52+08:00",
       "readingStatus": null,
       "location": null,
@@ -5627,7 +5681,10 @@
       },
       "titleAliases": [
         "恶魔之魂"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I127:J127"
     },
     {
       "id": "LC-000055",
@@ -5666,7 +5723,7 @@
       "seriesNumber": 3,
       "seriesLabel": "第3部",
       "physicalSetId": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-127",
       "priceGroupId": null,
       "orientation": "portrait",
       "publicationDate": null,
@@ -5675,7 +5732,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T13:05:02+08:00",
       "readingStatus": null,
       "location": null,
@@ -5736,7 +5793,10 @@
       },
       "titleAliases": [
         "天崩地裂"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I127:J127"
     },
     {
       "id": "LC-000056",
@@ -5770,10 +5830,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 48,
-      "paidPrice": null,
+      "paidPrice": 22.38,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T13:21:49+08:00",
       "readingStatus": null,
       "location": null,
@@ -5831,7 +5891,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I88:J88"
     },
     {
       "id": "LC-000057",
@@ -6432,10 +6495,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 26,
-      "paidPrice": null,
+      "paidPrice": 96,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T13:35:43+08:00",
       "readingStatus": null,
       "location": null,
@@ -6493,7 +6556,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I44:J44"
     },
     {
       "id": "LC-000064",
@@ -6529,10 +6595,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49,
-      "paidPrice": null,
+      "paidPrice": 9,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T13:36:27+08:00",
       "readingStatus": null,
       "location": null,
@@ -6590,7 +6656,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I56:J56"
     },
     {
       "id": "LC-000065",
@@ -6626,10 +6695,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 65,
-      "paidPrice": null,
+      "paidPrice": 34.31,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T13:37:21+08:00",
       "readingStatus": null,
       "location": null,
@@ -6687,7 +6756,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I11:J11"
     },
     {
       "id": "LC-000066",
@@ -6725,10 +6797,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 36,
-      "paidPrice": null,
+      "paidPrice": 27.39,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T13:38:03+08:00",
       "readingStatus": null,
       "location": null,
@@ -6786,7 +6858,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I16:J16"
     },
     {
       "id": "LC-000067",
@@ -6822,10 +6897,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 129.8,
-      "paidPrice": null,
+      "paidPrice": 31,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T13:39:16+08:00",
       "readingStatus": null,
       "location": null,
@@ -6883,7 +6958,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I49:J49"
     },
     {
       "id": "LC-000068",
@@ -6915,7 +6993,7 @@
       "seriesGroupId": "save-the-cat",
       "seriesNumber": 1,
       "seriesLabel": "第1册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-18",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -6923,7 +7001,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-10-25T13:39:54+08:00",
       "readingStatus": null,
       "location": null,
@@ -6981,7 +7059,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I18:J18"
     },
     {
       "id": "LC-000069",
@@ -7013,7 +7094,7 @@
       "seriesGroupId": "save-the-cat",
       "seriesNumber": 2,
       "seriesLabel": "第2册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-18",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -7021,7 +7102,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-10-25T13:40:35+08:00",
       "readingStatus": null,
       "location": null,
@@ -7079,7 +7160,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I18:J18"
     },
     {
       "id": "LC-000070",
@@ -7111,7 +7195,7 @@
       "seriesGroupId": "save-the-cat",
       "seriesNumber": 3,
       "seriesLabel": "第3册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-18",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -7119,7 +7203,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-10-25T13:40:58+08:00",
       "readingStatus": null,
       "location": null,
@@ -7177,7 +7261,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I18:J18"
     },
     {
       "id": "LC-000071",
@@ -7214,10 +7301,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 28.8,
-      "paidPrice": null,
+      "paidPrice": 60.3,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T13:41:30+08:00",
       "readingStatus": null,
       "location": null,
@@ -7275,7 +7362,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I90:J90"
     },
     {
       "id": "LC-000072",
@@ -7311,10 +7401,10 @@
       "publicationDate": "2014-03-06",
       "edition": null,
       "listPrice": 14.99,
-      "paidPrice": null,
+      "paidPrice": 106,
       "currency": "GBP",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "小红书·澜瑞外文",
       "accessionedAt": "2026-10-25T14:31:11+08:00",
       "readingStatus": null,
       "location": null,
@@ -7398,7 +7488,10 @@
           "amount": 31.99,
           "region": "加拿大"
         }
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "澜瑞外文",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!K153、J153"
     },
     {
       "id": "LC-000073",
@@ -7432,10 +7525,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 16,
-      "paidPrice": null,
+      "paidPrice": 221.66,
       "currency": "EUR",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "意大利书店 La Feltrinelli",
       "accessionedAt": "2026-10-25T14:31:41+08:00",
       "readingStatus": null,
       "location": null,
@@ -7507,7 +7600,11 @@
           "label": "意大利天主教圣心大学书店：本版ISBN与出版社",
           "url": "https://librerie.unicatt.it/scheda-libro/goliarda-sapienza/larte-della-gioia-9788806219673-210778.html"
         }
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "意大利书店La Feltrinelli",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!N152、J152",
+      "purchaseAmountScope": "含关税及服务/物流费用；人民币合计以用户书单记录为准。"
     },
     {
       "id": "LC-000074",
@@ -8030,10 +8127,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49.8,
-      "paidPrice": null,
+      "paidPrice": 20.12,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝",
       "accessionedAt": "2026-10-25T15:09:39+08:00",
       "readingStatus": null,
       "location": null,
@@ -8096,7 +8193,10 @@
         "山海经",
         "山海经 全译"
       ],
-      "coverEditionLabel": "全译"
+      "coverEditionLabel": "全译",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I75:J75"
     },
     {
       "id": "LC-000080",
@@ -8133,10 +8233,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 86,
-      "paidPrice": null,
+      "paidPrice": 36.23,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-10-25T15:10:50+08:00",
       "readingStatus": null,
       "location": null,
@@ -8195,7 +8295,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "Sumerian Mythology"
+      "originalTitle": "Sumerian Mythology",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I85:J85"
     },
     {
       "id": "LC-000081",
@@ -8224,7 +8327,7 @@
       "seriesGroupId": "chinese-currency-history",
       "seriesNumber": 1,
       "seriesLabel": "上册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-95",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -8232,7 +8335,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-25T15:11:19+08:00",
       "readingStatus": null,
       "location": null,
@@ -8293,7 +8396,10 @@
       },
       "isbnScope": "全两册套书ISBN，据下册封底；非单册独立ISBN",
       "physicalSetId": "chinese-currency-history-set",
-      "priceGroupId": "chinese-currency-history-price"
+      "priceGroupId": "chinese-currency-history-price",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I95:J95"
     },
     {
       "id": "LC-000082",
@@ -8329,10 +8435,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 59.9,
-      "paidPrice": null,
+      "paidPrice": 18.18,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-10-25T15:12:07+08:00",
       "readingStatus": null,
       "location": null,
@@ -8395,7 +8501,10 @@
       "titleAliases": [
         "仿生人会梦见电子羊吗",
         "银翼杀手原著"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I104:J104"
     },
     {
       "id": "LC-000083",
@@ -8433,10 +8542,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 88,
-      "paidPrice": null,
+      "paidPrice": 55.12,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T15:13:29+08:00",
       "readingStatus": null,
       "location": null,
@@ -8496,7 +8605,10 @@
         "assessedOn": "2026-10-25"
       },
       "originalTitle": "Film Directing Shot by Shot",
-      "coverEditionLabel": "25周年纪念版"
+      "coverEditionLabel": "25周年纪念版",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I29:J29"
     },
     {
       "id": "LC-000084",
@@ -8532,10 +8644,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 69,
-      "paidPrice": null,
+      "paidPrice": 26,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T15:14:05+08:00",
       "readingStatus": null,
       "location": null,
@@ -8594,7 +8706,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "FPS Level Design"
+      "originalTitle": "FPS Level Design",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I54:J54"
     },
     {
       "id": "LC-000085",
@@ -8635,10 +8750,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 119.9,
-      "paidPrice": null,
+      "paidPrice": 43,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·博库",
       "accessionedAt": "2026-10-25T15:15:04+08:00",
       "readingStatus": null,
       "location": null,
@@ -8697,7 +8812,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "Game Mechanics: Advanced Game Design"
+      "originalTitle": "Game Mechanics: Advanced Game Design",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 博库",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I62:J62"
     },
     {
       "id": "LC-000086",
@@ -8734,10 +8852,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 35,
-      "paidPrice": null,
+      "paidPrice": 23,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T15:15:51+08:00",
       "readingStatus": null,
       "location": null,
@@ -8796,7 +8914,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "Level Design for Games: Creating Compelling Game Experiences"
+      "originalTitle": "Level Design for Games: Creating Compelling Game Experiences",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I51:J51"
     },
     {
       "id": "LC-000087",
@@ -8834,10 +8955,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 69,
-      "paidPrice": null,
+      "paidPrice": 72,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T15:16:16+08:00",
       "readingStatus": null,
       "location": null,
@@ -8901,7 +9022,10 @@
         "全景探秘 游戏设计艺术",
         "游戏设计艺术",
         "透镜游戏设计"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I59:J59"
     },
     {
       "id": "LC-000088",
@@ -8937,10 +9061,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 58,
-      "paidPrice": null,
+      "paidPrice": 22.13,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝",
       "accessionedAt": "2026-10-25T15:16:41+08:00",
       "readingStatus": null,
       "location": null,
@@ -8999,7 +9123,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "The Minority Report"
+      "originalTitle": "The Minority Report",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I107:J107"
     },
     {
       "id": "LC-000089",
@@ -9028,7 +9155,7 @@
       "seriesGroupId": "chinese-currency-history",
       "seriesNumber": 2,
       "seriesLabel": "下册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-95",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -9036,7 +9163,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-25T15:38:17+08:00",
       "readingStatus": null,
       "location": null,
@@ -9097,7 +9224,10 @@
       },
       "isbnScope": "全两册套书ISBN，据下册封底；非单册独立ISBN",
       "physicalSetId": "chinese-currency-history-set",
-      "priceGroupId": "chinese-currency-history-price"
+      "priceGroupId": "chinese-currency-history-price",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I95:J95"
     },
     {
       "id": "LC-000090",
@@ -9133,10 +9263,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 168,
-      "paidPrice": null,
+      "paidPrice": 84.61,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T15:39:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -9196,7 +9326,10 @@
         "assessedOn": "2026-10-25"
       },
       "coverEditionLabel": "第4版",
-      "originalTitle": "Game Design Workshop: A Playcentric Approach to Creating Innovative Games"
+      "originalTitle": "Game Design Workshop: A Playcentric Approach to Creating Innovative Games",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I36:J36"
     },
     {
       "id": "LC-000091",
@@ -9239,10 +9372,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49,
-      "paidPrice": null,
+      "paidPrice": 10,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T15:40:36+08:00",
       "readingStatus": null,
       "location": null,
@@ -9301,7 +9434,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "Game Development Essentials: Game Story and Character Development"
+      "originalTitle": "Game Development Essentials: Game Story and Character Development",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I9:J9"
     },
     {
       "id": "LC-000092",
@@ -9337,10 +9473,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 79,
-      "paidPrice": null,
+      "paidPrice": 35.51,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T15:41:15+08:00",
       "readingStatus": null,
       "location": null,
@@ -9399,7 +9535,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "Designing Games: A Guide to Engineering Experiences"
+      "originalTitle": "Designing Games: A Guide to Engineering Experiences",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I39:J39"
     },
     {
       "id": "LC-000093",
@@ -9433,10 +9572,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 79,
-      "paidPrice": null,
+      "paidPrice": 35.15,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T15:41:55+08:00",
       "readingStatus": null,
       "location": null,
@@ -9494,7 +9633,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I42:J42"
     },
     {
       "id": "LC-000094",
@@ -9528,10 +9670,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 65,
-      "paidPrice": null,
+      "paidPrice": 28.29,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T15:42:37+08:00",
       "readingStatus": null,
       "location": null,
@@ -9589,7 +9731,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I41:J41"
     },
     {
       "id": "LC-000095",
@@ -9625,10 +9770,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 118.9,
-      "paidPrice": null,
+      "paidPrice": 47.28,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T15:43:11+08:00",
       "readingStatus": null,
       "location": null,
@@ -9687,7 +9832,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "The Hero with a Thousand Faces"
+      "originalTitle": "The Hero with a Thousand Faces",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I23:J23"
     },
     {
       "id": "LC-000096",
@@ -9736,10 +9884,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 79,
-      "paidPrice": null,
+      "paidPrice": 35.15,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·新华文轩",
       "accessionedAt": "2026-10-25T15:43:49+08:00",
       "readingStatus": null,
       "location": null,
@@ -9798,7 +9946,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "The Art of Game Analytics"
+      "originalTitle": "The Art of Game Analytics",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 新华文轩",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I64:J64"
     },
     {
       "id": "LC-000097",
@@ -9832,10 +9983,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 68,
-      "paidPrice": null,
+      "paidPrice": 22.36,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-10-25T15:44:43+08:00",
       "readingStatus": null,
       "location": null,
@@ -9893,7 +10044,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I70:J70"
     },
     {
       "id": "LC-000098",
@@ -9935,10 +10089,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 75,
-      "paidPrice": null,
+      "paidPrice": 30,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T15:45:33+08:00",
       "readingStatus": null,
       "location": null,
@@ -9997,7 +10151,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "Slay the Dragon: Writing Great Video Games"
+      "originalTitle": "Slay the Dragon: Writing Great Video Games",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I6:J6"
     },
     {
       "id": "LC-000099",
@@ -10033,10 +10190,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 39,
-      "paidPrice": null,
+      "paidPrice": 17.69,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-10-25T15:46:03+08:00",
       "readingStatus": null,
       "location": null,
@@ -10099,7 +10256,10 @@
       "titleAliases": [
         "太安万侣",
         "Kojiki"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I80:J80"
     },
     {
       "id": "LC-000100",
@@ -10133,10 +10293,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49.8,
-      "paidPrice": null,
+      "paidPrice": 26.9,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T15:46:33+08:00",
       "readingStatus": null,
       "location": null,
@@ -10194,7 +10354,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I73:J73"
     },
     {
       "id": "LC-000101",
@@ -10228,10 +10391,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 198,
-      "paidPrice": null,
+      "paidPrice": 70,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-27T23:14:09+08:00",
       "readingStatus": null,
       "location": null,
@@ -10294,7 +10457,10 @@
       "titleAliases": [
         "H. P. Lovecraft",
         "克苏鲁"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I78:J78"
     },
     {
       "id": "LC-000102",
@@ -12805,10 +12971,10 @@
       "edition": null,
       "coverEditionLabel": "文景精装插图典藏版",
       "listPrice": 628,
-      "paidPrice": null,
+      "paidPrice": 200.92,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "抖音·当当网",
       "accessionedAt": "2026-10-28T00:09:16+08:00",
       "readingStatus": null,
       "location": null,
@@ -12904,7 +13070,10 @@
         "LC-000132",
         "LC-000133"
       ],
-      "photoScope": "set"
+      "photoScope": "set",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "抖 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I114:J114"
     },
     {
       "id": "LC-000134",
@@ -13443,10 +13612,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 26,
-      "paidPrice": null,
+      "paidPrice": 19.5,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网",
       "accessionedAt": "2026-10-28T20:00:27+08:00",
       "readingStatus": null,
       "location": null,
@@ -13503,7 +13672,10 @@
           "preview": "assets/LC-000139/back-preview-615ee22a90a4.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I112:J112"
     },
     {
       "id": "LC-000140",
@@ -18666,7 +18838,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 1,
       "seriesLabel": "全套第1册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18675,7 +18847,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:01:47+08:00",
       "readingStatus": null,
       "location": null,
@@ -18753,7 +18925,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000192",
@@ -18783,7 +18958,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 2,
       "seriesLabel": "全套第2册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18792,7 +18967,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:02:10+08:00",
       "readingStatus": null,
       "location": null,
@@ -18870,7 +19045,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000193",
@@ -18900,7 +19078,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 3,
       "seriesLabel": "全套第3册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18909,7 +19087,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:02:38+08:00",
       "readingStatus": null,
       "location": null,
@@ -18987,7 +19165,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000194",
@@ -19017,7 +19198,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 4,
       "seriesLabel": "全套第4册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19026,7 +19207,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:03:13+08:00",
       "readingStatus": null,
       "location": null,
@@ -19104,7 +19285,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000195",
@@ -19134,7 +19318,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 5,
       "seriesLabel": "全套第5册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19143,7 +19327,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:04:19+08:00",
       "readingStatus": null,
       "location": null,
@@ -19221,7 +19405,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000196",
@@ -19251,7 +19438,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 6,
       "seriesLabel": "全套第6册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19260,7 +19447,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:06:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -19338,7 +19525,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000197",
@@ -19368,7 +19558,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 7,
       "seriesLabel": "全套第7册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19377,7 +19567,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:06:53+08:00",
       "readingStatus": null,
       "location": null,
@@ -19455,7 +19645,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000198",
@@ -19485,7 +19678,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 8,
       "seriesLabel": "全套第8册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19494,7 +19687,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:07:13+08:00",
       "readingStatus": null,
       "location": null,
@@ -19572,7 +19765,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000199",
@@ -19602,7 +19798,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 9,
       "seriesLabel": "全套第9册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19611,7 +19807,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:07:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -19689,7 +19885,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000200",
@@ -19719,7 +19918,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 10,
       "seriesLabel": "全套第10册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19728,7 +19927,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:07:50+08:00",
       "readingStatus": null,
       "location": null,
@@ -19806,7 +20005,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000201",
@@ -19836,7 +20038,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 11,
       "seriesLabel": "全套第11册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19845,7 +20047,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:08:24+08:00",
       "readingStatus": null,
       "location": null,
@@ -19923,7 +20125,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000202",
@@ -19953,7 +20158,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 12,
       "seriesLabel": "全套第12册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -19962,7 +20167,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:09:37+08:00",
       "readingStatus": null,
       "location": null,
@@ -20040,7 +20245,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000203",
@@ -20070,7 +20278,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 13,
       "seriesLabel": "全套第13册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20079,7 +20287,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:09:56+08:00",
       "readingStatus": null,
       "location": null,
@@ -20157,7 +20365,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000204",
@@ -20187,7 +20398,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 14,
       "seriesLabel": "全套第14册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20196,7 +20407,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:10:14+08:00",
       "readingStatus": null,
       "location": null,
@@ -20274,7 +20485,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000205",
@@ -20304,7 +20518,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 15,
       "seriesLabel": "全套第15册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20313,7 +20527,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:10:31+08:00",
       "readingStatus": null,
       "location": null,
@@ -20391,7 +20605,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000206",
@@ -20421,7 +20638,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 16,
       "seriesLabel": "全套第16册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20430,7 +20647,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:10:50+08:00",
       "readingStatus": null,
       "location": null,
@@ -20508,7 +20725,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000207",
@@ -20538,7 +20758,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 17,
       "seriesLabel": "全套第17册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20547,7 +20767,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T16:11:07+08:00",
       "readingStatus": null,
       "location": null,
@@ -20625,7 +20845,10 @@
           "url": "https://shop.kongfz.com/1620/all/0_50_0_0_9_sort_desc_0_0/"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000208",
@@ -20655,7 +20878,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 18,
       "seriesLabel": "全套第18册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20664,7 +20887,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:21:03+08:00",
       "readingStatus": null,
       "location": null,
@@ -20734,7 +20957,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000209",
@@ -20764,7 +20990,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 19,
       "seriesLabel": "全套第19册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20773,7 +20999,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:21:26+08:00",
       "readingStatus": null,
       "location": null,
@@ -20843,7 +21069,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000210",
@@ -20873,7 +21102,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 20,
       "seriesLabel": "全套第20册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20882,7 +21111,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:21:52+08:00",
       "readingStatus": null,
       "location": null,
@@ -20952,7 +21181,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000211",
@@ -20982,7 +21214,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 21,
       "seriesLabel": "全套第21册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -20991,7 +21223,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:22:15+08:00",
       "readingStatus": null,
       "location": null,
@@ -21061,7 +21293,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000212",
@@ -21091,7 +21326,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 22,
       "seriesLabel": "全套第22册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21100,7 +21335,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:22:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -21170,7 +21405,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000213",
@@ -21200,7 +21438,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 23,
       "seriesLabel": "全套第23册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21209,7 +21447,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:22:48+08:00",
       "readingStatus": null,
       "location": null,
@@ -21279,7 +21517,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000214",
@@ -21309,7 +21550,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 24,
       "seriesLabel": "全套第24册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21318,7 +21559,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:23:26+08:00",
       "readingStatus": null,
       "location": null,
@@ -21388,7 +21629,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000215",
@@ -21418,7 +21662,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 25,
       "seriesLabel": "全套第25册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21427,7 +21671,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:23:48+08:00",
       "readingStatus": null,
       "location": null,
@@ -21497,7 +21741,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000216",
@@ -21527,7 +21774,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 26,
       "seriesLabel": "全套第26册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21536,7 +21783,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:24:03+08:00",
       "readingStatus": null,
       "location": null,
@@ -21606,7 +21853,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000217",
@@ -21636,7 +21886,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 27,
       "seriesLabel": "全套第27册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21645,7 +21895,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:24:17+08:00",
       "readingStatus": null,
       "location": null,
@@ -21715,7 +21965,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000218",
@@ -21745,7 +21998,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 28,
       "seriesLabel": "全套第28册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21754,7 +22007,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:24:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -21824,7 +22077,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000219",
@@ -21854,7 +22110,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 29,
       "seriesLabel": "全套第29册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21863,7 +22119,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:24:50+08:00",
       "readingStatus": null,
       "location": null,
@@ -21933,7 +22189,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000220",
@@ -21963,7 +22222,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 30,
       "seriesLabel": "全套第30册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -21972,7 +22231,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T18:25:04+08:00",
       "readingStatus": null,
       "location": null,
@@ -22042,7 +22301,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000221",
@@ -22072,7 +22334,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 31,
       "seriesLabel": "全套第31册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22081,7 +22343,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:16:14+08:00",
       "readingStatus": null,
       "location": null,
@@ -22151,7 +22413,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000222",
@@ -22181,7 +22446,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 32,
       "seriesLabel": "全套第32册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22190,7 +22455,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:16:35+08:00",
       "readingStatus": null,
       "location": null,
@@ -22260,7 +22525,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000223",
@@ -22290,7 +22558,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 33,
       "seriesLabel": "全套第33册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22299,7 +22567,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:16:55+08:00",
       "readingStatus": null,
       "location": null,
@@ -22369,7 +22637,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000224",
@@ -22399,7 +22670,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 34,
       "seriesLabel": "全套第34册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22408,7 +22679,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:17:14+08:00",
       "readingStatus": null,
       "location": null,
@@ -22478,7 +22749,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000225",
@@ -22508,7 +22782,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 35,
       "seriesLabel": "全套第35册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22517,7 +22791,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:17:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -22587,7 +22861,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000226",
@@ -22617,7 +22894,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 36,
       "seriesLabel": "全套第36册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22626,7 +22903,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:17:48+08:00",
       "readingStatus": null,
       "location": null,
@@ -22696,7 +22973,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000227",
@@ -22726,7 +23006,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 37,
       "seriesLabel": "全套第37册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22735,7 +23015,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:18:02+08:00",
       "readingStatus": null,
       "location": null,
@@ -22805,7 +23085,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000228",
@@ -22835,7 +23118,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 38,
       "seriesLabel": "全套第38册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22844,7 +23127,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:18:56+08:00",
       "readingStatus": null,
       "location": null,
@@ -22914,7 +23197,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000229",
@@ -22944,7 +23230,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 39,
       "seriesLabel": "全套第39册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -22953,7 +23239,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:19:11+08:00",
       "readingStatus": null,
       "location": null,
@@ -23023,7 +23309,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000230",
@@ -23053,7 +23342,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 40,
       "seriesLabel": "全套第40册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23062,7 +23351,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:19:27+08:00",
       "readingStatus": null,
       "location": null,
@@ -23132,7 +23421,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000231",
@@ -23162,7 +23454,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 41,
       "seriesLabel": "全套第41册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23171,7 +23463,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:19:42+08:00",
       "readingStatus": null,
       "location": null,
@@ -23241,7 +23533,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000232",
@@ -23271,7 +23566,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 42,
       "seriesLabel": "全套第42册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23280,7 +23575,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:19:58+08:00",
       "readingStatus": null,
       "location": null,
@@ -23350,7 +23645,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000233",
@@ -23380,7 +23678,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 43,
       "seriesLabel": "全套第43册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23389,7 +23687,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:20:16+08:00",
       "readingStatus": null,
       "location": null,
@@ -23459,7 +23757,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000234",
@@ -23489,7 +23790,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 44,
       "seriesLabel": "全套第44册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23498,7 +23799,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:20:31+08:00",
       "readingStatus": null,
       "location": null,
@@ -23568,7 +23869,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000235",
@@ -23598,7 +23902,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 45,
       "seriesLabel": "全套第45册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23607,7 +23911,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:20:51+08:00",
       "readingStatus": null,
       "location": null,
@@ -23677,7 +23981,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000236",
@@ -23707,7 +24014,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 46,
       "seriesLabel": "全套第46册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23716,7 +24023,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:22:03+08:00",
       "readingStatus": null,
       "location": null,
@@ -23786,7 +24093,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000237",
@@ -23816,7 +24126,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 47,
       "seriesLabel": "全套第47册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23825,7 +24135,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:22:15+08:00",
       "readingStatus": null,
       "location": null,
@@ -23895,7 +24205,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000238",
@@ -23925,7 +24238,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 48,
       "seriesLabel": "全套第48册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -23934,7 +24247,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:22:28+08:00",
       "readingStatus": null,
       "location": null,
@@ -24004,7 +24317,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000239",
@@ -24034,7 +24350,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 49,
       "seriesLabel": "全套第49册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -24043,7 +24359,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:22:44+08:00",
       "readingStatus": null,
       "location": null,
@@ -24113,7 +24429,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000240",
@@ -24143,7 +24462,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 50,
       "seriesLabel": "全套第50册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -24152,7 +24471,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:23:00+08:00",
       "readingStatus": null,
       "location": null,
@@ -24222,7 +24541,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000241",
@@ -24252,7 +24574,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 51,
       "seriesLabel": "全套第51册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -24261,7 +24583,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:23:16+08:00",
       "readingStatus": null,
       "location": null,
@@ -24331,7 +24653,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000242",
@@ -24361,7 +24686,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 52,
       "seriesLabel": "全套第52册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -24370,7 +24695,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:23:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -24440,7 +24765,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000243",
@@ -24470,7 +24798,7 @@
       "seriesGroupId": "gulong-taibai-53",
       "seriesNumber": 53,
       "seriesLabel": "全套第53册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-133",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -24479,7 +24807,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T19:23:46+08:00",
       "readingStatus": null,
       "location": null,
@@ -24549,7 +24877,10 @@
           "url": "https://library.hsfz.net.cn/userlib/bookinfo.asp?bookid=20050760"
         }
       ],
-      "physicalSetId": "gulong-taibai-53"
+      "physicalSetId": "gulong-taibai-53",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
     },
     {
       "id": "LC-000244",
@@ -24586,11 +24917,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 62,
-      "paidPrice": null,
+      "paidPrice": 28.83,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T22:17:35+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -24647,7 +24978,10 @@
           "preview": "assets/LC-000244/back-preview-f4e50d1941e1.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I117:J117"
     },
     {
       "id": "LC-000245",
@@ -24684,11 +25018,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 69,
-      "paidPrice": null,
+      "paidPrice": 21.95,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T22:18:28+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -24745,7 +25079,10 @@
           "preview": "assets/LC-000245/back-preview-ee624a3452f9.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘 当当网",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I109:J109"
     },
     {
       "id": "LC-000246",
@@ -24782,11 +25119,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 45,
-      "paidPrice": null,
+      "paidPrice": 51,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:18:45+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -24843,7 +25180,10 @@
           "preview": "assets/LC-000246/back-preview-276a3702cf41.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I93:J93"
     },
     {
       "id": "LC-000247",
@@ -25664,7 +26004,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 1,
       "seriesLabel": "第1卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25674,7 +26014,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:24:16+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -25734,7 +26074,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000256",
@@ -25763,7 +26106,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 2,
       "seriesLabel": "第2卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25773,7 +26116,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:29:47+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -25833,7 +26176,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000257",
@@ -25862,7 +26208,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 3,
       "seriesLabel": "第3卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25872,7 +26218,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:30:05+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -25932,7 +26278,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000258",
@@ -25961,7 +26310,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 4,
       "seriesLabel": "第4卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25971,7 +26320,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:30:26+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26031,7 +26380,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000259",
@@ -26060,7 +26412,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 5,
       "seriesLabel": "第5卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26070,7 +26422,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:30:44+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26130,7 +26482,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000260",
@@ -26159,7 +26514,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 6,
       "seriesLabel": "第6卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26169,7 +26524,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:31:06+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26229,7 +26584,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000261",
@@ -26258,7 +26616,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 7,
       "seriesLabel": "第7卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26268,7 +26626,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:31:26+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26328,7 +26686,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000262",
@@ -26357,7 +26718,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 8,
       "seriesLabel": "第8卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26367,7 +26728,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:31:43+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26427,7 +26788,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000263",
@@ -26456,7 +26820,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 9,
       "seriesLabel": "第9卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26466,7 +26830,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:31:56+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26526,7 +26890,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000264",
@@ -26555,7 +26922,7 @@
       "seriesGroupId": "shushan-beiyue",
       "seriesNumber": 10,
       "seriesLabel": "第10卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-130",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26565,7 +26932,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-01T22:32:11+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26625,7 +26992,10 @@
       "condition": null,
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I130:J130"
     },
     {
       "id": "LC-000265",
@@ -26654,7 +27024,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 1,
       "seriesLabel": "书剑恩仇录（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26664,7 +27034,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:44:22+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26707,7 +27077,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-1-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《书剑恩仇录》全2册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《书剑恩仇录》全2册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000266",
@@ -26736,7 +27109,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 2,
       "seriesLabel": "书剑恩仇录（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26746,7 +27119,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:44:47+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26789,7 +27162,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-1-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《书剑恩仇录》全2册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《书剑恩仇录》全2册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000267",
@@ -26818,7 +27194,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 3,
       "seriesLabel": "碧血剑（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26828,7 +27204,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:45:08+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26871,7 +27247,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-2-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《碧血剑》全2册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《碧血剑》全2册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000268",
@@ -26900,7 +27279,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 4,
       "seriesLabel": "碧血剑（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26910,7 +27289,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:45:37+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26953,7 +27332,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-2-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《碧血剑》全2册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《碧血剑》全2册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000269",
@@ -26982,7 +27364,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 5,
       "seriesLabel": "射雕英雄传（一）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26992,7 +27374,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:46:17+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27035,7 +27417,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-3-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000270",
@@ -27064,7 +27449,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 6,
       "seriesLabel": "射雕英雄传（二）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27074,7 +27459,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:46:34+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27117,7 +27502,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-3-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000271",
@@ -27146,7 +27534,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 7,
       "seriesLabel": "射雕英雄传（三）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27156,7 +27544,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:46:52+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27199,7 +27587,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-3-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000272",
@@ -27228,7 +27619,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 8,
       "seriesLabel": "射雕英雄传（四）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27238,7 +27629,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:47:10+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27281,7 +27672,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-3-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000273",
@@ -27310,7 +27704,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 9,
       "seriesLabel": "神雕侠侣（一）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27320,7 +27714,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:47:29+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27363,7 +27757,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-4-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000274",
@@ -27392,7 +27789,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 10,
       "seriesLabel": "神雕侠侣（二）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27402,7 +27799,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:47:48+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27445,7 +27842,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-4-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000275",
@@ -27474,7 +27874,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 11,
       "seriesLabel": "神雕侠侣（三）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27484,7 +27884,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:48:09+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27527,7 +27927,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-4-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000276",
@@ -27556,7 +27959,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 12,
       "seriesLabel": "神雕侠侣（四）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27566,7 +27969,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:48:26+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27609,7 +28012,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-4-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000277",
@@ -27638,7 +28044,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 13,
       "seriesLabel": "雪山飞狐",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27648,7 +28054,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:49:18+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27691,7 +28097,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-5-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "取自本册封底"
+      "isbnScope": "取自本册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000278",
@@ -27720,7 +28129,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 14,
       "seriesLabel": "飞狐外传（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27730,7 +28139,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:49:37+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27776,7 +28185,10 @@
       "isbnScope": "《飞狐外传》全2册共用ISBN，依据用户核对版权页确认",
       "reprintDate": "1995-08",
       "reprintDatePrecision": "month",
-      "printedIsbn": "7-108-00669-3"
+      "printedIsbn": "7-108-00669-3",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000279",
@@ -27805,7 +28217,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 15,
       "seriesLabel": "飞狐外传（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27815,7 +28227,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:49:55+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27861,7 +28273,10 @@
       "isbnScope": "《飞狐外传》全2册共用ISBN，依据用户核对版权页确认",
       "reprintDate": "1995-08",
       "reprintDatePrecision": "month",
-      "printedIsbn": "7-108-00669-3"
+      "printedIsbn": "7-108-00669-3",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000280",
@@ -27890,7 +28305,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 16,
       "seriesLabel": "倚天屠龙记（一）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27900,7 +28315,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:50:11+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -27943,7 +28358,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-7-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000281",
@@ -27972,7 +28390,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 17,
       "seriesLabel": "倚天屠龙记（二）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -27982,7 +28400,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:50:25+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28025,7 +28443,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-7-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000282",
@@ -28054,7 +28475,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 18,
       "seriesLabel": "倚天屠龙记（三）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28064,7 +28485,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:50:42+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28107,7 +28528,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-7-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000283",
@@ -28136,7 +28560,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 19,
       "seriesLabel": "倚天屠龙记（四）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28146,7 +28570,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:50:59+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28189,7 +28613,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-7-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000284",
@@ -28218,7 +28645,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 20,
       "seriesLabel": "连城诀",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28228,7 +28655,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T22:51:42+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28271,7 +28698,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-8-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "取自本册封底"
+      "isbnScope": "取自本册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000285",
@@ -28300,7 +28730,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 21,
       "seriesLabel": "天龙八部（一）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28310,7 +28740,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:01:00+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28353,7 +28783,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-9-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000286",
@@ -28382,7 +28815,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 22,
       "seriesLabel": "天龙八部（二）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28392,7 +28825,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:01:23+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28435,7 +28868,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-9-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000287",
@@ -28464,7 +28900,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 23,
       "seriesLabel": "天龙八部（三）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28474,7 +28910,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:01:41+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28517,7 +28953,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-9-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000288",
@@ -28546,7 +28985,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 24,
       "seriesLabel": "天龙八部（四）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28556,7 +28995,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:02:01+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28599,7 +29038,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-9-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000289",
@@ -28628,7 +29070,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 25,
       "seriesLabel": "天龙八部（五）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28638,7 +29080,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:02:21+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28681,7 +29123,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-9-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000290",
@@ -28710,7 +29155,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 26,
       "seriesLabel": "侠客行（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28720,7 +29165,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:02:40+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28763,7 +29208,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-10-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《侠客行》全2册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《侠客行》全2册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000291",
@@ -28792,7 +29240,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 27,
       "seriesLabel": "侠客行（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28802,7 +29250,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:03:03+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28845,7 +29293,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-10-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《侠客行》全2册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《侠客行》全2册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000292",
@@ -28874,7 +29325,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 28,
       "seriesLabel": "笑傲江湖（一）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28884,7 +29335,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:07:27+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -28927,7 +29378,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-11-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000293",
@@ -28956,7 +29410,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 29,
       "seriesLabel": "笑傲江湖（二）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -28966,7 +29420,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:07:44+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -29009,7 +29463,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-11-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000294",
@@ -29038,7 +29495,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 30,
       "seriesLabel": "笑傲江湖（三）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -29048,7 +29505,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:08:10+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -29091,7 +29548,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-11-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000295",
@@ -29120,7 +29580,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 31,
       "seriesLabel": "笑傲江湖（四）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -29130,7 +29590,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:08:28+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -29173,7 +29633,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-11-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000296",
@@ -29202,7 +29665,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 32,
       "seriesLabel": "鹿鼎记（一）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -29212,7 +29675,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:08:44+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -29257,7 +29720,10 @@
       "physicalSetId": "jinyong-sanlian-36",
       "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
       "reprintDate": "1996-02",
-      "reprintDatePrecision": "month"
+      "reprintDatePrecision": "month",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000297",
@@ -29286,7 +29752,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 33,
       "seriesLabel": "鹿鼎记（二）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -29296,7 +29762,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:09:00+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -29341,7 +29807,10 @@
       "physicalSetId": "jinyong-sanlian-36",
       "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
       "reprintDate": "1996-02",
-      "reprintDatePrecision": "month"
+      "reprintDatePrecision": "month",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000298",
@@ -29370,7 +29839,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 34,
       "seriesLabel": "鹿鼎记（三）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -29380,7 +29849,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:09:21+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -29425,7 +29894,10 @@
       "physicalSetId": "jinyong-sanlian-36",
       "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
       "reprintDate": "1996-02",
-      "reprintDatePrecision": "month"
+      "reprintDatePrecision": "month",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000299",
@@ -29454,7 +29926,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 35,
       "seriesLabel": "鹿鼎记（四）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -29464,7 +29936,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:09:40+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -29509,7 +29981,10 @@
       "physicalSetId": "jinyong-sanlian-36",
       "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
       "reprintDate": "1996-02",
-      "reprintDatePrecision": "month"
+      "reprintDatePrecision": "month",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     },
     {
       "id": "LC-000300",
@@ -29538,7 +30013,7 @@
       "seriesGroupId": "jinyong-sanlian-36",
       "seriesNumber": 36,
       "seriesLabel": "鹿鼎记（五）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "booklist-20261103-row-132",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -29548,7 +30023,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-11-02T23:09:54+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -29593,7 +30068,10 @@
       "physicalSetId": "jinyong-sanlian-36",
       "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
       "reprintDate": "1996-02",
-      "reprintDatePrecision": "month"
+      "reprintDatePrecision": "month",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔网二手",
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I132:J132"
     }
   ],
   "seriesGroups": [
@@ -30279,5 +30757,209 @@
     "写作与叙事",
     "文学与小说",
     "人文与社科"
+  ],
+  "purchaseGroups": [
+    {
+      "id": "booklist-20261103-row-18",
+      "label": "救猫咪三册",
+      "amount": 78.81,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000068",
+        "LC-000069",
+        "LC-000070"
+      ],
+      "volumeCount": 3,
+      "channel": "淘宝·当当网",
+      "source": "用户书单.xlsx｜游戏书单!I18:J18"
+    },
+    {
+      "id": "booklist-20261103-row-95",
+      "label": "中国货币史上下册",
+      "amount": 75,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000081",
+        "LC-000089"
+      ],
+      "volumeCount": 2,
+      "channel": "拼多多·当当网",
+      "source": "用户书单.xlsx｜游戏书单!I95:J95"
+    },
+    {
+      "id": "booklist-20261103-row-124",
+      "label": "D&D 5.5e核心三书",
+      "amount": 1700,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000017",
+        "LC-000018",
+        "LC-000019"
+      ],
+      "volumeCount": 3,
+      "channel": "D&D Beyond＋中邮海外购转运",
+      "source": "用户书单.xlsx｜游戏书单!I124:J124"
+    },
+    {
+      "id": "booklist-20261103-row-127",
+      "label": "魔兽·上古之战三部曲",
+      "amount": 30,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000053",
+        "LC-000054",
+        "LC-000055"
+      ],
+      "volumeCount": 3,
+      "channel": "闲鱼（二手）",
+      "source": "用户书单.xlsx｜游戏书单!I127:J127"
+    },
+    {
+      "id": "booklist-20261103-row-130",
+      "label": "蜀山剑侠传全十卷",
+      "amount": 190,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000255",
+        "LC-000256",
+        "LC-000257",
+        "LC-000258",
+        "LC-000259",
+        "LC-000260",
+        "LC-000261",
+        "LC-000262",
+        "LC-000263",
+        "LC-000264"
+      ],
+      "volumeCount": 10,
+      "channel": "孔夫子旧书网（二手）",
+      "source": "用户书单.xlsx｜游戏书单!I130:J130"
+    },
+    {
+      "id": "booklist-20261103-row-132",
+      "label": "金庸作品集（三联版全36册）",
+      "amount": 699,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000265",
+        "LC-000266",
+        "LC-000267",
+        "LC-000268",
+        "LC-000269",
+        "LC-000270",
+        "LC-000271",
+        "LC-000272",
+        "LC-000273",
+        "LC-000274",
+        "LC-000275",
+        "LC-000276",
+        "LC-000277",
+        "LC-000278",
+        "LC-000279",
+        "LC-000280",
+        "LC-000281",
+        "LC-000282",
+        "LC-000283",
+        "LC-000284",
+        "LC-000285",
+        "LC-000286",
+        "LC-000287",
+        "LC-000288",
+        "LC-000289",
+        "LC-000290",
+        "LC-000291",
+        "LC-000292",
+        "LC-000293",
+        "LC-000294",
+        "LC-000295",
+        "LC-000296",
+        "LC-000297",
+        "LC-000298",
+        "LC-000299",
+        "LC-000300"
+      ],
+      "volumeCount": 36,
+      "channel": "孔夫子旧书网（二手）",
+      "source": "用户书单.xlsx｜游戏书单!I132:J132"
+    },
+    {
+      "id": "booklist-20261103-row-133",
+      "label": "古龙作品全集（太白版全53册）",
+      "amount": 899,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000191",
+        "LC-000192",
+        "LC-000193",
+        "LC-000194",
+        "LC-000195",
+        "LC-000196",
+        "LC-000197",
+        "LC-000198",
+        "LC-000199",
+        "LC-000200",
+        "LC-000201",
+        "LC-000202",
+        "LC-000203",
+        "LC-000204",
+        "LC-000205",
+        "LC-000206",
+        "LC-000207",
+        "LC-000208",
+        "LC-000209",
+        "LC-000210",
+        "LC-000211",
+        "LC-000212",
+        "LC-000213",
+        "LC-000214",
+        "LC-000215",
+        "LC-000216",
+        "LC-000217",
+        "LC-000218",
+        "LC-000219",
+        "LC-000220",
+        "LC-000221",
+        "LC-000222",
+        "LC-000223",
+        "LC-000224",
+        "LC-000225",
+        "LC-000226",
+        "LC-000227",
+        "LC-000228",
+        "LC-000229",
+        "LC-000230",
+        "LC-000231",
+        "LC-000232",
+        "LC-000233",
+        "LC-000234",
+        "LC-000235",
+        "LC-000236",
+        "LC-000237",
+        "LC-000238",
+        "LC-000239",
+        "LC-000240",
+        "LC-000241",
+        "LC-000242",
+        "LC-000243"
+      ],
+      "volumeCount": 53,
+      "channel": "孔夫子旧书网（二手）",
+      "source": "用户书单.xlsx｜游戏书单!I133:J133"
+    },
+    {
+      "id": "booklist-20261103-row-134",
+      "label": "绿野仙踪全四集",
+      "amount": 72,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000043",
+        "LC-000044",
+        "LC-000045",
+        "LC-000046"
+      ],
+      "volumeCount": 4,
+      "channel": "孔夫子旧书网（二手）",
+      "source": "用户书单.xlsx｜游戏书单!I134:J134"
+    }
   ]
 }
