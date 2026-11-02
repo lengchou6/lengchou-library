@@ -27706,7 +27706,7 @@
       ],
       "translators": [],
       "publisher": "生活·读书·新知三联书店",
-      "isbn": "7-108-00669-3",
+      "isbn": "7-108-00665-0",
       "category": "文学与小说",
       "tags": [
         "武侠小说"
@@ -27724,7 +27724,7 @@
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
-      "edition": null,
+      "edition": "1995年8月重印",
       "listPrice": null,
       "paidPrice": null,
       "currency": "CNY",
@@ -27735,9 +27735,9 @@
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
       "location": null,
-      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "notes": "出版社及全套36册据用户说明；册序结合拍摄顺序与三联版分册结构编排。用户补充核对版权页，确认ISBN及1995年8月重印；版权页照片未提供，具体重印次数及初版日期未核实，出版日期留空。套价仅计一次。本套下册封底误印ISBN 7-108-00669-3，正确ISBN为版权页所记7-108-00665-0；保留封底印刷原文。",
       "description": "三联版《金庸作品集》中的《飞狐外传》，全2册，本册为上册。",
-      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "metadataSource": "用户实体书正反面照片、三联版全36册说明及用户核对版权页的补充信息",
       "photos": [
         {
           "side": "front",
@@ -27773,7 +27773,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-6-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《飞狐外传》全2册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《飞狐外传》全2册共用ISBN，依据用户核对版权页确认",
+      "reprintDate": "1995-08",
+      "reprintDatePrecision": "month",
+      "printedIsbn": "7-108-00669-3"
     },
     {
       "id": "LC-000279",
@@ -27788,7 +27791,7 @@
       ],
       "translators": [],
       "publisher": "生活·读书·新知三联书店",
-      "isbn": "7-108-00669-3",
+      "isbn": "7-108-00665-0",
       "category": "文学与小说",
       "tags": [
         "武侠小说"
@@ -27806,7 +27809,7 @@
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
-      "edition": null,
+      "edition": "1995年8月重印",
       "listPrice": null,
       "paidPrice": null,
       "currency": "CNY",
@@ -27817,9 +27820,9 @@
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
       "location": null,
-      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "notes": "出版社及全套36册据用户说明；册序结合拍摄顺序与三联版分册结构编排。用户补充核对版权页，确认ISBN及1995年8月重印；版权页照片未提供，具体重印次数及初版日期未核实，出版日期留空。套价仅计一次。本套下册封底误印ISBN 7-108-00669-3，正确ISBN为版权页所记7-108-00665-0；保留封底印刷原文。",
       "description": "三联版《金庸作品集》中的《飞狐外传》，全2册，本册为下册。",
-      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "metadataSource": "用户实体书正反面照片、三联版全36册说明及用户核对版权页的补充信息",
       "photos": [
         {
           "side": "front",
@@ -27855,7 +27858,10 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-6-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "《飞狐外传》全2册共用ISBN，取自本作品末册封底"
+      "isbnScope": "《飞狐外传》全2册共用ISBN，依据用户核对版权页确认",
+      "reprintDate": "1995-08",
+      "reprintDatePrecision": "month",
+      "printedIsbn": "7-108-00669-3"
     },
     {
       "id": "LC-000280",
@@ -29182,7 +29188,7 @@
       ],
       "translators": [],
       "publisher": "生活·读书·新知三联书店",
-      "isbn": null,
+      "isbn": "7-108-00669-3",
       "category": "文学与小说",
       "tags": [
         "武侠小说"
@@ -29200,7 +29206,7 @@
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
-      "edition": null,
+      "edition": "1996年2月重印",
       "listPrice": null,
       "paidPrice": null,
       "currency": "CNY",
@@ -29211,9 +29217,9 @@
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
       "location": null,
-      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "notes": "出版社及全套36册据用户说明；册序结合拍摄顺序与三联版分册结构编排。用户补充核对版权页，确认ISBN及1996年2月重印；版权页照片未提供，具体重印次数及初版日期未核实，出版日期留空。套价仅计一次。",
       "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为一册。",
-      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "metadataSource": "用户实体书正反面照片、三联版全36册说明及用户核对版权页的补充信息",
       "photos": [
         {
           "side": "front",
@@ -29249,8 +29255,9 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-12-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "封底号码有疑点，待版权页核对",
-      "printedIsbn": "7-108-00669-3"
+      "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
+      "reprintDate": "1996-02",
+      "reprintDatePrecision": "month"
     },
     {
       "id": "LC-000297",
@@ -29265,7 +29272,7 @@
       ],
       "translators": [],
       "publisher": "生活·读书·新知三联书店",
-      "isbn": null,
+      "isbn": "7-108-00669-3",
       "category": "文学与小说",
       "tags": [
         "武侠小说"
@@ -29283,7 +29290,7 @@
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
-      "edition": null,
+      "edition": "1996年2月重印",
       "listPrice": null,
       "paidPrice": null,
       "currency": "CNY",
@@ -29294,9 +29301,9 @@
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
       "location": null,
-      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "notes": "出版社及全套36册据用户说明；册序结合拍摄顺序与三联版分册结构编排。用户补充核对版权页，确认ISBN及1996年2月重印；版权页照片未提供，具体重印次数及初版日期未核实，出版日期留空。套价仅计一次。",
       "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为二册。",
-      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "metadataSource": "用户实体书正反面照片、三联版全36册说明及用户核对版权页的补充信息",
       "photos": [
         {
           "side": "front",
@@ -29332,8 +29339,9 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-12-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "封底号码有疑点，待版权页核对",
-      "printedIsbn": "7-108-00669-3"
+      "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
+      "reprintDate": "1996-02",
+      "reprintDatePrecision": "month"
     },
     {
       "id": "LC-000298",
@@ -29348,7 +29356,7 @@
       ],
       "translators": [],
       "publisher": "生活·读书·新知三联书店",
-      "isbn": null,
+      "isbn": "7-108-00669-3",
       "category": "文学与小说",
       "tags": [
         "武侠小说"
@@ -29366,7 +29374,7 @@
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
-      "edition": null,
+      "edition": "1996年2月重印",
       "listPrice": null,
       "paidPrice": null,
       "currency": "CNY",
@@ -29377,9 +29385,9 @@
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
       "location": null,
-      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "notes": "出版社及全套36册据用户说明；册序结合拍摄顺序与三联版分册结构编排。用户补充核对版权页，确认ISBN及1996年2月重印；版权页照片未提供，具体重印次数及初版日期未核实，出版日期留空。套价仅计一次。",
       "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为三册。",
-      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "metadataSource": "用户实体书正反面照片、三联版全36册说明及用户核对版权页的补充信息",
       "photos": [
         {
           "side": "front",
@@ -29415,8 +29423,9 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-12-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "封底号码有疑点，待版权页核对",
-      "printedIsbn": "7-108-00669-3"
+      "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
+      "reprintDate": "1996-02",
+      "reprintDatePrecision": "month"
     },
     {
       "id": "LC-000299",
@@ -29431,7 +29440,7 @@
       ],
       "translators": [],
       "publisher": "生活·读书·新知三联书店",
-      "isbn": null,
+      "isbn": "7-108-00669-3",
       "category": "文学与小说",
       "tags": [
         "武侠小说"
@@ -29449,7 +29458,7 @@
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
-      "edition": null,
+      "edition": "1996年2月重印",
       "listPrice": null,
       "paidPrice": null,
       "currency": "CNY",
@@ -29460,9 +29469,9 @@
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
       "location": null,
-      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "notes": "出版社及全套36册据用户说明；册序结合拍摄顺序与三联版分册结构编排。用户补充核对版权页，确认ISBN及1996年2月重印；版权页照片未提供，具体重印次数及初版日期未核实，出版日期留空。套价仅计一次。",
       "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为四册。",
-      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "metadataSource": "用户实体书正反面照片、三联版全36册说明及用户核对版权页的补充信息",
       "photos": [
         {
           "side": "front",
@@ -29498,8 +29507,9 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-12-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "封底号码有疑点，待版权页核对",
-      "printedIsbn": "7-108-00669-3"
+      "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
+      "reprintDate": "1996-02",
+      "reprintDatePrecision": "month"
     },
     {
       "id": "LC-000300",
@@ -29514,7 +29524,7 @@
       ],
       "translators": [],
       "publisher": "生活·读书·新知三联书店",
-      "isbn": null,
+      "isbn": "7-108-00669-3",
       "category": "文学与小说",
       "tags": [
         "武侠小说"
@@ -29532,7 +29542,7 @@
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
-      "edition": null,
+      "edition": "1996年2月重印",
       "listPrice": null,
       "paidPrice": null,
       "currency": "CNY",
@@ -29543,9 +29553,9 @@
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
       "location": null,
-      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "notes": "出版社及全套36册据用户说明；册序结合拍摄顺序与三联版分册结构编排。用户补充核对版权页，确认ISBN及1996年2月重印；版权页照片未提供，具体重印次数及初版日期未核实，出版日期留空。套价仅计一次。",
       "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为五册。",
-      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "metadataSource": "用户实体书正反面照片、三联版全36册说明及用户核对版权页的补充信息",
       "photos": [
         {
           "side": "front",
@@ -29581,8 +29591,9 @@
       "condition": null,
       "priceGroupId": "jinyong-sanlian-36-12-price",
       "physicalSetId": "jinyong-sanlian-36",
-      "isbnScope": "封底号码有疑点，待版权页核对",
-      "printedIsbn": "7-108-00669-3"
+      "isbnScope": "《鹿鼎记》全5册共用ISBN，依据用户核对版权页确认",
+      "reprintDate": "1996-02",
+      "reprintDatePrecision": "month"
     }
   ],
   "seriesGroups": [
