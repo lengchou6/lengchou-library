@@ -26626,6 +26626,2963 @@
       "priceGroupId": "shushan-beiyue-price",
       "physicalSetId": "shushan-beiyue",
       "isbnScope": "全套共用ISBN，取自本套封底"
+    },
+    {
+      "id": "LC-000265",
+      "title": "书剑恩仇录",
+      "subtitle": "上册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00661-8",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 1,
+      "seriesLabel": "书剑恩仇录（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:44:22+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《书剑恩仇录》，全2册，本册为上册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000265/front-original.jpg",
+          "original": "assets/LC-000265/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224422.jpg",
+          "capturedAt": "2026-11-02T22:44:22+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "151adc4c47f0abc1d6dc9022845925bec8874fa996b920de3148ea52e72895fb",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1002966,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000265/back-original.jpg",
+          "original": "assets/LC-000265/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224431.jpg",
+          "capturedAt": "2026-11-02T22:44:31+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "1c1b8bcbb31e8736961c8b690a98a81b0829fb21f60ad5c7eeb0c5089853a1ef",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 950804,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-1-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《书剑恩仇录》全2册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000266",
+      "title": "书剑恩仇录",
+      "subtitle": "下册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00661-8",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 2,
+      "seriesLabel": "书剑恩仇录（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:44:47+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《书剑恩仇录》，全2册，本册为下册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000266/front-original.jpg",
+          "original": "assets/LC-000266/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224447.jpg",
+          "capturedAt": "2026-11-02T22:44:47+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e8092420a60d0f9e012744e5f98d6454d9b43e65a6454ed90c9a8e238f62269e",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1005428,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000266/back-original.jpg",
+          "original": "assets/LC-000266/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224456.jpg",
+          "capturedAt": "2026-11-02T22:44:56+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a19ef08c967e352ae60d53b0e4a4e99815cb97db91953f0e4bf47a753f8d1812",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1100977,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-1-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《书剑恩仇录》全2册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000267",
+      "title": "碧血剑",
+      "subtitle": "上册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00667-7",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 3,
+      "seriesLabel": "碧血剑（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:45:08+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《碧血剑》，全2册，本册为上册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000267/front-original.jpg",
+          "original": "assets/LC-000267/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224508.jpg",
+          "capturedAt": "2026-11-02T22:45:08+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0e184ea5d09c279e86805b21b0935c0d0d252581d0ea451ce7fe061a96cbf8c0",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 877580,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000267/back-original.jpg",
+          "original": "assets/LC-000267/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224516.jpg",
+          "capturedAt": "2026-11-02T22:45:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8ccf8c2bb715d4a7b900bebae8831d7f0a02cdc8f08cd984e17c884d8ccfbc1a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 932882,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-2-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《碧血剑》全2册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000268",
+      "title": "碧血剑",
+      "subtitle": "下册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00667-7",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 4,
+      "seriesLabel": "碧血剑（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:45:37+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《碧血剑》，全2册，本册为下册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000268/front-original.jpg",
+          "original": "assets/LC-000268/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224537.jpg",
+          "capturedAt": "2026-11-02T22:45:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c815da94104e6d83acfe17ecbe72846b5ae09d2d0b3402223fa4e2676538f6b7",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 913299,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000268/back-original.jpg",
+          "original": "assets/LC-000268/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224544.jpg",
+          "capturedAt": "2026-11-02T22:45:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a10cecc1c99a30e9e7ca62def6c50d7199872f5b7776c48b5589e871dd30123d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 887753,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-2-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《碧血剑》全2册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000269",
+      "title": "射雕英雄传",
+      "subtitle": "第一册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00671-5",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 5,
+      "seriesLabel": "射雕英雄传（一）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:46:17+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《射雕英雄传》，全4册，本册为一册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000269/front-original.jpg",
+          "original": "assets/LC-000269/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224617.jpg",
+          "capturedAt": "2026-11-02T22:46:17+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e6b5524f960764266888730796e0fbe5e69b6a490a50e3d2153a81e255a89d78",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 819884,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000269/back-original.jpg",
+          "original": "assets/LC-000269/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224624.jpg",
+          "capturedAt": "2026-11-02T22:46:24+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "dc8c7267840c5ae0e2dcfa02fd03cbbc43066bbee63d10b888fca8b8b5bc059f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 941344,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-3-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000270",
+      "title": "射雕英雄传",
+      "subtitle": "第二册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00671-5",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 6,
+      "seriesLabel": "射雕英雄传（二）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:46:34+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《射雕英雄传》，全4册，本册为二册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000270/front-original.jpg",
+          "original": "assets/LC-000270/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224634.jpg",
+          "capturedAt": "2026-11-02T22:46:34+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "9da6a6a1c7d5ce479e7cd71a9bfedf5304ea936261e4d1788e7557dd882c42a2",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 891170,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000270/back-original.jpg",
+          "original": "assets/LC-000270/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224642.jpg",
+          "capturedAt": "2026-11-02T22:46:42+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ad9b989eaf8b0206e52a749320eb6f5d55ad3e99df997760e5e43bcb0dad3fe5",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 844023,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-3-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000271",
+      "title": "射雕英雄传",
+      "subtitle": "第三册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00671-5",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 7,
+      "seriesLabel": "射雕英雄传（三）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:46:52+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《射雕英雄传》，全4册，本册为三册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000271/front-original.jpg",
+          "original": "assets/LC-000271/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224652.jpg",
+          "capturedAt": "2026-11-02T22:46:52+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "01c70ad999ccc5ed444fe1148603fb7333fadd29fdecf1251fb07c0e5af2151a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 918945,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000271/back-original.jpg",
+          "original": "assets/LC-000271/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224658.jpg",
+          "capturedAt": "2026-11-02T22:46:58+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c3409dce598704db6799a0fb8054bbcc7418f37bf777bf5de5752705decb7c75",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 914017,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-3-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000272",
+      "title": "射雕英雄传",
+      "subtitle": "第四册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00671-5",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 8,
+      "seriesLabel": "射雕英雄传（四）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:47:10+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《射雕英雄传》，全4册，本册为四册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000272/front-original.jpg",
+          "original": "assets/LC-000272/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224710.jpg",
+          "capturedAt": "2026-11-02T22:47:10+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "3d451294f9dbb134d356d1099ba086fc3e79f98774fc8e06ba4cfe5663136480",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 780343,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000272/back-original.jpg",
+          "original": "assets/LC-000272/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224719.jpg",
+          "capturedAt": "2026-11-02T22:47:19+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "90d5e36e42a80ee84fc870656073e4de07ddd505d2a993ec8842c11c8d273eae",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 888379,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-3-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《射雕英雄传》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000273",
+      "title": "神雕侠侣",
+      "subtitle": "第一册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00666-9",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 9,
+      "seriesLabel": "神雕侠侣（一）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:47:29+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《神雕侠侣》，全4册，本册为一册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000273/front-original.jpg",
+          "original": "assets/LC-000273/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224729.jpg",
+          "capturedAt": "2026-11-02T22:47:29+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8fd4bd8e755d69e39cb1ba6730cbdbcf682bea1e99afe10e89e9e9a229c04e29",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 906523,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000273/back-original.jpg",
+          "original": "assets/LC-000273/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224737.jpg",
+          "capturedAt": "2026-11-02T22:47:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e5ba59b2ac3ecb5421a76f12463f14f62ccbad71eea705f722e9bc4ee10a4442",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 896859,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-4-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000274",
+      "title": "神雕侠侣",
+      "subtitle": "第二册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00666-9",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 10,
+      "seriesLabel": "神雕侠侣（二）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:47:48+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《神雕侠侣》，全4册，本册为二册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000274/front-original.jpg",
+          "original": "assets/LC-000274/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224748.jpg",
+          "capturedAt": "2026-11-02T22:47:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e307be4d034a764caedc5e0c1cdc2579ae91efdc6801ddad4629e328bf88871d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 948763,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000274/back-original.jpg",
+          "original": "assets/LC-000274/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224757.jpg",
+          "capturedAt": "2026-11-02T22:47:57+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "10eb92ad1efe4411c7760bffd98ab085e48f2780f74ff9271ed60a671f7f84b9",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 948033,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-4-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000275",
+      "title": "神雕侠侣",
+      "subtitle": "第三册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00666-9",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 11,
+      "seriesLabel": "神雕侠侣（三）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:48:09+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《神雕侠侣》，全4册，本册为三册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000275/front-original.jpg",
+          "original": "assets/LC-000275/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224809.jpg",
+          "capturedAt": "2026-11-02T22:48:09+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "9b14f72c9dafa7a3455eda74b606811a6392726ff0fa9e11ef504e557f12c248",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 894493,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000275/back-original.jpg",
+          "original": "assets/LC-000275/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224816.jpg",
+          "capturedAt": "2026-11-02T22:48:16+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "96eec8658b66940f3e41f09cfcc23707d3fde5a66804e649d3935aef55c1db0d",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 924159,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-4-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000276",
+      "title": "神雕侠侣",
+      "subtitle": "第四册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00666-9",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 12,
+      "seriesLabel": "神雕侠侣（四）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:48:26+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《神雕侠侣》，全4册，本册为四册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000276/front-original.jpg",
+          "original": "assets/LC-000276/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224826.jpg",
+          "capturedAt": "2026-11-02T22:48:26+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "026ca4723840c97bfb69025b2d16d51e906d8b0cc0ac577a6868285db9d0799f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 881487,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000276/back-original.jpg",
+          "original": "assets/LC-000276/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224832.jpg",
+          "capturedAt": "2026-11-02T22:48:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a65dded08841d6837f84cfc8fb6ea8e2b06f415adbf6837e4bf03f4996ee6ac7",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 901222,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-4-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《神雕侠侣》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000277",
+      "title": "雪山飞狐",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00664-2",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 13,
+      "seriesLabel": "雪山飞狐",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:49:18+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《雪山飞狐》，单册。三联版此册附收《鸳鸯刀》《白马啸西风》，不另计实体册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000277/front-original.jpg",
+          "original": "assets/LC-000277/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224918.jpg",
+          "capturedAt": "2026-11-02T22:49:18+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "bfba5c701ed37d0f5874933bdac2ba86a4f056a75c72d1d398014786f97ab301",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 972381,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000277/back-original.jpg",
+          "original": "assets/LC-000277/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224926.jpg",
+          "capturedAt": "2026-11-02T22:49:26+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ec416a8827406e0e21a10c5c7b0e85d95322b20968b33af6175da291c1ce2a09",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 960230,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-5-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "取自本册封底"
+    },
+    {
+      "id": "LC-000278",
+      "title": "飞狐外传",
+      "subtitle": "上册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00669-3",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 14,
+      "seriesLabel": "飞狐外传（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:49:37+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《飞狐外传》，全2册，本册为上册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000278/front-original.jpg",
+          "original": "assets/LC-000278/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224937.jpg",
+          "capturedAt": "2026-11-02T22:49:37+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7afcf6b603e64795bdcebac91747fc1b94007a424f749e8336944ce7dff27627",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 869922,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000278/back-original.jpg",
+          "original": "assets/LC-000278/back-original.jpg",
+          "sourceFilename": "IMG_20261102_224945.jpg",
+          "capturedAt": "2026-11-02T22:49:45+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a47193a44dcb06e363407ddd67cc99b259349d7d6e0c3c001228bba73fdf2dd7",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 962821,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-6-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《飞狐外传》全2册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000279",
+      "title": "飞狐外传",
+      "subtitle": "下册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00669-3",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 15,
+      "seriesLabel": "飞狐外传（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:49:55+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《飞狐外传》，全2册，本册为下册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000279/front-original.jpg",
+          "original": "assets/LC-000279/front-original.jpg",
+          "sourceFilename": "IMG_20261102_224955.jpg",
+          "capturedAt": "2026-11-02T22:49:55+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "85414227a5606d5088b348ddbe0912ccc35630f7b9bd3daf40601dc156831d48",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 907458,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000279/back-original.jpg",
+          "original": "assets/LC-000279/back-original.jpg",
+          "sourceFilename": "IMG_20261102_225002.jpg",
+          "capturedAt": "2026-11-02T22:50:02+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "51450a387f9465fe2d5962efce19ef2ec944f4ce5383f36886e2d64c48209bee",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 904762,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-6-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《飞狐外传》全2册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000280",
+      "title": "倚天屠龙记",
+      "subtitle": "第一册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00668-5",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 16,
+      "seriesLabel": "倚天屠龙记（一）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:50:11+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《倚天屠龙记》，全4册，本册为一册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000280/front-original.jpg",
+          "original": "assets/LC-000280/front-original.jpg",
+          "sourceFilename": "IMG_20261102_225011.jpg",
+          "capturedAt": "2026-11-02T22:50:11+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "62e0734c416ee070f819b37eb6b5be30e3e0ab0a3d31416f4519ef730c3ed84a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 940173,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000280/back-original.jpg",
+          "original": "assets/LC-000280/back-original.jpg",
+          "sourceFilename": "IMG_20261102_225017.jpg",
+          "capturedAt": "2026-11-02T22:50:17+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fe1b0efd4198ff965de921ea6abccb6a30dd975de8f99f880a4051110168ec28",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 962851,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-7-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000281",
+      "title": "倚天屠龙记",
+      "subtitle": "第二册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00668-5",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 17,
+      "seriesLabel": "倚天屠龙记（二）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:50:25+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《倚天屠龙记》，全4册，本册为二册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000281/front-original.jpg",
+          "original": "assets/LC-000281/front-original.jpg",
+          "sourceFilename": "IMG_20261102_225025.jpg",
+          "capturedAt": "2026-11-02T22:50:25+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "474102ea72e03cdbf845334f49204c55dbee584ab60b954d67e5044fcb272e8a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 828670,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000281/back-original.jpg",
+          "original": "assets/LC-000281/back-original.jpg",
+          "sourceFilename": "IMG_20261102_225033.jpg",
+          "capturedAt": "2026-11-02T22:50:33+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0cfa76cee7979fc8de633345a5be87507480e10ca491cdf68983a3b1d600e9c5",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 836971,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-7-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000282",
+      "title": "倚天屠龙记",
+      "subtitle": "第三册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00668-5",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 18,
+      "seriesLabel": "倚天屠龙记（三）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:50:42+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《倚天屠龙记》，全4册，本册为三册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000282/front-original.jpg",
+          "original": "assets/LC-000282/front-original.jpg",
+          "sourceFilename": "IMG_20261102_225042.jpg",
+          "capturedAt": "2026-11-02T22:50:42+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "f47208bd609b9150739e4a8c0be0429c918887719aadc6d830662fb2a25e7ebe",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 859801,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000282/back-original.jpg",
+          "original": "assets/LC-000282/back-original.jpg",
+          "sourceFilename": "IMG_20261102_225049.jpg",
+          "capturedAt": "2026-11-02T22:50:49+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4918919ec097da2090964bd319f158798316495efe5aeebc6fb06e2bfa39f9d7",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 905515,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-7-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000283",
+      "title": "倚天屠龙记",
+      "subtitle": "第四册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00668-5",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 19,
+      "seriesLabel": "倚天屠龙记（四）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:50:59+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《倚天屠龙记》，全4册，本册为四册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000283/front-original.jpg",
+          "original": "assets/LC-000283/front-original.jpg",
+          "sourceFilename": "IMG_20261102_225059.jpg",
+          "capturedAt": "2026-11-02T22:50:59+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a95edf140888f428f770636b907a74a507eabdba270c3029ebce9add8e2f33a9",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 958922,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000283/back-original.jpg",
+          "original": "assets/LC-000283/back-original.jpg",
+          "sourceFilename": "IMG_20261102_225106.jpg",
+          "capturedAt": "2026-11-02T22:51:06+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "018cc2f1e7dc3f287b2d6e150b51c220f2b05c39d56356db633e3b21f3cf5430",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 900578,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-7-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《倚天屠龙记》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000284",
+      "title": "连城诀",
+      "subtitle": "",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00662-6",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 20,
+      "seriesLabel": "连城诀",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T22:51:42+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《连城诀》，单册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000284/front-original.jpg",
+          "original": "assets/LC-000284/front-original.jpg",
+          "sourceFilename": "IMG_20261102_225142.jpg",
+          "capturedAt": "2026-11-02T22:51:42+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "acd770fcdc849495a42f9eecd9e80324fb1fd448f1df32ff5cfcd6cc49db57e7",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 843443,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000284/back-original.jpg",
+          "original": "assets/LC-000284/back-original.jpg",
+          "sourceFilename": "IMG_20261102_225149.jpg",
+          "capturedAt": "2026-11-02T22:51:49+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "eedda069f9a79c0f1b58f38c82dd7698c81410d1471c73a1c0f097fe0252c222",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 854795,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-8-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "取自本册封底"
+    },
+    {
+      "id": "LC-000285",
+      "title": "天龙八部",
+      "subtitle": "第一册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00672-3",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 21,
+      "seriesLabel": "天龙八部（一）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:01:00+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《天龙八部》，全5册，本册为一册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000285/front-original.jpg",
+          "original": "assets/LC-000285/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230100.jpg",
+          "capturedAt": "2026-11-02T23:01:00+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "29935ba33da450d740cd8766fd44d6b30e2876e3961d6c8faeba4dab70225dd2",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 975597,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000285/back-original.jpg",
+          "original": "assets/LC-000285/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230109.jpg",
+          "capturedAt": "2026-11-02T23:01:09+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4d02aa97e65486bc177a5595960610eb7246c5e4690d572dca3a4e2bda1dbf25",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 937468,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-9-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000286",
+      "title": "天龙八部",
+      "subtitle": "第二册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00672-3",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 22,
+      "seriesLabel": "天龙八部（二）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:01:23+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《天龙八部》，全5册，本册为二册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000286/front-original.jpg",
+          "original": "assets/LC-000286/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230123.jpg",
+          "capturedAt": "2026-11-02T23:01:23+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "011cb0284403542b5beefa05e33e9ef0638832af97e01dc0bb2d7b5f3b41a59b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 943711,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000286/back-original.jpg",
+          "original": "assets/LC-000286/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230132.jpg",
+          "capturedAt": "2026-11-02T23:01:32+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "8809ab842c3280a3f8b6ab4709a246898711923b8adf4169ec359a75849d0f8a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 909671,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-9-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000287",
+      "title": "天龙八部",
+      "subtitle": "第三册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00672-3",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 23,
+      "seriesLabel": "天龙八部（三）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:01:41+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《天龙八部》，全5册，本册为三册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000287/front-original.jpg",
+          "original": "assets/LC-000287/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230141.jpg",
+          "capturedAt": "2026-11-02T23:01:41+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fb2d4c808d0f5aa9666538fe632e8c7994791be4c8c956bde911530e264a5df1",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 948915,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000287/back-original.jpg",
+          "original": "assets/LC-000287/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230148.jpg",
+          "capturedAt": "2026-11-02T23:01:48+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4890a843899a40d0a8b42164444f96f7ff0383bbdafc13b9fab83e9184e50186",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 907021,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-9-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000288",
+      "title": "天龙八部",
+      "subtitle": "第四册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00672-3",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 24,
+      "seriesLabel": "天龙八部（四）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:02:01+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《天龙八部》，全5册，本册为四册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000288/front-original.jpg",
+          "original": "assets/LC-000288/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230201.jpg",
+          "capturedAt": "2026-11-02T23:02:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5c42228c0e551396e9cabcbe08608413f64e3e9cc6d29f5709d37d0e50230232",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 937696,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000288/back-original.jpg",
+          "original": "assets/LC-000288/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230210.jpg",
+          "capturedAt": "2026-11-02T23:02:10+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "7230d20ef02b3abeb399647fc45f23f95c2bf373665286e7690be862a7c63a13",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 929180,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-9-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000289",
+      "title": "天龙八部",
+      "subtitle": "第五册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00672-3",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 25,
+      "seriesLabel": "天龙八部（五）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:02:21+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《天龙八部》，全5册，本册为五册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000289/front-original.jpg",
+          "original": "assets/LC-000289/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230221.jpg",
+          "capturedAt": "2026-11-02T23:02:21+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "b72d4f176cf50a1b5588c4a6ecc80d281708b6743bcc539025e7a22780947ca5",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 952680,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000289/back-original.jpg",
+          "original": "assets/LC-000289/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230230.jpg",
+          "capturedAt": "2026-11-02T23:02:30+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a33a202b0db704124de7e35389cb62d2ee32598ac576ebb504a905162b25d3fd",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 915306,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-9-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《天龙八部》全5册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000290",
+      "title": "侠客行",
+      "subtitle": "上册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00670-7",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 26,
+      "seriesLabel": "侠客行（上）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:02:40+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《侠客行》，全2册，本册为上册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000290/front-original.jpg",
+          "original": "assets/LC-000290/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230240.jpg",
+          "capturedAt": "2026-11-02T23:02:40+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0307063f162545db0cc51c8254e7be4082609fd6d3a7837ebbeda4f7169f8e15",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 885064,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000290/back-original.jpg",
+          "original": "assets/LC-000290/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230252.jpg",
+          "capturedAt": "2026-11-02T23:02:52+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "72a74c779c47ea06ce08bb5136eeca27bd539f90c86c11a8a421ab60daff9884",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 909449,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-10-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《侠客行》全2册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000291",
+      "title": "侠客行",
+      "subtitle": "下册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00670-7",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 27,
+      "seriesLabel": "侠客行（下）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:03:03+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《侠客行》，全2册，本册为下册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000291/front-original.jpg",
+          "original": "assets/LC-000291/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230303.jpg",
+          "capturedAt": "2026-11-02T23:03:03+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "5f20008e8d1d82aff232c8dc882fe89753e6f83c03cc922d0ec9e5a8dedff20f",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 923057,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000291/back-original.jpg",
+          "original": "assets/LC-000291/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230310.jpg",
+          "capturedAt": "2026-11-02T23:03:10+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4694811446dc0b3c4e72e88c448c93d089ecaaf6ed6216d118d548192eaf0bd7",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 885901,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-10-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《侠客行》全2册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000292",
+      "title": "笑傲江湖",
+      "subtitle": "第一册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00663-4",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 28,
+      "seriesLabel": "笑傲江湖（一）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:07:27+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《笑傲江湖》，全4册，本册为一册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000292/front-original.jpg",
+          "original": "assets/LC-000292/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230727.jpg",
+          "capturedAt": "2026-11-02T23:07:27+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "46a999387dc74ccca72de95b94c019b4fc25b6540be50249f61d974ddadbe228",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 855325,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000292/back-original.jpg",
+          "original": "assets/LC-000292/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230734.jpg",
+          "capturedAt": "2026-11-02T23:07:34+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e4b98de515038ff2fb94fe2b50d518102344c03e8ed6b73aace857f414f003a8",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 841070,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-11-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000293",
+      "title": "笑傲江湖",
+      "subtitle": "第二册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00663-4",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 29,
+      "seriesLabel": "笑傲江湖（二）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:07:44+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《笑傲江湖》，全4册，本册为二册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000293/front-original.jpg",
+          "original": "assets/LC-000293/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230744.jpg",
+          "capturedAt": "2026-11-02T23:07:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "dd1247ac2e9b655ac4b578b8b72d4da65a2f296fda1a969a3b36d4d27f968619",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 858616,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000293/back-original.jpg",
+          "original": "assets/LC-000293/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230801.jpg",
+          "capturedAt": "2026-11-02T23:08:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "0841664eb449e9e09acc71285cf7f03809b6fdecd174ce9bb1e973fb77b4e9d6",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 840763,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-11-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000294",
+      "title": "笑傲江湖",
+      "subtitle": "第三册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00663-4",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 30,
+      "seriesLabel": "笑傲江湖（三）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:08:10+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《笑傲江湖》，全4册，本册为三册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000294/front-original.jpg",
+          "original": "assets/LC-000294/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230810.jpg",
+          "capturedAt": "2026-11-02T23:08:10+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "20c364a66c86080d4db1d073445d58c5b490cdb643dbe1ea94f4707a5130c8a6",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 928949,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000294/back-original.jpg",
+          "original": "assets/LC-000294/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230818.jpg",
+          "capturedAt": "2026-11-02T23:08:18+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "c05c2e617cc5eabcc52bb17df8e68e90c4db367303d4a62adccbad0491bbf9ad",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 910462,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-11-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000295",
+      "title": "笑傲江湖",
+      "subtitle": "第四册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": "7-108-00663-4",
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 31,
+      "seriesLabel": "笑傲江湖（四）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:08:28+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。",
+      "description": "三联版《金庸作品集》中的《笑傲江湖》，全4册，本册为四册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000295/front-original.jpg",
+          "original": "assets/LC-000295/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230828.jpg",
+          "capturedAt": "2026-11-02T23:08:28+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "cd07ebf02371a63a6684dc6784b0faa7cc5d6f44e706f958aa2eb045d7914d34",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 932855,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000295/back-original.jpg",
+          "original": "assets/LC-000295/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230835.jpg",
+          "capturedAt": "2026-11-02T23:08:35+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4f430bf81e19af313db15eafe89b358043dde56a8fb9cde1ba81ff8309def464",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 796311,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-11-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "《笑傲江湖》全4册共用ISBN，取自本作品末册封底"
+    },
+    {
+      "id": "LC-000296",
+      "title": "鹿鼎记",
+      "subtitle": "第一册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 32,
+      "seriesLabel": "鹿鼎记（一）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:08:44+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为一册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000296/front-original.jpg",
+          "original": "assets/LC-000296/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230844.jpg",
+          "capturedAt": "2026-11-02T23:08:44+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ed7c70449d7883de5c242dd19d4eef02f5d0542182408c4a9615c8b8d2f3e0a3",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 954686,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000296/back-original.jpg",
+          "original": "assets/LC-000296/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230851.jpg",
+          "capturedAt": "2026-11-02T23:08:51+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "ee846ec87a7b2b3fdfbc29ad228aa86ca5c1f6507d218349959882a1eb74e62b",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 958565,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-12-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "封底号码有疑点，待版权页核对",
+      "printedIsbn": "7-108-00669-3"
+    },
+    {
+      "id": "LC-000297",
+      "title": "鹿鼎记",
+      "subtitle": "第二册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 33,
+      "seriesLabel": "鹿鼎记（二）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:09:00+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为二册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000297/front-original.jpg",
+          "original": "assets/LC-000297/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230900.jpg",
+          "capturedAt": "2026-11-02T23:09:00+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "b3bcdb88c9d3b4de1c6b87e2d3fd02b2bca6ca99e779962dd9279c941aff567a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 926267,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000297/back-original.jpg",
+          "original": "assets/LC-000297/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230907.jpg",
+          "capturedAt": "2026-11-02T23:09:07+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "fffd5a65020bf1adf7efce9137f470ccf2990da1fcd6fcc01b84564bcca39499",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1014827,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-12-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "封底号码有疑点，待版权页核对",
+      "printedIsbn": "7-108-00669-3"
+    },
+    {
+      "id": "LC-000298",
+      "title": "鹿鼎记",
+      "subtitle": "第三册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 34,
+      "seriesLabel": "鹿鼎记（三）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:09:21+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为三册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000298/front-original.jpg",
+          "original": "assets/LC-000298/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230921.jpg",
+          "capturedAt": "2026-11-02T23:09:21+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "e03b81172d4283cf507a2cea171ccede3dbcbf01664345108473e11f21b5ba4a",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 892198,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000298/back-original.jpg",
+          "original": "assets/LC-000298/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230930.jpg",
+          "capturedAt": "2026-11-02T23:09:30+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "37f1d219e809664058ffb9253a3520370fbb067a6d9aea495c0f0cdac3190195",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 966494,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-12-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "封底号码有疑点，待版权页核对",
+      "printedIsbn": "7-108-00669-3"
+    },
+    {
+      "id": "LC-000299",
+      "title": "鹿鼎记",
+      "subtitle": "第四册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 35,
+      "seriesLabel": "鹿鼎记（四）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:09:40+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为四册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000299/front-original.jpg",
+          "original": "assets/LC-000299/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230940.jpg",
+          "capturedAt": "2026-11-02T23:09:40+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "693da77b9f3b94900c4c6d2b2e01f908c7b4512c6d4e8ac2518e5dc7eec22504",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 1081833,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000299/back-original.jpg",
+          "original": "assets/LC-000299/back-original.jpg",
+          "sourceFilename": "IMG_20261102_230946.jpg",
+          "capturedAt": "2026-11-02T23:09:46+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "d4283a17d47ddf2770a60f30c2ddbe70d8217feb9a8998a40d1640c8d8b7fe35",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 963503,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-12-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "封底号码有疑点，待版权页核对",
+      "printedIsbn": "7-108-00669-3"
+    },
+    {
+      "id": "LC-000300",
+      "title": "鹿鼎记",
+      "subtitle": "第五册",
+      "authors": [
+        {
+          "name": "金庸",
+          "country": "中国",
+          "role": "著"
+        }
+      ],
+      "translators": [],
+      "publisher": "生活·读书·新知三联书店",
+      "isbn": null,
+      "category": "文学与小说",
+      "tags": [
+        "武侠小说"
+      ],
+      "usageTags": [
+        "休闲阅读"
+      ],
+      "language": "zh-Hans",
+      "languageLabel": "中文",
+      "series": "金庸作品集（三联版·全36册）",
+      "seriesGroupId": "jinyong-sanlian-36",
+      "seriesNumber": 36,
+      "seriesLabel": "鹿鼎记（五）",
+      "purchaseGroupId": null,
+      "orientation": "portrait",
+      "coverEditionLabel": null,
+      "publicationDate": null,
+      "edition": null,
+      "listPrice": null,
+      "paidPrice": null,
+      "currency": "CNY",
+      "purchaseDate": null,
+      "purchaseDatePrecision": null,
+      "purchaseChannel": null,
+      "accessionedAt": "2026-11-02T23:09:54+08:00",
+      "accessionRule": "首张正面照片的拍摄时间",
+      "readingStatus": null,
+      "location": null,
+      "notes": "出版社及全套36册据用户说明；书名、分册套价据实拍，册序结合拍摄顺序与三联版分册结构编排，未拍书脊及版权页，出版日期、版次印次留空。套价仅计一次。本套末册封底所印ISBN 7-108-00669-3与本批《飞狐外传》重复，暂存印刷原文，标准ISBN留空待版权页核对。",
+      "description": "三联版《金庸作品集》中的《鹿鼎记》，全5册，本册为五册。",
+      "metadataSource": "用户实体书正反面照片及全36册三联版说明；册序结合拍摄顺序与分册结构编排",
+      "photos": [
+        {
+          "side": "front",
+          "label": "正面",
+          "file": "assets/LC-000300/front-original.jpg",
+          "original": "assets/LC-000300/front-original.jpg",
+          "sourceFilename": "IMG_20261102_230954.jpg",
+          "capturedAt": "2026-11-02T23:09:54+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "4f9ecd1366de488753cef37e7bdec0df0cbf7faafc6692f3f7b9329dd877d2f3",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 992544,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        },
+        {
+          "side": "back",
+          "label": "背面",
+          "file": "assets/LC-000300/back-original.jpg",
+          "original": "assets/LC-000300/back-original.jpg",
+          "sourceFilename": "IMG_20261102_231001.jpg",
+          "capturedAt": "2026-11-02T23:10:01+08:00",
+          "timePrecision": "second",
+          "timeSource": "文件名精确至秒，照片水印核对至分钟",
+          "sha256": "a0097de5eb67fb2527cf486684206c8e8a3b5d3f17db789db8b16bc900764f35",
+          "width": 1416,
+          "height": 2048,
+          "receivedBytes": 965467,
+          "sourceIntegrity": "仅确认与工作环境收到的附件一致，未确认与用户设备上的原始文件一致"
+        }
+      ],
+      "condition": null,
+      "priceGroupId": "jinyong-sanlian-36-12-price",
+      "physicalSetId": "jinyong-sanlian-36",
+      "isbnScope": "封底号码有疑点，待版权页核对",
+      "printedIsbn": "7-108-00669-3"
     }
   ],
   "seriesGroups": [
@@ -26912,6 +29869,13 @@
       "shortTitle": "蜀山剑侠传",
       "kind": "多卷本",
       "description": "已收录10个实体册及20张正反照片；套书ISBN与总定价据本套封底，套价只计一次。卷号以封面为准。"
+    },
+    {
+      "id": "jinyong-sanlian-36",
+      "title": "金庸作品集（三联版·全36册）",
+      "shortTitle": "金庸作品集",
+      "kind": "作品集",
+      "description": "据用户说明为生活·读书·新知三联书店版全36册；12种分册作品，每册独立保存正反照片，共72张。册序结合拍摄顺序和三联版分册结构编排，未拍书脊及版权页。"
     }
   ],
   "exchangeRates": {
@@ -27141,6 +30105,162 @@
       ],
       "volumeCount": 10,
       "source": "实拍封底标明318.00元为全十卷总定价，只计一次，非单册价格或实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-1-price",
+      "label": "书剑恩仇录（全2册）",
+      "amount": 38,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000265",
+        "LC-000266"
+      ],
+      "volumeCount": 2,
+      "source": "实拍封底标示38.00元，按《书剑恩仇录》全2册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-2-price",
+      "label": "碧血剑（全2册）",
+      "amount": 38,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000267",
+        "LC-000268"
+      ],
+      "volumeCount": 2,
+      "source": "实拍封底标示38.00元，按《碧血剑》全2册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-3-price",
+      "label": "射雕英雄传（全4册）",
+      "amount": 76.8,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000269",
+        "LC-000270",
+        "LC-000271",
+        "LC-000272"
+      ],
+      "volumeCount": 4,
+      "source": "实拍封底标示76.80元，按《射雕英雄传》全4册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-4-price",
+      "label": "神雕侠侣（全4册）",
+      "amount": 76.8,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000273",
+        "LC-000274",
+        "LC-000275",
+        "LC-000276"
+      ],
+      "volumeCount": 4,
+      "source": "实拍封底标示76.80元，按《神雕侠侣》全4册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-5-price",
+      "label": "雪山飞狐（全1册）",
+      "amount": 18.6,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000277"
+      ],
+      "volumeCount": 1,
+      "source": "实拍封底标示18.60元，按《雪山飞狐》全1册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-6-price",
+      "label": "飞狐外传（全2册）",
+      "amount": 37.6,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000278",
+        "LC-000279"
+      ],
+      "volumeCount": 2,
+      "source": "实拍封底标示37.60元，按《飞狐外传》全2册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-7-price",
+      "label": "倚天屠龙记（全4册）",
+      "amount": 76.8,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000280",
+        "LC-000281",
+        "LC-000282",
+        "LC-000283"
+      ],
+      "volumeCount": 4,
+      "source": "实拍封底标示76.80元，按《倚天屠龙记》全4册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-8-price",
+      "label": "连城诀（全1册）",
+      "amount": 18.6,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000284"
+      ],
+      "volumeCount": 1,
+      "source": "实拍封底标示18.60元，按《连城诀》全1册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-9-price",
+      "label": "天龙八部（全5册）",
+      "amount": 96,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000285",
+        "LC-000286",
+        "LC-000287",
+        "LC-000288",
+        "LC-000289"
+      ],
+      "volumeCount": 5,
+      "source": "实拍封底标示96.00元，按《天龙八部》全5册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-10-price",
+      "label": "侠客行（全2册）",
+      "amount": 38,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000290",
+        "LC-000291"
+      ],
+      "volumeCount": 2,
+      "source": "实拍封底标示38.00元，按《侠客行》全2册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-11-price",
+      "label": "笑傲江湖（全4册）",
+      "amount": 76.8,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000292",
+        "LC-000293",
+        "LC-000294",
+        "LC-000295"
+      ],
+      "volumeCount": 4,
+      "source": "实拍封底标示76.80元，按《笑傲江湖》全4册计一次，非实际支出。"
+    },
+    {
+      "id": "jinyong-sanlian-36-12-price",
+      "label": "鹿鼎记（全5册）",
+      "amount": 96,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000296",
+        "LC-000297",
+        "LC-000298",
+        "LC-000299",
+        "LC-000300"
+      ],
+      "volumeCount": 5,
+      "source": "实拍封底标示96.00元，按《鹿鼎记》全5册计一次，非实际支出。"
     }
   ],
   "categoryOrder": [
