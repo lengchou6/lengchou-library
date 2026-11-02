@@ -61,6 +61,7 @@ jobs:
           npm install --no-save --package-lock=false --ignore-scripts --no-audit --no-fund --prefer-offline jsdom@26.1.0
           node scripts/test_image_recovery.cjs
           node scripts/test_shared_photos.cjs
+          node scripts/test_purchase_info.cjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -68,3 +69,4 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+
