@@ -20499,8 +20499,8 @@
     },
     {
       "id": "LC-000205",
-      "title": "小李飞刀系列",
-      "subtitle": "多情剑客无情剑（上）",
+      "title": "多情剑客无情剑（上）",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -20545,7 +20545,8 @@
         "古龙作品全集",
         "小李飞刀系列",
         "多情剑客无情剑（上）",
-        "古龙作品全集（第15册）：小李飞刀系列：多情剑客无情剑（上）"
+        "古龙作品全集（第15册）：小李飞刀系列：多情剑客无情剑（上）",
+        "小李飞刀系列：多情剑客无情剑（上）"
       ],
       "photos": [
         {
@@ -20616,12 +20617,13 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "小李飞刀系列"
     },
     {
       "id": "LC-000206",
-      "title": "小李飞刀系列",
-      "subtitle": "多情剑客无情剑（下）",
+      "title": "多情剑客无情剑（下）",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -20666,7 +20668,8 @@
         "古龙作品全集",
         "小李飞刀系列",
         "多情剑客无情剑（下）",
-        "古龙作品全集（第16册）：小李飞刀系列：多情剑客无情剑（下）"
+        "古龙作品全集（第16册）：小李飞刀系列：多情剑客无情剑（下）",
+        "小李飞刀系列：多情剑客无情剑（下）"
       ],
       "photos": [
         {
@@ -20737,12 +20740,13 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "小李飞刀系列"
     },
     {
       "id": "LC-000207",
-      "title": "小李飞刀系列",
-      "subtitle": "边城浪子（上）",
+      "title": "边城浪子（上）",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -20787,7 +20791,8 @@
         "古龙作品全集",
         "小李飞刀系列",
         "边城浪子（上）",
-        "古龙作品全集（第17册）：小李飞刀系列：边城浪子（上）"
+        "古龙作品全集（第17册）：小李飞刀系列：边城浪子（上）",
+        "小李飞刀系列：边城浪子（上）"
       ],
       "photos": [
         {
@@ -20858,12 +20863,13 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "小李飞刀系列"
     },
     {
       "id": "LC-000208",
-      "title": "小李飞刀系列",
-      "subtitle": "边城浪子（下）·天涯·明月·刀",
+      "title": "边城浪子（下）",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -20908,7 +20914,8 @@
         "古龙作品全集",
         "小李飞刀系列",
         "边城浪子（下）·天涯·明月·刀",
-        "古龙作品全集（第18册）：小李飞刀系列：边城浪子（下）·天涯·明月·刀"
+        "古龙作品全集（第18册）：小李飞刀系列：边城浪子（下）·天涯·明月·刀",
+        "小李飞刀系列：边城浪子（下）·天涯·明月·刀"
       ],
       "photos": [
         {
@@ -20971,12 +20978,16 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "小李飞刀系列",
+      "includedWorks": [
+        "天涯·明月·刀"
+      ]
     },
     {
       "id": "LC-000209",
-      "title": "小李飞刀系列",
-      "subtitle": "九月鹰飞·飞刀，又见飞刀",
+      "title": "九月鹰飞",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -21021,7 +21032,8 @@
         "古龙作品全集",
         "小李飞刀系列",
         "九月鹰飞·飞刀，又见飞刀",
-        "古龙作品全集（第19册）：小李飞刀系列：九月鹰飞·飞刀，又见飞刀"
+        "古龙作品全集（第19册）：小李飞刀系列：九月鹰飞·飞刀，又见飞刀",
+        "小李飞刀系列：九月鹰飞·飞刀，又见飞刀"
       ],
       "photos": [
         {
@@ -21084,12 +21096,16 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "小李飞刀系列",
+      "includedWorks": [
+        "飞刀，又见飞刀"
+      ]
     },
     {
       "id": "LC-000210",
-      "title": "江湖人系列",
-      "subtitle": "三少爷的剑·剑·花·烟雨·江南",
+      "title": "三少爷的剑",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -21134,7 +21150,8 @@
         "古龙作品全集",
         "江湖人系列",
         "三少爷的剑·剑·花·烟雨·江南",
-        "古龙作品全集（第20册）：江湖人系列：三少爷的剑·剑·花·烟雨·江南"
+        "古龙作品全集（第20册）：江湖人系列：三少爷的剑·剑·花·烟雨·江南",
+        "江湖人系列：三少爷的剑·剑·花·烟雨·江南"
       ],
       "photos": [
         {
@@ -21197,12 +21214,16 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "江湖人系列",
+      "includedWorks": [
+        "剑·花·烟雨·江南"
+      ]
     },
     {
       "id": "LC-000211",
-      "title": "江湖人系列",
-      "subtitle": "白玉老虎（上）",
+      "title": "白玉老虎（上）",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -21247,7 +21268,8 @@
         "古龙作品全集",
         "江湖人系列",
         "白玉老虎（上）",
-        "古龙作品全集（第21册）：江湖人系列：白玉老虎（上）"
+        "古龙作品全集（第21册）：江湖人系列：白玉老虎（上）",
+        "江湖人系列：白玉老虎（上）"
       ],
       "photos": [
         {
@@ -21310,12 +21332,13 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "江湖人系列"
     },
     {
       "id": "LC-000212",
-      "title": "江湖人系列",
-      "subtitle": "白玉老虎（下）·英雄无泪",
+      "title": "白玉老虎（下）",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -21360,7 +21383,8 @@
         "古龙作品全集",
         "江湖人系列",
         "白玉老虎（下）·英雄无泪",
-        "古龙作品全集（第22册）：江湖人系列：白玉老虎（下）·英雄无泪"
+        "古龙作品全集（第22册）：江湖人系列：白玉老虎（下）·英雄无泪",
+        "江湖人系列：白玉老虎（下）·英雄无泪"
       ],
       "photos": [
         {
@@ -21423,12 +21447,16 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "江湖人系列",
+      "includedWorks": [
+        "英雄无泪"
+      ]
     },
     {
       "id": "LC-000213",
-      "title": "江湖人系列",
-      "subtitle": "大地飞鹰",
+      "title": "大地飞鹰",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -21473,7 +21501,8 @@
         "古龙作品全集",
         "江湖人系列",
         "大地飞鹰",
-        "古龙作品全集（第23册）：江湖人系列：大地飞鹰"
+        "古龙作品全集（第23册）：江湖人系列：大地飞鹰",
+        "江湖人系列：大地飞鹰"
       ],
       "photos": [
         {
@@ -21536,12 +21565,13 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "江湖人系列"
     },
     {
       "id": "LC-000214",
-      "title": "江湖人系列",
-      "subtitle": "圆月弯刀",
+      "title": "圆月弯刀",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -21586,7 +21616,8 @@
         "古龙作品全集",
         "江湖人系列",
         "圆月弯刀",
-        "古龙作品全集（第24册）：江湖人系列：圆月弯刀"
+        "古龙作品全集（第24册）：江湖人系列：圆月弯刀",
+        "江湖人系列：圆月弯刀"
       ],
       "photos": [
         {
@@ -21649,12 +21680,13 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "江湖人系列"
     },
     {
       "id": "LC-000215",
-      "title": "江湖人系列",
-      "subtitle": "风铃中的刀声·赌局",
+      "title": "风铃中的刀声",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -21699,7 +21731,8 @@
         "古龙作品全集",
         "江湖人系列",
         "风铃中的刀声·赌局",
-        "古龙作品全集（第25册）：江湖人系列：风铃中的刀声·赌局"
+        "古龙作品全集（第25册）：江湖人系列：风铃中的刀声·赌局",
+        "江湖人系列：风铃中的刀声·赌局"
       ],
       "photos": [
         {
@@ -21762,12 +21795,16 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "江湖人系列",
+      "includedWorks": [
+        "赌局"
+      ]
     },
     {
       "id": "LC-000216",
-      "title": "江湖人系列",
-      "subtitle": "大人物·愤怒的小马",
+      "title": "大人物",
+      "subtitle": null,
       "authors": [
         {
           "name": "古龙",
@@ -21812,7 +21849,8 @@
         "古龙作品全集",
         "江湖人系列",
         "大人物·愤怒的小马",
-        "古龙作品全集（第26册）：江湖人系列：大人物·愤怒的小马"
+        "古龙作品全集（第26册）：江湖人系列：大人物·愤怒的小马",
+        "江湖人系列：大人物·愤怒的小马"
       ],
       "photos": [
         {
@@ -21875,7 +21913,11 @@
       "physicalSetId": "gulong-taibai-53",
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I133:J133",
+      "subseries": "江湖人系列",
+      "includedWorks": [
+        "愤怒的小马"
+      ]
     },
     {
       "id": "LC-000217",

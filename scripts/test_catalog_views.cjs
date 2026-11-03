@@ -16,6 +16,7 @@ w.eval(fs.readFileSync(root+'app.js','utf8'));
  d.querySelector('[data-clear-filter=series]').click();assert.equal(cards(),3);
  const sort=d.querySelector('#sort');sort.value='title';sort.dispatchEvent(new w.Event('change'));assert.equal(d.querySelectorAll('#collection .book-card').length,data.books.length);assert(!d.querySelector('[data-toggle-series]'));
  const last=data.books.find(b=>b.id==='LC-000243');w.location.hash='book/'+last.id;await pause();assert(d.querySelector('.detail-title').textContent.includes(last.title));assert(d.querySelector('.metadata-grid').textContent.includes(last.publisher));assert(d.querySelector('.full-bibliography').textContent.includes('月异星邪'));
+ assert.equal(data.books.find(b=>b.id==='LC-000205').title,'多情剑客无情剑（上）');assert.equal(data.books.find(b=>b.id==='LC-000205').subseries,'小李飞刀系列');
  assert(!data.books.some(b=>/^古龙作品全集（第/.test(b.title)));assert(data.books.filter(b=>b.seriesGroupId==='shushan-beiyue').every(b=>/^第[一二三四五六七八九十]+卷$/.test(b.subtitle)));
  console.log('PASS: 长套书展开收起、视图切换与记忆、搜索和系列自动展开、排序完整性、详情链接及合收篇目。');w.close();
 })().catch(e=>{console.error(e);w.close();process.exitCode=1});
