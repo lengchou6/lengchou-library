@@ -62,6 +62,7 @@ jobs:
           node scripts/test_image_recovery.cjs
           node scripts/test_shared_photos.cjs
           node scripts/test_purchase_info.cjs
+          node scripts/test_catalog_views.cjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
