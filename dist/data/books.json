@@ -620,7 +620,7 @@
       "seriesGroupId": "netease-game-academy",
       "seriesNumber": 1,
       "seriesLabel": "NO.01",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261103-netease-six",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -630,7 +630,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T18:13:53+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -696,7 +696,11 @@
       "usageTags": [
         "玩法设计",
         "系统设计"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔夫子二手网",
+      "purchaseSource": "用户2026-11-03补充购买记录",
+      "purchaseAmountScope": "网易游戏学院丛书六册合计，不含美术画册"
     },
     {
       "id": "LC-000008",
@@ -720,7 +724,7 @@
       "seriesGroupId": "netease-game-academy",
       "seriesNumber": 2,
       "seriesLabel": "NO.02",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261103-netease-six",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -730,7 +734,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T18:18:17+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -795,7 +799,11 @@
       },
       "usageTags": [
         "程序研发"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔夫子二手网",
+      "purchaseSource": "用户2026-11-03补充购买记录",
+      "purchaseAmountScope": "网易游戏学院丛书六册合计，不含美术画册"
     },
     {
       "id": "LC-000009",
@@ -819,7 +827,7 @@
       "seriesGroupId": "netease-game-academy",
       "seriesNumber": 3,
       "seriesLabel": "NO.03",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261103-netease-six",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -829,7 +837,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T18:20:17+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -895,7 +903,11 @@
       "usageTags": [
         "游戏美术",
         "视觉参考"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔夫子二手网",
+      "purchaseSource": "用户2026-11-03补充购买记录",
+      "purchaseAmountScope": "网易游戏学院丛书六册合计，不含美术画册"
     },
     {
       "id": "LC-000010",
@@ -919,7 +931,7 @@
       "seriesGroupId": "netease-game-academy",
       "seriesNumber": 4,
       "seriesLabel": "NO.04",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261103-netease-six",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -929,7 +941,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T18:21:12+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -994,7 +1006,11 @@
       },
       "usageTags": [
         "质量保障"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔夫子二手网",
+      "purchaseSource": "用户2026-11-03补充购买记录",
+      "purchaseAmountScope": "网易游戏学院丛书六册合计，不含美术画册"
     },
     {
       "id": "LC-000011",
@@ -1018,7 +1034,7 @@
       "seriesGroupId": "netease-game-academy",
       "seriesNumber": 5,
       "seriesLabel": "NO.05",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261103-netease-six",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -1028,7 +1044,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T18:22:25+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1093,7 +1109,11 @@
       },
       "usageTags": [
         "用户体验"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔夫子二手网",
+      "purchaseSource": "用户2026-11-03补充购买记录",
+      "purchaseAmountScope": "网易游戏学院丛书六册合计，不含美术画册"
     },
     {
       "id": "LC-000012",
@@ -1117,7 +1137,7 @@
       "seriesGroupId": "netease-game-academy",
       "seriesNumber": 6,
       "seriesLabel": "NO.06",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261103-netease-six",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -1127,7 +1147,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T18:24:47+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1192,7 +1212,11 @@
       },
       "usageTags": [
         "项目协作"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔夫子二手网",
+      "purchaseSource": "用户2026-11-03补充购买记录",
+      "purchaseAmountScope": "网易游戏学院丛书六册合计，不含美术画册"
     },
     {
       "id": "LC-000013",
@@ -1223,11 +1247,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 398.0,
-      "paidPrice": null,
+      "paidPrice": 60,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-18T18:25:54+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1293,7 +1317,10 @@
       "usageTags": [
         "视觉参考",
         "游戏美术"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔夫子二手网",
+      "purchaseSource": "用户2026-11-03补充购买记录"
     },
     {
       "id": "LC-000014",
@@ -7301,7 +7328,7 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 28.8,
-      "paidPrice": 60.3,
+      "paidPrice": 60,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseChannel": "孔夫子旧书网（二手）",
@@ -7365,7 +7392,7 @@
       },
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I90:J90"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I90:J90；用户2026-11-03补充购买记录，实付更正为60元"
     },
     {
       "id": "LC-000072",
@@ -7746,10 +7773,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 68,
-      "paidPrice": null,
+      "paidPrice": 39,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "孔夫子旧书网（二手）",
       "accessionedAt": "2026-10-25T14:32:41+08:00",
       "readingStatus": null,
       "location": null,
@@ -7808,7 +7835,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "Leaves From the Golden Bough"
+      "originalTitle": "Leaves From the Golden Bough",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "孔夫子二手网",
+      "purchaseSource": "用户2026-11-03补充购买记录"
     },
     {
       "id": "LC-000076",
@@ -8955,7 +8985,7 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 69,
-      "paidPrice": 72,
+      "paidPrice": 71.99,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseChannel": "孔夫子旧书网（二手）",
@@ -9025,7 +9055,7 @@
       ],
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I59:J59"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I59:J59；用户2026-11-03补充购买记录，实付更正为71.99元"
     },
     {
       "id": "LC-000088",
@@ -25231,7 +25261,7 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 45,
-      "paidPrice": 51,
+      "paidPrice": 50.02,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
@@ -25295,7 +25325,7 @@
       "condition": null,
       "paidCurrency": "CNY",
       "purchaseChannelOriginal": "孔网二手",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I93:J93"
+      "purchaseSource": "用户书单.xlsx｜游戏书单!I93:J93；用户2026-11-03补充购买记录，实付更正为50.02元"
     },
     {
       "id": "LC-000247",
@@ -31105,7 +31135,7 @@
     {
       "id": "booklist-20261103-row-133",
       "label": "古龙作品全集（太白版全53册）",
-      "amount": 899,
+      "amount": 898,
       "currency": "CNY",
       "bookIds": [
         "LC-000191",
@@ -31164,7 +31194,7 @@
       ],
       "volumeCount": 53,
       "channel": "孔夫子旧书网（二手）",
-      "source": "用户书单.xlsx｜游戏书单!I133:J133"
+      "source": "用户书单.xlsx｜游戏书单!I133:J133；用户2026-11-03补充购买记录，全53册实付更正为898元"
     },
     {
       "id": "booklist-20261103-row-134",
@@ -31180,6 +31210,23 @@
       "volumeCount": 4,
       "channel": "孔夫子旧书网（二手）",
       "source": "用户书单.xlsx｜游戏书单!I134:J134"
+    },
+    {
+      "id": "purchase-20261103-netease-six",
+      "label": "网易游戏学院丛书六册（不含美术画册）",
+      "amount": 180,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000007",
+        "LC-000008",
+        "LC-000009",
+        "LC-000010",
+        "LC-000011",
+        "LC-000012"
+      ],
+      "volumeCount": 6,
+      "channel": "孔夫子旧书网（二手）",
+      "source": "用户2026-11-03补充购买记录"
     }
   ]
 }
