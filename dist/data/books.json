@@ -321,7 +321,7 @@
       "seriesGroupId": "tencent-game-development",
       "seriesNumber": 1,
       "seriesLabel": "第1册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-tencent-three",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -331,7 +331,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-18T17:57:46+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -396,7 +396,11 @@
       },
       "usageTags": [
         "程序研发"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "腾讯游戏开发精粹三册合计，仅计一次"
     },
     {
       "id": "LC-000005",
@@ -421,7 +425,7 @@
       "seriesGroupId": "tencent-game-development",
       "seriesNumber": 2,
       "seriesLabel": "第2册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-tencent-three",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -431,7 +435,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-18T17:58:42+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -496,7 +500,11 @@
       },
       "usageTags": [
         "程序研发"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "腾讯游戏开发精粹三册合计，仅计一次"
     },
     {
       "id": "LC-000006",
@@ -521,7 +529,7 @@
       "seriesGroupId": "tencent-game-development",
       "seriesNumber": 3,
       "seriesLabel": "第3册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-tencent-three",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -531,7 +539,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-18T17:59:41+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -596,7 +604,11 @@
       },
       "usageTags": [
         "程序研发"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "腾讯游戏开发精粹三册合计，仅计一次"
     },
     {
       "id": "LC-000007",
@@ -1357,11 +1369,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 128,
-      "paidPrice": null,
+      "paidPrice": 65.9,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·文轩",
       "accessionedAt": "2026-10-18T18:30:34+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1424,7 +1436,10 @@
       "usageTags": [
         "社会观察",
         "角色塑造"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·文轩",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
     },
     {
       "id": "LC-000015",
@@ -1456,11 +1471,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 9.99,
-      "paidPrice": null,
+      "paidPrice": 84.4,
       "currency": "GBP",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "京东·澜瑞外文",
       "accessionedAt": "2026-10-18T18:55:19+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -1535,7 +1550,10 @@
       "usageTags": [
         "叙事结构",
         "对白写作"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "京东·澜瑞外文",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
     },
     {
       "id": "LC-000016",
@@ -2040,7 +2058,7 @@
       "seriesGroupId": "heritage-myth",
       "seriesNumber": 1,
       "seriesLabel": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-heritage",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -2050,7 +2068,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "抖音·博集天卷",
       "accessionedAt": "2026-10-18T23:42:19+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2108,7 +2126,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "抖音·博集天卷",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "中国妖鬼、中国神仙两本合计，仅计一次"
     },
     {
       "id": "LC-000021",
@@ -2140,7 +2162,7 @@
       "seriesGroupId": "heritage-myth",
       "seriesNumber": 2,
       "seriesLabel": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-heritage",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -2150,7 +2172,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "抖音·博集天卷",
       "accessionedAt": "2026-10-18T23:42:46+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2208,7 +2230,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "抖音·博集天卷",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "中国妖鬼、中国神仙两本合计，仅计一次"
     },
     {
       "id": "LC-000022",
@@ -2766,7 +2792,7 @@
       "seriesGroupId": "don-quixote",
       "seriesNumber": 1,
       "seriesLabel": "上册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-quixote",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -2776,7 +2802,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·凤凰新华",
       "accessionedAt": "2026-10-18T23:48:00+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2837,7 +2863,11 @@
       },
       "priceGroupId": "don-quixote-set",
       "isbnScope": "全套 ISBN，取自下册封底",
-      "physicalSetId": "don-quixote-set"
+      "physicalSetId": "don-quixote-set",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·凤凰新华",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "堂吉诃德上下册合计，仅计一次"
     },
     {
       "id": "LC-000028",
@@ -3275,7 +3305,7 @@
       "seriesGroupId": "don-quixote",
       "seriesNumber": 2,
       "seriesLabel": "下册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-quixote",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -3285,7 +3315,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·凤凰新华",
       "accessionedAt": "2026-10-18T23:52:36+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -3346,7 +3376,11 @@
       },
       "priceGroupId": "don-quixote-set",
       "isbnScope": "全套 ISBN，取自下册封底",
-      "physicalSetId": "don-quixote-set"
+      "physicalSetId": "don-quixote-set",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·凤凰新华",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "堂吉诃德上下册合计，仅计一次"
     },
     {
       "id": "LC-000033",
@@ -3386,7 +3420,7 @@
       "seriesNumber": 1,
       "seriesLabel": "第1部",
       "physicalSetId": "dune-six-volume-box",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dune",
       "orientation": "portrait",
       "coverEditionLabel": "2024年全新增补修订版（封底标识）",
       "publicationDate": null,
@@ -3396,7 +3430,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-24T15:39+08:00",
       "accessionRule": "正面照片水印时间，精确至分钟",
       "readingStatus": null,
@@ -3456,7 +3490,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-24",
         "limitations": "未检查内页、装订、缺页及笔记。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·当当网",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "沙丘六部曲及沙丘档案七册合计，仅计一次"
     },
     {
       "id": "LC-000034",
@@ -3496,7 +3534,7 @@
       "seriesNumber": 2,
       "seriesLabel": "第2部",
       "physicalSetId": "dune-six-volume-box",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dune",
       "orientation": "portrait",
       "coverEditionLabel": "2024年全新增补修订版（封底标识）",
       "publicationDate": null,
@@ -3506,7 +3544,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-24T15:40+08:00",
       "accessionRule": "正面照片水印时间，精确至分钟",
       "readingStatus": null,
@@ -3566,7 +3604,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-24",
         "limitations": "未检查内页、装订、缺页及笔记。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·当当网",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "沙丘六部曲及沙丘档案七册合计，仅计一次"
     },
     {
       "id": "LC-000035",
@@ -3606,7 +3648,7 @@
       "seriesNumber": 3,
       "seriesLabel": "第3部",
       "physicalSetId": "dune-six-volume-box",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dune",
       "orientation": "portrait",
       "coverEditionLabel": "2024年全新增补修订版（封底标识）",
       "publicationDate": null,
@@ -3616,7 +3658,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-24T15:40+08:00",
       "accessionRule": "正面照片水印时间，精确至分钟",
       "readingStatus": null,
@@ -3676,7 +3718,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-24",
         "limitations": "未检查内页、装订、缺页及笔记。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·当当网",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "沙丘六部曲及沙丘档案七册合计，仅计一次"
     },
     {
       "id": "LC-000036",
@@ -3716,7 +3762,7 @@
       "seriesNumber": 4,
       "seriesLabel": "第4部",
       "physicalSetId": "dune-six-volume-box",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dune",
       "orientation": "portrait",
       "coverEditionLabel": "2024年全新增补修订版（封底标识）",
       "publicationDate": null,
@@ -3726,7 +3772,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-24T15:40+08:00",
       "accessionRule": "正面照片水印时间，精确至分钟",
       "readingStatus": null,
@@ -3786,7 +3832,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-24",
         "limitations": "未检查内页、装订、缺页及笔记。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·当当网",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "沙丘六部曲及沙丘档案七册合计，仅计一次"
     },
     {
       "id": "LC-000037",
@@ -3826,7 +3876,7 @@
       "seriesNumber": 5,
       "seriesLabel": "第5部",
       "physicalSetId": "dune-six-volume-box",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dune",
       "orientation": "portrait",
       "coverEditionLabel": "2024年全新增补修订版（封底标识）",
       "publicationDate": null,
@@ -3836,7 +3886,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-24T15:41+08:00",
       "accessionRule": "正面照片水印时间，精确至分钟",
       "readingStatus": null,
@@ -3896,7 +3946,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-24",
         "limitations": "未检查内页、装订、缺页及笔记。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·当当网",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "沙丘六部曲及沙丘档案七册合计，仅计一次"
     },
     {
       "id": "LC-000038",
@@ -3937,7 +3991,7 @@
       "seriesNumber": 6,
       "seriesLabel": "第6部",
       "physicalSetId": "dune-six-volume-box",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dune",
       "orientation": "portrait",
       "coverEditionLabel": "2024年全新增补修订版（封底标识）",
       "publicationDate": null,
@@ -3947,7 +4001,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-24T15:41+08:00",
       "accessionRule": "正面照片水印时间，精确至分钟",
       "readingStatus": null,
@@ -4007,7 +4061,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-24",
         "limitations": "未检查内页、装订、缺页及笔记。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·当当网",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "沙丘六部曲及沙丘档案七册合计，仅计一次"
     },
     {
       "id": "LC-000039",
@@ -4045,7 +4103,7 @@
       "seriesNumber": 7,
       "seriesLabel": "附册",
       "physicalSetId": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dune",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -4055,7 +4113,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-24T15:39+08:00",
       "accessionRule": "正面照片水印时间，精确至分钟",
       "readingStatus": null,
@@ -4115,7 +4173,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-24",
         "limitations": "未检查内页、装订、缺页及笔记。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·当当网",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "沙丘六部曲及沙丘档案七册合计，仅计一次"
     },
     {
       "id": "LC-000040",
@@ -4885,7 +4947,7 @@
       "seriesNumber": 1,
       "seriesLabel": "第1部",
       "physicalSetId": "dark-elf-trilogy",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dark-elf",
       "priceGroupId": "dark-elf-trilogy-price",
       "orientation": "portrait",
       "publicationDate": null,
@@ -4894,7 +4956,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T12:55:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -4955,7 +5017,11 @@
       },
       "titleAliases": [
         "故土"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "黑暗精灵三部曲合计，仅计一次"
     },
     {
       "id": "LC-000048",
@@ -4993,7 +5059,7 @@
       "seriesNumber": 2,
       "seriesLabel": "第2部",
       "physicalSetId": "dark-elf-trilogy",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dark-elf",
       "priceGroupId": "dark-elf-trilogy-price",
       "orientation": "portrait",
       "publicationDate": null,
@@ -5002,7 +5068,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T12:56:11+08:00",
       "readingStatus": null,
       "location": null,
@@ -5063,7 +5129,11 @@
       },
       "titleAliases": [
         "流亡"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "黑暗精灵三部曲合计，仅计一次"
     },
     {
       "id": "LC-000049",
@@ -5102,7 +5172,7 @@
       "seriesNumber": 3,
       "seriesLabel": "第3部",
       "physicalSetId": "dark-elf-trilogy",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-dark-elf",
       "priceGroupId": "dark-elf-trilogy-price",
       "orientation": "portrait",
       "publicationDate": null,
@@ -5111,7 +5181,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T12:56:36+08:00",
       "readingStatus": null,
       "location": null,
@@ -5172,7 +5242,11 @@
       },
       "titleAliases": [
         "旅居"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "黑暗精灵三部曲合计，仅计一次"
     },
     {
       "id": "LC-000050",
@@ -5210,7 +5284,7 @@
       "seriesNumber": 1,
       "seriesLabel": "第1部",
       "physicalSetId": "icewind-dale-trilogy",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-icewind",
       "priceGroupId": "icewind-dale-trilogy-price",
       "orientation": "portrait",
       "publicationDate": null,
@@ -5219,7 +5293,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T12:57:13+08:00",
       "readingStatus": null,
       "location": null,
@@ -5280,7 +5354,11 @@
       },
       "titleAliases": [
         "碎魔晶"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "冰风谷三册合计，仅计一次"
     },
     {
       "id": "LC-000051",
@@ -5318,7 +5396,7 @@
       "seriesNumber": 2,
       "seriesLabel": "第2部",
       "physicalSetId": "icewind-dale-trilogy",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-icewind",
       "priceGroupId": "icewind-dale-trilogy-price",
       "orientation": "portrait",
       "publicationDate": null,
@@ -5327,7 +5405,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T12:57:32+08:00",
       "readingStatus": null,
       "location": null,
@@ -5388,7 +5466,11 @@
       },
       "titleAliases": [
         "白银溪流"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "冰风谷三册合计，仅计一次"
     },
     {
       "id": "LC-000052",
@@ -5426,7 +5508,7 @@
       "seriesNumber": 3,
       "seriesLabel": "第3部",
       "physicalSetId": "icewind-dale-trilogy",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-icewind",
       "priceGroupId": "icewind-dale-trilogy-price",
       "orientation": "portrait",
       "publicationDate": null,
@@ -5435,7 +5517,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T12:58:10+08:00",
       "readingStatus": null,
       "location": null,
@@ -5496,7 +5578,11 @@
       },
       "titleAliases": [
         "半身人的魔坠"
-      ]
+      ],
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "冰风谷三册合计，仅计一次"
     },
     {
       "id": "LC-000053",
@@ -5968,10 +6054,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49,
-      "paidPrice": null,
+      "paidPrice": 1.24,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "京东·中信",
       "accessionedAt": "2026-10-25T13:22:24+08:00",
       "readingStatus": null,
       "location": null,
@@ -6029,7 +6115,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "京东·中信",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
     },
     {
       "id": "LC-000058",
@@ -6153,7 +6242,7 @@
       "seriesGroupId": null,
       "seriesNumber": null,
       "seriesLabel": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-japan-two",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -6161,7 +6250,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-25T13:32:31+08:00",
       "readingStatus": null,
       "location": null,
@@ -6219,7 +6308,11 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "失去的三十年、以日为鉴两本合购合计，仅计一次"
     },
     {
       "id": "LC-000060",
@@ -12319,7 +12412,7 @@
       "seriesGroupId": null,
       "seriesNumber": null,
       "seriesLabel": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-japan-two",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -12328,7 +12421,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "闲鱼（二手）",
       "accessionedAt": "2026-10-28T00:04:08+08:00",
       "readingStatus": null,
       "location": null,
@@ -12385,7 +12478,11 @@
           "preview": "assets/LC-000120/back-preview-34ffb17e4ba1.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "闲鱼（二手）",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录",
+      "purchaseAmountScope": "失去的三十年、以日为鉴两本合购合计，仅计一次"
     },
     {
       "id": "LC-000121",
@@ -12422,10 +12519,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 68,
-      "paidPrice": null,
+      "paidPrice": 15.84,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·当当网",
       "accessionedAt": "2026-10-28T00:04:24+08:00",
       "readingStatus": null,
       "location": null,
@@ -12482,7 +12579,10 @@
           "preview": "assets/LC-000121/back-preview-b2e3811b2b63.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·当当网",
+      "purchaseSource": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
     },
     {
       "id": "LC-000122",
@@ -31082,7 +31182,7 @@
     {
       "id": "booklist-20261103-row-95",
       "label": "中国货币史上下册",
-      "amount": 75,
+      "amount": 74.34,
       "currency": "CNY",
       "bookIds": [
         "LC-000081",
@@ -31090,7 +31190,7 @@
       ],
       "volumeCount": 2,
       "channel": "拼多多·当当网",
-      "source": "用户书单.xlsx｜游戏书单!I95:J95"
+      "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
     },
     {
       "id": "booklist-20261103-row-124",
@@ -31316,6 +31416,105 @@
       "volumeCount": 9,
       "channel": "淘宝·当当网",
       "source": "用户2026-11-04补充淘宝购买记录"
+    },
+    {
+      "id": "purchase-20261104-tencent-three",
+      "label": "腾讯游戏开发精粹三册",
+      "amount": 47,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000004",
+        "LC-000005",
+        "LC-000006"
+      ],
+      "volumeCount": 3,
+      "channel": "闲鱼（二手）",
+      "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
+    },
+    {
+      "id": "purchase-20261104-japan-two",
+      "label": "失去的三十年、以日为鉴两本合购",
+      "amount": 18.9,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000120",
+        "LC-000059"
+      ],
+      "volumeCount": 2,
+      "channel": "闲鱼（二手）",
+      "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
+    },
+    {
+      "id": "purchase-20261104-dark-elf",
+      "label": "黑暗精灵三部曲",
+      "amount": 140,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000047",
+        "LC-000048",
+        "LC-000049"
+      ],
+      "volumeCount": 3,
+      "channel": "闲鱼（二手）",
+      "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
+    },
+    {
+      "id": "purchase-20261104-icewind",
+      "label": "冰风谷三册",
+      "amount": 80,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000050",
+        "LC-000051",
+        "LC-000052"
+      ],
+      "volumeCount": 3,
+      "channel": "闲鱼（二手）",
+      "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
+    },
+    {
+      "id": "purchase-20261104-heritage",
+      "label": "中国妖鬼、中国神仙两本",
+      "amount": 152.99,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000020",
+        "LC-000021"
+      ],
+      "volumeCount": 2,
+      "channel": "抖音·博集天卷",
+      "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
+    },
+    {
+      "id": "purchase-20261104-dune",
+      "label": "沙丘六部曲及沙丘档案七册",
+      "amount": 169.92,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000033",
+        "LC-000034",
+        "LC-000035",
+        "LC-000036",
+        "LC-000037",
+        "LC-000038",
+        "LC-000039"
+      ],
+      "volumeCount": 7,
+      "channel": "拼多多·当当网",
+      "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
+    },
+    {
+      "id": "purchase-20261104-quixote",
+      "label": "堂吉诃德上下册",
+      "amount": 25.73,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000027",
+        "LC-000032"
+      ],
+      "volumeCount": 2,
+      "channel": "拼多多·凤凰新华",
+      "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
     }
   ],
   "pendingPurchases": [
