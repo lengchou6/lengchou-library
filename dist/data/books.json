@@ -2349,7 +2349,7 @@
       "seriesGroupId": "asimov-short",
       "seriesNumber": 2,
       "seriesLabel": "第2卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-asimov-two",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -2359,7 +2359,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·读客",
       "accessionedAt": "2026-10-18T23:44:45+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2417,7 +2417,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·读客",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "阿西莫夫科幻短篇全集两册合计，仅计一次"
     },
     {
       "id": "LC-000024",
@@ -2866,7 +2870,7 @@
       "seriesGroupId": "asimov-short",
       "seriesNumber": 1,
       "seriesLabel": "第1卷",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-asimov-two",
       "orientation": "portrait",
       "coverEditionLabel": "夜光珍藏版（腰封标识）",
       "publicationDate": null,
@@ -2876,7 +2880,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·读客",
       "accessionedAt": "2026-10-18T23:48:58+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -2934,7 +2938,11 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·读客",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "阿西莫夫科幻短篇全集两册合计，仅计一次"
     },
     {
       "id": "LC-000029",
@@ -4142,10 +4150,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 22,
-      "paidPrice": null,
+      "paidPrice": 10.45,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·天猫超市",
       "accessionedAt": "2026-10-25T12:50:53+08:00",
       "readingStatus": null,
       "location": null,
@@ -4203,7 +4211,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·天猫超市",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000041",
@@ -6722,7 +6733,7 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 65,
-      "paidPrice": 34.31,
+      "paidPrice": 34.21,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseChannel": "淘宝·新华文轩",
@@ -6785,8 +6796,8 @@
         "assessedOn": "2026-10-25"
       },
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘 新华文轩",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I11:J11"
+      "purchaseChannelOriginal": "淘宝·新华文轩",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000066",
@@ -7088,8 +7099,9 @@
         "assessedOn": "2026-10-25"
       },
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘 当当网",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I18:J18"
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "救猫咪三册合计，仅计一次"
     },
     {
       "id": "LC-000069",
@@ -7189,8 +7201,9 @@
         "assessedOn": "2026-10-25"
       },
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘 当当网",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I18:J18"
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "救猫咪三册合计，仅计一次"
     },
     {
       "id": "LC-000070",
@@ -7290,8 +7303,9 @@
         "assessedOn": "2026-10-25"
       },
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘 当当网",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I18:J18"
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "救猫咪三册合计，仅计一次"
     },
     {
       "id": "LC-000071",
@@ -7669,10 +7683,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 79.8,
-      "paidPrice": null,
+      "paidPrice": 27.8,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·果麦",
       "accessionedAt": "2026-10-25T14:32:15+08:00",
       "readingStatus": null,
       "location": null,
@@ -7731,7 +7745,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "originalTitle": "The Hobbit"
+      "originalTitle": "The Hobbit",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·果麦",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000075",
@@ -8157,10 +8174,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49.8,
-      "paidPrice": 20.12,
+      "paidPrice": 20.17,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": "淘宝",
+      "purchaseChannel": "淘宝·浙江新华",
       "accessionedAt": "2026-10-25T15:09:39+08:00",
       "readingStatus": null,
       "location": null,
@@ -8225,8 +8242,8 @@
       ],
       "coverEditionLabel": "全译",
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘宝",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I75:J75"
+      "purchaseChannelOriginal": "淘宝·浙江新华",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000080",
@@ -8780,7 +8797,7 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 119.9,
-      "paidPrice": 43,
+      "paidPrice": 42.18,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseChannel": "淘宝·博库",
@@ -8844,8 +8861,8 @@
       },
       "originalTitle": "Game Mechanics: Advanced Game Design",
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘 博库",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I62:J62"
+      "purchaseChannelOriginal": "淘宝·博库",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000086",
@@ -9091,10 +9108,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 58,
-      "paidPrice": 22.13,
+      "paidPrice": 23.13,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": "淘宝",
+      "purchaseChannel": "淘宝·浙江外文",
       "accessionedAt": "2026-10-25T15:16:41+08:00",
       "readingStatus": null,
       "location": null,
@@ -9155,8 +9172,8 @@
       },
       "originalTitle": "The Minority Report",
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘宝",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I107:J107"
+      "purchaseChannelOriginal": "淘宝·浙江外文",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000089",
@@ -9503,7 +9520,7 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 79,
-      "paidPrice": 35.51,
+      "paidPrice": 35.15,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseChannel": "淘宝·新华文轩",
@@ -9567,8 +9584,8 @@
       },
       "originalTitle": "Designing Games: A Guide to Engineering Experiences",
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘 新华文轩",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I39:J39"
+      "purchaseChannelOriginal": "淘宝·新华文轩",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000093",
@@ -9700,7 +9717,7 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 65,
-      "paidPrice": 28.29,
+      "paidPrice": 28.98,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseChannel": "淘宝·新华文轩",
@@ -9763,8 +9780,8 @@
         "assessedOn": "2026-10-25"
       },
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘 新华文轩",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I41:J41"
+      "purchaseChannelOriginal": "淘宝·新华文轩",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000095",
@@ -10013,7 +10030,7 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 68,
-      "paidPrice": 22.36,
+      "paidPrice": 23.36,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseChannel": "淘宝·当当网",
@@ -10076,8 +10093,8 @@
         "assessedOn": "2026-10-25"
       },
       "paidCurrency": "CNY",
-      "purchaseChannelOriginal": "淘 当当网",
-      "purchaseSource": "用户书单.xlsx｜游戏书单!I70:J70"
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000098",
@@ -12001,10 +12018,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 26,
-      "paidPrice": null,
+      "paidPrice": 16.9,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-10-28T00:01:56+08:00",
       "readingStatus": null,
       "location": null,
@@ -12061,7 +12078,10 @@
           "preview": "assets/LC-000117/back-preview-6db5708c9932.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "LC-000118",
@@ -16413,7 +16433,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 1,
       "seriesLabel": "第1部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -16422,7 +16442,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:24:53+08:00",
       "readingStatus": null,
       "location": null,
@@ -16482,7 +16502,11 @@
           "preview": "assets/LC-000167/back-preview-1b2b3e5da01a.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000168",
@@ -16512,7 +16536,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 2,
       "seriesLabel": "第2部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -16521,7 +16545,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:25:22+08:00",
       "readingStatus": null,
       "location": null,
@@ -16581,7 +16605,11 @@
           "preview": "assets/LC-000168/back-preview-f135b67467bd.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000169",
@@ -16611,7 +16639,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 3,
       "seriesLabel": "第3部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -16620,7 +16648,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:26:39+08:00",
       "readingStatus": null,
       "location": null,
@@ -16680,7 +16708,11 @@
           "preview": "assets/LC-000169/back-preview-f63233bb33fb.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000170",
@@ -16710,7 +16742,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 4,
       "seriesLabel": "第4部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -16719,7 +16751,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:27:01+08:00",
       "readingStatus": null,
       "location": null,
@@ -16779,7 +16811,11 @@
           "preview": "assets/LC-000170/back-preview-3d517e1da9eb.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000171",
@@ -16809,7 +16845,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 5,
       "seriesLabel": "第5部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -16818,7 +16854,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:27:21+08:00",
       "readingStatus": null,
       "location": null,
@@ -16878,7 +16914,11 @@
           "preview": "assets/LC-000171/back-preview-954bcaf8486a.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000172",
@@ -16908,7 +16948,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 6,
       "seriesLabel": "第6部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -16917,7 +16957,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:27:43+08:00",
       "readingStatus": null,
       "location": null,
@@ -16977,7 +17017,11 @@
           "preview": "assets/LC-000172/back-preview-a256fb2865c2.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000173",
@@ -17007,7 +17051,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 7,
       "seriesLabel": "第7部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -17016,7 +17060,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:28:02+08:00",
       "readingStatus": null,
       "location": null,
@@ -17076,7 +17120,11 @@
           "preview": "assets/LC-000173/back-preview-6edf0e4b734c.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000174",
@@ -17106,7 +17154,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 8,
       "seriesLabel": "第8部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -17115,7 +17163,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:28:34+08:00",
       "readingStatus": null,
       "location": null,
@@ -17175,7 +17223,11 @@
           "preview": "assets/LC-000174/back-preview-41f8564e0535.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000175",
@@ -17205,7 +17257,7 @@
       "seriesGroupId": "ming-dynasty-expanded",
       "seriesNumber": 9,
       "seriesLabel": "第9部",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261104-ming-nine",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -17214,7 +17266,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "淘宝·当当网",
       "accessionedAt": "2026-11-01T15:28:48+08:00",
       "readingStatus": null,
       "location": null,
@@ -17274,7 +17326,11 @@
           "preview": "assets/LC-000175/back-preview-4cd59434fb4e.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "淘宝·当当网",
+      "purchaseSource": "用户2026-11-04补充淘宝购买记录",
+      "purchaseAmountScope": "明朝那些事儿增补版九册合计，仅计一次"
     },
     {
       "id": "LC-000176",
@@ -31012,7 +31068,7 @@
     {
       "id": "booklist-20261103-row-18",
       "label": "救猫咪三册",
-      "amount": 78.81,
+      "amount": 119.36,
       "currency": "CNY",
       "bookIds": [
         "LC-000068",
@@ -31021,7 +31077,7 @@
       ],
       "volumeCount": 3,
       "channel": "淘宝·当当网",
-      "source": "用户书单.xlsx｜游戏书单!I18:J18"
+      "source": "用户2026-11-04补充淘宝购买记录"
     },
     {
       "id": "booklist-20261103-row-95",
@@ -31227,6 +31283,51 @@
       "volumeCount": 6,
       "channel": "孔夫子旧书网（二手）",
       "source": "用户2026-11-03补充购买记录"
+    },
+    {
+      "id": "purchase-20261104-asimov-two",
+      "label": "阿西莫夫科幻短篇全集两册",
+      "amount": 96.82,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000028",
+        "LC-000023"
+      ],
+      "volumeCount": 2,
+      "channel": "淘宝·读客",
+      "source": "用户2026-11-04补充淘宝购买记录"
+    },
+    {
+      "id": "purchase-20261104-ming-nine",
+      "label": "明朝那些事儿增补版九册",
+      "amount": 213.7,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000167",
+        "LC-000168",
+        "LC-000169",
+        "LC-000170",
+        "LC-000171",
+        "LC-000172",
+        "LC-000173",
+        "LC-000174",
+        "LC-000175"
+      ],
+      "volumeCount": 9,
+      "channel": "淘宝·当当网",
+      "source": "用户2026-11-04补充淘宝购买记录"
+    }
+  ],
+  "pendingPurchases": [
+    {
+      "id": "pending-20261104-unbearable-lightness",
+      "providedTitle": "不能承受生命之轻",
+      "amount": 17.8,
+      "currency": "CNY",
+      "channel": "淘宝·当当网",
+      "source": "用户2026-11-04补充淘宝购买记录",
+      "status": "待匹配馆藏书目",
+      "note": "当前馆藏未找到对应书目，不计入已编目藏书的实付金额与册数。"
     }
   ]
 }
