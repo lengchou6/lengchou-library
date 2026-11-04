@@ -3011,11 +3011,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 48,
-      "paidPrice": null,
+      "paidPrice": 19.07,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·浙江新华",
       "accessionedAt": "2026-10-18T23:49:56+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -3073,7 +3073,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·浙江新华",
+      "purchaseSource": "用户2026-11-05补充拼多多购买记录"
     },
     {
       "id": "LC-000030",
@@ -3112,11 +3115,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 36,
-      "paidPrice": null,
+      "paidPrice": 15.12,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·浙江新华",
       "accessionedAt": "2026-10-18T23:50:17+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -3174,7 +3177,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·浙江新华",
+      "purchaseSource": "用户2026-11-05补充拼多多购买记录"
     },
     {
       "id": "LC-000031",
@@ -3210,11 +3216,11 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49.8,
-      "paidPrice": null,
+      "paidPrice": 20.12,
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·果麦",
       "accessionedAt": "2026-10-18T23:50:39+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -3272,7 +3278,10 @@
         "source": "正反面照片预估",
         "assessedOn": "2026-10-19",
         "limitations": "未检查内页、装订牢固度、缺页、笔记及霉斑等情况。"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·果麦",
+      "purchaseSource": "用户2026-11-05补充拼多多购买记录"
     },
     {
       "id": "LC-000032",
@@ -7977,7 +7986,7 @@
       "seriesGroupId": null,
       "seriesNumber": null,
       "seriesLabel": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-doudou-three",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -7985,7 +7994,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·文轩",
       "accessionedAt": "2026-10-25T14:33:13+08:00",
       "readingStatus": null,
       "location": null,
@@ -8043,7 +8052,11 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·文轩",
+      "purchaseSource": "用户2026-11-05补充拼多多购买记录",
+      "purchaseAmountScope": "遥远的救世主、背叛、天幕红尘三本合购合计，仅计一次"
     },
     {
       "id": "LC-000077",
@@ -8072,7 +8085,7 @@
       "seriesGroupId": null,
       "seriesNumber": null,
       "seriesLabel": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-doudou-three",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -8080,7 +8093,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·文轩",
       "accessionedAt": "2026-10-25T14:34:16+08:00",
       "readingStatus": null,
       "location": null,
@@ -8138,7 +8151,11 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·文轩",
+      "purchaseSource": "用户2026-11-05补充拼多多购买记录",
+      "purchaseAmountScope": "遥远的救世主、背叛、天幕红尘三本合购合计，仅计一次"
     },
     {
       "id": "LC-000078",
@@ -8167,7 +8184,7 @@
       "seriesGroupId": null,
       "seriesNumber": null,
       "seriesLabel": null,
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-doudou-three",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -8175,7 +8192,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "拼多多·文轩",
       "accessionedAt": "2026-10-25T14:34:55+08:00",
       "readingStatus": null,
       "location": null,
@@ -8233,7 +8250,11 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "拼多多·文轩",
+      "purchaseSource": "用户2026-11-05补充拼多多购买记录",
+      "purchaseAmountScope": "遥远的救世主、背叛、天幕红尘三本合购合计，仅计一次"
     },
     {
       "id": "LC-000079",
@@ -31515,6 +31536,20 @@
       "volumeCount": 2,
       "channel": "拼多多·凤凰新华",
       "source": "用户2026-11-04补充闲鱼、抖音、拼多多及京东购买记录"
+    },
+    {
+      "id": "purchase-20261105-doudou-three",
+      "label": "遥远的救世主、背叛、天幕红尘三本合购",
+      "amount": 77.89,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000076",
+        "LC-000077",
+        "LC-000078"
+      ],
+      "volumeCount": 3,
+      "channel": "拼多多·文轩",
+      "source": "用户2026-11-05补充拼多多购买记录"
     }
   ],
   "pendingPurchases": [
