@@ -27,7 +27,7 @@
   function renderThemes(key){
     const page=$('#themes-page'),selected=themes.find(t=>t.key===key);
     if(!selected){
-      page.innerHTML=head('主题书架','换个角度，遇见一本书。','按题材与内容整理的专题；一本书也可以出现在不同书架。')+`<div class="theme-grid">${themes.map(t=>`<a class="theme-card" style="--theme:${t.color}" href="#themes/${t.key}"><span class="theme-art" aria-hidden="true">${t.lead.map(n=>{const b=byId.get(id(n));return b?`<img data-original="${esc(original(b))}" src="${esc(cover(b))}" alt="" loading="lazy">`:'';}).join('')}</span><span class="theme-card-copy"><small>${count(items(t))} 册</small><h2>${t.name}</h2><p>${t.note}</p><span class="theme-open">走进书架 <span aria-hidden="true">↗</span></span></span></a>`).join('')}</div>`;
+      page.innerHTML=head('主题书架','换个角度，遇见一本书。','按题材与内容整理的专题；一本书也可以出现在不同书架。')+`<div class="theme-grid">${themes.map(t=>`<a class="theme-card" style="--theme:${t.color}" href="#themes/${t.key}"><span class="theme-art">${t.lead.map(n=>{const b=byId.get(id(n));return b?`<span class="theme-preview"><span class="theme-preview-cover"><img data-original="${esc(original(b))}" src="${esc(cover(b))}" alt="" loading="lazy"></span><span class="theme-preview-title">${esc(b.title)}</span></span>`:'';}).join('')}</span><span class="theme-card-copy"><small>${count(items(t))} 册</small><h2>${t.name}</h2><p>${t.note}</p><span class="theme-open">走进书架 <span aria-hidden="true">↗</span></span></span></a>`).join('')}</div>`;
       return;
     }
     const bs=items(selected);
@@ -40,15 +40,6 @@
     page.querySelectorAll('[data-route]').forEach(b=>b.addEventListener('click',()=>{location.hash='map/'+b.dataset.route;}));
     page.querySelectorAll('[data-station],[data-next-station]').forEach(b=>b.addEventListener('click',()=>{renderMap(p.key,Number(b.dataset.station??b.dataset.nextStation));page.querySelector(`[data-station="${b.dataset.station??b.dataset.nextStation}"]`)?.focus({preventScroll:true});}));
   }
-  function renderHistory(selectedDate){
-    const days=[...new Set(books.map(b=>b.accessionedAt?.slice(0,10)).filter(Boolean))].sort();
-    const cutoff=days.includes(selectedDate)?selectedDate:days.at(-1),index=days.indexOf(cutoff),snapshot=books.filter(b=>b.accessionedAt?.slice(0,10)<=cutoff),newBooks=snapshot.filter(b=>b.accessionedAt.slice(0,10)===cutoff);
-    const categories=[...new Set(books.map(b=>b.category))],page=$('#history-page');
-    page.innerHTML=head('书阁时光','回到书架生长的那一天。','依据已有入库时间回看目录；这里记录的是编目足迹，不是购买时间或阅读进度。')+`<div class="history-control"><label for="snapshot-date">回看日期</label><select id="snapshot-date">${days.map(d=>`<option value="${d}" ${d===cutoff?'selected':''}>${d.replaceAll('-','.')} · 累计 ${count(books.filter(b=>b.accessionedAt.slice(0,10)<=d))} 册</option>`).join('')}</select><div><button type="button" data-day-step="-1" ${index===0?'disabled':''} aria-label="上一个入库日期">←</button><button type="button" data-day-step="1" ${index===days.length-1?'disabled':''} aria-label="下一个入库日期">→</button></div></div><section class="snapshot-summary"><div><span class="snapshot-date">${cutoff.replaceAll('-','.')}</span><h2>那时，书阁里有 <strong>${count(snapshot)}</strong> 册。</h2><p>当天入库 ${count(newBooks)} 册 · 共 ${days.length} 个入库日期可回看</p></div><div class="snapshot-bars" aria-label="当时的分类构成">${categories.map(c=>{const n=count(snapshot.filter(b=>b.category===c));return `<div><span>${esc(c)}</span><span class="snapshot-bar" aria-hidden="true"><i style="width:${n/count(snapshot)*100}%"></i></span><strong>${n}</strong></div>`;}).join('')}</div></section><div class="history-tabs" role="group" aria-label="回看范围"><button type="button" data-history-view="new" aria-pressed="true">当天入库</button><button type="button" data-history-view="all" aria-pressed="false">当时全部藏书</button><a href="#timeline">完整入库记录 ↗</a></div><p class="history-result" aria-live="polite">当天入库 ${count(newBooks)} 册</p><div class="discovery-books history-books">${newBooks.map(mini).join('')}</div>`;
-    $('#snapshot-date').addEventListener('change',e=>location.hash='history/'+e.target.value);
-    page.querySelectorAll('[data-day-step]').forEach(b=>b.addEventListener('click',()=>location.hash='history/'+days[index+Number(b.dataset.dayStep)]));
-    page.querySelectorAll('[data-history-view]').forEach(b=>b.addEventListener('click',()=>{const all=b.dataset.historyView==='all';page.querySelectorAll('[data-history-view]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));$('.history-books').innerHTML=(all?snapshot:newBooks).map(mini).join('');$('.history-result').textContent=(all?'当时全部藏书 ':'当天入库 ')+count(all?snapshot:newBooks)+' 册';}));
-  }
   function related(book){
     document.querySelector('#book-connections')?.remove();
     const links=[];
@@ -56,21 +47,38 @@
     const ts=themes.filter(t=>t.ids.includes(Number(book.id.slice(3))));if(!links.length&&!ts.length)return;
     const panel=document.createElement('section');panel.id='book-connections';panel.className='book-connections';panel.innerHTML=`<h2>书与书之间</h2>${links.length?`<div class="related-books">${links.slice(0,3).map(x=>`<article>${mini(x.b)}<p>${esc(x.reason)}</p></article>`).join('')}</div>`:''}${ts.length?`<div class="book-theme-links"><span>也在这些书架上</span>${ts.map(t=>`<a href="#themes/${t.key}">${t.name} ↗</a>`).join('')}</div>`:''}<a class="text-link" href="#map">展开书间地图 →</a>`;$('#detail-page').append(panel);
   }
-  const birdSvg=`<svg class="bird-drawing" viewBox="0 0 90 100" aria-hidden="true"><path class="bird-tail" d="M37 65 24 96 45 79" fill="#778581"/><path d="M31 68 29 80M47 69 48 80" stroke="#9c8271" stroke-width="3"/><path d="M19 81h45" stroke="#b7b4a6" stroke-width="2" stroke-linecap="round"/><ellipse cx="39" cy="53" rx="21" ry="27" fill="#7d8983"/><path d="M22 46Q6 56 26 72L38 52" fill="#e9e8db"/><g class="bird-head"><path d="M38 25Q30 8 19 7L35 13 38 1 45 23" fill="#c9bb73"/><path d="M20 33Q20 14 39 15 63 14 63 34 64 51 45 51 24 50 20 33" fill="#ddd194"/><path d="M61 29Q75 31 62 43Z" fill="#5e6967"/><circle class="bird-eye" cx="49" cy="29" r="3.6" fill="#283b3b"/><circle cx="50" cy="28" r="1" fill="#fff"/><circle cx="36" cy="39" r="7" fill="#c98960"/></g></svg>`;
+  const birdArt='<span class="pet-sprite" aria-hidden="true"></span>';
   function setupBird(){
-    const host=document.createElement('aside');host.id='library-bird';host.setAttribute('aria-label','书阁玄凤');
-    let hidden=false;try{hidden=localStorage.getItem('library-bird-hidden')==='true';}catch{}
-    $('#bird-return').innerHTML=birdSvg;
-    host.hidden=hidden;host.innerHTML=`<div class="bird-panel" hidden><p id="bird-says" role="status">书都在这里，随便翻翻。</p><div><button type="button" data-bird-random>替我挑一本 ↗</button><button type="button" data-bird-hide>收起</button></div></div><button type="button" class="bird-perch" aria-label="和玄凤打个招呼" aria-expanded="false">${birdSvg}</button>`;document.body.append(host);
-    const toggle=()=>{const panel=host.querySelector('.bird-panel');panel.hidden=!panel.hidden;host.querySelector('.bird-perch').setAttribute('aria-expanded',String(!panel.hidden));host.classList.remove('bird-hello');void host.offsetWidth;host.classList.add('bird-hello');};
-    host.querySelector('.bird-perch').addEventListener('click',toggle);
-    host.querySelector('[data-bird-hide]').addEventListener('click',()=>{host.hidden=true;try{localStorage.setItem('library-bird-hidden','true');}catch{}$('#bird-return').focus();});
-    host.querySelector('[data-bird-random]').addEventListener('click',()=>{if(!books.length)return;const b=books[Math.floor(Math.random()*books.length)];location.hash='book/'+b.id;host.querySelector('.bird-panel').hidden=true;host.querySelector('.bird-perch').setAttribute('aria-expanded','false');});
-    $('#bird-return').addEventListener('click',()=>{host.hidden=false;try{localStorage.removeItem('library-bird-hidden');}catch{}host.querySelector('.bird-panel').hidden=true;toggle();host.querySelector('.bird-perch').focus();});
-    document.addEventListener('keydown',e=>{if(e.key==='Escape'){host.querySelector('.bird-panel').hidden=true;host.querySelector('.bird-perch').setAttribute('aria-expanded','false');}});
-    document.addEventListener('library-catalog',e=>{host.classList.toggle('bird-curious',e.detail.empty);$('#bird-says').textContent=e.detail.empty?'这本暂时没找到，换个关键词试试？':'书都在这里，随便翻翻。';if(e.detail.empty&&!host.hidden){host.querySelector('.bird-panel').hidden=false;host.querySelector('.bird-perch').setAttribute('aria-expanded','true');}});
+    const host=document.createElement('aside');host.id='library-bird';host.setAttribute('aria-label','书阁玄凤随便');
+    let hidden=false,atRight=false,timer,pose='idle';const turns={};
+    try{hidden=localStorage.getItem('library-bird-hidden')==='true';atRight=localStorage.getItem('library-bird-side')==='right';}catch{}
+    $('#bird-return').textContent='玄凤';host.hidden=hidden;host.dataset.pose='idle';host.classList.toggle('bird-at-right',atRight);
+    host.innerHTML='<div class="bird-panel" hidden><div class="bird-panel-heading"><strong>随便</strong><span id="bird-mood">在书阁陪你</span><button type="button" data-bird-close aria-label="关闭玄凤菜单">×</button></div><p id="bird-says" role="status" aria-live="polite">今天想翻哪一本？</p><div class="bird-actions"><button type="button" data-bird-action="pet">摸摸头</button><button type="button" data-bird-action="feed">喂小米</button><button type="button" data-bird-action="chirp">啾一声</button><button type="button" data-bird-action="sleep">打个盹</button><button type="button" data-bird-random>替我挑书 ↗</button><button type="button" data-bird-action="move">换一边</button></div><button type="button" data-bird-hide>让它先歇会儿</button></div><button type="button" class="bird-perch" aria-label="和玄凤随便互动" aria-expanded="false">'+birdArt+'<span class="pet-grains" aria-hidden="true"><i></i><i></i><i></i></span><span class="pet-perch" aria-hidden="true"></span></button>';
+    document.body.append(host);
+    const panel=host.querySelector('.bird-panel'),perch=host.querySelector('.bird-perch');
+    const open=value=>{panel.hidden=!value;perch.setAttribute('aria-expanded',String(value));};
+    const say=(message,mood)=>{$('#bird-says').textContent=message;$('#bird-mood').textContent=mood;};
+    const setPose=value=>{pose=value;host.dataset.pose=value;};
+    const lines={pet:['冠羽慢慢伏下来，眯着眼等你再摸一下。','往手心里蹭了蹭。嗯，就是这里。'],feed:['叼起一粒小米，认真嚼了起来。','小米收下啦。抬头看你一眼，又低头啄了一口。'],chirp:['啾——！小翅膀也跟着张开了。','啾啾。今天也有好书陪你。']};
+    function act(action){
+      clearTimeout(timer);open(true);host.classList.remove('pet-react');void host.offsetWidth;host.classList.add('pet-react');
+      if(action==='move'){atRight=!atRight;host.classList.toggle('bird-at-right',atRight);try{localStorage.setItem('library-bird-side',atRight?'right':'left');}catch{}say('换个角落，继续陪你。','挪好小爪子');return;}
+      if(action==='sleep'){setPose('sleep');say('把脑袋埋进羽毛里。轻一点，它打盹了。','正在打盹');return;}
+      if(action==='wake'){setPose('idle');say('睡醒啦，冠羽又竖起来了。','醒了');return;}
+      setPose(action==='pet'?'pet':action==='chirp'?'chirp':'feed');
+      const choices=lines[action];if(choices){const turn=turns[action]||0;say(choices[turn%choices.length],({pet:'摸头中',feed:'吃小米中',chirp:'开心啾叫'})[action]);turns[action]=turn+1;}
+      timer=setTimeout(()=>{setPose('idle');host.classList.remove('pet-react');$('#bird-mood').textContent='在书阁陪你';},4200);
+    }
+    perch.addEventListener('click',()=>{if(pose==='sleep'){act('wake');return;}open(panel.hidden);});
+    host.querySelectorAll('[data-bird-action]').forEach(b=>b.addEventListener('click',()=>act(b.dataset.birdAction)));
+    host.querySelector('[data-bird-close]').addEventListener('click',()=>{open(false);perch.focus();});
+    host.querySelector('[data-bird-hide]').addEventListener('click',()=>{clearTimeout(timer);host.hidden=true;open(false);try{localStorage.setItem('library-bird-hidden','true');}catch{}$('#bird-return').focus();});
+    host.querySelector('[data-bird-random]').addEventListener('click',()=>{if(!books.length)return;clearTimeout(timer);setPose('idle');const b=books[Math.floor(Math.random()*books.length)];location.hash='book/'+b.id;say('替你挑了《'+b.title+'》。','翻到一本书');open(false);});
+    $('#bird-return').addEventListener('click',()=>{host.hidden=false;try{localStorage.removeItem('library-bird-hidden');}catch{}open(true);perch.focus();});
+    document.addEventListener('keydown',e=>{if(e.key==='Escape')open(false);});
+    document.addEventListener('library-catalog',e=>{host.classList.toggle('bird-curious',e.detail.empty);if(e.detail.empty&&pose!=='sleep'){say('这本暂时没找到，换个关键词试试？','歪头看看');if(!host.hidden)open(true);}});
   }
   document.addEventListener('library-ready',e=>{books=e.detail.books;byId=new Map(books.map(b=>[b.id,b]));ready=true;setupBird();});
-  document.addEventListener('library-explore-route',e=>{if(!ready)return;const [page,key]=e.detail.hash.split('/');if(page==='themes')renderThemes(key);if(page==='map')renderMap(key);if(page==='history')renderHistory(key);});
+  document.addEventListener('library-explore-route',e=>{if(!ready)return;const [page,key]=e.detail.hash.split('/');if(page==='themes')renderThemes(key);if(page==='map')renderMap(key);});
   document.addEventListener('library-detail',e=>{if(ready)related(e.detail.book);});
 })();

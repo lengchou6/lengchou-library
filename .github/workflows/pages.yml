@@ -48,6 +48,8 @@ jobs:
           python -m pip install -r requirements-images.txt
           python scripts/optimize_photos.py
           python scripts/test_photo_asset_preservation.py
+          python scripts/prepare_companion.py
+          test -s dist/assets/cockatiel-companion.webp
           test -s dist/assets/avatar.webp
           test -s dist/assets/cockatiel-corner.webp
       - name: Validate book catalogue

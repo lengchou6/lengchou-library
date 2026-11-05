@@ -50,7 +50,7 @@
   const columnCount=()=>innerWidth>=1360?5:innerWidth>=1040?4:innerWidth>=720?3:2;
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   const dialog = $('#photo-dialog');
-  const pages = ['catalog','detail','timeline','about','themes','map','history'];
+  const pages = ['catalog','detail','timeline','about','themes','map'];
   function setPage(name) {
     pages.forEach(p => { $(`#${p}-page`).hidden = p !== name; });
     syncImageErrors();
@@ -332,7 +332,7 @@
       if(book){renderDetail(book);document.dispatchEvent(new CustomEvent('library-detail',{detail:{book}}));document.title=`${fullTitle(book)} · 冷愁藏书阁`;}
       else{$('#detail-page').innerHTML='<div class="error-state"><h1>未找到这份藏书档案</h1><p>请检查编号，或返回目录继续浏览。</p><a href="#catalog" class="primary-button">返回目录</a></div>';document.title='未找到档案 · 冷愁藏书阁';}
     } else if(hash==='timeline') {setPage('timeline');renderTimeline();document.title='入库记录 · 冷愁藏书阁';}
-    else if(['themes','map','history'].includes(hash.split('/')[0])){const section=hash.split('/')[0];setPage(section);document.dispatchEvent(new CustomEvent('library-explore-route',{detail:{hash}}));document.title=({themes:'主题书架',map:'书间地图',history:'书阁时光'})[section]+' · 冷愁藏书阁';}
+    else if(['themes','map'].includes(hash.split('/')[0])){const section=hash.split('/')[0];setPage(section);document.dispatchEvent(new CustomEvent('library-explore-route',{detail:{hash}}));document.title=({themes:'主题书架',map:'书间地图'})[section]+' · 冷愁藏书阁';}
     else if(hash==='about') {setPage('about');renderAbout();document.title='关于 · 冷愁藏书阁';}
     else {setPage('catalog');document.title='冷愁藏书阁 · 个人馆藏';}
     const returning=hash==='catalog' && currentPage==='detail';

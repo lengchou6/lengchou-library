@@ -7,14 +7,15 @@ const pause=(ms=30)=>new Promise(r=>setTimeout(r,ms));
 w.eval(fs.readFileSync(root+'explore.js','utf8'));w.eval(fs.readFileSync(root+'app.js','utf8'));
 const route=async hash=>{w.location.hash=hash;await pause();};
 (async()=>{
- await pause();assert(!d.querySelector('#themes-page').hidden);assert.equal(d.querySelectorAll('.theme-card').length,6);
+ await pause();assert(!d.querySelector('#themes-page').hidden);assert.equal(d.querySelectorAll('.theme-card').length,6);assert.equal(d.querySelectorAll('.theme-preview-title').length,18);assert(!d.querySelector('[data-nav="history"]'));
  for(const link of [...d.querySelectorAll('.theme-card')]){await route(link.hash);assert(d.querySelectorAll('#themes-page .discovery-book').length>0);for(const a of d.querySelectorAll('#themes-page .discovery-book'))assert(data.books.some(b=>a.hash==='#book/'+b.id));}
  await route('#map');assert.equal(d.querySelectorAll('.map-station').length,4);
  for(const b of [...d.querySelectorAll('[data-route]')]){await route('#map/'+b.dataset.route);assert.equal(d.querySelectorAll('.map-station').length,4);d.querySelector('[data-station="2"]').click();assert.equal(d.querySelector('[data-station="2"]').getAttribute('aria-pressed'),'true');assert(d.querySelector('#map-connection').textContent.length>40);}
  await route('#book/LC-000079');assert(d.querySelector('#book-connections a[href="#book/LC-000095"]'));assert(d.querySelector('#book-connections a[href="#themes/world"]'));
- await route('#history');const days=[...d.querySelector('#snapshot-date').options].map(o=>o.value);assert(days.length>1);
- for(const date of [days[0],days.at(-1)]){await route('#history/'+date);const expected=data.books.filter(b=>b.accessionedAt.slice(0,10)<=date).reduce((n,b)=>n+(b.volumeCount||1),0);assert(d.querySelector('.snapshot-summary h2').textContent.includes(String(expected)));d.querySelector('[data-history-view="all"]').click();assert.equal(d.querySelectorAll('.history-books .discovery-book').length,data.books.filter(b=>b.accessionedAt.slice(0,10)<=date).length);}
- await route('#catalog');d.querySelector('.bird-perch').click();assert(!d.querySelector('.bird-panel').hidden);d.querySelector('[data-bird-hide]').click();assert(d.querySelector('#library-bird').hidden);d.querySelector('#bird-return').click();assert(!d.querySelector('#library-bird').hidden);d.querySelector('[data-bird-random]').click();await pause();assert(w.location.hash.startsWith('#book/'));assert(!d.querySelector('#detail-page').hidden);
+ await route('#catalog');d.querySelector('.bird-perch').click();assert(!d.querySelector('.bird-panel').hidden);for(const action of ['pet','feed','chirp','sleep']){d.querySelector('[data-bird-action="'+action+'"]').click();assert.equal(d.querySelector('#library-bird').dataset.pose,action);assert(d.querySelector('#bird-says').textContent.length>6);}
+ d.querySelector('.bird-perch').click();assert.equal(d.querySelector('#library-bird').dataset.pose,'idle');
+ d.querySelector('[data-bird-action="move"]').click();assert(d.querySelector('#library-bird').classList.contains('bird-at-right'));
+ d.querySelector('[data-bird-hide]').click();assert(d.querySelector('#library-bird').hidden);d.querySelector('#bird-return').click();assert(!d.querySelector('#library-bird').hidden);d.querySelector('[data-bird-random]').click();await pause();assert(w.location.hash.startsWith('#book/'));assert(!d.querySelector('#detail-page').hidden);
  await route('#catalog');d.querySelector('#search').value='绝对不在书阁里的测试关键词';d.querySelector('#search').dispatchEvent(new w.Event('input'));await pause(200);assert(d.querySelector('#library-bird').classList.contains('bird-curious'));assert(d.querySelector('#bird-says').textContent.includes('换个关键词'));
- assert.equal(data.books.reduce((n,b)=>n+(b.volumeCount||1),0),300);console.log('PASS: 主题书架与全部书目链接、五条关联路线、详情关联、历史快照册数、玄凤显隐与随机翻书、搜索空结果。');w.close();
+ assert.equal(data.books.reduce((n,b)=>n+(b.volumeCount||1),0),300);console.log('PASS: 主题书架与全部书目链接、五条关联路线、详情关联、玄凤造型互动、显隐与随机翻书、搜索空结果。');w.close();
 })().catch(e=>{console.error(e);w.close();process.exitCode=1});
