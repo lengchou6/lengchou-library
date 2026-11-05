@@ -21,7 +21,13 @@ w.eval(fs.readFileSync(root+'app.js','utf8'));
  for(const id of ['LC-000017','LC-000072','LC-000073']){w.location.hash='book/'+id;await pause();assert(field('实付价格').includes('¥'));assert(!field('实付价格').includes('US$'));assert(!field('实付价格').includes('£'));assert(!field('实付价格').includes('€'));}
  w.location.hash='book/LC-000017';await pause();assert(field('封底定价').includes('US$49.99'));
  w.location.hash='book/LC-000072';await pause();assert(field('封底定价').includes('£14.99'));
- const unknown=data.books.find(b=>!b.purchaseGroupId && b.paidPrice==null);w.location.hash='book/'+unknown.id;await pause();assert(!field('实付价格'));
+ // Use an isolated fixture so this case remains testable when every real book is priced.
+ const unknownData=JSON.parse(JSON.stringify(data)),unknown=unknownData.books.find(b=>!b.purchaseGroupId);
+ assert(unknown,'需要一个非合购书目作为缺价测试样本');unknown.paidPrice=null;
+ const unknownDom=new JSDOM(fs.readFileSync(root+'index.html','utf8'),{url:'https://example.test/#book/'+unknown.id,runScripts:'outside-only',pretendToBeVisual:true});
+ const uw=unknownDom.window;uw.fetch=async()=>({ok:true,json:async()=>unknownData});uw.scrollTo=()=>{};uw.HTMLElement.prototype.scrollIntoView=()=>{};
+ uw.Image=class{set src(v){setTimeout(()=>this.onload?.(),0)}decode(){return Promise.resolve()}};
+ try{uw.eval(fs.readFileSync(root+'app.js','utf8'));await pause();assert(uw.document.querySelector('.metadata-grid'),'缺价书目的详情应正常加载');assert(![...uw.document.querySelectorAll('.metadata-grid dt')].some(e=>e.textContent==='实付价格'));}finally{uw.close();}
  w.location.hash='about';await pause();const amount=groups.reduce((n,g)=>n+g.amount,0)+data.books.filter(b=>!b.purchaseGroupId&&b.paidPrice!=null).reduce((n,b)=>n+b.paidPrice,0);const count=groups.length+data.books.filter(b=>!b.purchaseGroupId&&b.paidPrice!=null).length;
  assert(d.querySelector('#about-page').textContent.includes(`已记录 ${count} 笔购买`));assert(d.querySelector('#about-page').textContent.includes('¥'+amount.toFixed(2)));
  console.log('PASS: 套装购买金额不重复记入各册；人民币实付与外币封底定价分开；渠道、未知价格及购买合计显示正确。');w.close();
