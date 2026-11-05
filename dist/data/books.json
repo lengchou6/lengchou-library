@@ -4319,10 +4319,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 18,
-      "paidPrice": null,
+      "paidPrice": 4.8,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-25T12:51:40+08:00",
       "readingStatus": null,
       "location": null,
@@ -4380,7 +4380,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000042",
@@ -6161,10 +6164,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 45,
-      "paidPrice": null,
+      "paidPrice": 27,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-25T13:23:22+08:00",
       "readingStatus": null,
       "location": null,
@@ -6222,7 +6225,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000059",
@@ -6355,10 +6361,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 45,
-      "paidPrice": null,
+      "paidPrice": 29.2,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-25T13:33:23+08:00",
       "readingStatus": null,
       "location": null,
@@ -6416,7 +6422,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000061",
@@ -6444,10 +6453,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 30,
-      "paidPrice": null,
+      "paidPrice": 11,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-25T13:34:26+08:00",
       "readingStatus": null,
       "location": null,
@@ -6506,7 +6515,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-25"
       },
-      "coverEditionLabel": "全新修订版·实用版；根据刑法修正案十一修订（封面标识）"
+      "coverEditionLabel": "全新修订版·实用版；根据刑法修正案十一修订（封面标识）",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000062",
@@ -6540,10 +6552,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 35,
-      "paidPrice": null,
+      "paidPrice": 17.5,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-25T13:35:15+08:00",
       "readingStatus": null,
       "location": null,
@@ -6601,7 +6613,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-25"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000063",
@@ -10655,10 +10670,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 68,
-      "paidPrice": null,
+      "paidPrice": 30.6,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-27T23:41:30+08:00",
       "readingStatus": null,
       "location": null,
@@ -10717,7 +10732,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-28"
       },
-      "originalTitle": "Someone to Talk to"
+      "originalTitle": "Someone to Talk to",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000103",
@@ -10756,10 +10774,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49.8,
-      "paidPrice": null,
+      "paidPrice": 25.6,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-27T23:41:48+08:00",
       "readingStatus": null,
       "location": null,
@@ -10817,7 +10835,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-28"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000104",
@@ -10851,10 +10872,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 32.8,
-      "paidPrice": null,
+      "paidPrice": 9.5,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-27T23:42:07+08:00",
       "readingStatus": null,
       "location": null,
@@ -10912,7 +10933,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-28"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000105",
@@ -10946,10 +10970,10 @@
       "publicationDate": "2022-01",
       "edition": "2022年1月第1版；2022年8月第10次印刷",
       "listPrice": 69.9,
-      "paidPrice": null,
+      "paidPrice": 34.9,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-27T23:49:57+08:00",
       "readingStatus": null,
       "location": null,
@@ -11021,7 +11045,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-28"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000106",
@@ -11055,10 +11082,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 69,
-      "paidPrice": null,
+      "paidPrice": 28,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-27T23:50:36+08:00",
       "readingStatus": null,
       "location": null,
@@ -11116,7 +11143,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-28"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000107",
@@ -11150,10 +11180,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 49,
-      "paidPrice": null,
+      "paidPrice": 24.5,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-27T23:50:59+08:00",
       "readingStatus": null,
       "location": null,
@@ -11211,7 +11241,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-28"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000108",
@@ -11245,10 +11278,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 58,
-      "paidPrice": null,
+      "paidPrice": 18.9,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-27T23:51:40+08:00",
       "readingStatus": null,
       "location": null,
@@ -11306,7 +11339,10 @@
         "scope": "外观",
         "source": "照片预估",
         "assessedOn": "2026-10-28"
-      }
+      },
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000109",
@@ -11340,10 +11376,10 @@
       "publicationDate": null,
       "edition": null,
       "listPrice": 29,
-      "paidPrice": null,
+      "paidPrice": 16,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-27T23:52:04+08:00",
       "readingStatus": null,
       "location": null,
@@ -11402,7 +11438,10 @@
         "source": "照片预估",
         "assessedOn": "2026-10-28"
       },
-      "coverEditionLabel": "纪念版"
+      "coverEditionLabel": "纪念版",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000110",
@@ -11948,10 +11987,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 59,
-      "paidPrice": null,
+      "paidPrice": 29.5,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:01:19+08:00",
       "readingStatus": null,
       "location": null,
@@ -12008,7 +12047,10 @@
           "preview": "assets/LC-000115/back-preview-e83b7b98802f.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000116",
@@ -12037,10 +12079,10 @@
       "edition": null,
       "coverEditionLabel": "实用版",
       "listPrice": 20,
-      "paidPrice": null,
+      "paidPrice": 18,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:01:37+08:00",
       "readingStatus": null,
       "location": null,
@@ -12097,7 +12139,10 @@
           "preview": "assets/LC-000116/back-preview-8b4900de8073.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000117",
@@ -12230,10 +12275,10 @@
       "edition": null,
       "coverEditionLabel": "插图修订第4版",
       "listPrice": 60,
-      "paidPrice": null,
+      "paidPrice": 30,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:02:18+08:00",
       "readingStatus": null,
       "location": null,
@@ -12290,7 +12335,10 @@
           "preview": "assets/LC-000118/back-preview-3b4e56c01f63.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000119",
@@ -12325,10 +12373,10 @@
       "edition": "2019年7月第1版",
       "coverEditionLabel": "修订本",
       "listPrice": 45,
-      "paidPrice": null,
+      "paidPrice": 22.5,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:03:43+08:00",
       "readingStatus": null,
       "location": null,
@@ -12402,7 +12450,10 @@
         }
       ],
       "condition": null,
-      "printing": "2023年6月第11次印刷"
+      "printing": "2023年6月第11次印刷",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000120",
@@ -12638,10 +12689,10 @@
       "edition": null,
       "coverEditionLabel": "第4版",
       "listPrice": 49.9,
-      "paidPrice": null,
+      "paidPrice": 24.9,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:04:41+08:00",
       "readingStatus": null,
       "location": null,
@@ -12698,7 +12749,10 @@
           "preview": "assets/LC-000122/back-preview-e2f070c97dc4.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000123",
@@ -12733,10 +12787,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 49.8,
-      "paidPrice": null,
+      "paidPrice": 30,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:05:44+08:00",
       "readingStatus": null,
       "location": null,
@@ -12793,7 +12847,10 @@
           "preview": "assets/LC-000123/back-preview-45db8763c199.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000124",
@@ -12828,10 +12885,10 @@
       "edition": null,
       "coverEditionLabel": "精装典藏·增录新版自序",
       "listPrice": 39.5,
-      "paidPrice": null,
+      "paidPrice": 27.2,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:06:18+08:00",
       "readingStatus": null,
       "location": null,
@@ -12888,7 +12945,10 @@
           "preview": "assets/LC-000124/back-preview-2176ffdd5d18.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000125",
@@ -12923,10 +12983,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 56,
-      "paidPrice": null,
+      "paidPrice": 39.2,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:06:36+08:00",
       "readingStatus": null,
       "location": null,
@@ -12983,7 +13043,10 @@
           "preview": "assets/LC-000125/back-preview-3940a58ca7f4.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000126",
@@ -13018,10 +13081,10 @@
       "edition": "2020年9月第1版",
       "coverEditionLabel": null,
       "listPrice": 58,
-      "paidPrice": null,
+      "paidPrice": 52.2,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T00:07:36+08:00",
       "readingStatus": null,
       "location": null,
@@ -13095,7 +13158,10 @@
         }
       ],
       "condition": null,
-      "printing": "2021年12月第11次印刷"
+      "printing": "2021年12月第11次印刷",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000127",
@@ -13275,7 +13341,7 @@
       "seriesGroupId": "endless-world",
       "seriesNumber": 1,
       "seriesLabel": "第1册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-world-without-end",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -13284,7 +13350,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T19:55:25+08:00",
       "readingStatus": null,
       "location": null,
@@ -13341,7 +13407,11 @@
           "preview": "assets/LC-000134/back-preview-cbae544c75e3.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000135",
@@ -13372,7 +13442,7 @@
       "seriesGroupId": "endless-world",
       "seriesNumber": 2,
       "seriesLabel": "第2册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-world-without-end",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -13381,7 +13451,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T19:55:51+08:00",
       "readingStatus": null,
       "location": null,
@@ -13438,7 +13508,11 @@
           "preview": "assets/LC-000135/back-preview-081f5d0dbf85.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000136",
@@ -13469,7 +13543,7 @@
       "seriesGroupId": "endless-world",
       "seriesNumber": 3,
       "seriesLabel": "第3册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-world-without-end",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -13478,7 +13552,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T19:56:22+08:00",
       "readingStatus": null,
       "location": null,
@@ -13535,7 +13609,11 @@
           "preview": "assets/LC-000136/back-preview-2773c63e3a68.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000137",
@@ -13572,10 +13650,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 21,
-      "paidPrice": null,
+      "paidPrice": 10.1,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T19:57:04+08:00",
       "readingStatus": null,
       "location": null,
@@ -13632,7 +13710,10 @@
           "preview": "assets/LC-000137/back-preview-1a4eadc954f8.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000138",
@@ -13669,10 +13750,10 @@
       "edition": "2018年9月第1版",
       "coverEditionLabel": null,
       "listPrice": 88,
-      "paidPrice": null,
+      "paidPrice": 39.2,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T19:59:33+08:00",
       "readingStatus": null,
       "location": null,
@@ -13746,7 +13827,10 @@
         }
       ],
       "condition": null,
-      "printing": "2023年7月第22次印刷"
+      "printing": "2023年7月第22次印刷",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000139",
@@ -13883,10 +13967,10 @@
       "edition": "2018年1月第1版",
       "coverEditionLabel": null,
       "listPrice": 59,
-      "paidPrice": null,
+      "paidPrice": 32.5,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:01:14+08:00",
       "readingStatus": null,
       "location": null,
@@ -13960,7 +14044,10 @@
         }
       ],
       "condition": null,
-      "printing": "2018年1月第1次印刷"
+      "printing": "2018年1月第1次印刷",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000141",
@@ -13995,10 +14082,10 @@
       "edition": "2018年10月第1版",
       "coverEditionLabel": null,
       "listPrice": 55,
-      "paidPrice": null,
+      "paidPrice": 38,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:03:13+08:00",
       "readingStatus": null,
       "location": null,
@@ -14072,7 +14159,10 @@
         }
       ],
       "condition": null,
-      "printing": "2023年1月第13次印刷"
+      "printing": "2023年1月第13次印刷",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000142",
@@ -14103,7 +14193,7 @@
       "seriesGroupId": "monte-cristo",
       "seriesNumber": 1,
       "seriesLabel": "第1册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-monte-cristo",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -14112,7 +14202,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:07:27+08:00",
       "readingStatus": null,
       "location": null,
@@ -14172,7 +14262,11 @@
       "condition": null,
       "physicalSetId": "monte-cristo",
       "priceGroupId": "monte-cristo-price",
-      "isbnScope": "全三册套装ISBN，第三册封底确认"
+      "isbnScope": "全三册套装ISBN，第三册封底确认",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000143",
@@ -14203,7 +14297,7 @@
       "seriesGroupId": "monte-cristo",
       "seriesNumber": 2,
       "seriesLabel": "第2册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-monte-cristo",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -14212,7 +14306,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:07:52+08:00",
       "readingStatus": null,
       "location": null,
@@ -14272,7 +14366,11 @@
       "condition": null,
       "physicalSetId": "monte-cristo",
       "priceGroupId": "monte-cristo-price",
-      "isbnScope": "全三册套装ISBN，第三册封底确认"
+      "isbnScope": "全三册套装ISBN，第三册封底确认",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000144",
@@ -14303,7 +14401,7 @@
       "seriesGroupId": "monte-cristo",
       "seriesNumber": 3,
       "seriesLabel": "第3册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-monte-cristo",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -14312,7 +14410,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:08:12+08:00",
       "readingStatus": null,
       "location": null,
@@ -14372,7 +14470,11 @@
       "condition": null,
       "physicalSetId": "monte-cristo",
       "priceGroupId": "monte-cristo-price",
-      "isbnScope": "全三册套装ISBN，第三册封底确认"
+      "isbnScope": "全三册套装ISBN，第三册封底确认",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000145",
@@ -14403,7 +14505,7 @@
       "seriesGroupId": "gone-with-wind",
       "seriesNumber": 1,
       "seriesLabel": "第1册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-gone-wind",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -14412,7 +14514,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:09:13+08:00",
       "readingStatus": null,
       "location": null,
@@ -14472,7 +14574,11 @@
       "condition": null,
       "physicalSetId": "gone-with-wind",
       "priceGroupId": "gone-with-wind-price",
-      "isbnScope": "全三册套装ISBN，第三册封底确认"
+      "isbnScope": "全三册套装ISBN，第三册封底确认",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000146",
@@ -14503,7 +14609,7 @@
       "seriesGroupId": "gone-with-wind",
       "seriesNumber": 2,
       "seriesLabel": "第2册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-gone-wind",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -14512,7 +14618,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:09:48+08:00",
       "readingStatus": null,
       "location": null,
@@ -14572,7 +14678,11 @@
       "condition": null,
       "physicalSetId": "gone-with-wind",
       "priceGroupId": "gone-with-wind-price",
-      "isbnScope": "全三册套装ISBN，第三册封底确认"
+      "isbnScope": "全三册套装ISBN，第三册封底确认",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000147",
@@ -14603,7 +14713,7 @@
       "seriesGroupId": "gone-with-wind",
       "seriesNumber": 3,
       "seriesLabel": "第3册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-gone-wind",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -14612,7 +14722,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:10:07+08:00",
       "readingStatus": null,
       "location": null,
@@ -14672,7 +14782,11 @@
       "condition": null,
       "physicalSetId": "gone-with-wind",
       "priceGroupId": "gone-with-wind-price",
-      "isbnScope": "全三册套装ISBN，第三册封底确认"
+      "isbnScope": "全三册套装ISBN，第三册封底确认",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000148",
@@ -14703,7 +14817,7 @@
       "seriesGroupId": "crime-punishment",
       "seriesNumber": 1,
       "seriesLabel": "第1册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-crime-punishment",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -14712,7 +14826,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:10:39+08:00",
       "readingStatus": null,
       "location": null,
@@ -14769,7 +14883,11 @@
           "preview": "assets/LC-000148/back-preview-e011314ea931.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000149",
@@ -14800,7 +14918,7 @@
       "seriesGroupId": "crime-punishment",
       "seriesNumber": 2,
       "seriesLabel": "第2册",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-crime-punishment",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -14809,7 +14927,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:11:06+08:00",
       "readingStatus": null,
       "location": null,
@@ -14866,7 +14984,11 @@
           "preview": "assets/LC-000149/back-preview-14d48ed1afc0.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000150",
@@ -14901,10 +15023,10 @@
       "edition": null,
       "coverEditionLabel": "修订新版",
       "listPrice": 52,
-      "paidPrice": null,
+      "paidPrice": 28.6,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:11:43+08:00",
       "readingStatus": null,
       "location": null,
@@ -14961,7 +15083,10 @@
           "preview": "assets/LC-000150/back-preview-48756c2a82a0.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000151",
@@ -14998,10 +15123,10 @@
       "edition": "2019年11月第1版",
       "coverEditionLabel": null,
       "listPrice": 59,
-      "paidPrice": null,
+      "paidPrice": 34.8,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:18:09+08:00",
       "readingStatus": null,
       "location": null,
@@ -15057,7 +15182,10 @@
         }
       ],
       "condition": null,
-      "printing": "2022年6月第42次印刷"
+      "printing": "2022年6月第42次印刷",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000152",
@@ -15099,10 +15227,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 55,
-      "paidPrice": null,
+      "paidPrice": 27.5,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:18:59+08:00",
       "readingStatus": null,
       "location": null,
@@ -15157,7 +15285,10 @@
           "preview": "assets/LC-000152/back-preview-8fda88e89247.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000153",
@@ -15186,7 +15317,7 @@
       "seriesGroupId": "iq84",
       "seriesNumber": 1,
       "seriesLabel": "1Q84 BOOK1（4月—6月）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-1q84",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -15195,7 +15326,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:19:38+08:00",
       "readingStatus": null,
       "location": null,
@@ -15250,7 +15381,11 @@
           "preview": "assets/LC-000153/back-preview-b8d11c5ae23d.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000154",
@@ -15279,7 +15414,7 @@
       "seriesGroupId": "iq84",
       "seriesNumber": 2,
       "seriesLabel": "1Q84 BOOK2（7月—9月）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-1q84",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -15288,7 +15423,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:20:20+08:00",
       "readingStatus": null,
       "location": null,
@@ -15343,7 +15478,11 @@
           "preview": "assets/LC-000154/back-preview-2159339e4588.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000155",
@@ -15372,7 +15511,7 @@
       "seriesGroupId": "iq84",
       "seriesNumber": 3,
       "seriesLabel": "1Q84 BOOK3（10月—12月）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-1q84",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -15381,7 +15520,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:20:48+08:00",
       "readingStatus": null,
       "location": null,
@@ -15436,7 +15575,11 @@
           "preview": "assets/LC-000155/back-preview-55043fdda500.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000156",
@@ -16086,10 +16229,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 38,
-      "paidPrice": null,
+      "paidPrice": 19,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:30:56+08:00",
       "readingStatus": null,
       "location": null,
@@ -16144,7 +16287,10 @@
           "preview": "assets/LC-000162/back-preview-4a4c5cfe60b8.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000163",
@@ -16181,10 +16327,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 28,
-      "paidPrice": null,
+      "paidPrice": 22.2,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:31:17+08:00",
       "readingStatus": null,
       "location": null,
@@ -16239,7 +16385,10 @@
           "preview": "assets/LC-000163/back-preview-3b502998f29f.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000164",
@@ -16276,10 +16425,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 25,
-      "paidPrice": null,
+      "paidPrice": 9,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:31:38+08:00",
       "readingStatus": null,
       "location": null,
@@ -16334,7 +16483,10 @@
           "preview": "assets/LC-000164/back-preview-bcc90e8870fc.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000165",
@@ -16371,10 +16523,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 48,
-      "paidPrice": null,
+      "paidPrice": 48,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:31:57+08:00",
       "readingStatus": null,
       "location": null,
@@ -16429,7 +16581,10 @@
           "preview": "assets/LC-000165/back-preview-90ab1696968e.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000166",
@@ -16466,10 +16621,10 @@
       "edition": null,
       "coverEditionLabel": null,
       "listPrice": 69,
-      "paidPrice": null,
+      "paidPrice": 69,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-10-28T20:32:18+08:00",
       "readingStatus": null,
       "location": null,
@@ -16524,7 +16679,10 @@
           "preview": "assets/LC-000166/back-preview-75ebf5ce90e3.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录"
     },
     {
       "id": "LC-000167",
@@ -17484,7 +17642,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 1,
       "seriesLabel": "1 · 权力的游戏（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": "2018-01",
       "edition": "2018年1月第2版；2024年4月第4次印刷",
@@ -17493,7 +17651,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:42:20+08:00",
       "readingStatus": null,
       "location": null,
@@ -17570,7 +17728,11 @@
           "preview": "assets/LC-000176/copyright-preview-1b20986320e5.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000177",
@@ -17603,7 +17765,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 2,
       "seriesLabel": "2 · 权力的游戏（中）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -17612,7 +17774,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:43:01+08:00",
       "readingStatus": null,
       "location": null,
@@ -17673,7 +17835,11 @@
           "preview": "assets/LC-000177/back-preview-05e288e6845b.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000178",
@@ -17706,7 +17872,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 3,
       "seriesLabel": "3 · 权力的游戏（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -17715,7 +17881,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:43:25+08:00",
       "readingStatus": null,
       "location": null,
@@ -17776,7 +17942,11 @@
           "preview": "assets/LC-000178/back-preview-fabb02808918.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000179",
@@ -17810,7 +17980,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 4,
       "seriesLabel": "4 · 列王的纷争（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -17819,7 +17989,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:43:49+08:00",
       "readingStatus": null,
       "location": null,
@@ -17880,7 +18050,11 @@
           "preview": "assets/LC-000179/back-preview-fa029cab3c1a.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000180",
@@ -17914,7 +18088,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 5,
       "seriesLabel": "5 · 列王的纷争（中）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -17923,7 +18097,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:44:11+08:00",
       "readingStatus": null,
       "location": null,
@@ -17984,7 +18158,11 @@
           "preview": "assets/LC-000180/back-preview-2338074ef07e.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000181",
@@ -18018,7 +18196,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 6,
       "seriesLabel": "6 · 列王的纷争（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18027,7 +18205,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:44:40+08:00",
       "readingStatus": null,
       "location": null,
@@ -18088,7 +18266,11 @@
           "preview": "assets/LC-000181/back-preview-46090062993a.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000182",
@@ -18121,7 +18303,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 7,
       "seriesLabel": "7 · 冰雨的风暴（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18130,7 +18312,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:45:09+08:00",
       "readingStatus": null,
       "location": null,
@@ -18191,7 +18373,11 @@
           "preview": "assets/LC-000182/back-preview-ab353dedec90.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000183",
@@ -18224,7 +18410,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 8,
       "seriesLabel": "8 · 冰雨的风暴（中）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18233,7 +18419,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:45:31+08:00",
       "readingStatus": null,
       "location": null,
@@ -18294,7 +18480,11 @@
           "preview": "assets/LC-000183/back-preview-3d645bedd0a2.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000184",
@@ -18327,7 +18517,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 9,
       "seriesLabel": "9 · 冰雨的风暴（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18336,7 +18526,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:45:50+08:00",
       "readingStatus": null,
       "location": null,
@@ -18397,7 +18587,11 @@
           "preview": "assets/LC-000184/back-preview-889871d8cd9f.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000185",
@@ -18430,7 +18624,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 10,
       "seriesLabel": "10 · 群鸦的盛宴（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18439,7 +18633,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:46:07+08:00",
       "readingStatus": null,
       "location": null,
@@ -18500,7 +18694,11 @@
           "preview": "assets/LC-000185/back-preview-c2329cbe8df0.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000186",
@@ -18533,7 +18731,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 11,
       "seriesLabel": "11 · 群鸦的盛宴（中）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18542,7 +18740,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:46:27+08:00",
       "readingStatus": null,
       "location": null,
@@ -18603,7 +18801,11 @@
           "preview": "assets/LC-000186/back-preview-e8f56afa3cd1.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000187",
@@ -18636,7 +18838,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 12,
       "seriesLabel": "12 · 群鸦的盛宴（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18645,7 +18847,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:46:47+08:00",
       "readingStatus": null,
       "location": null,
@@ -18706,7 +18908,11 @@
           "preview": "assets/LC-000187/back-preview-f2da1a098a0a.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000188",
@@ -18739,7 +18945,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 13,
       "seriesLabel": "13 · 魔龙的狂舞（上）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18748,7 +18954,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:47:05+08:00",
       "readingStatus": null,
       "location": null,
@@ -18809,7 +19015,11 @@
           "preview": "assets/LC-000188/back-preview-8a98d2bda563.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000189",
@@ -18842,7 +19052,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 14,
       "seriesLabel": "14 · 魔龙的狂舞（中）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18851,7 +19061,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:47:24+08:00",
       "readingStatus": null,
       "location": null,
@@ -18912,7 +19122,11 @@
           "preview": "assets/LC-000189/back-preview-bdd638d9a7bd.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000190",
@@ -18945,7 +19159,7 @@
       "seriesGroupId": "ice-and-fire-chongqing",
       "seriesNumber": 15,
       "seriesLabel": "15 · 魔龙的狂舞（下）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-ice-fire",
       "orientation": "portrait",
       "publicationDate": null,
       "edition": null,
@@ -18954,7 +19168,7 @@
       "paidPrice": null,
       "currency": "CNY",
       "purchaseDate": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T15:47:49+08:00",
       "readingStatus": null,
       "location": null,
@@ -19015,7 +19229,11 @@
           "preview": "assets/LC-000190/back-preview-345e49543c20.webp"
         }
       ],
-      "condition": null
+      "condition": null,
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000191",
@@ -25531,7 +25749,7 @@
       "seriesGroupId": "sanguo-renwen",
       "seriesNumber": 1,
       "seriesLabel": "第1册（按上传顺序）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-four-classics",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25541,7 +25759,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T22:19:37+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -25601,7 +25819,11 @@
       "condition": null,
       "priceGroupId": "sanguo-renwen-price",
       "physicalSetId": "sanguo-renwen",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000248",
@@ -25630,7 +25852,7 @@
       "seriesGroupId": "sanguo-renwen",
       "seriesNumber": 2,
       "seriesLabel": "第2册（按上传顺序）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-four-classics",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25640,7 +25862,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T22:19:50+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -25700,7 +25922,11 @@
       "condition": null,
       "priceGroupId": "sanguo-renwen-price",
       "physicalSetId": "sanguo-renwen",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000249",
@@ -25729,7 +25955,7 @@
       "seriesGroupId": "xiyou-renwen",
       "seriesNumber": 1,
       "seriesLabel": "第1册（按上传顺序）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-four-classics",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25739,7 +25965,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T22:20:10+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -25799,7 +26025,11 @@
       "condition": null,
       "priceGroupId": "xiyou-renwen-price",
       "physicalSetId": "xiyou-renwen",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000250",
@@ -25828,7 +26058,7 @@
       "seriesGroupId": "xiyou-renwen",
       "seriesNumber": 2,
       "seriesLabel": "第2册（按上传顺序）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-four-classics",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25838,7 +26068,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T22:20:28+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -25898,7 +26128,11 @@
       "condition": null,
       "priceGroupId": "xiyou-renwen-price",
       "physicalSetId": "xiyou-renwen",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000251",
@@ -25927,7 +26161,7 @@
       "seriesGroupId": "honglou-renwen",
       "seriesNumber": 1,
       "seriesLabel": "第1册（按上传顺序）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-four-classics",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -25937,7 +26171,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T22:20:48+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -25997,7 +26231,11 @@
       "condition": null,
       "priceGroupId": "honglou-renwen-price",
       "physicalSetId": "honglou-renwen",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000252",
@@ -26026,7 +26264,7 @@
       "seriesGroupId": "honglou-renwen",
       "seriesNumber": 2,
       "seriesLabel": "第2册（按上传顺序）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-four-classics",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26036,7 +26274,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T22:21:04+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26096,7 +26334,11 @@
       "condition": null,
       "priceGroupId": "honglou-renwen-price",
       "physicalSetId": "honglou-renwen",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000253",
@@ -26125,7 +26367,7 @@
       "seriesGroupId": "shuihu-renwen",
       "seriesNumber": 1,
       "seriesLabel": "第1册（按上传顺序）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-four-classics",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26135,7 +26377,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T22:21:21+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26195,7 +26437,11 @@
       "condition": null,
       "priceGroupId": "shuihu-renwen-price",
       "physicalSetId": "shuihu-renwen",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000254",
@@ -26224,7 +26470,7 @@
       "seriesGroupId": "shuihu-renwen",
       "seriesNumber": 2,
       "seriesLabel": "第2册（按上传顺序）",
-      "purchaseGroupId": null,
+      "purchaseGroupId": "purchase-20261105-dangdang-four-classics",
       "orientation": "portrait",
       "coverEditionLabel": null,
       "publicationDate": null,
@@ -26234,7 +26480,7 @@
       "currency": "CNY",
       "purchaseDate": null,
       "purchaseDatePrecision": null,
-      "purchaseChannel": null,
+      "purchaseChannel": "当当网 APP",
       "accessionedAt": "2026-11-01T22:21:36+08:00",
       "accessionRule": "首张正面照片的拍摄时间",
       "readingStatus": null,
@@ -26294,7 +26540,11 @@
       "condition": null,
       "priceGroupId": "shuihu-renwen-price",
       "physicalSetId": "shuihu-renwen",
-      "isbnScope": "全套共用ISBN，取自本套封底"
+      "isbnScope": "全套共用ISBN，取自本套封底",
+      "paidCurrency": "CNY",
+      "purchaseChannelOriginal": "当当网 APP",
+      "purchaseSource": "用户2026-11-05补充当当网APP购买记录",
+      "purchaseAmountScope": "合购总额，仅计一次，不分摊至各册"
     },
     {
       "id": "LC-000255",
@@ -31550,6 +31800,120 @@
       "volumeCount": 3,
       "channel": "拼多多·文轩",
       "source": "用户2026-11-05补充拼多多购买记录"
+    },
+    {
+      "id": "purchase-20261105-dangdang-ice-fire",
+      "label": "冰与火之歌系列十五册",
+      "amount": 312.1,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000176",
+        "LC-000177",
+        "LC-000178",
+        "LC-000179",
+        "LC-000180",
+        "LC-000181",
+        "LC-000182",
+        "LC-000183",
+        "LC-000184",
+        "LC-000185",
+        "LC-000186",
+        "LC-000187",
+        "LC-000188",
+        "LC-000189",
+        "LC-000190"
+      ],
+      "volumeCount": 15,
+      "channel": "当当网 APP",
+      "source": "用户2026-11-05补充当当网APP购买记录"
+    },
+    {
+      "id": "purchase-20261105-dangdang-gone-wind",
+      "label": "飘上中下三册",
+      "amount": 40.5,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000145",
+        "LC-000146",
+        "LC-000147"
+      ],
+      "volumeCount": 3,
+      "channel": "当当网 APP",
+      "source": "用户2026-11-05补充当当网APP购买记录"
+    },
+    {
+      "id": "purchase-20261105-dangdang-1q84",
+      "label": "1Q84套装三册",
+      "amount": 64.4,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000153",
+        "LC-000154",
+        "LC-000155"
+      ],
+      "volumeCount": 3,
+      "channel": "当当网 APP",
+      "source": "用户2026-11-05补充当当网APP购买记录"
+    },
+    {
+      "id": "purchase-20261105-dangdang-monte-cristo",
+      "label": "基督山伯爵全三册",
+      "amount": 65.1,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000142",
+        "LC-000143",
+        "LC-000144"
+      ],
+      "volumeCount": 3,
+      "channel": "当当网 APP",
+      "source": "用户2026-11-05补充当当网APP购买记录"
+    },
+    {
+      "id": "purchase-20261105-dangdang-four-classics",
+      "label": "四大名著合集八册",
+      "amount": 102.2,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000247",
+        "LC-000248",
+        "LC-000249",
+        "LC-000250",
+        "LC-000251",
+        "LC-000252",
+        "LC-000253",
+        "LC-000254"
+      ],
+      "volumeCount": 8,
+      "channel": "当当网 APP",
+      "source": "用户2026-11-05补充当当网APP购买记录"
+    },
+    {
+      "id": "purchase-20261105-dangdang-crime-punishment",
+      "label": "罪与罚上下册",
+      "amount": 55.2,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000148",
+        "LC-000149"
+      ],
+      "volumeCount": 2,
+      "channel": "当当网 APP",
+      "source": "用户2026-11-05补充当当网APP购买记录"
+    },
+    {
+      "id": "purchase-20261105-dangdang-world-without-end",
+      "label": "无尽世界套装三册",
+      "amount": 24.9,
+      "currency": "CNY",
+      "bookIds": [
+        "LC-000134",
+        "LC-000135",
+        "LC-000136"
+      ],
+      "volumeCount": 3,
+      "channel": "当当网 APP",
+      "source": "用户2026-11-05补充当当网APP购买记录"
     }
   ],
   "pendingPurchases": [
@@ -31560,6 +31924,16 @@
       "currency": "CNY",
       "channel": "淘宝·当当网",
       "source": "用户2026-11-04补充淘宝购买记录",
+      "status": "待匹配馆藏书目",
+      "note": "当前馆藏未找到对应书目，不计入已编目藏书的实付金额与册数。"
+    },
+    {
+      "id": "pending-20261105-huozhe",
+      "providedTitle": "活着",
+      "amount": 31,
+      "currency": "CNY",
+      "channel": "当当网 APP",
+      "source": "用户2026-11-05补充当当网APP购买记录",
       "status": "待匹配馆藏书目",
       "note": "当前馆藏未找到对应书目，不计入已编目藏书的实付金额与册数。"
     }
