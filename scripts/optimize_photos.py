@@ -1,14 +1,14 @@
 """Generate full-frame responsive images; reuse content-addressed cached outputs."""
-import json,hashlib,shutil
+import json,hashlib,shutil,re
 from pathlib import Path
 from PIL import Image,ImageOps,__version__
 expected=(Path(__file__).resolve().parents[1]/'requirements-images.txt').read_text().strip().split('==')[1]
 if __version__!=expected:raise SystemExit('Install pinned image dependencies: python -m pip install -r requirements-images.txt')
 ROOT=Path(__file__).resolve().parents[1]/'dist';CACHE=ROOT.parent/'.cache/photos';CACHE.mkdir(parents=True,exist_ok=True)
-data=json.loads((ROOT/'data/books.json').read_text());generated=reused=0;outputs=[];originals=set()
+data=json.loads((ROOT/'data/books.json').read_text());generated=reused=0;outputs=[];originals=set();photo_directories=set()
 for owner in data['books']+data.get('seriesGroups',[]):
  for photo in owner.get('photos',[]):
-  source=ROOT/photo['original'];originals.add(source.resolve());photo['file']=photo['original'];digest=hashlib.sha256(source.read_bytes()).hexdigest()
+  source=ROOT/photo['original'];originals.add(source.resolve());photo_directories.add(source.parent.resolve());photo['file']=photo['original'];digest=hashlib.sha256(source.read_bytes()).hexdigest()
   with Image.open(source) as raw:
    photo['width'],photo['height']=ImageOps.exif_transpose(raw).size
   cover=photo['side']=='front' or photo['side'].startswith('box-')
@@ -30,9 +30,11 @@ for owner in data['books']+data.get('seriesGroups',[]):
     shutil.copy2(cache,legacy);outputs.append(legacy)
    if kind!='preview':sources.append({'width':min(width,photo['width']),'path':rel})
   if sources:photo['sources']=sources
-# Remove previous derived versions from the deploy directory, never originals.
+# Remove only recognizable photo derivatives in catalogue photo directories.
+# Other WebP assets (avatars, backgrounds, etc.) belong to the site and must survive.
 keep={p.resolve() for p in outputs}|originals
-for path in (ROOT/'assets').rglob('*.webp'):
- if path.resolve() not in keep:path.unlink()
+for directory in photo_directories:
+ for path in directory.glob('*.webp'):
+  if re.fullmatch(r'.+-(?:preview|small|thumbnail|large)-(?:v1|[0-9a-f]{12})\.webp',path.name) and path.resolve() not in keep:path.unlink()
 (ROOT/'data/books.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({'files':len(outputs),'generated':generated,'reused':reused,'MiB':round(sum(p.stat().st_size for p in outputs)/1048576,2)}))
