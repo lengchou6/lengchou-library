@@ -50,7 +50,7 @@
   const columnCount=()=>innerWidth>=1360?5:innerWidth>=1040?4:innerWidth>=720?3:2;
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   const dialog = $('#photo-dialog');
-  const pages = ['catalog','detail','timeline','about'];
+  const pages = ['catalog','detail','timeline','about','themes','map','history'];
   function setPage(name) {
     pages.forEach(p => { $(`#${p}-page`).hidden = p !== name; });
     syncImageErrors();
@@ -135,6 +135,7 @@
     container.dataset.view=catalogView;
     document.querySelectorAll('[data-catalog-view]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.catalogView===catalogView)));
     const fragment=document.createDocumentFragment();
+    document.dispatchEvent(new CustomEvent('library-catalog',{detail:{empty:!result.length}}));
     if(!result.length){
       container.innerHTML='<div class="empty-state"><h2>还没有找到这本书</h2><p>试试其他关键词，或查看全部藏书。</p><button type="button" class="primary-button" id="clear-filters">清除筛选</button></div>';
       $('#clear-filters').addEventListener('click',()=>{resetFilterValues();categories();renderCollection();$('#search').focus();});return;
@@ -328,9 +329,10 @@
       let id;try{id=decodeURIComponent(hash.slice(5));}catch{id='';}
       const book=books.find(b=>b.id===id || b.accessionIds?.includes(id));
       setPage('detail');
-      if(book){renderDetail(book);document.title=`${fullTitle(book)} · 冷愁藏书阁`;}
+      if(book){renderDetail(book);document.dispatchEvent(new CustomEvent('library-detail',{detail:{book}}));document.title=`${fullTitle(book)} · 冷愁藏书阁`;}
       else{$('#detail-page').innerHTML='<div class="error-state"><h1>未找到这份藏书档案</h1><p>请检查编号，或返回目录继续浏览。</p><a href="#catalog" class="primary-button">返回目录</a></div>';document.title='未找到档案 · 冷愁藏书阁';}
     } else if(hash==='timeline') {setPage('timeline');renderTimeline();document.title='入库记录 · 冷愁藏书阁';}
+    else if(['themes','map','history'].includes(hash.split('/')[0])){const section=hash.split('/')[0];setPage(section);document.dispatchEvent(new CustomEvent('library-explore-route',{detail:{hash}}));document.title=({themes:'主题书架',map:'书间地图',history:'书阁时光'})[section]+' · 冷愁藏书阁';}
     else if(hash==='about') {setPage('about');renderAbout();document.title='关于 · 冷愁藏书阁';}
     else {setPage('catalog');document.title='冷愁藏书阁 · 个人馆藏';}
     const returning=hash==='catalog' && currentPage==='detail';
@@ -422,9 +424,11 @@
   fetch('data/books.json?v=20261103-catalog-views-2',{cache:'no-cache'}).then(response=>{if(!response.ok)throw new Error('书目未能载入');return response.json();}).then(data=>{
     priceGroups=data.priceGroups || [];purchaseGroups=data.purchaseGroups || [];exchangeRates=data.exchangeRates || {rates:{CNY:1}};categoryOrder=[...new Set((data.categoryOrder || []).map(categoryName))];seriesGroups=data.seriesGroups || [];books=data.books.map(book=>({...book,category:categoryName(book.category),photos:book.photoGroupId?(seriesGroups.find(g=>g.id===book.photoGroupId)?.photos || []):book.photos}));$('#summary').textContent=`共 ${volumeCount(books)} 册`;
     books.forEach(b=>{const normal=[fullTitle(b),b.originalTitle,b.referenceTitle,b.id,b.isbn,b.publisher,b.category,b.series,b.subseries,b.seriesLabel,...(b.titleAliases||[]),...(b.includedWorks||[]),...b.tags,...b.translators,...b.authors.flatMap(a=>[a.name,a.originalName||''])].join(' ').toLocaleLowerCase();searchIndex.set(b.id,{normal,compact:normal.replace(/[\s-]/g,'')});});
+    document.dispatchEvent(new CustomEvent('library-ready',{detail:{books,seriesGroups}}));
     readQuery();categories();renderCollection();route();window.addEventListener('hashchange',route);
   }).catch(()=>{
     $('#collection').setAttribute('aria-busy','false');$('#collection').innerHTML='<div class="error-state"><h2>书目暂时未能展开</h2><p>请检查网络后重试。如果在本地查看，请通过网页服务器打开。</p><button type="button" class="primary-button" id="retry-load">重新载入</button></div>';$('#retry-load').addEventListener('click',()=>location.reload());
   });
 })();
+
 
